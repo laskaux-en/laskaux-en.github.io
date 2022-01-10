@@ -22,10 +22,19 @@ D.&nbsp; [MODERN](#modern) :
 
 E.&nbsp; [POPULAR](#popular) : 
 
+
 <br/>
+<p align="center">
+<b>VIVALDI</b>, ANTONIO <br> 
+(Italian, 1678–1741) </p>
+
+[1711]&nbsp; [_L'estro armonico_, Op. 3: Concerto No. 10 in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA) <br>
+🇮🇹 I Solisti Veneti, vn. Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, & Stefano Zanchetta; cd. Claudio Scimone <br>
+(Torino: Palazzina di caccia di Stupinigi, 1987)
 
 
 
+<br/>
 <p align="center">
 <b>HANDEL</b>, GEORGE FRIDERIC <br> 
 (German–British, 1685–1759) </p>
@@ -192,7 +201,7 @@ E.&nbsp; [POPULAR](#popular) :
 <b>BERLIOZ</b>, HECTOR <br> 
 (French, 1803–1869) </p>
 
-[1830]&nbsp; [_Symphonie fantastique_, Op. 14:](https://youtu.be/gJU9JQ3YgS0?t=6) <br>
+[1830]&nbsp; [_Symphonie fantastique_, Op. 14, H. 48:](https://youtu.be/gJU9JQ3YgS0?t=6) <br>
 &emsp;&emsp;[I. "Rêveries–Passions"](https://youtu.be/I-zhOOJmBgE), <br>
 <span style="font-size:0.835em">&emsp;&emsp;</span>[II. "Un bal"](https://youtu.be/lT5Vy0SMsy4), <br>
 <span style="font-size:0.67em">&emsp;&emsp;</span>[III. "Scène aux champs"](https://youtu.be/vi957AHMOmQ), <br>
@@ -200,6 +209,12 @@ E.&nbsp; [POPULAR](#popular) :
 <span style="font-size:0.9em">&emsp;&emsp;</span>[V. "Songe d'une nuit du Sabbat"](https://youtu.be/qYybbvfr6OE) &nbsp;[46] <br>
 🇬🇧 London Symphony Orchestra, cd. Colin Davis <br>
 &emsp;&ensp;(London: Walthamstow Assembly Hall, 1963)
+
+---
+
+[1844]&nbsp; [_Le Carnaval romain_, Op. 9, H. 95](https://youtu.be/8d0zZc8DGvM) <br>
+🇫🇷 Orchestre du Capitole de Toulouse, cd. Michel Plasson <br>
+&emsp;&ensp;(Toulouse: Halle aux Grains, 1999)
 
 
 
@@ -330,8 +345,14 @@ E.&nbsp; [POPULAR](#popular) :
 
 ---
 
+[1880]&nbsp; [Торжественная увертюра «1812 год», Op. 49, TH 49](https://youtu.be/gXyS-ednXzY) <br>
+🇷🇺 Симфонический оркестр Санкт-Петербургской филармонии, Оркестр штаба Ленинградского военного округа, Санкт-Петербургский камерный хор, cd. Ашкенази, Владимир Давидович [Vladimir Ashkenazy] <br>
+(Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1996)
+
+---
+
 [1888]&nbsp; [Symphony No. 5 in E minor, Op. 64, TH 29: I. Andante – Allegro con anima – Molto più tranquillo](https://youtu.be/_X-agnluvaI) & [IV. Finale: Andante maestoso – Allegro vivace – Meno Mosso](https://youtu.be/_X-agnluvaI?t=1938) &nbsp;[1] <br>
-🇷🇺 Ленинградским филармоническим оркестром, cd. Мравинский, Евгений Александрович [Yevgeny Mravinsky] <br>
+🇷🇺 Симфонический оркестр Ленинградской государственной филармонии, cd. Мравинский, Евгений Александрович [Yevgeny Mravinsky] <br>
 &emsp;&ensp;(Wien: Große Musikvereinssaal, 1960)
 
 ---
@@ -600,6 +621,12 @@ E.&nbsp; [POPULAR](#popular) :
 
 <br>
 <p align="center">
+<b>PISTON</b>, WALTER <br> 
+(American, 1894–1976) </p>
+
+
+<br>
+<p align="center">
 <b>GERSHWIN</b>, GEORGE <br> 
 (American, 1898–1937) </p>
 
@@ -614,6 +641,13 @@ E.&nbsp; [POPULAR](#popular) :
 &nbsp;[2,17,33] <br>
 🇺🇸 New York Philharmonic, cd. Leonard Bernstein <br>
 &emsp;&ensp;(New York: Hotel St. George, 1958)
+
+
+
+<br>
+<p align="center">
+<b>THOMPSON</b>, RANDALL <br> 
+(American, 1899–1984) </p>
 
 
 
