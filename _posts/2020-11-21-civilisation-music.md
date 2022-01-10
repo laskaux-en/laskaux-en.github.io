@@ -639,7 +639,7 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 >&emsp;&emsp;(American, 1770–1827)
 >
 >LUDWIG VAN BEETHOVEN <BR>
->&emsp;&emsp;(German–Austrian, 1770–1827)
+>&emsp;&emsp;(German, 1770–1827)
 >
 >FRANZ SCHUBERT <BR>
 >&emsp;&emsp;(Austrian, 1797–1828)
