@@ -661,6 +661,12 @@ E.&nbsp; [POPULAR](#popular) :
 🇺🇸 New York Philharmonic, cd. Leonard Bernstein <br>
 &emsp;&ensp;(New York: Manhattan Center, 1960)
 
+---
+
+[1952]&nbsp; [_Old American Songs_, Set II: "The Little Horses"](https://youtu.be/0DHeDBrd_Ls) 
+&nbsp;[20] <br>
+🎙️ Roberta Alexander, pf. Roger Vignoles <br>
+&emsp;&ensp;(Cambridge: Concert Hall, Faculty of Music, University of Cambridge, 1960)
 
 
 <br>
