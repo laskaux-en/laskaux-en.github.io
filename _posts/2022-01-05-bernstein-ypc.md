@@ -65,6 +65,13 @@ E.&nbsp; [POPULAR](#popular) :
 
 ---
 
+[1721]&nbsp; [_Brandenburgische Konzerte_: No. 3 in G major, BWV 1048: I. (Ohne Satzbezeichnung)](https://youtu.be/13dmIwj6HhQ) 
+&nbsp;[3] <br>
+🇩🇪 Musica Antiqua Köln; Reinhard Goebel
+&nbsp;(Köln: Deutschlandfunk Kammermusiksaal, 1986)
+
+---
+
 [1721]&nbsp; [_Brandenburgische Konzerte_: No. 4 in G major, BWV 1049: III. Presto](https://youtu.be/glJuKcwf95w) 
 &nbsp;[5] <br>
 🇮🇹 Concerto Italiano; Rinaldo Alessandrini 
@@ -74,7 +81,7 @@ E.&nbsp; [POPULAR](#popular) :
 
 [1721]&nbsp; [_Brandenburgische Konzerte_: No. 5 in D major, BWV 1050: I. Allegro](https://youtu.be/PLRwUDmsdpA) 
 &nbsp;[45] <br>
-🇫🇷 Café Zimmermann <br>
+🇫🇷 Café Zimmermann
 (Paris: Chapelle de l'hôpital Notre-Dame de Bon Secours, 2000–2001)
 
 
@@ -668,6 +675,12 @@ E.&nbsp; [POPULAR](#popular) :
 🇺🇸 Orpheus Chamber Orchestra 
 &nbsp;(Purchase, New York: The Performing Arts Center, 1987)
 
+---
+
+[1936]&nbsp; [Пе́тя и волк [_Peter and the Wolf_], Op. 67](https://youtu.be/tJZaCPjS3Mw) 
+&nbsp;[5] <br>
+🇺🇸 Boston Symphony Orchestra, nar. Eleanor Roosevelt; Кусевицкий, Сергей Александрович [Serge Koussevitzky]
+&nbsp;(Tanglewood: Theatre-Concert Hall, 1950)
 
 
 <br>
