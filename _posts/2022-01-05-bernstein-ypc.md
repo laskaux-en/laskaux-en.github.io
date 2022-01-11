@@ -638,14 +638,14 @@ E.&nbsp; [POPULAR](#popular) :
 (Russian–French–American, 1882–1971) </p>
 
 [1910/1919 arr.]&nbsp; [Suite from _L'Oiseau de feu_, K010](https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI) 
-&nbsp;[33] <br>
+&nbsp;[47] <br>
 🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]
 &nbsp;(1988)
 
 ---
 
 [1917]&nbsp; [_L'Histoire du soldat_, K029: "Marche royale"](https://youtu.be/Hsa1aNyI7QU) 
-&nbsp;[33] <br>
+&nbsp;[3,33] <br>
 🌐 vn. Manoug Parikian, cl. Ulysse Delécluse, bn. Henri Helaerts, crt. Maurice André, tbn. Roland Schnorkh, db. Joachim Gut, perc. Charles Peschier; Igor Markevitch 
 &nbsp;(Vevey: Théâtre de Vevey, 1962)
 
