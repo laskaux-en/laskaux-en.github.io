@@ -5,47 +5,61 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 11 Jan 2022 06:18:41 -0500</pubDate>
+    <pubDate>Wed, 12 Jan 2022 03:21:04 -0500</pubDate>
     
       <item>
         <title>The Music Lessons</title>
         <link>/2022/01/05/bernstein-ypc.html</link>
         <guid isPermaLink="true">/2022/01/05/bernstein-ypc.html</guid>
-        <description>&lt;h3 id=&quot;contents&quot;&gt;Periods&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
 
-&lt;p&gt;A.  &lt;a href=&quot;#baroque&quot;&gt;BAROQUE&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;A.  &lt;a href=&quot;#western&quot;&gt;WESTERN EUROPEAN&lt;/a&gt; :&lt;/p&gt;
 
-&lt;p&gt;B.  &lt;a href=&quot;#classical&quot;&gt;CLASSICAL&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;B.  &lt;a href=&quot;#eastern&quot;&gt;EASTERN EUROPEAN&lt;/a&gt; :&lt;/p&gt;
 
-&lt;p&gt;C.  &lt;a href=&quot;#romantic&quot;&gt;ROMANTIC&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;C.  &lt;a href=&quot;#american&quot;&gt;AMERICAN&lt;/a&gt; :&lt;/p&gt;
 
-&lt;p&gt;D.  &lt;a href=&quot;#modern&quot;&gt;MODERN&lt;/a&gt; :&lt;/p&gt;
-
-&lt;p&gt;E.  &lt;a href=&quot;#popular&quot;&gt;POPULAR&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;D.  &lt;a href=&quot;#popular&quot;&gt;TRADITIONAL &amp;amp; POPULAR&lt;/a&gt; :&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;VIVALDI&lt;/b&gt;, ANTONIO &lt;br /&gt; 
-(Italian, 1678–1741) &lt;/p&gt;
+
+&lt;h3 id=&quot;western&quot;&gt;A.  Western European&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;#last&lt;/a&gt; 
+&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;GABRIELI&lt;/strong&gt;, GIOVANNI &lt;br /&gt; 
+(Italian, 1557–1612)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;VIVALDI&lt;/strong&gt;, ANTONIO &lt;br /&gt; 
+(Italian, 1678–1741)&lt;/p&gt;
 
 &lt;p&gt;[1711]  &lt;a href=&quot;https://youtu.be/1ozNyz3N2sA&quot;&gt;&lt;em&gt;L’estro armonico&lt;/em&gt;, Op. 3: Concerto No. 10 in B minor, RV 580: I. Allegro&lt;/a&gt;  [20] &lt;br /&gt;
 🇮🇹 I Solisti Veneti, vn. Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, &amp;amp; Stefano Zanchetta; Claudio Scimone 
  (Torino: Palazzina di caccia di Stupinigi, 1987)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;HANDEL&lt;/b&gt;, GEORGE FRIDERIC &lt;br /&gt; 
-(German–British, 1685–1759) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;HANDEL&lt;/strong&gt;, GEORGE FRIDERIC &lt;br /&gt; 
+(German–British, 1685–1759)&lt;/p&gt;
 
 &lt;p&gt;[1717]  &lt;a href=&quot;https://youtu.be/96Th_y6PGUg&quot;&gt;&lt;em&gt;Water Music&lt;/em&gt; Suite No. 2 in D major, HVW 349: II. Alla Hornpipe&lt;/a&gt; 
  [5] &lt;br /&gt;
 🇬🇧 The English Concert; Trevor Pinnock 
  (London: Henry Wood Hall, 1983)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BACH&lt;/b&gt;, JOHANN SEBASTIAN &lt;br /&gt; 
-(German, 1685–1750) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BACH&lt;/strong&gt;, JOHANN SEBASTIAN &lt;br /&gt; 
+(German, 1685–1750)&lt;/p&gt;
 
 &lt;p&gt;[1707]  &lt;a href=&quot;https://youtu.be/_DzO49kC9HA?t=6&quot;&gt;Fugue in G minor, BWV 578&lt;/a&gt; 
  [45] &lt;br /&gt;
@@ -78,12 +92,13 @@
 &lt;p&gt;[1721]  &lt;a href=&quot;https://youtu.be/PLRwUDmsdpA&quot;&gt;&lt;em&gt;Brandenburgische Konzerte&lt;/em&gt;: No. 5 in D major, BWV 1050: I. Allegro&lt;/a&gt; 
  [45] &lt;br /&gt;
 🇫🇷 Café Zimmermann
-(Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours, 2000–2001)&lt;/p&gt;
+ (Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours, 2000–2001)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;HAYDN&lt;/b&gt;, FRANZ JOSEPH &lt;br /&gt; 
-(Austrian, 1732–1809) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;HAYDN&lt;/strong&gt;, FRANZ JOSEPH &lt;br /&gt; 
+(Austrian, 1732–1809)&lt;/p&gt;
 
 &lt;p&gt;[1787]  &lt;a href=&quot;https://youtu.be/6SVay5IH6Sg&quot;&gt;Symphony No. 88 in G major, Hob. I:88: II. Largo&lt;/a&gt; 
  [33] &lt;br /&gt;
@@ -97,10 +112,11 @@
 🇳🇱 Koninklijk Concertgebouworkest; Colin Davis 
  (Amsterdam: Koninklijk Concertgebouw, 1979)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;MOZART&lt;/b&gt;, WOLFGANG AMADEUS &lt;br /&gt; 
-(Austrian, 1756–1791) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;MOZART&lt;/strong&gt;, WOLFGANG AMADEUS &lt;br /&gt; 
+(Austrian, 1756–1791)&lt;/p&gt;
 
 &lt;p&gt;[1785]  &lt;a href=&quot;https://youtu.be/iG313H9Lyto&quot;&gt;Piano Concerto No. 21 in C major, K. 467:&lt;/a&gt; &lt;a href=&quot;https://youtu.be/rcOBSb69pUk&quot;&gt;I. Allegro maestoso&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/k8_xOsX2YSY&quot;&gt;II. Andante&lt;/a&gt;  [5] &lt;br /&gt;
 🇬🇧 Academy of St Martin in the Fields, pf. Alfred Brendel; Sir Neville Marriner 
@@ -116,7 +132,7 @@
 &lt;hr /&gt;
 
 &lt;p&gt;[1788]  &lt;a href=&quot;https://youtu.be/Lcwjx1Zt5Hs&quot;&gt;Piano Sonata No. 16 in C major, K. 545: I. Allegro&lt;/a&gt; 
- [title] &lt;br /&gt;
+ [1–53] &lt;br /&gt;
 🎹 Walter Klien (1964)&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -133,10 +149,11 @@
 🇦🇹 Wiener Mozart Ensemble; Willi Boskovsky 
  (Wien: Sofiensäle, 1966)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BEETHOVEN&lt;/b&gt;, LUDWIG VAN &lt;br /&gt; 
-(German, 1770–1827) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BEETHOVEN&lt;/strong&gt;, LUDWIG VAN &lt;br /&gt; 
+(German, 1770–1827)&lt;/p&gt;
 
 &lt;p&gt;[1804]  &lt;a href=&quot;https://youtu.be/mKPBJp8Et_4&quot;&gt;Piano Sonata No. 21 in C major, Op. 53: I. Allegro con brio&lt;/a&gt; 
  [1] &lt;br /&gt;
@@ -145,7 +162,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1804]  &lt;a href=&quot;https://youtu.be/6DvRFpJha2k&quot;&gt;Symphony No. 3 in E-flat major, Op. 55: I. Allegro con brio&lt;/a&gt;  [41] &lt;br /&gt;
+&lt;p&gt;[1804]  &lt;a href=&quot;https://youtu.be/6DvRFpJha2k&quot;&gt;Symphony No. 3 in E-flat major, Op. 55: I. Allegro con brio&lt;/a&gt;  [2,41] &lt;br /&gt;
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
  (London: Abbey Road Studio 1, 1959)&lt;/p&gt;
 
@@ -196,10 +213,11 @@
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
  (London: Kingsway Hall, 1957)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;ROSSINI&lt;/b&gt;, GIOACHINO &lt;br /&gt; 
-(Italian, 1792–1868) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ROSSINI&lt;/strong&gt;, GIOACHINO &lt;br /&gt; 
+(Italian, 1792–1868)&lt;/p&gt;
 
 &lt;p&gt;[1823]  &lt;a href=&quot;https://youtu.be/-i7CKKddSnM&quot;&gt;&lt;em&gt;Semiramide&lt;/em&gt;: Overture&lt;/a&gt; 
  [12] &lt;br /&gt;
@@ -213,17 +231,24 @@
 🇮🇹 Orchestra dell’Accademia Nazionale di Santa Cecilia; Antonio Pappano 
  (Roma: Sala Santa Cecilia, Auditorium Parco della Musica, 2010)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BERLIOZ&lt;/b&gt;, HECTOR &lt;br /&gt; 
-(French, 1803–1869) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;SCHUBERT&lt;/strong&gt;, FRANZ &lt;br /&gt; 
+(Austrian, 1797–1828)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BERLIOZ&lt;/strong&gt;, HECTOR &lt;br /&gt; 
+(French, 1803–1869)&lt;/p&gt;
 
 &lt;p&gt;[1830]  &lt;a href=&quot;https://youtu.be/gJU9JQ3YgS0?t=6&quot;&gt;&lt;em&gt;Symphonie fantastique&lt;/em&gt;, Op. 14, H. 48:&lt;/a&gt; &lt;br /&gt;
-  &lt;a href=&quot;https://youtu.be/I-zhOOJmBgE&quot;&gt;I. “Rêveries–Passions”&lt;/a&gt;, &lt;br /&gt;
-&lt;span style=&quot;font-size:0.835em&quot;&gt;  &lt;/span&gt;&lt;a href=&quot;https://youtu.be/lT5Vy0SMsy4&quot;&gt;II. “Un bal”&lt;/a&gt;, &lt;br /&gt;
-&lt;span style=&quot;font-size:0.67em&quot;&gt;  &lt;/span&gt;&lt;a href=&quot;https://youtu.be/vi957AHMOmQ&quot;&gt;III. “Scène aux champs”&lt;/a&gt;, &lt;br /&gt;
-&lt;span style=&quot;font-size:0.73em&quot;&gt;  &lt;/span&gt;&lt;a href=&quot;https://youtu.be/hD1X7zzgpnE&quot;&gt;IV. “Marche au supplice”&lt;/a&gt;, &amp;amp; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.9em&quot;&gt;  &lt;/span&gt;&lt;a href=&quot;https://youtu.be/qYybbvfr6OE&quot;&gt;V. “Songe d’une nuit du Sabbat”&lt;/a&gt;  [46] &lt;br /&gt;
+  I. &lt;a href=&quot;https://youtu.be/I-zhOOJmBgE&quot;&gt;“Rêveries–Passions”&lt;/a&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.835em&quot;&gt;  &lt;/span&gt;II. &lt;a href=&quot;https://youtu.be/lT5Vy0SMsy4&quot;&gt;“Un bal”&lt;/a&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.67em&quot;&gt;  &lt;/span&gt;III. &lt;a href=&quot;https://youtu.be/vi957AHMOmQ&quot;&gt;“Scène aux champs”&lt;/a&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.73em&quot;&gt;  &lt;/span&gt;IV. &lt;a href=&quot;https://youtu.be/hD1X7zzgpnE&quot;&gt;“Marche au supplice”&lt;/a&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.9em&quot;&gt;  &lt;/span&gt;V. &lt;a href=&quot;https://youtu.be/qYybbvfr6OE&quot;&gt;“Songe d’une nuit du Sabbat”&lt;/a&gt;  [46] &lt;br /&gt;
 🇬🇧 London Symphony Orchestra; Colin Davis 
  (London: Walthamstow Assembly Hall, 1963)&lt;/p&gt;
 
@@ -233,47 +258,33 @@
 🇫🇷 Orchestre du Capitole de Toulouse; Michel Plasson 
  (Toulouse: Halle aux Grains, 1999)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;CHOPIN&lt;/b&gt;, FRÉDÉRIC &lt;br /&gt; 
-(Polish–French, 1810–1849) &lt;/p&gt;
-
-&lt;p&gt;[1833]  &lt;a href=&quot;https://youtu.be/efLxMjeSb_Y&quot;&gt;Nocturne No. 5 in F-sharp major, Op. 15: No. 2&lt;/a&gt; 
- [1] &lt;br /&gt;
-🎹 Claudio Arrau 
- (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)&lt;/p&gt;
-
+&lt;hr /&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;[1841]  &lt;a href=&quot;https://youtu.be/semT39kGelA&quot;&gt;Fantaisie in F minor, Op. 49&lt;/a&gt; 
- [5] &lt;br /&gt;
-🎹 Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
- (London: Kingsway Hall, 1979)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;SCHUMANN&lt;/b&gt;, ROBERT &lt;br /&gt; 
-(German, 1810–1856) &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SCHUMANN&lt;/strong&gt;, ROBERT &lt;br /&gt; 
+(German, 1810–1856)&lt;/p&gt;
 
 &lt;p&gt;[1847]  &lt;a href=&quot;https://youtu.be/f6_gZYQNhpI?t=1041&quot;&gt;Symphony No. 2 in C major, Op. 61: III. Adagio espressivo&lt;/a&gt; 
  [5] &lt;br /&gt;
 🇺🇸 The Cleveland Orchestra; Széll György [George Szell] 
  (Cleveland: Severance Hall, 1960)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;VERDI&lt;/b&gt;, GIUSEPPE &lt;br /&gt; 
-(Italian, 1813–1901) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;VERDI&lt;/strong&gt;, GIUSEPPE &lt;br /&gt; 
+(Italian, 1813–1901)&lt;/p&gt;
 
 &lt;p&gt;[1874]  &lt;a href=&quot;https://youtu.be/6Mff3-1aM_Y&quot;&gt;&lt;em&gt;Messa da Requiem&lt;/em&gt;: II.1. Dies irae&lt;/a&gt; 
  [33] &lt;br /&gt;
 🇺🇸 Atlanta Symphony Orchestra &amp;amp; Chorus; Robert Shaw 
  (Atlanta: Atlanta Symphony Hall, 1987)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;STRAUSS&lt;/b&gt;, JOHANN (SOHN) &lt;br /&gt; 
-(Austrian, 1825–1899) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;STRAUSS&lt;/strong&gt;, JOHANN (SOHN) &lt;br /&gt; 
+(Austrian, 1825–1899)&lt;/p&gt;
 
 &lt;p&gt;[1867]  &lt;a href=&quot;https://youtu.be/APdyFCm2Jcs&quot;&gt;&lt;em&gt;An der schönen, blauen Donau&lt;/em&gt;, Op. 314&lt;/a&gt; 
  [1,16] &lt;br /&gt;
@@ -292,10 +303,18 @@
  [40] &lt;br /&gt;
 🇦🇹 Wiener Symphoniker; Robert Stolz  (1960s)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BRAHMS&lt;/b&gt;, JOHANNES &lt;br /&gt; 
-(German, 1833–1897) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BRAHMS&lt;/strong&gt;, JOHANNES &lt;br /&gt; 
+(German, 1833–1897)&lt;/p&gt;
+
+&lt;p&gt;[1868]  &lt;a href=&quot;https://youtu.be/gME1KWU6gHI&quot;&gt;&lt;em&gt;Ungarische Tänze&lt;/em&gt;, WoO 1: No. 5 in F-sharp minor&lt;/a&gt;
+ [24] &lt;br /&gt;
+🇭🇺 Magyar Rádió Szimfonikus Zenekara; Bogár István [István Bogár]
+ (Budapest: Istituto Italiano di Cultura, 1988)&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;[1876]  &lt;a href=&quot;https://youtu.be/eYXmV8d6p2E&quot;&gt;Symphony No. 1 in C minor, Op. 68:&lt;/a&gt; &lt;br /&gt;
    I. &lt;a href=&quot;https://youtu.be/5-NP9bfwiZ8&quot;&gt;Un poco sostenuto – Allegro&lt;/a&gt; &lt;br /&gt;
@@ -307,105 +326,27 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1874]  &lt;a href=&quot;https://youtu.be/8nWIecrO_bE&quot;&gt;&lt;em&gt;Akademische Festouvertüre&lt;/em&gt;, Op. 80&lt;/a&gt;
+&lt;p&gt;[1880]  &lt;a href=&quot;https://youtu.be/8nWIecrO_bE&quot;&gt;&lt;em&gt;Akademische Festouvertüre&lt;/em&gt;, Op. 80&lt;/a&gt;
  [24] &lt;br /&gt;
 🇦🇹 Wiener Philharmoniker; Leonard Bernstein 
  (Wien: Große Musikvereinssaal, 1978)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BIZET&lt;/b&gt;, GEORGES  &lt;br /&gt;
-(French, 1838–1875) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BIZET&lt;/strong&gt;, GEORGES  &lt;br /&gt;
+(French, 1838–1875)&lt;/p&gt;
 
 &lt;p&gt;[1874]  &lt;a href=&quot;https://youtu.be/N8zqZJUx1Mw?t=1204&quot;&gt;&lt;em&gt;Carmen&lt;/em&gt;, WD 31: Act I: “L’amour est un oiseau rebelle”&lt;/a&gt;
  [43] &lt;br /&gt;
 🇫🇷 Orchestre &amp;amp; Chœur National de la Radiodiffusion Française, sop. Victoria de los Ángeles; Thomas Beecham 
  (Paris: Salle Wagram, 1958–1959)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;МУСОРГСКИЙ&lt;/b&gt;, МОДЕСТ ПЕТРОВИЧ &lt;br /&gt; 
-&lt;span style=&quot;font-size:0.85em&quot;&gt;
-	&lt;b&gt;MUSSORGSKY&lt;/b&gt;, MODEST PETROVICH &lt;/span&gt; &lt;br /&gt;
-(Russian, 1839–1881) &lt;/p&gt;
-
-&lt;p&gt;[1874]  &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc&quot;&gt;Картинки с выставки [&lt;em&gt;Pictures at an Exhibition&lt;/em&gt;]:&lt;/a&gt; &lt;br /&gt;
- &lt;span style=&quot;font-size:0.67em&quot;&gt;  &lt;/span&gt;III. &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc?t=565&quot;&gt;“Тюильри [Tuileries]”&lt;/a&gt; &lt;br /&gt;
- &lt;span style=&quot;font-size:0.9em&quot;&gt;  &lt;/span&gt;V. &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc?t=821&quot;&gt;“Балет невылупившихся птенцов [Ballet of Unhatched Chicks]”&lt;/a&gt; &lt;br /&gt;
- &lt;span style=&quot;font-size:0.9em&quot;&gt;  &lt;/span&gt;X. &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc?t=1492&quot;&gt;“Богатырские ворота [The Bogatyr Gates]”&lt;/a&gt;  [1] &lt;br /&gt;
-🇺🇸 The Cleveland Orchestra; Lorin Maazel 
- (Cleveland: Masonic Temple Auditorium, 1978)&lt;/p&gt;
-
+&lt;hr /&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;[1880]  &lt;a href=&quot;https://youtu.be/O4oZdj5gXSM&quot;&gt;Хованщина [&lt;em&gt;Khovanshchina&lt;/em&gt;]: Prelude&lt;/a&gt; 
- [24] &lt;br /&gt;
-🇬🇧 London Symphony Orchestra; Georg Solti 
- (London: Kingsway Hall, 1966)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;ЧАЙКОВСКИЙ&lt;/b&gt;, ПЁТР ИЛЬИЧ &lt;br /&gt; 
-&lt;span style=&quot;font-size:0.85em&quot;&gt;
-	&lt;b&gt;TCHAIKOVSKY&lt;/b&gt;, PYOTR ILYICH &lt;/span&gt; &lt;br /&gt;
-(Russian, 1840–1893) &lt;/p&gt;
-
-&lt;p&gt;[1876]  &lt;a href=&quot;https://youtu.be/syhogh0C-FI&quot;&gt;Лебединое озеро [&lt;em&gt;Swan Lake&lt;/em&gt;], Op. 20, TH 12:&lt;/a&gt; Act I: &lt;a href=&quot;https://youtu.be/syhogh0C-FI?t=1265&quot;&gt;No. 5. Pas de deux&lt;/a&gt; &amp;amp; Act II: &lt;a href=&quot;https://youtu.be/Tb5Oj6ghJQM&quot;&gt;No. 10. Scène: Moderato&lt;/a&gt;
- [47] &lt;br /&gt;
-🇷🇺 Государственный академический симфонический оркестр СССР, vn. Yuri Torchinsky; Светланов, Евгений Фёдорович [Evgeny Svetlanov]
- (Москва: Англиканская церковь Святого Андрея, 1988) &lt;br /&gt;
-🇳🇱 Koninklijk Concertgebouworkest; Anatole Fistoulari
- (Amsterdam: Koninklijk Concertgebouw, 1961)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[1878]  &lt;a href=&quot;https://youtu.be/NAFO5ZGq-Ok&quot;&gt;Symphony No. 4 in F minor, Op. 36, TH 27: I. Andante sostenuto – Moderato con anima – Moderato assai, quasi Andante – Allegro vivo&lt;/a&gt;
- [1] &lt;br /&gt;
-🇦🇹 Wiener Philharmoniker; Claudio Abbado 
- (Wien: Große Musikvereinssaal, 1975)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[1880]  &lt;a href=&quot;https://youtu.be/gXyS-ednXzY&quot;&gt;Торжественная увертюра «1812 год» [&lt;em&gt;1812 Overture&lt;/em&gt;], Op. 49, TH 49&lt;/a&gt;  [20] &lt;br /&gt;
-🇷🇺 Симфонический оркестр Санкт-Петербургской филармонии, Оркестр штаба Ленинградского военного округа, Санкт-Петербургский камерный хор; Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
- (Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1996)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[1888]  &lt;a href=&quot;https://youtu.be/_X-agnluvaI&quot;&gt;Symphony No. 5 in E minor, Op. 64, TH 29: I. Andante – Allegro con anima – Molto più tranquillo&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/_X-agnluvaI?t=1938&quot;&gt;IV. Finale. Andante maestoso – Allegro vivace – Meno Mosso&lt;/a&gt;  [1] &lt;br /&gt;
-🇷🇺 Симфонический оркестр Ленинградской государственной филармонии; Мравинский, Евгений Александрович [Yevgeny Mravinsky] 
- (Wien: Große Musikvereinssaal, 1960)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[1892]  &lt;a href=&quot;https://youtu.be/zt29NKCpbOA&quot;&gt;Щелкунчик [&lt;em&gt;The Nutcracker&lt;/em&gt;], Op. 71, TH 14: Act II: “Вальс цветов [Waltz of the Flowers]”&lt;/a&gt; 
- [43] &lt;br /&gt;
-🇩🇪 Berliner Philharmoniker; Ростропович, Мстислав Леопольдович [Mstislav Rostropovich] 
- (Berlin: Berliner Philharmonie, 1978)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;РИМСКИЙ-КОРСАКОВ&lt;/b&gt;, НИКОЛАЙ АНДРЕЕВИЧ &lt;br /&gt; 
-&lt;span style=&quot;font-size:0.85em&quot;&gt;
-	&lt;b&gt;RIMSKY-KORSAKOV&lt;/b&gt;, NIKOLAI ANDREYEVICH &lt;/span&gt; &lt;br /&gt;
-(Russian, 1844–1908) &lt;/p&gt;
-
-&lt;p&gt;[1887]  &lt;a href=&quot;https://youtu.be/hfu5AS9ZOyY&quot;&gt;Каприччио на испанские темы [&lt;em&gt;Capriccio espagnol&lt;/em&gt;], Op. 34:&lt;/a&gt; &lt;a href=&quot;https://youtu.be/LtGzxooAxeI&quot;&gt;IV. Scena e canto gitano&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/3WTtnnzwUuI&quot;&gt;V. Fandango asturiano&lt;/a&gt; 
- [3,43] &lt;br /&gt;
-🇬🇧 London Symphony Orchestra; Igor Markevitch 
- (London: Wembley Town Hall, 1962)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[1888]  &lt;a href=&quot;https://youtu.be/oFcyqZhhrb8&quot;&gt;Шехеразада [&lt;em&gt;Scheherazade&lt;/em&gt;], Op. 35: I. “Море и Синдбадов корабль [The Sea and Sinbad’s Ship]”&lt;/a&gt;
- [5] &lt;br /&gt;
-🇬🇧 Royal Philharmonic Orchestra; Thomas Beecham 
- (London: Kingsway Hall, 1957)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;MAHLER&lt;/b&gt;, GUSTAV &lt;br /&gt; 
-(Austro-Bohemian, 1860–1911) &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MAHLER&lt;/strong&gt;, GUSTAV &lt;br /&gt; 
+(Austro-Bohemian, 1860–1911)&lt;/p&gt;
 
 &lt;p&gt;[1899]  &lt;a href=&quot;&quot;&gt;&lt;em&gt;Des Knaben Wunderhorn&lt;/em&gt;&lt;/a&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.835em&quot;&gt;  &lt;/span&gt;II. &lt;a href=&quot;https://youtu.be/GjnZ1U46fLw&quot;&gt;“Verlor’ne Müh”&lt;/a&gt; &lt;br /&gt;
@@ -415,10 +356,11 @@
 🇬🇧 London Symphony Orchestra, sop. Elisabeth Schwarzkopf, bar. Dietrich Fischer-Dieskau; Széll György [George Szell] 
  (London: Kingsway Hall, 1968)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;DEBUSSY&lt;/b&gt;, CLAUDE &lt;br /&gt; 
-(French, 1862–1918) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;DEBUSSY&lt;/strong&gt;, CLAUDE &lt;br /&gt; 
+(French, 1862–1918)&lt;/p&gt;
 
 &lt;p&gt;[1894]  &lt;a href=&quot;https://youtu.be/tjEdr3MuXTE&quot;&gt;&lt;em&gt;Prélude à l’Après-midi d’un faune&lt;/em&gt;, L. 86, CD 87&lt;/a&gt; 
  [3,12] &lt;br /&gt;
@@ -468,10 +410,11 @@
 🎹 Walter Gieseking 
  (London: Abbey Road Studio 3, 1954)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;STRAUSS&lt;/b&gt;, RICHARD &lt;br /&gt; 
-(German, 1864–1949) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;STRAUSS&lt;/strong&gt;, RICHARD &lt;br /&gt; 
+(German, 1864–1949)&lt;/p&gt;
 
 &lt;p&gt;[1895]  &lt;a href=&quot;https://youtu.be/RgoglFCSquk&quot;&gt;&lt;em&gt;Till Eulenspiegels lustige Streiche&lt;/em&gt;, Op. 28, TrV 171&lt;/a&gt;
  [49] &lt;br /&gt;
@@ -516,12 +459,25 @@
 🇩🇪 Staatskapelle Dresden; Rudolf Kempe
  (Dresden: Lukaskirche, 1973)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;RAVEL&lt;/b&gt;, MAURICE &lt;br /&gt; 
-(French, 1875–1937) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;[1908]  &lt;a href=&quot;https://youtu.be/H7LiVXOwMFM&quot;&gt;&lt;em&gt;Rapsodie espagnole&lt;/em&gt;, M. 54&lt;/a&gt; 
+&lt;p&gt;&lt;strong&gt;VAUGHAN WILLIAMS&lt;/strong&gt;, RALPH &lt;br /&gt; 
+(British, 1872–1958)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;HOLST&lt;/strong&gt;, GUSTAV &lt;br /&gt; 
+(British, 1874–1934)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;RAVEL&lt;/strong&gt;, MAURICE &lt;br /&gt; 
+(French, 1875–1937)&lt;/p&gt;
+
+&lt;p&gt;[1908]  &lt;a href=&quot;https://youtu.be/vrA8MYYlB-M&quot;&gt;&lt;em&gt;Rapsodie espagnole&lt;/em&gt;, M. 54: IV. Feria&lt;/a&gt; 
  [2] &lt;br /&gt;
 🇫🇷 Orchestre de Paris; Jean Martinon 
  (Paris: Salle Wagram, 1974)&lt;/p&gt;
@@ -547,20 +503,22 @@
 🇩🇪 Berliner Philharmoniker; Pierre Boulez 
  (Berlin: Jesus-Christus-Kirche Dahlem, 1993)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;FALLA&lt;/b&gt;, MANUEL DE &lt;br /&gt; 
-(Spanish, 1876–1946) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;FALLA&lt;/strong&gt;, MANUEL DE &lt;br /&gt; 
+(Spanish, 1876–1946)&lt;/p&gt;
 
 &lt;p&gt;[1919]  &lt;a href=&quot;https://youtu.be/kDkjcdkZ7Dc&quot;&gt;&lt;em&gt;El sombrero de tres picos&lt;/em&gt;: &lt;/a&gt; Act II: &lt;a href=&quot;https://youtu.be/MSmEJxfsV3A&quot;&gt;“Danza del molinero (Farruca)”&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/fTjkZWYhexk&quot;&gt;“Danza final (Jota)”&lt;/a&gt; 
  [17] &lt;br /&gt;
 🇨🇦 Orchestre symphonique de Montréal; Charles Dutoit
  (Montréal: Église de Saint-Eustache, 1981)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;RESPIGHI&lt;/b&gt;, OTTORINO &lt;br /&gt; 
-(Italian, 1879–1936) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;RESPIGHI&lt;/strong&gt;, OTTORINO &lt;br /&gt; 
+(Italian, 1879–1936)&lt;/p&gt;
 
 &lt;p&gt;[1924]  &lt;a href=&quot;https://youtu.be/xSfxI95rZmA&quot;&gt;&lt;em&gt;I pini di Roma&lt;/em&gt;, P. 141:&lt;/a&gt; &lt;br /&gt; 
 &lt;span style=&quot;font-size:1.00em&quot;&gt;  &lt;/span&gt;I. &lt;a href=&quot;https://youtu.be/ZGg3-SUYwMU&quot;&gt;“I Pini di Villa Borghese”&lt;/a&gt; &lt;br /&gt;
@@ -570,22 +528,193 @@
 🇺🇸 The Cleveland Orchestra; Lorin Maazel 
  (Cleveland: Masonic Temple Auditorium, 1976)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BLOCH&lt;/b&gt;, ERNEST &lt;br /&gt; 
-(Swiss–American, 1880–1959) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BLOCH&lt;/strong&gt;, ERNEST &lt;br /&gt; 
+(Swiss–American, 1880–1959)&lt;/p&gt;
 
 &lt;p&gt;[1916]  &lt;a href=&quot;https://youtu.be/M3E3eR5pbv8&quot;&gt;&lt;em&gt;Schelomo, Rhapsodie hébraïque pour violoncelle et orchestre&lt;/em&gt;, B. 39&lt;/a&gt; 
  [17] &lt;br /&gt;
 🇩🇪 Berliner Philharmoniker, vc. Pierre Fournier; Alfred Wallenstein 
  (Berlin: UFA-Tonstudio, 1966)&lt;/p&gt;
 
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;WEBERN&lt;/strong&gt;, ANTON &lt;br /&gt; 
+(Austrian, 1883–1945)&lt;/p&gt;
+
+&lt;p&gt;[1909]  &lt;a href=&quot;https://youtu.be/JOH8l-agVb0&quot;&gt;&lt;em&gt;Sechs Stücke für grosses Orchester&lt;/em&gt;, Op. 6: III. Zart bewegt&lt;/a&gt; 
+ [1] &lt;br /&gt;
+🇩🇪 Berliner Philharmoniker; Pierre Boulez 
+ (Berlin: Berliner Philharmonie, 1994)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;HINDEMITH&lt;/strong&gt;, PAUL &lt;br /&gt; 
+(German, 1895–1963)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;WALTON&lt;/strong&gt;, WILLIAM &lt;br /&gt; 
+(British, 1902–1983)&lt;/p&gt;
+
+&lt;p&gt;[1922]  &lt;a href=&quot;https://youtu.be/79ahguBURn4&quot;&gt;&lt;em&gt;Façade&lt;/em&gt;: “I Do Like to Be Beside the Seaside” (Tango-Pasodoblé)&lt;/a&gt; 
+ [20] &lt;br /&gt;
+🇩🇪 Berliner Philharmoniker, nar. Barbara Hannigan; Simon Rattle
+ (Berlin: Berliner Philharmonie, 2012)&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;СТРАВИНСКИЙ&lt;/b&gt;, ИГОРЬ ФЁДОРОВИЧ &lt;br /&gt; 
+
+&lt;h3 id=&quot;eastern&quot;&gt;B.  Eastern European&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;CHOPIN&lt;/strong&gt;, FRÉDÉRIC &lt;br /&gt; 
+(Polish–French, 1810–1849)&lt;/p&gt;
+
+&lt;p&gt;[1832]  &lt;a href=&quot;https://youtu.be/nyYEdNDYYew&quot;&gt;Mazurkas, Op. 7: No. 1 in B-flat major&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🎹 Arthur Rubinstein 
+ (New York: Webster Hall, 1965)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1833]  &lt;a href=&quot;https://youtu.be/efLxMjeSb_Y&quot;&gt;Nocturnes, Op. 15: No. 2 in F-sharp major&lt;/a&gt; 
+ [1] &lt;br /&gt;
+🎹 Claudio Arrau 
+ (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1841]  &lt;a href=&quot;https://youtu.be/semT39kGelA&quot;&gt;Fantaisie in F minor, Op. 49&lt;/a&gt; 
+ [5] &lt;br /&gt;
+🎹 Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
+ (London: Kingsway Hall, 1979)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;SMETANA&lt;/strong&gt;, BEDŘICH &lt;br /&gt; 
+(Czech, 1824–1884)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;МУСОРГСКИЙ&lt;/strong&gt;, МОДЕСТ ПЕТРОВИЧ &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.85em&quot;&gt;
-	&lt;b&gt;STRAVINSKY&lt;/b&gt;, IGOR FYODOROVICH &lt;/span&gt; &lt;br /&gt;
-(Russian–French–American, 1882–1971) &lt;/p&gt;
+	&lt;strong&gt;MUSSORGSKY&lt;/strong&gt;, MODEST PETROVICH &lt;/span&gt; &lt;br /&gt;
+(Russian, 1839–1881)&lt;/p&gt;
+
+&lt;p&gt;[1874]  &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc&quot;&gt;Картинки с выставки [&lt;em&gt;Pictures at an Exhibition&lt;/em&gt;]:&lt;/a&gt; &lt;br /&gt;
+ &lt;span style=&quot;font-size:0.67em&quot;&gt;  &lt;/span&gt;III. &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc?t=565&quot;&gt;“Тюильри [Tuileries]”&lt;/a&gt; &lt;br /&gt;
+ &lt;span style=&quot;font-size:0.9em&quot;&gt;  &lt;/span&gt;V. &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc?t=821&quot;&gt;“Балет невылупившихся птенцов [Ballet of Unhatched Chicks]”&lt;/a&gt; &lt;br /&gt;
+ &lt;span style=&quot;font-size:0.9em&quot;&gt;  &lt;/span&gt;X. &lt;a href=&quot;https://youtu.be/kBg7gVkzUVc?t=1492&quot;&gt;“Богатырские ворота [The Bogatyr Gates]”&lt;/a&gt;  [1] &lt;br /&gt;
+🇺🇸 The Cleveland Orchestra; Lorin Maazel 
+ (Cleveland: Masonic Temple Auditorium, 1978)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1880]  &lt;a href=&quot;https://youtu.be/O4oZdj5gXSM&quot;&gt;Хованщина [&lt;em&gt;Khovanshchina&lt;/em&gt;]: Prelude&lt;/a&gt; 
+ [24] &lt;br /&gt;
+🇬🇧 London Symphony Orchestra; Georg Solti 
+ (London: Kingsway Hall, 1966)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ЧАЙКОВСКИЙ&lt;/strong&gt;, ПЁТР ИЛЬИЧ &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.85em&quot;&gt;
+	&lt;strong&gt;TCHAIKOVSKY&lt;/strong&gt;, PYOTR ILYICH &lt;/span&gt; &lt;br /&gt;
+(Russian, 1840–1893)&lt;/p&gt;
+
+&lt;p&gt;[1876]  &lt;a href=&quot;https://youtu.be/syhogh0C-FI&quot;&gt;Лебединое озеро [&lt;em&gt;Swan Lake&lt;/em&gt;], Op. 20, TH 12:&lt;/a&gt; Act I: &lt;a href=&quot;https://youtu.be/syhogh0C-FI?t=1265&quot;&gt;No. 5. Pas de deux&lt;/a&gt; &amp;amp; Act II: &lt;a href=&quot;https://youtu.be/Tb5Oj6ghJQM&quot;&gt;No. 10. Scène: Moderato&lt;/a&gt;
+ [47] &lt;br /&gt;
+🇷🇺 Государственный академический симфонический оркестр СССР, vn. Yuri Torchinsky; Светланов, Евгений Фёдорович [Evgeny Svetlanov]
+ (Москва: Англиканская церковь Святого Андрея, 1988) &lt;br /&gt;
+🇳🇱 Koninklijk Concertgebouworkest; Anatole Fistoulari
+ (Amsterdam: Koninklijk Concertgebouw, 1961)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1878]  &lt;a href=&quot;https://youtu.be/NAFO5ZGq-Ok&quot;&gt;Symphony No. 4 in F minor, Op. 36, TH 27: I. Andante sostenuto – Moderato con anima – Moderato assai, quasi Andante – Allegro vivo&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/kyZrdpRKyxQ&quot;&gt;IV. Finale. Allegro con fuoco&lt;/a&gt;
+ [1,2] &lt;br /&gt;
+🇦🇹 Wiener Philharmoniker; Claudio Abbado 
+ (Wien: Große Musikvereinssaal, 1975)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1880]  &lt;a href=&quot;https://youtu.be/gXyS-ednXzY&quot;&gt;Торжественная увертюра «1812 год» [&lt;em&gt;1812 Overture&lt;/em&gt;], Op. 49, TH 49&lt;/a&gt;  [20] &lt;br /&gt;
+🇷🇺 Симфонический оркестр Санкт-Петербургской филармонии, Оркестр штаба Ленинградского военного округа, Санкт-Петербургский камерный хор; Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
+ (Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1996)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1888]  &lt;a href=&quot;https://youtu.be/_X-agnluvaI&quot;&gt;Symphony No. 5 in E minor, Op. 64, TH 29: I. Andante – Allegro con anima – Molto più tranquillo&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/_X-agnluvaI?t=1938&quot;&gt;IV. Finale. Andante maestoso – Allegro vivace – Meno Mosso&lt;/a&gt;  [1] &lt;br /&gt;
+🇷🇺 Симфонический оркестр Ленинградской государственной филармонии; Мравинский, Евгений Александрович [Yevgeny Mravinsky] 
+ (Wien: Große Musikvereinssaal, 1960)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1892]  &lt;a href=&quot;https://youtu.be/zt29NKCpbOA&quot;&gt;Щелкунчик [&lt;em&gt;The Nutcracker&lt;/em&gt;], Op. 71, TH 14: Act II: “Вальс цветов [Waltz of the Flowers]”&lt;/a&gt; 
+ [43] &lt;br /&gt;
+🇩🇪 Berliner Philharmoniker; Ростропович, Мстислав Леопольдович [Mstislav Rostropovich] 
+ (Berlin: Berliner Philharmonie, 1978)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;DVOŘÁK&lt;/strong&gt;, ANTONÍN &lt;br /&gt; 
+(Czech, 1841–1904)&lt;/p&gt;
+
+&lt;p&gt;[1893]  &lt;a href=&quot;https://youtu.be/1weI5FXQ_v0&quot;&gt;Symphony No. 9 in E minor, Op. 95, B. 178: I. Adagio – Allegro molto&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/1weI5FXQ_v0?t=532&quot;&gt;II. Largo&lt;/a&gt;
+ [2] &lt;br /&gt;
+🇺🇸 Chicago Symphony Orchestra; Fritz Reiner 
+ (Chicago: Orchestra Hall, 1957)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;РИМСКИЙ-КОРСАКОВ&lt;/strong&gt;, НИКОЛАЙ АНДРЕЕВИЧ &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.85em&quot;&gt;
+	&lt;strong&gt;RIMSKY-KORSAKOV&lt;/strong&gt;, NIKOLAI ANDREYEVICH &lt;/span&gt; &lt;br /&gt;
+(Russian, 1844–1908)&lt;/p&gt;
+
+&lt;p&gt;[1887]  &lt;a href=&quot;https://youtu.be/hfu5AS9ZOyY&quot;&gt;Каприччио на испанские темы [&lt;em&gt;Capriccio espagnol&lt;/em&gt;], Op. 34:&lt;/a&gt; &lt;a href=&quot;https://youtu.be/LtGzxooAxeI&quot;&gt;IV. Scena e canto gitano&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/3WTtnnzwUuI&quot;&gt;V. Fandango asturiano&lt;/a&gt; 
+ [3,43] &lt;br /&gt;
+🇬🇧 London Symphony Orchestra; Igor Markevitch 
+ (London: Wembley Town Hall, 1962)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1888]  &lt;a href=&quot;https://youtu.be/oFcyqZhhrb8&quot;&gt;Шехеразада [&lt;em&gt;Scheherazade&lt;/em&gt;], Op. 35: I. “Море и Синдбадов корабль [The Sea and Sinbad’s Ship]”&lt;/a&gt;
+ [5] &lt;br /&gt;
+🇬🇧 Royal Philharmonic Orchestra; Thomas Beecham 
+ (London: Kingsway Hall, 1957)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;SIBELIUS&lt;/strong&gt;, JEAN &lt;br /&gt; 
+(Finnish, 1865–1957)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;СТРАВИНСКИЙ&lt;/strong&gt;, ИГОРЬ ФЁДОРОВИЧ &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.85em&quot;&gt;
+	&lt;strong&gt;STRAVINSKY&lt;/strong&gt;, IGOR FYODOROVICH &lt;/span&gt; &lt;br /&gt;
+(Russian–French–American, 1882–1971)&lt;/p&gt;
 
 &lt;p&gt;[1910/1919 arr.]  &lt;a href=&quot;https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI&quot;&gt;Suite from &lt;em&gt;L’Oiseau de feu&lt;/em&gt;, K010&lt;/a&gt; 
  [47] &lt;br /&gt;
@@ -599,22 +728,13 @@
 🌐 vn. Manoug Parikian, cl. Ulysse Delécluse, bn. Henri Helaerts, crt. Maurice André, tbn. Roland Schnorkh, db. Joachim Gut, perc. Charles Peschier; Igor Markevitch 
  (Vevey: Théâtre de Vevey, 1962)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;WEBERN&lt;/b&gt;, ANTON &lt;br /&gt; 
-(Austrian, 1883–1945) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;[1909]  &lt;a href=&quot;https://youtu.be/JOH8l-agVb0&quot;&gt;&lt;em&gt;Sechs Stücke für grosses Orchester&lt;/em&gt;, Op. 6: III. Zart bewegt&lt;/a&gt; 
- [1] &lt;br /&gt;
-🇩🇪 Berliner Philharmoniker; Pierre Boulez 
- (Berlin: Berliner Philharmonie, 1994)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;ПРОКОФЬЕВ&lt;/b&gt;, СЕРГЕЙ СЕРГЕЕВИЧ &lt;br /&gt; 
+&lt;p&gt;&lt;strong&gt;ПРОКОФЬЕВ&lt;/strong&gt;, СЕРГЕЙ СЕРГЕЕВИЧ &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.85em&quot;&gt;
-	&lt;b&gt;PROKOFIEV&lt;/b&gt;, SERGEI SERGEYEVICH &lt;/span&gt; &lt;br /&gt;
-(Russian, 1891–1953) &lt;/p&gt;
+	&lt;strong&gt;PROKOFIEV&lt;/strong&gt;, SERGEI SERGEYEVICH &lt;/span&gt; &lt;br /&gt;
+(Russian, 1891–1953)&lt;/p&gt;
 
 &lt;p&gt;[1917]  &lt;a href=&quot;https://youtu.be/_FKv9moORv0&quot;&gt;Symphony No. 1 in D major, Op. 25: I. Allegro&lt;/a&gt; 
  [43] &lt;br /&gt;
@@ -624,27 +744,104 @@
 &lt;hr /&gt;
 
 &lt;p&gt;[1936]  &lt;a href=&quot;https://youtu.be/tJZaCPjS3Mw&quot;&gt;Пе́тя и волк [&lt;em&gt;Peter and the Wolf&lt;/em&gt;], Op. 67&lt;/a&gt; 
- [5] &lt;br /&gt;
+ [3] &lt;br /&gt;
 🇺🇸 Boston Symphony Orchestra, nar. Eleanor Roosevelt; Кусевицкий, Сергей Александрович [Serge Koussevitzky]
- (Tanglewood: Theatre-Concert Hall, 1950)&lt;/p&gt;
+ (Tanglewood, Massachusetts: Theatre-Concert Hall, 1950)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ШОСТАКОВИЧ&lt;/strong&gt;, ДМИТРИЙ ДМИТРИЕВИЧ &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.85em&quot;&gt;
+	&lt;strong&gt;SHOSTAKOVICH&lt;/strong&gt;, DMITRI DMITRIYEVICH &lt;/span&gt; &lt;br /&gt;
+(Russian, 1906–1975)&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;PISTON&lt;/b&gt;, WALTER &lt;br /&gt; 
-(American, 1894–1976) &lt;/p&gt;
+
+&lt;h3 id=&quot;american&quot;&gt;C.  American&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;CHADWICK&lt;/strong&gt;, GEORGE W. (1854–1931)&lt;/p&gt;
+
+&lt;p&gt;[1887]  &lt;a href=&quot;https://youtu.be/jrd8CWEvw5M&quot;&gt;&lt;em&gt;Melpomene&lt;/em&gt;&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇺🇸 Detroit Symphony Orchestra; Neeme Järvi
+ (Detroit: Orchestra Hall, 1995)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;MacDOWELL&lt;/strong&gt;, EDWARD (1860–1908)&lt;/p&gt;
+
+&lt;p&gt;[1892]  &lt;a href=&quot;https://youtu.be/a7UbizvyC-k&quot;&gt;Suite No. 2, Op. 48: I. “Legend”&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇬🇧 Royal Philharmonic Orchestra; Karl Krueger
+ (1967)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;GILBERT&lt;/strong&gt;, HENRY F. (1868–1928)&lt;/p&gt;
+
+&lt;p&gt;[1908]  &lt;a href=&quot;https://youtu.be/kFBH65Cz8VA&quot;&gt;&lt;em&gt;The Dance in Place Congo&lt;/em&gt;, Op. 15&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇺🇸 Los Angeles Philharmonic; Calvin Simmons
+ (Los Angeles: Royce Hall, 1977)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;IVES&lt;/strong&gt;, CHARLES (1874–1954)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;PISTON&lt;/strong&gt;, WALTER (1894–1976)&lt;/p&gt;
 
 &lt;p&gt;[1938]  &lt;a href=&quot;https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV&quot;&gt;Suite from &lt;em&gt;The Incredible Flutist&lt;/em&gt;&lt;/a&gt; 
  [24] &lt;br /&gt;
 🇺🇸 New York Philharmonic; Leonard Bernstein
  (New York: Manhattan Center, 1963)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;GERSHWIN&lt;/b&gt;, GEORGE &lt;br /&gt; 
-(American, 1898–1937) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;THOMSON&lt;/strong&gt;, VIRGIL (1896–1989)&lt;/p&gt;
+
+&lt;p&gt;[1947]  &lt;a href=&quot;https://youtu.be/UcmIZpodNX0&quot;&gt;&lt;em&gt;The Mother of Us All&lt;/em&gt;: &lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇬🇧 London Symphony Orchestra, pf. André Previn, cl. Gervase de Peyer; André Previn 
+ (London: Abbey Road Studio 1, 1971)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;SESSIONS&lt;/strong&gt;, ROGER (1896–1985)&lt;/p&gt;
+
+&lt;p&gt;[1926]  &lt;a href=&quot;https://youtu.be/O4MPIWLClKk?t=578&quot;&gt;Chorale Prelude No. 3: Ben ritmato&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🎹 Valentina Woshner Fillinger 
+ (Pittsburgh: Skinner Organ, Carnegie Music Hall, 1965)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;HARRIS&lt;/strong&gt;, ROY (1898–1979)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;GERSHWIN&lt;/strong&gt;, GEORGE (1898–1937)&lt;/p&gt;
 
 &lt;p&gt;[1924]  &lt;a href=&quot;https://youtu.be/UcmIZpodNX0&quot;&gt;&lt;em&gt;Rhapsody in Blue&lt;/em&gt;&lt;/a&gt; 
- [3] &lt;br /&gt;
+ [2,3] &lt;br /&gt;
 🇬🇧 London Symphony Orchestra, pf. André Previn, cl. Gervase de Peyer; André Previn 
  (London: Abbey Road Studio 1, 1971)&lt;/p&gt;
 
@@ -655,20 +852,41 @@
 🇺🇸 New York Philharmonic; Leonard Bernstein
  (New York: Hotel St. George, 1958)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;THOMPSON&lt;/b&gt;, RANDALL &lt;br /&gt; 
-(American, 1899–1984) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;[1931]  &lt;a href=&quot;https://youtu.be/XXzRZsZjgKQ&quot;&gt;Symphony No. 2 in E minor: III. Vivace&lt;/a&gt; 
- [24] &lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;THOMPSON&lt;/strong&gt;, RANDALL (1899–1984) &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;[1931]  &lt;a href=&quot;https://youtu.be/75ximAdSAI8&quot;&gt;Symphony No. 2 in E minor: II. Largo&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/XXzRZsZjgKQ&quot;&gt;III. Vivace&lt;/a&gt; 
+ [2,24] &lt;br /&gt;
 🇺🇸 New York Philharmonic; Leonard Bernstein
- (New York: Philharmonic Hall, Lincoln Center, 1968)&lt;/p&gt;
+ (New York: Philharmonic Hall, 1968)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;COPLAND&lt;/b&gt;, AARON &lt;br /&gt; 
-(American, 1900–1990) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;COPLAND&lt;/strong&gt;, AARON (1900–1990)&lt;/p&gt;
+
+&lt;p&gt;[1925]  &lt;a href=&quot;https://youtu.be/P8l5lVcDZe8&quot;&gt;&lt;em&gt;Music for the Theatre&lt;/em&gt;: II. Dance&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇺🇸 New York Philharmonic; Leonard Bernstein
+ (New York: Hotel St. George, 1958)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1926]  &lt;a href=&quot;https://youtu.be/DA2fQySJQxE&quot;&gt;Piano Concerto: I. Andante sostenuto&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/AFKNIWwSuiI&quot;&gt;II. Molto moderato – Allegro assai&lt;/a&gt; 
+ [27] &lt;br /&gt;
+🇺🇸 New York Philharmonic, pf. Aaron Copland; Leonard Bernstein
+ (New York: Philharmonic Hall, 1964)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1938]  &lt;a href=&quot;https://youtu.be/c5OimRvOf90&quot;&gt;&lt;em&gt;Billy the Kid&lt;/em&gt;: “Prairie Night”&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇬🇧 London Symphony Orchestra; Aaron Copland
+ (London: Walthamstow Assembly Hall, 1969)&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;[1942]  &lt;a href=&quot;https://youtu.be/0oR1Vh3DfqM&quot;&gt;&lt;em&gt;Rodeo&lt;/em&gt;: “Hoe-Down”&lt;/a&gt; 
  [33] &lt;br /&gt;
@@ -677,46 +895,105 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1952 arr.]  &lt;a href=&quot;https://youtu.be/0DHeDBrd_Ls&quot;&gt;&lt;em&gt;Old American Songs&lt;/em&gt;, Set II: “The Little Horses”&lt;/a&gt; 
+&lt;p&gt;[1946]  &lt;a href=&quot;https://youtu.be/MTXIpXOS9pA&quot;&gt;Symphony No. 3: IV. Finale. Molto deliberato – Allegro risoluto&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇺🇸 New York Philharmonic; Leonard Bernstein
+ (New York: Philharmonic Hall, 1966)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1952 arr.]  &lt;a href=&quot;https://youtu.be/0DHeDBrd_Ls&quot;&gt;&lt;em&gt;Old American Songs&lt;/em&gt;, Set 2: “The Little Horses”&lt;/a&gt; 
  [20] &lt;br /&gt;
 🎙️ Roberta Alexander, pf. Roger Vignoles
- (Cambridge: Concert Hall, Faculty of Music, University of Cambridge, 1990)&lt;/p&gt;
+ (Cambridge: West Road Concert Hall, 1990)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;WALTON&lt;/b&gt;, WILLIAM &lt;br /&gt; 
-(British, 1902–1983) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;[1922]  &lt;a href=&quot;https://youtu.be/79ahguBURn4&quot;&gt;&lt;em&gt;Façade&lt;/em&gt;: “I Do Like to Be Beside the Seaside” (Tango-Pasodoblé)&lt;/a&gt; 
- [20] &lt;br /&gt;
-🇩🇪 Berliner Philharmoniker, nar. Barbara Hannigan; Simon Rattle
- (Berlin: Kammermusiksaal, Berliner Philharmonie, 2012)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SCHUMAN&lt;/strong&gt;, WILLIAM (1910–1992)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;BERNSTEIN&lt;/b&gt;, LEONARD &lt;br /&gt; 
-(American, 1918–1990) &lt;/p&gt;
+&lt;p&gt;[1939]  &lt;a href=&quot;https://youtu.be/_XqARU_lmP8?t=1595&quot;&gt;&lt;em&gt;American Festival Overture&lt;/em&gt;&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇺🇸 Los Angeles Philharmonic; Leonard Bernstein
+ (San Francisco: Louise M. Davies Symphony Hall, 1982)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;GOULD&lt;/strong&gt;, MORTON (1913–1996)&lt;/p&gt;
+
+&lt;p&gt;[1945]  &lt;a href=&quot;https://youtu.be/01rufh4FDkE&quot;&gt;&lt;em&gt;American Concertette&lt;/em&gt;, or &lt;em&gt;Interplay&lt;/em&gt;: I. With drive and vigor&lt;/a&gt; 
+ [2] &lt;br /&gt;
+🇩🇪 Rundfunkorchester Hannover des NDR, pf. Julius Bassler; Richard Müller-Lampertz&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BERNSTEIN&lt;/strong&gt;, LEONARD (1918–1990)&lt;/p&gt;
 
 &lt;p&gt;[1956]  &lt;a href=&quot;https://youtu.be/H45NlnCX9Q0&quot;&gt;&lt;em&gt;Candide&lt;/em&gt;: Overture&lt;/a&gt; 
  [12] &lt;br /&gt;
 🇺🇸 New York Philharmonic; Leonard Bernstein
  (New York: Manhattan Center, 1960)&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;b&gt;FOSS&lt;/b&gt;, LUKAS &lt;br /&gt; 
-(German–American, 1922–2009) &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;FOSS&lt;/strong&gt;, LUKAS (1922–2009)&lt;/p&gt;
 
 &lt;p&gt;[1967]  &lt;a href=&quot;https://youtu.be/xjad33Iah-s&quot;&gt;&lt;em&gt;Baroque Variations&lt;/em&gt;: III. “On a Bach Prelude”, or &lt;em&gt;Phorion&lt;/em&gt;&lt;/a&gt; 
  [45] &lt;br /&gt;
 🇺🇸 New York Philharmonic; Leonard Bernstein
- (New York: Philharmonic Hall, Lincoln Center, 1967)&lt;/p&gt;
+ (New York: Philharmonic Hall, 1967)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#modern&quot;&gt;#top&lt;/a&gt; 
-&lt;a href=&quot;#popular&quot;&gt;#next&lt;/a&gt; 
-&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;SCHULLER&lt;/strong&gt;, GUNTHER (1925–2015)&lt;/p&gt;
+
+&lt;p&gt;[1962]  &lt;a href=&quot;https://youtu.be/zwd9QqzVmvU&quot;&gt;&lt;em&gt;Journey Into Jazz&lt;/em&gt;&lt;/a&gt; 
+ [27] &lt;br /&gt;
+🇺🇸 Orchestra U.S.A., nar. Skitch Henderson; Gunther Schuller
+ (1963)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;AUSTIN&lt;/strong&gt;, LARRY (1930–2018)&lt;/p&gt;
+
+&lt;p&gt;[1961]  &lt;a href=&quot;https://youtu.be/rrzF5Yu-Q2U&quot;&gt;&lt;em&gt;Improvisations for Orchestra and Jazz Soloists&lt;/em&gt;&lt;/a&gt; 
+ [27] &lt;br /&gt; 
+🇺🇸 New York Philharmonic, tpt. Don Ellis, db. Barre Phillips, perc. Joe Cocuzzo; Leonard Bernstein
+ (New York: Philharmonic Hall, 1964)&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;popular&quot;&gt;D.  Traditional &amp;amp; Popular&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#modern&quot;&gt;#first&lt;/a&gt; 
+&lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;[Trad.]  &lt;a href=&quot;https://youtu.be/ZdnWBZrVpZA&quot;&gt;“Во поле берёза стояла [Little Birch Tree]”&lt;/a&gt; 
+ [2] &lt;br /&gt; 
+🇷🇺 Ансамбль песни и пляски Советской армии имени А. В. Александрова, ten. Гресь, Николай Тимофеевич [Nikolay Gres]  (1965)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Trad.]  &lt;a href=&quot;https://youtu.be/LlVXk75M4RQ&quot;&gt;“The Irish Washerwoman”&lt;/a&gt; 
+ [2] &lt;br /&gt; 
+🎻 Liz Doherty, Paula Doohan, Séamus Gibson, Kevin Glackin, Séamus Glackin, Proinsias O Maonaigh, Dermot McLaughlin, Mairéad Ní Mhaonaigh, Tommy Peoples, &amp;amp; Ciaran Tourish  (1991)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1914]  &lt;a href=&quot;https://youtu.be/i58rN88xDMQ&quot;&gt;“The Saint Louis Blues”&lt;/a&gt; 
+ [2] &lt;br /&gt; 
+🎼 William Christopher Handy &lt;br /&gt;
+🎺 Louis Armstrong &amp;amp; Bessie Smith (1925)&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;[1928]  &lt;a href=&quot;https://youtu.be/9Scd9WGDZog&quot;&gt;“I Can’t Give You Anything but Love, Baby”&lt;/a&gt; 
  [5] &lt;br /&gt; 
