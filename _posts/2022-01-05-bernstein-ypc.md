@@ -12,37 +12,24 @@ tags: music television
 
 ### Contents {#contents}
 
-A.&nbsp; [WESTERN EUROPEAN](#western) : 
+A.&nbsp; [GERMANIC & BRITISH](#germanic) : 
 
-B.&nbsp; [EASTERN EUROPEAN](#eastern) : 
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : 
 
-C.&nbsp; [AMERICAN](#american) : 
+C.&nbsp; [SLAVIC & FINNISH](#slavic) : 
 
-D.&nbsp; [TRADITIONAL & POPULAR](#popular) : 
+D.&nbsp; [AMERICAN](#american) : 
+
+E.&nbsp; [TRADITIONAL & POPULAR](#popular) : 
 
 
 <br/>
 
-### A.&nbsp; Western European {#western}
+### A.&nbsp; Germanic & British {#germanic}
 
 [#last]()&nbsp;
 [#next](#modern)&nbsp;
 [#contents](#contents)&nbsp;
-
----
-
-**GABRIELI**, GIOVANNI <br> 
-(Italian, 1557–1612) 
-
----
----
-
-**VIVALDI**, ANTONIO <br> 
-(Italian, 1678–1741) 
-
-[1711]&nbsp; [_L'estro armonico_, Op. 3: Concerto No. 10 in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA) &nbsp;[20] <br>
-🇮🇹 I Solisti Veneti, vn. Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, & Stefano Zanchetta; Claudio Scimone 
-&nbsp;(Torino: Palazzina di caccia di Stupinigi, 1987)
 
 ---
 ---
@@ -164,7 +151,7 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 [1804]&nbsp; [Symphony No. 3 in E-flat major, Op. 55: I. Allegro con brio](https://youtu.be/6DvRFpJha2k) &nbsp;[2,41] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
-&nbsp;(London: Abbey Road Studio 1, 1959)
+&nbsp;(London: Abbey Road Studio No. 1, 1959)
 
 ---
 
@@ -216,47 +203,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**ROSSINI**, GIOACHINO <br> 
-(Italian, 1792–1868) 
-
-[1823]&nbsp; [_Semiramide_: Overture](https://youtu.be/-i7CKKddSnM) 
-&nbsp;[12] <br>
-🇬🇧 London Classical Players; Roger Norrington 
-&nbsp;(London: Abbey Road Studio 1, 1990)
-
----
-
-[1829]&nbsp; [_Guillaume Tell_: Overture](https://youtu.be/IkUlPLNzoBs) 
-&nbsp;[1] <br>
-🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano 
-&nbsp;(Roma: Sala Santa Cecilia, Auditorium Parco della Musica, 2010)
-
----
----
-
 **SCHUBERT**, FRANZ <br> 
 (Austrian, 1797–1828) 
-
----
----
-
-**BERLIOZ**, HECTOR <br> 
-(French, 1803–1869) 
-
-[1830]&nbsp; [_Symphonie fantastique_, Op. 14, H. 48:](https://youtu.be/gJU9JQ3YgS0?t=6) <br>
-&emsp;&emsp;I. ["Rêveries–Passions"](https://youtu.be/I-zhOOJmBgE) <br>
-<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Un bal"](https://youtu.be/lT5Vy0SMsy4) <br>
-<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Scène aux champs"](https://youtu.be/vi957AHMOmQ) <br>
-<span style="font-size:0.73em">&emsp;&emsp;</span>IV. ["Marche au supplice"](https://youtu.be/hD1X7zzgpnE) <br>
-<span style="font-size:0.9em">&emsp;&emsp;</span>V. ["Songe d'une nuit du Sabbat"](https://youtu.be/qYybbvfr6OE) &nbsp;[46] <br>
-🇬🇧 London Symphony Orchestra; Colin Davis 
-&nbsp;(London: Walthamstow Assembly Hall, 1963)
-
----
-
-[1844]&nbsp; [_Le Carnaval romain_, Op. 9, H. 95](https://youtu.be/8d0zZc8DGvM) &nbsp;[20] <br>
-🇫🇷 Orchestre du Capitole de Toulouse; Michel Plasson 
-&nbsp;(Toulouse: Halle aux Grains, 1999)
 
 ---
 ---
@@ -268,17 +216,6 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[5] <br>
 🇺🇸 The Cleveland Orchestra; Széll György [George Szell] 
 &nbsp;(Cleveland: Severance Hall, 1960)
-
----
----
-
-**VERDI**, GIUSEPPE <br> 
-(Italian, 1813–1901) 
-
-[1874]&nbsp; [_Messa da Requiem_: II.1. Dies irae](https://youtu.be/6Mff3-1aM_Y) 
-&nbsp;[33] <br>
-🇺🇸 Atlanta Symphony Orchestra & Chorus; Robert Shaw 
-&nbsp;(Atlanta: Atlanta Symphony Hall, 1987)
 
 ---
 ---
@@ -334,17 +271,6 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**BIZET**, GEORGES  <br>
-(French, 1838–1875) 
-
-[1874]&nbsp; [_Carmen_, WD 31: Act I: "L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204)
-&nbsp;[43] <br>
-🇫🇷 Orchestre & Chœur National de la Radiodiffusion Française, sop. Victoria de los Ángeles; Thomas Beecham 
-&nbsp;(Paris: Salle Wagram, 1958–1959)
-
----
----
-
 **MAHLER**, GUSTAV <br> 
 (Austro-Bohemian, 1860–1911) 
 
@@ -355,60 +281,6 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[40] <br>
 🇬🇧 London Symphony Orchestra, sop. Elisabeth Schwarzkopf, bar. Dietrich Fischer-Dieskau; Széll György [George Szell] 
 &nbsp;(London: Kingsway Hall, 1968)
-
----
----
-
-**DEBUSSY**, CLAUDE <br> 
-(French, 1862–1918) 
-
-[1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86, CD 87](https://youtu.be/tjEdr3MuXTE) 
-&nbsp;[3,12] <br>
-🇩🇪 Berliner Philharmoniker, fl. Karlheinz Zöller; Herbert von Karajan 
-&nbsp;(Berlin: Jesus-Christus-Kirche Dahlem, 1964)
-
----
-
-[1905]&nbsp; [_La mer_, L. 109, CD 111:](https://youtu.be/9M7wlVokbac) <br>
-&emsp;&emsp;I. ["De l'aube à midi sur la mer"](https://youtu.be/BrPzMbtuFfk) <br>
-<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Jeux de vagues"](https://youtu.be/POQXW177ARQ) <br>
-<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k) &nbsp;[16]<br>
-🇳🇱 Koninklijk Concertgebouworkest; Bernard Haitink
-&nbsp;(Amsterdam: Koninklijk Concertgebouw, 1976)
-
----
-
-[1907]&nbsp; [_Images, 2<sup>e</sup> série_, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
-&nbsp;[16] <br>
-🎹 Ivan Moravec 
-&nbsp;(New York: RCA Studio A, 1982)
-
----
-
-[1908]&nbsp; [_Children's Corner_, L. 113, CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE) 
-&nbsp;[16] <br>
-🎹 Jean-Yves Thibaudet 
-&nbsp;(Dunwich, Suffolk: Potton Hall, 1998)
-
----
-
-[1908]&nbsp; [_Ibéria_](https://youtu.be/zUKoT6Jyip4) from [_Images pour orchestre_, L. 122, CD 118: ](https://youtu.be/zUKoT6Jyip4) [II. "Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) & [III. "Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE) &nbsp;[33] <br>
-🇺🇸 Chicago Symphony Orchestra; Fritz Reiner 
-&nbsp;(Chicago: Orchestra Hall, 1957)
-
----
-
-[1910]&nbsp; [_Préludes, 1<sup>re</sup> Livre_, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
-&nbsp;[16] <br>
-🎹 Arturo Benedetti Michelangeli 
-&nbsp;(Hamburg: Musikhalle, 1978)
-
----
-
-[1912]&nbsp; [_Préludes, 2<sup>e</sup> Livre_, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
-&nbsp;[16] <br>
-🎹 Walter Gieseking 
-&nbsp;(London: Abbey Road Studio 3, 1954)
 
 ---
 ---
@@ -474,6 +346,177 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
+**WEBERN**, ANTON <br> 
+(Austrian, 1883–1945) 
+
+[1909]&nbsp; [_Sechs Stücke für grosses Orchester_, Op. 6: III. Zart bewegt](https://youtu.be/JOH8l-agVb0) 
+&nbsp;[1] <br>
+🇩🇪 Berliner Philharmoniker; Pierre Boulez 
+&nbsp;(Berlin: Berliner Philharmonie, 1994)
+
+---
+---
+
+**HINDEMITH**, PAUL <br> 
+(German, 1895–1963) 
+
+---
+---
+
+**WALTON**, WILLIAM <br> 
+(British, 1902–1983) 
+
+[1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4) 
+&nbsp;[20] <br>
+🇩🇪 Berliner Philharmoniker, nar. Barbara Hannigan; Simon Rattle
+&nbsp;(Berlin: Berliner Philharmonie, 2012)
+
+---
+---
+
+<br>
+
+
+### B.&nbsp; Italian, French, & Iberian {#latin}
+
+[#last]()&nbsp;
+[#next](#modern)&nbsp;
+[#contents](#contents)&nbsp;
+
+---
+---
+
+**GABRIELI**, GIOVANNI <br> 
+(Italian, 1557–1612) 
+
+---
+---
+
+**VIVALDI**, ANTONIO <br> 
+(Italian, 1678–1741) 
+
+[1711]&nbsp; [_L'estro armonico_, Op. 3: Concerto No. 10 in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA) &nbsp;[20] <br>
+🇮🇹 I Solisti Veneti, vn. Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, & Stefano Zanchetta; Claudio Scimone 
+&nbsp;(Torino: Palazzina di caccia di Stupinigi, 1987)
+
+---
+---
+
+**ROSSINI**, GIOACHINO <br> 
+(Italian, 1792–1868) 
+
+[1823]&nbsp; [_Semiramide_: Overture](https://youtu.be/-i7CKKddSnM) 
+&nbsp;[12] <br>
+🇬🇧 London Classical Players; Roger Norrington 
+&nbsp;(London: Abbey Road Studio No. 1, 1990)
+
+---
+
+[1829]&nbsp; [_Guillaume Tell_: Overture](https://youtu.be/IkUlPLNzoBs) 
+&nbsp;[1] <br>
+🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano 
+&nbsp;(Roma: Sala Santa Cecilia, Auditorium Parco della Musica, 2010)
+
+---
+---
+
+**BERLIOZ**, HECTOR <br> 
+(French, 1803–1869) 
+
+[1830]&nbsp; [_Symphonie fantastique_, Op. 14, H. 48:](https://youtu.be/gJU9JQ3YgS0?t=6) <br>
+&emsp;&emsp;I. ["Rêveries–Passions"](https://youtu.be/I-zhOOJmBgE) <br>
+<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Un bal"](https://youtu.be/lT5Vy0SMsy4) <br>
+<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Scène aux champs"](https://youtu.be/vi957AHMOmQ) <br>
+<span style="font-size:0.73em">&emsp;&emsp;</span>IV. ["Marche au supplice"](https://youtu.be/hD1X7zzgpnE) <br>
+<span style="font-size:0.9em">&emsp;&emsp;</span>V. ["Songe d'une nuit du Sabbat"](https://youtu.be/qYybbvfr6OE) &nbsp;[46] <br>
+🇬🇧 London Symphony Orchestra; Colin Davis 
+&nbsp;(London: Walthamstow Assembly Hall, 1963)
+
+---
+
+[1844]&nbsp; [_Le Carnaval romain_, Op. 9, H. 95](https://youtu.be/8d0zZc8DGvM) &nbsp;[20] <br>
+🇫🇷 Orchestre du Capitole de Toulouse; Michel Plasson 
+&nbsp;(Toulouse: Halle aux Grains, 1999)
+
+---
+---
+
+**VERDI**, GIUSEPPE <br> 
+(Italian, 1813–1901) 
+
+[1874]&nbsp; [_Messa da Requiem_: II.1. Dies irae](https://youtu.be/6Mff3-1aM_Y) 
+&nbsp;[33] <br>
+🇺🇸 Atlanta Symphony Orchestra & Chorus; Robert Shaw 
+&nbsp;(Atlanta: Atlanta Symphony Hall, 1987)
+
+---
+---
+
+**BIZET**, GEORGES  <br>
+(French, 1838–1875) 
+
+[1874]&nbsp; [_Carmen_, WD 31: Act I: "L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204)
+&nbsp;[43] <br>
+🇫🇷 Orchestre & Chœur National de la Radiodiffusion Française, sop. Victoria de los Ángeles; Thomas Beecham 
+&nbsp;(Paris: Salle Wagram, 1958–1959)
+
+---
+---
+
+**DEBUSSY**, CLAUDE <br> 
+(French, 1862–1918) 
+
+[1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86, CD 87](https://youtu.be/tjEdr3MuXTE) 
+&nbsp;[3,12] <br>
+🇩🇪 Berliner Philharmoniker, fl. Karlheinz Zöller; Herbert von Karajan 
+&nbsp;(Berlin: Jesus-Christus-Kirche Dahlem, 1964)
+
+---
+
+[1905]&nbsp; [_La mer_, L. 109, CD 111:](https://youtu.be/9M7wlVokbac) <br>
+&emsp;&emsp;I. ["De l'aube à midi sur la mer"](https://youtu.be/BrPzMbtuFfk) <br>
+<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Jeux de vagues"](https://youtu.be/POQXW177ARQ) <br>
+<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k) &nbsp;[16]<br>
+🇳🇱 Koninklijk Concertgebouworkest; Bernard Haitink
+&nbsp;(Amsterdam: Koninklijk Concertgebouw, 1976)
+
+---
+
+[1907]&nbsp; [_Images, 2<sup>e</sup> série_, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
+&nbsp;[16] <br>
+🎹 Ivan Moravec 
+&nbsp;(New York: RCA Studio A, 1982)
+
+---
+
+[1908]&nbsp; [_Children's Corner_, L. 113, CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE) 
+&nbsp;[16] <br>
+🎹 Jean-Yves Thibaudet 
+&nbsp;(Dunwich, Suffolk: Potton Hall, 1998)
+
+---
+
+[1908]&nbsp; [_Ibéria_](https://youtu.be/zUKoT6Jyip4) from [_Images pour orchestre_, L. 122, CD 118: ](https://youtu.be/zUKoT6Jyip4) [II. "Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) & [III. "Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE) &nbsp;[33] <br>
+🇺🇸 Chicago Symphony Orchestra; Fritz Reiner 
+&nbsp;(Chicago: Orchestra Hall, 1957)
+
+---
+
+[1910]&nbsp; [_Préludes, 1<sup>re</sup> Livre_, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
+&nbsp;[16] <br>
+🎹 Arturo Benedetti Michelangeli 
+&nbsp;(Hamburg: Musikhalle, 1978)
+
+---
+
+[1912]&nbsp; [_Préludes, 2<sup>e</sup> Livre_, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
+&nbsp;[16] <br>
+🎹 Walter Gieseking 
+&nbsp;(London: Abbey Road Studio No. 3, 1954)
+
+---
+---
+
 **RAVEL**, MAURICE <br> 
 (French, 1875–1937) 
 
@@ -506,12 +549,14 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**FALLA**, MANUEL DE <br> 
+**DE FALLA**, MANUEL <br> 
 (Spanish, 1876–1946)
 
-[1919]&nbsp; [_El sombrero de tres picos_: ](https://youtu.be/kDkjcdkZ7Dc) Act II: ["Danza del molinero (Farruca)"](https://youtu.be/MSmEJxfsV3A) & ["Danza final (Jota)"](https://youtu.be/fTjkZWYhexk) 
-&nbsp;[17] <br>
-🇨🇦 Orchestre symphonique de Montréal; Charles Dutoit
+[1919]&nbsp; [_El sombrero de tres picos_: ](https://youtu.be/kDkjcdkZ7Dc) <br>
+&emsp;&ensp;Act I: ["Introducción"](https://youtu.be/qxfG4X2Xru8), ["La tarde"](https://youtu.be/4s9sdGNPd5M), & ["Danza de la molinera" (Fandango)](https://youtu.be/oos034Z7CRU) <br>
+&emsp;&ensp;Act II: ["Danza del molinero" (Farruca)](https://youtu.be/MSmEJxfsV3A) & ["Danza final" (Jota)](https://youtu.be/fTjkZWYhexk) 
+&nbsp;[17,29] <br>
+🇨🇦 Orchestre symphonique de Montréal, sop. Colette Boky; Charles Dutoit
 &nbsp;(Montréal: Église de Saint-Eustache, 1981)
  
 ---
@@ -542,44 +587,18 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**WEBERN**, ANTON <br> 
-(Austrian, 1883–1945) 
-
-[1909]&nbsp; [_Sechs Stücke für grosses Orchester_, Op. 6: III. Zart bewegt](https://youtu.be/JOH8l-agVb0) 
-&nbsp;[1] <br>
-🇩🇪 Berliner Philharmoniker; Pierre Boulez 
-&nbsp;(Berlin: Berliner Philharmonie, 1994)
-
----
----
-
-**HINDEMITH**, PAUL <br> 
-(German, 1895–1963) 
-
----
----
-
-**WALTON**, WILLIAM <br> 
-(British, 1902–1983) 
-
-[1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4) 
-&nbsp;[20] <br>
-🇩🇪 Berliner Philharmoniker, nar. Barbara Hannigan; Simon Rattle
-&nbsp;(Berlin: Berliner Philharmonie, 2012)
-
----
-
 <br>
 
 
 
-### B.&nbsp; Eastern European {#eastern}
+### C.&nbsp; Slavic & Finnish {#slavic}
 
 [#previous]()&nbsp;
 [#next](#modern)&nbsp;
 [#contents](#contents)&nbsp;
 <br>
 
+---
 ---
 
 **CHOPIN**, FRÉDÉRIC <br> 
@@ -610,6 +629,11 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 **SMETANA**, BEDŘICH <br> 
 (Czech, 1824–1884) 
 
+[1875]&nbsp; [_Má vlast_, JB 1:112: II. "Vltava"](https://youtu.be/jUqqM4I0riI) 
+&nbsp;[29] <br>
+🇩🇪 Berliner Philharmoniker; Fricsay Ferenc [Ferenc Fricsay] 
+&nbsp;(Berlin: Jesus-Christus-Kirche Dahlem, 1960)
+
 ---
 ---
 
@@ -618,7 +642,7 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 	**MUSSORGSKY**, MODEST PETROVICH </span> <br>
 (Russian, 1839–1881)
 
-[1874]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]:](https://youtu.be/kBg7gVkzUVc) <br>
+[1874/1922 arr.]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]:](https://youtu.be/kBg7gVkzUVc) <br>
 &nbsp;<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Тюильри [Tuileries]"](https://youtu.be/kBg7gVkzUVc?t=565) <br>
 &nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>V. ["Балет невылупившихся птенцов [Ballet of Unhatched Chicks]"](https://youtu.be/kBg7gVkzUVc?t=821) <br>
 &nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>X. ["Богатырские ворота [The Bogatyr Gates]"](https://youtu.be/kBg7gVkzUVc?t=1492) &nbsp;[1] <br>
@@ -759,19 +783,22 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 (Russian, 1906–1975) 
 
 ---
+---
 
 <br>
 
 
-### C.&nbsp; American {#american}
+### D.&nbsp; American {#american}
 
 [#previous]()&nbsp;
 [#next](#modern)&nbsp;
 [#contents](#contents)&nbsp;
 
 ---
+---
 
-**CHADWICK**, GEORGE W. (1854–1931)
+**CHADWICK**, GEORGE W. <br>
+(American, 1854–1931)
 
 [1887]&nbsp; [_Melpomene_](https://youtu.be/jrd8CWEvw5M) 
 &nbsp;[2] <br>
@@ -781,7 +808,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**MacDOWELL**, EDWARD (1860–1908)
+**MacDOWELL**, EDWARD <br>
+(American, 1860–1908)
 
 [1892]&nbsp; [Suite No. 2, Op. 48: I. "Legend"](https://youtu.be/a7UbizvyC-k) 
 &nbsp;[2] <br>
@@ -791,7 +819,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**GILBERT**, HENRY F. (1868–1928)
+**GILBERT**, HENRY F. <br>
+(American, 1868–1928)
 
 [1908]&nbsp; [_The Dance in Place Congo_, Op. 15](https://youtu.be/kFBH65Cz8VA) 
 &nbsp;[2] <br>
@@ -801,14 +830,22 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**IVES**, CHARLES (1874–1954)
+**IVES**, CHARLES <br>
+(American, 1874–1954)
+
+[1913]&nbsp; [_A Symphony: New England Holidays_: III. "The Fourth of July"](https://youtu.be/ujh8hr1n27o) 
+&nbsp;[29] <br>
+🇩🇪 Rundfunk-Sinfonieorchester Leipzig; Wolf-Dieter Hauschild
+&nbsp;(Leipzig: Paul-Gerhardt-Kirche, 1980)
+
 
 ---
 ---
 
-**PISTON**, WALTER (1894–1976) 
+**PISTON**, WALTER <br>
+(American, 1894–1976) 
 
-[1938]&nbsp; [Suite from _The Incredible Flutist_](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV) 
+[1938/1940 arr.]&nbsp; [Suite from _The Incredible Flutist_](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV) 
 &nbsp;[24] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
 &nbsp;(New York: Manhattan Center, 1963)
@@ -816,17 +853,19 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**THOMSON**, VIRGIL (1896–1989)
+**THOMSON**, VIRGIL <br>
+(American, 1896–1989)
 
 [1947]&nbsp; [_The Mother of Us All_: ](https://youtu.be/UcmIZpodNX0) 
 &nbsp;[2] <br>
 🇬🇧 London Symphony Orchestra, pf. André Previn, cl. Gervase de Peyer; André Previn 
-&nbsp;(London: Abbey Road Studio 1, 1971)
+&nbsp;(London: Abbey Road Studio No. 1, 1971)
 
 ---
 ---
 
-**SESSIONS**, ROGER (1896–1985)
+**SESSIONS**, ROGER <br>
+(American, 1896–1985)
 
 [1926]&nbsp; [Chorale Prelude No. 3: Ben ritmato](https://youtu.be/O4MPIWLClKk?t=578) 
 &nbsp;[2] <br>
@@ -836,17 +875,19 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**HARRIS**, ROY (1898–1979)
+**HARRIS**, ROY <br>
+(American, 1898–1979)
 
 ---
 ---
 
-**GERSHWIN**, GEORGE (1898–1937)
+**GERSHWIN**, GEORGE <br>
+(American, 1898–1937)
 
 [1924]&nbsp; [_Rhapsody in Blue_](https://youtu.be/UcmIZpodNX0) 
 &nbsp;[2,3] <br>
 🇬🇧 London Symphony Orchestra, pf. André Previn, cl. Gervase de Peyer; André Previn 
-&nbsp;(London: Abbey Road Studio 1, 1971)
+&nbsp;(London: Abbey Road Studio No. 1, 1971)
 
 ---
 
@@ -858,7 +899,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**THOMPSON**, RANDALL (1899–1984) <br>
+**THOMPSON**, RANDALL <br>
+(American, 1899–1984) <br>
 
 [1931]&nbsp; [Symphony No. 2 in E minor: II. Largo](https://youtu.be/75ximAdSAI8) & [III. Vivace](https://youtu.be/XXzRZsZjgKQ) 
 &nbsp;[2,24] <br>
@@ -868,7 +910,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**COPLAND**, AARON (1900–1990) 
+**COPLAND**, AARON <br>
+(American, 1900–1990) 
 
 [1925]&nbsp; [_Music for the Theatre_: II. Dance](https://youtu.be/P8l5lVcDZe8) 
 &nbsp;[2] <br>
@@ -898,6 +941,13 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
+[1942/1946 arr.]&nbsp; [_Danzón cubano_](https://youtu.be/9M136usGJuI) 
+&nbsp;[23] <br>
+🇬🇧 London Symphony Orchestra; Aaron Copland
+&nbsp;(London: Abbey Road Studio No. 1, 1970)
+
+---
+
 [1946]&nbsp; [Symphony No. 3: IV. Finale. Molto deliberato – Allegro risoluto](https://youtu.be/MTXIpXOS9pA) 
 &nbsp;[2] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
@@ -913,7 +963,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**SCHUMAN**, WILLIAM (1910–1992)
+**SCHUMAN**, WILLIAM <br>
+(American, 1910–1992)
 
 [1939]&nbsp; [_American Festival Overture_](https://youtu.be/_XqARU_lmP8?t=1595) 
 &nbsp;[2] <br>
@@ -923,7 +974,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**GOULD**, MORTON (1913–1996)
+**GOULD**, MORTON <br>
+(American, 1913–1996)
 
 [1945]&nbsp; [_American Concertette_, or _Interplay_: I. With drive and vigor](https://youtu.be/01rufh4FDkE) 
 &nbsp;[2] <br>
@@ -932,7 +984,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**BERNSTEIN**, LEONARD (1918–1990) 
+**BERNSTEIN**, LEONARD <br>
+(American, 1918–1990) 
 
 [1956]&nbsp; [_Candide_: Overture](https://youtu.be/H45NlnCX9Q0) 
 &nbsp;[12] <br>
@@ -940,9 +993,23 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;(New York: Manhattan Center, 1960)
 
 ---
+
+[1957/1960 arr.]&nbsp; [Symphonic Dances from _West Side Story_: ](https://youtu.be/js7vOU8lfYM) <br>
+<span style="font-size:0.73em">&emsp;&emsp;</span>IV. [Mambo. Meno presto](https://youtu.be/NYvEvP2cmdk) <br>
+<span style="font-size:0.9em">&emsp;&emsp;</span>V. [Cha-Cha. Andantino con grazia](https://youtu.be/js7vOU8lfYM?t=689) <br>
+<span style="font-size:0.565em">&emsp;&emsp;</span>VII. ["Cool" Fugue. Allegretto](https://youtu.be/js7vOU8lfYM?t=782) <br> <span style="font-size:0.54em">&emsp;&ensp;</span>VIII. [Rumble. Molto allegro](https://youtu.be/js7vOU8lfYM?t=1020)
+&nbsp;[23] <br>
+🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel
+&nbsp;(Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007)
+&nbsp;(New York: Manhattan Center, 1961) <br>
+🇺🇸 New York Philharmonic; Leonard Bernstein
+&nbsp;(New York: Manhattan Center, 1961)
+
+---
 ---
 
-**FOSS**, LUKAS (1922–2009) 
+**FOSS**, LUKAS <br>
+(German–American, 1922–2009) 
 
 [1967]&nbsp; [_Baroque Variations_: III. "On a Bach Prelude", or _Phorion_](https://youtu.be/xjad33Iah-s) 
 &nbsp;[45] <br>
@@ -952,9 +1019,10 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**SCHULLER**, GUNTHER (1925–2015)
+**SCHULLER**, GUNTHER <br>
+(American, 1925–2015)
 
-[1962]&nbsp; [_Journey Into Jazz_](https://youtu.be/zwd9QqzVmvU) 
+[1962]&nbsp; [_Journey into Jazz_](https://youtu.be/zwd9QqzVmvU) 
 &nbsp;[27] <br>
 🇺🇸 Orchestra U.S.A., nar. Skitch Henderson; Gunther Schuller
 &nbsp;(1963)
@@ -962,7 +1030,8 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
-**AUSTIN**, LARRY (1930–2018)
+**AUSTIN**, LARRY <br>
+(American, 1930–2018)
 
 [1961]&nbsp; [_Improvisations for Orchestra and Jazz Soloists_](https://youtu.be/rrzF5Yu-Q2U) 
 &nbsp;[27] <br> 
@@ -970,11 +1039,12 @@ D.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;(New York: Philharmonic Hall, 1964)
 
 ---
+---
 
 <br>
 
 
-### D.&nbsp; Traditional & Popular {#popular}
+### E.&nbsp; Traditional & Popular {#popular}
 
 [#previous]()&nbsp;
 [#first](#modern)&nbsp;
