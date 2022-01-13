@@ -32,7 +32,6 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 [#contents](#contents)&nbsp;
 
 ---
----
 
 **HANDEL**, GEORGE FRIDERIC <br> 
 (German–British, 1685–1759) 
@@ -372,7 +371,6 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;(Berlin: Berliner Philharmonie, 2012)
 
 ---
----
 
 <br>
 
@@ -383,7 +381,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 [#next](#modern)&nbsp;
 [#contents](#contents)&nbsp;
 
----
+
 ---
 
 **GABRIELI**, GIOVANNI <br> 
@@ -571,7 +569,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 <span style="font-size:0.67em">&emsp;&emsp;</span>III. ["I Pini del Gianicolo"](https://youtu.be/-Kk0Ob92Bus) <br>
 <span style="font-size:0.73em">&emsp;&emsp;</span>IV. ["I Pini della Via Appia"](https://youtu.be/7b5sDyW4dio) &nbsp;[49] <br>
 🇺🇸 The Cleveland Orchestra; Lorin Maazel 
-&nbsp;(Cleveland: Masonic Temple Auditorium, 1976)
+&nbsp;(Cleveland: Masonic Auditorium, 1976)
 
 ---
 ---
@@ -584,7 +582,6 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 🇩🇪 Berliner Philharmoniker, vc. Pierre Fournier; Alfred Wallenstein 
 &nbsp;(Berlin: UFA-Tonstudio, 1966)
 
----
 ---
 
 <br>
@@ -599,13 +596,12 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 <br>
 
 ---
----
 
 **CHOPIN**, FRÉDÉRIC <br> 
 (Polish–French, 1810–1849)
 
 [1832]&nbsp; [Mazurkas, Op. 7: No. 1 in B-flat major](https://youtu.be/nyYEdNDYYew) 
-&nbsp;[2] <br>
+&nbsp;[2,29] <br>
 🎹 Arthur Rubinstein 
 &nbsp;(New York: Webster Hall, 1965)
 
@@ -642,12 +638,12 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 	**MUSSORGSKY**, MODEST PETROVICH </span> <br>
 (Russian, 1839–1881)
 
-[1874/1922 arr.]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]:](https://youtu.be/kBg7gVkzUVc) <br>
+[1874/1922]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_] (for Orchestra):](https://youtu.be/kBg7gVkzUVc) <br>
 &nbsp;<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Тюильри [Tuileries]"](https://youtu.be/kBg7gVkzUVc?t=565) <br>
 &nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>V. ["Балет невылупившихся птенцов [Ballet of Unhatched Chicks]"](https://youtu.be/kBg7gVkzUVc?t=821) <br>
 &nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>X. ["Богатырские ворота [The Bogatyr Gates]"](https://youtu.be/kBg7gVkzUVc?t=1492) &nbsp;[1] <br>
 🇺🇸 The Cleveland Orchestra; Lorin Maazel 
-&nbsp;(Cleveland: Masonic Temple Auditorium, 1978)
+&nbsp;(Cleveland: Masonic Auditorium, 1978)
 
 ---
 
@@ -742,10 +738,28 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 	**STRAVINSKY**, IGOR FYODOROVICH </span> <br>
 (Russian–French–American, 1882–1971) 
 
-[1910/1919 arr.]&nbsp; [Suite from _L'Oiseau de feu_, K010](https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI) 
+[1910/1919]&nbsp; [Suite from _L'Oiseau de feu_, K010](https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI) 
 &nbsp;[47] <br>
 🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]
 &nbsp;(1988)
+
+---
+
+[1911]&nbsp; [_Petrouchka_, K012:]() <br>
+&emsp;&emsp;I. ["La foire du mardi gras"](https://youtu.be/eFP_sN4OWmY) <br>
+<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Chez Petrouchka"](https://youtu.be/eTDR4bQuLwU) <br>
+<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Chez le Maure"](https://youtu.be/W-xY7L3TzqA) <br>
+<span style="font-size:0.73em">&emsp;&emsp;</span>IV. ["La foire du mardi gras (la nuit)"](https://youtu.be/bJMCstu7c_w)
+&nbsp;[18] <br>
+🇨🇭 Orchestre de la Suisse Romande; Ernest Ansermet
+&nbsp;(Genève: Victoria Hall, 1957)
+
+---
+
+[1913]&nbsp; [_Le Sacre du printemps_, K015: I. "L'adoration de la terre": "Augures printaniers/danse des adolescentes"](https://youtu.be/4PUlxNXXIV0?t=183) 
+&nbsp;[18] <br>
+🇺🇸 The Cleveland Orchestra; Pierre Boulez
+&nbsp;(Cleveland: Masonic Auditorium, 1991)
 
 ---
 
@@ -753,6 +767,27 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[3,33] <br>
 🌐 vn. Manoug Parikian, cl. Ulysse Delécluse, bn. Henri Helaerts, crt. Maurice André, tbn. Roland Schnorkh, db. Joachim Gut, perc. Charles Peschier; Igor Markevitch 
 &nbsp;(Vevey: Théâtre de Vevey, 1962)
+
+---
+
+[1938]&nbsp; [Concerto in E-flat major, K060: I. Tempo giusto](https://youtu.be/klXjzrGMm3I) 
+&nbsp;[18] <br>
+🇫🇷 Ensemble intercontemporain; Pierre Boulez
+&nbsp;(Paris: Institut de Recherche et Coordination Acoustique/Musique, Centre Pompidou, 1980)
+
+---
+
+[1955]&nbsp; [_Greeting Prelude_, K085](https://youtu.be/zBX7grKsmGU) 
+&nbsp;[18] <br>
+🇺🇸 Columbia Symphony Orchestra; Igor Stravinsky 
+&nbsp;(New York: Manhattan Center, 1963)
+
+---
+
+[1957]&nbsp; [_Agon_, K088: "Pas de deux – Coda)"](https://youtu.be/uBQaZ4ZQIu4) 
+&nbsp;[18] <br>
+🇩🇪 Sinfonieorchester des Südwestfunks Baden-Baden; Hans Rosbaud
+&nbsp;(Loffenau, Baden-Württemberg: Südwest-Tonstudio, 1957)
 
 ---
 ---
@@ -783,7 +818,6 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 (Russian, 1906–1975) 
 
 ---
----
 
 <br>
 
@@ -794,7 +828,6 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 [#next](#modern)&nbsp;
 [#contents](#contents)&nbsp;
 
----
 ---
 
 **CHADWICK**, GEORGE W. <br>
@@ -845,7 +878,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 **PISTON**, WALTER <br>
 (American, 1894–1976) 
 
-[1938/1940 arr.]&nbsp; [Suite from _The Incredible Flutist_](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV) 
+[1938/1940]&nbsp; [Suite from _The Incredible Flutist_](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV) 
 &nbsp;[24] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
 &nbsp;(New York: Manhattan Center, 1963)
@@ -941,7 +974,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1942/1946 arr.]&nbsp; [_Danzón cubano_](https://youtu.be/9M136usGJuI) 
+[1942/1946]&nbsp; [_Danzón cubano_](https://youtu.be/9M136usGJuI) 
 &nbsp;[23] <br>
 🇬🇧 London Symphony Orchestra; Aaron Copland
 &nbsp;(London: Abbey Road Studio No. 1, 1970)
@@ -994,7 +1027,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1957/1960 arr.]&nbsp; [Symphonic Dances from _West Side Story_: ](https://youtu.be/js7vOU8lfYM) <br>
+[1957/1960]&nbsp; [Symphonic Dances from _West Side Story_: ](https://youtu.be/js7vOU8lfYM) <br>
 <span style="font-size:0.73em">&emsp;&emsp;</span>IV. [Mambo. Meno presto](https://youtu.be/NYvEvP2cmdk) <br>
 <span style="font-size:0.9em">&emsp;&emsp;</span>V. [Cha-Cha. Andantino con grazia](https://youtu.be/js7vOU8lfYM?t=689) <br>
 <span style="font-size:0.565em">&emsp;&emsp;</span>VII. ["Cool" Fugue. Allegretto](https://youtu.be/js7vOU8lfYM?t=782) <br> <span style="font-size:0.54em">&emsp;&ensp;</span>VIII. [Rumble. Molto allegro](https://youtu.be/js7vOU8lfYM?t=1020)
@@ -1038,7 +1071,6 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 🇺🇸 New York Philharmonic, tpt. Don Ellis, db. Barre Phillips, perc. Joe Cocuzzo; Leonard Bernstein
 &nbsp;(New York: Philharmonic Hall, 1964)
 
----
 ---
 
 <br>
