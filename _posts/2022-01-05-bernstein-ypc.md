@@ -10,17 +10,27 @@ excerpt: ♬&nbsp;  <br>
 tags: music television
 ---
 
+ 
+
+>[Year of composition]&nbsp; [Title: Section(s)]() 
+>&nbsp;[episode] <br>
+>🏁 Musical ensemble, instrument. soloist(s); conductor
+>&nbsp;(City: recording venue, year)
+
+---
+
+
 ### Contents {#contents}
 
-A.&nbsp; [GERMANIC & BRITISH](#germanic) : 
+A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beethoven—Schubert—Schumann—Wagner—J. Strauss—Brahms—Mahler—R. Strauss—Vaughan Williams—Holst—Webern—Hindemith—Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : 
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rossini—Berlioz—Verdi—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch
 
-C.&nbsp; [SLAVIC & FINNISH](#slavic) : 
+C.&nbsp; [SLAVIC & FINNISH](#slavic) : Chopin—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Стравинский—Прокофьев—Шостакович
 
-D.&nbsp; [AMERICAN](#american) : 
+D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Schuman—Ussachevsky—Gould—Bernstein—Foss—Bucci—Schuller—Austin
 
-E.&nbsp; [TRADITIONAL & POPULAR](#popular) : 
+E.&nbsp; [TRADITIONAL & POPULAR](#popular) 
 
 
 <br/>
@@ -68,8 +78,8 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1721]&nbsp; [_Brandenburgische Konzerte_: No. 4 in G major, BWV 1049: III. Presto](https://youtu.be/glJuKcwf95w) 
-&nbsp;[5] <br>
+[1721]&nbsp; [_Brandenburgische Konzerte_: No. 4 in G major, BWV 1049: I. Allegro](https://youtu.be/jwQlnNgi-wM) & [III. Presto](https://youtu.be/glJuKcwf95w) 
+&nbsp;[5,10] <br>
 🇮🇹 Concerto Italiano; Rinaldo Alessandrini 
 &nbsp;(Roma: Palazzo Farnese, 2006)
 
@@ -105,7 +115,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 (Austrian, 1756–1791) 
 
 [1785]&nbsp; [Piano Concerto No. 21 in C major, K. 467:](https://youtu.be/iG313H9Lyto) [I. Allegro maestoso](https://youtu.be/rcOBSb69pUk) & [II. Andante](https://youtu.be/k8_xOsX2YSY) &nbsp;[5] <br>
-🇬🇧 Academy of St Martin in the Fields, pf. Alfred Brendel; Sir Neville Marriner 
+🇬🇧 Academy of St Martin in the Fields, pf. Alfred Brendel; Neville Marriner 
 &nbsp;(London: Walthamstow Assembly Hall, 1981)
 
 ---
@@ -118,13 +128,13 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 
 [1788]&nbsp; [Piano Sonata No. 16 in C major, K. 545: I. Allegro](https://youtu.be/Lcwjx1Zt5Hs) 
-&nbsp;[1–53] <br>
+&nbsp;[28] <br>
 🎹 Walter Klien (1964)
 
 ---
 
-[1788]&nbsp; [Symphony No. 41 in C major, K. 551: III. Menuetto: Allegretto – Trio](https://youtu.be/E5q6Pu5UYhc) 
-&nbsp;[40] <br>
+[1788]&nbsp; [Symphony No. 41 in C major, K. 551: I. Allegro vivace](https://youtu.be/Xv1-RctSxVQ) & [III. Menuetto: Allegretto – Trio](https://youtu.be/E5q6Pu5UYhc) 
+&nbsp;[28,40] <br>
 🇦🇹 Concentus Musicus Wien; Nikolaus Harnoncourt 
 &nbsp;(Wien: Große Musikvereinssaal, 2013)
 
@@ -167,7 +177,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1808]&nbsp; [Symphony No. 5 in C minor, Op. 67:](https://youtu.be/PNpyRBVTavQ) [I. Allegro con brio](https://youtu.be/PNpyRBVTavQ) & [III. Scherzo. Allegro](https://youtu.be/OFVkyoX5uuQ) &nbsp;[5,16,33,41] <br>
+[1808]&nbsp; [Symphony No. 5 in C minor, Op. 67:](https://youtu.be/PNpyRBVTavQ) [I. Allegro con brio](https://youtu.be/PNpyRBVTavQ) & [III. Scherzo. Allegro](https://youtu.be/OFVkyoX5uuQ) &nbsp;[5,10,16,33,41] <br>
 🇦🇹 Wiener Philharmoniker; Carlos Kleiber 
 &nbsp;(Wien: Große Musikvereinssaal, 1974)
 
@@ -215,6 +225,12 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[5] <br>
 🇺🇸 The Cleveland Orchestra; Széll György [George Szell] 
 &nbsp;(Cleveland: Severance Hall, 1960)
+
+---
+---
+
+**WAGNER**, RICHARD <br> 
+(German, 1813–1883)
 
 ---
 ---
@@ -384,8 +400,22 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
+**DE LA TORRE**, FRANCISCO <br> 
+(Spanish, 1460–1504 ca.) 
+
+[1505–1520 ca.]&nbsp; [La Spagna. Danza alta in D minor, CMP 321 &nbsp;(from _Cancionero de Palacio_)](https://youtu.be/Xj_7wDVDFBw) &nbsp;[10] <br>
+🇨🇭 Hespèrion XXI; Jordi Savall 
+&nbsp;(Cardona, Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
+
+---
+---
+
 **GABRIELI**, GIOVANNI <br> 
 (Italian, 1557–1612) 
+
+[1597]&nbsp; [Canzon per sonar septimi toni à 8: No. 2, Ch. 172 &nbsp;(from _Sacrae symphoniae, Liber 1_)](https://youtu.be/soXG5ndvuFY) &nbsp;[10] <br>
+🇮🇹 Concerto Palatino; Bruce Dickey & Charles Toet 
+&nbsp;(Bologna: Basilica di San Petronio, 1998)
 
 ---
 ---
@@ -453,9 +483,11 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 **BIZET**, GEORGES  <br>
 (French, 1838–1875) 
 
-[1874]&nbsp; [_Carmen_, WD 31: Act I: "L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204)
-&nbsp;[43] <br>
-🇫🇷 Orchestre & Chœur National de la Radiodiffusion Française, sop. Victoria de los Ángeles; Thomas Beecham 
+[1874]&nbsp; [_Carmen_, WD 31: ](https://youtu.be/N8zqZJUx1Mw) <br>
+&emsp;&ensp;Act I: ["L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204)<br>
+&emsp;&ensp;Act III: ["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337)
+&nbsp;[28,43] <br>
+🇫🇷 Orchestre & Chœur National de la Radiodiffusion Française, sop. Victoria de los Ángeles & Janine Micheau; Thomas Beecham 
 &nbsp;(Paris: Salle Wagram, 1958–1959)
 
 ---
@@ -563,11 +595,11 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 **RESPIGHI**, OTTORINO <br> 
 (Italian, 1879–1936) 
 
-[1924]&nbsp; [_I pini di Roma_, P. 141:](https://youtu.be/xSfxI95rZmA) <br> 
-<span style="font-size:1.00em">&emsp;&emsp;</span>I. ["I Pini di Villa Borghese"](https://youtu.be/ZGg3-SUYwMU) <br>
-<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["I Pini presso una catacomba"](https://youtu.be/4W7PFLYQUqY) <br>
-<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["I Pini del Gianicolo"](https://youtu.be/-Kk0Ob92Bus) <br>
-<span style="font-size:0.73em">&emsp;&emsp;</span>IV. ["I Pini della Via Appia"](https://youtu.be/7b5sDyW4dio) &nbsp;[49] <br>
+[1924]&nbsp; [_Pini di Roma_, P. 141:](https://youtu.be/xSfxI95rZmA) <br> 
+<span style="font-size:1.00em">&emsp;&emsp;</span>I. ["Pini di Villa Borghese"](https://youtu.be/ZGg3-SUYwMU) <br>
+<span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Pini presso una catacomba"](https://youtu.be/4W7PFLYQUqY) <br>
+<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Pini del Gianicolo"](https://youtu.be/-Kk0Ob92Bus) <br>
+<span style="font-size:0.73em">&emsp;&emsp;</span>IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio) &nbsp;[49] <br>
 🇺🇸 The Cleveland Orchestra; Lorin Maazel 
 &nbsp;(Cleveland: Masonic Auditorium, 1976)
 
@@ -638,10 +670,10 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 	**MUSSORGSKY**, MODEST PETROVICH </span> <br>
 (Russian, 1839–1881)
 
-[1874/1922]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_] (for Orchestra):](https://youtu.be/kBg7gVkzUVc) <br>
-&nbsp;<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Тюильри [Tuileries]"](https://youtu.be/kBg7gVkzUVc?t=565) <br>
-&nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>V. ["Балет невылупившихся птенцов [Ballet of Unhatched Chicks]"](https://youtu.be/kBg7gVkzUVc?t=821) <br>
-&nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>X. ["Богатырские ворота [The Bogatyr Gates]"](https://youtu.be/kBg7gVkzUVc?t=1492) &nbsp;[1] <br>
+[1874]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_] &nbsp;(orchestral version, 1922):](https://youtu.be/kBg7gVkzUVc) <br>
+&nbsp;<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Тюильри" [Tuileries]](https://youtu.be/kBg7gVkzUVc?t=565) <br>
+&nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>V. ["Балет невылупившихся птенцов" [Ballet of Unhatched Chicks]](https://youtu.be/kBg7gVkzUVc?t=821) <br>
+&nbsp;<span style="font-size:0.9em">&emsp;&emsp;</span>X. ["Богатырские ворота" [The Bogatyr Gates]](https://youtu.be/kBg7gVkzUVc?t=1492) &nbsp;[1] <br>
 🇺🇸 The Cleveland Orchestra; Lorin Maazel 
 &nbsp;(Cleveland: Masonic Auditorium, 1978)
 
@@ -738,7 +770,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 	**STRAVINSKY**, IGOR FYODOROVICH </span> <br>
 (Russian–French–American, 1882–1971) 
 
-[1910/1919]&nbsp; [Suite from _L'Oiseau de feu_, K010](https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI) 
+[1910]&nbsp; [_L'Oiseau de feu_, K010 (Suite, 1919)](https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI) 
 &nbsp;[47] <br>
 🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]
 &nbsp;(1988)
@@ -756,7 +788,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1913]&nbsp; [_Le Sacre du printemps_, K015: I. "L'adoration de la terre": "Augures printaniers/danse des adolescentes"](https://youtu.be/4PUlxNXXIV0?t=183) 
+[1913]&nbsp; [_Le Sacre du printemps_, K015: I. "L'adoration de la terre": "Augures printaniers (danse des adolescentes)"](https://youtu.be/4PUlxNXXIV0?t=183) 
 &nbsp;[18] <br>
 🇺🇸 The Cleveland Orchestra; Pierre Boulez
 &nbsp;(Cleveland: Masonic Auditorium, 1991)
@@ -773,7 +805,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 [1938]&nbsp; [Concerto in E-flat major, K060: I. Tempo giusto](https://youtu.be/klXjzrGMm3I) 
 &nbsp;[18] <br>
 🇫🇷 Ensemble intercontemporain; Pierre Boulez
-&nbsp;(Paris: Institut de Recherche et Coordination Acoustique/Musique, Centre Pompidou, 1980)
+&nbsp;(Paris: Institut de recherche et coordination acoustique/musique, Centre Pompidou, 1980)
 
 ---
 
@@ -784,7 +816,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1957]&nbsp; [_Agon_, K088: "Pas de deux – Coda)"](https://youtu.be/uBQaZ4ZQIu4) 
+[1957]&nbsp; [_Agon_, K088: "Pas de deux – Coda"](https://youtu.be/uBQaZ4ZQIu4) 
 &nbsp;[18] <br>
 🇩🇪 Sinfonieorchester des Südwestfunks Baden-Baden; Hans Rosbaud
 &nbsp;(Loffenau, Baden-Württemberg: Südwest-Tonstudio, 1957)
@@ -797,8 +829,8 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 	**PROKOFIEV**, SERGEI SERGEYEVICH </span> <br>
 (Russian, 1891–1953) 
 
-[1917]&nbsp; [Symphony No. 1 in D major, Op. 25: I. Allegro](https://youtu.be/_FKv9moORv0) 
-&nbsp;[43] <br>
+[1917]&nbsp; [Symphony No. 1 in D major, Op. 25: I. Allegro](https://youtu.be/_FKv9moORv0) & [IV. Finale. Vivace](https://youtu.be/MS6vkBMETEI)
+&nbsp;[28,43] <br>
 🇺🇸 Orpheus Chamber Orchestra 
 &nbsp;(Purchase, New York: The Performing Arts Center, 1987)
 
@@ -875,10 +907,28 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
+**VILLA-LOBOS**, HEITOR <br>
+(Brazilian, 1887–1959) 
+
+[1933]&nbsp; [_Bachianas brasileiras_ No. 2, W247: IV. Toccata "O Trenzinho do Caipira"](https://youtu.be/E3FT9Z3LDKo) 
+&nbsp;[10] <br>
+🇬🇧 London Symphony Orchestra; Eugene Goossens 
+&nbsp;(London: Walthamstow Assembly Hall, 1958)
+
+---
+
+[1945]&nbsp; [_Bachianas brasileiras_ No. 5, W389: I. Ária "Cantilena"](https://youtu.be/RZRhb1NcYsQ) & [II. Dança "Martelo"](https://youtu.be/yTIdNCmuHfA) 
+&nbsp;[23] <br>
+🇫🇷 Orchestre National de la Radiodiffusion Française, sop. Victoria de los Ángeles; Heitor Villa-Lobos 
+&nbsp;(Paris: Salle de la Mutualité, 1956)
+
+---
+---
+
 **PISTON**, WALTER <br>
 (American, 1894–1976) 
 
-[1938/1940]&nbsp; [Suite from _The Incredible Flutist_](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV) 
+[1938]&nbsp; [_The Incredible Flutist_ (Suite, 1940)](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV) 
 &nbsp;[24] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
 &nbsp;(New York: Manhattan Center, 1963)
@@ -904,6 +954,17 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[2] <br>
 🎹 Valentina Woshner Fillinger 
 &nbsp;(Pittsburgh: Skinner Organ, Carnegie Music Hall, 1965)
+
+---
+---
+
+**FERNÁNDEZ**, OSCAR LORENZO <br>
+(Brazilian, 1897–1948) 
+
+[1930]&nbsp; [_Reisado do pastoreio_: III. Batuque](https://youtu.be/cZKcKzUmXYU) 
+&nbsp;[23] <br>
+🇺🇸 New York Philharmonic; Leonard Bernstein
+&nbsp;(New York: Philharmonic Hall, 1963)
 
 ---
 ---
@@ -943,6 +1004,29 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
+**REVUELTAS**, SILVESTRE <br>
+(Mexican, 1899–1940) 
+
+[1937]&nbsp; [_Sensemayá_, R. 48 (orchestral version, R. 67; 1938)](https://youtu.be/zCBDqPyXsdo) 
+&nbsp;[23] <br>
+🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel
+&nbsp;(Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2008)
+
+---
+---
+
+**LUENING**, OTTO <br>
+(American, 1900–1996) 
+
+[1960]&nbsp; [_Concerted Piece for Tape Recorder and Orchestra_](https://youtu.be/WaS8mMxzV1Q) (with Vladimir Ussachevsky) *
+&nbsp;[10] <br>
+🇳🇴 Oslo Filharmoniske Orkester; José Serebrier
+&nbsp;(Oslo & New York: Columbia–Princeton Electronic
+Music Center, 1968)
+
+---
+---
+
 **COPLAND**, AARON <br>
 (American, 1900–1990) 
 
@@ -974,8 +1058,8 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1942/1946]&nbsp; [_Danzón cubano_](https://youtu.be/9M136usGJuI) 
-&nbsp;[23] <br>
+[1942]&nbsp; [_Danzón cubano_ (orchestral version, 1946)](https://youtu.be/9M136usGJuI)
+ &nbsp;[23] <br>
 🇬🇧 London Symphony Orchestra; Aaron Copland
 &nbsp;(London: Abbey Road Studio No. 1, 1970)
 
@@ -1007,6 +1091,20 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 ---
 ---
 
+**USSACHEVSKY**, VLADIMIR <br>
+<span style="font-size:0.85em">
+	**УСАЧЕВСКИЙ**, ВЛАДИМИР АЛЕКСЕЕВИЧ </span> <br>
+(Russian–American, 1911–1990)
+
+[1960]&nbsp; [_Concerted Piece for Tape Recorder and Orchestra_](https://youtu.be/WaS8mMxzV1Q) (with Otto Luening) *
+&nbsp;[10] <br>
+🇳🇴 Oslo Filharmoniske Orkester; José Serebrier
+&nbsp;(Oslo & New York: Columbia–Princeton Electronic
+Music Center, 1968)
+
+---
+---
+
 **GOULD**, MORTON <br>
 (American, 1913–1996)
 
@@ -1027,14 +1125,13 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-[1957/1960]&nbsp; [Symphonic Dances from _West Side Story_: ](https://youtu.be/js7vOU8lfYM) <br>
+[1957]&nbsp; [_West Side Story_ (Symphonic Dances, 1960): ](https://youtu.be/js7vOU8lfYM) <br>
 <span style="font-size:0.73em">&emsp;&emsp;</span>IV. [Mambo. Meno presto](https://youtu.be/NYvEvP2cmdk) <br>
 <span style="font-size:0.9em">&emsp;&emsp;</span>V. [Cha-Cha. Andantino con grazia](https://youtu.be/js7vOU8lfYM?t=689) <br>
 <span style="font-size:0.565em">&emsp;&emsp;</span>VII. ["Cool" Fugue. Allegretto](https://youtu.be/js7vOU8lfYM?t=782) <br> <span style="font-size:0.54em">&emsp;&ensp;</span>VIII. [Rumble. Molto allegro](https://youtu.be/js7vOU8lfYM?t=1020)
 &nbsp;[23] <br>
 🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel
-&nbsp;(Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007)
-&nbsp;(New York: Manhattan Center, 1961) <br>
+&nbsp;(Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007) <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
 &nbsp;(New York: Manhattan Center, 1961)
 
@@ -1048,6 +1145,17 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[45] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
 &nbsp;(New York: Philharmonic Hall, 1967)
+
+---
+---
+
+**BUCCI**, MARK <br>
+(American, 1924–2002) 
+
+[1960]&nbsp; [_Concerto for a Singing Instrument_: Movement III](https://www.bilibili.com/video/BV1CT4y177rf) *  
+&nbsp;[10] <br>
+🇺🇸 New York Philharmonic, kazoo & sop. Anita Darian; Leonard Bernstein
+&nbsp;(New York: Carnegie Hall, 1960)
 
 ---
 ---
@@ -1082,7 +1190,14 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 [#first](#modern)&nbsp;
 [#contents](#contents)&nbsp;
 
-[Trad.]&nbsp; ["Во поле берёза стояла [Little Birch Tree]"](https://youtu.be/ZdnWBZrVpZA) 
+
+[Trad.]&nbsp; ["Ah ! vous dirai-je, maman"](https://youtu.be/bGt6tlQ3b0Q) 
+&nbsp;[28] <br> 
+🎙️ Julie Andrews &nbsp;(1949)
+
+---
+
+[Trad.]&nbsp; ["Во поле берёза стояла" [Little Birch Tree]](https://youtu.be/ZdnWBZrVpZA) 
 &nbsp;[2] <br> 
 🇷🇺 Ансамбль песни и пляски Советской армии имени А. В. Александрова, ten. Гресь, Николай Тимофеевич [Nikolay Gres] &nbsp;(1965)
 
@@ -1112,6 +1227,13 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 &nbsp;[1,43] <br>
 🎼 Walter Schumann <br>
 🎺 Sy Oliver & His Orchestra (1953)
+
+---
+
+[1964]&nbsp; ["And I Love Her"](https://youtu.be/9_c2XZd9mMo) 
+&nbsp;[28] <br>
+🎼 📃 John Lennon & Paul McCartney <br>
+🎸 The Beatles (1964)
 
 ---
 
