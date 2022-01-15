@@ -568,7 +568,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1907]&nbsp; [_Images, 2<sup>e</sup> série_, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
+[1907]&nbsp; [_Images_, 2<sup>e</sup> série, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
 &nbsp;[16] <br>
 🎹 pf. Ivan Moravec 
 &nbsp;(New York: RCA Studio A, 1982)
@@ -588,14 +588,14 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1910]&nbsp; [_Préludes, 1<sup>re</sup> Livre_, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
+[1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
 &nbsp;[16] <br>
 🎹 pf. Arturo Benedetti Michelangeli 
 &nbsp;(Hamburg: Musikhalle, 1978)
 
 ---
 
-[1912]&nbsp; [_Préludes, 2<sup>e</sup> Livre_, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
+[1912]&nbsp; [_Préludes_, 2<sup>e</sup> Livre, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
 &nbsp;[16] <br>
 🎹 pf. Walter Gieseking 
 &nbsp;(London: Abbey Road Studio No. 3, 1954)
