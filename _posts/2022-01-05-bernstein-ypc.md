@@ -24,9 +24,9 @@ A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beet
 
 B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rossini—Berlioz—Verdi—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch–Nono
 
-C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Стравинский—Прокофьев—Шостакович
+C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Глиэр—Стравинский—Прокофьев—Шостакович
 
-D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Schuman—Ussachevsky—Gould—Bernstein—Foss—Bucci—Schuller—Austin
+D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Schuman—Ussachevsky—Gould—Babbitt—Bernstein—Foss—Bucci—Schuller—Austin
 
 E.&nbsp; [ASIAN](#asian) : <span style="font-size:1.0em">黛敏郎 </span>
 
@@ -92,7 +92,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1723]&nbsp; [Invention No. 13 in A minor, BWV 784](https://youtu.be/Q6ZOIV1n5LY)
+[1723]&nbsp; [Invention No. 13 in A minor, BWV 784](https://youtu.be/tsF7Yisq6xY)
 &nbsp;[29] <br>
 🎹 hpd. Blandine Verlet
 &nbsp;(Colmar: Clavecin Ruckers [1624], Musée Unterlinden, 1982)
@@ -266,7 +266,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 [1868]&nbsp; [_Die Meistersinger von Nürnberg_, WWV 96: Prelude to Act I](https://youtu.be/utwbitVEHkc) 
 &nbsp;[29] <br>
 🇦🇹 Wiener Philharmoniker; Georg Solti 
-&nbsp;(Wien: Sofiensäle, 1985)
+&nbsp;(Wien: Sofiensäle, 1975)
 
 ---
 ---
@@ -404,6 +404,13 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 &nbsp;[1] <br>
 🇩🇪 Berliner Philharmoniker; Pierre Boulez 
 &nbsp;(Berlin: Berliner Philharmonie, 1994)
+
+---
+
+[1913]&nbsp; [_Fünf Stücke für Orchester_, Op. 10: I. "Urbild" (Sehr ruhig und zart)](https://youtu.be/Xw9uyPgOrVI) 
+&nbsp;[29] <br>
+🇫🇷 Ensemble intercontemporain; Pierre Boulez
+&nbsp;(Paris: Institut de recherche et coordination acoustique/musique, 1992)
 
 ---
 ---
@@ -676,6 +683,11 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **NONO**, LUIGI <br> 
 (Italian, 1924–1990) 
 
+[1955]&nbsp; [_Incontri per 24 strumenti_](https://youtu.be/iqu-oiG8_HA) 
+&nbsp;[29] <br>
+🇫🇷 Orchestre du Domaine musical; Pierre Boulez 
+&nbsp;(Paris: Théâtre Marigny, 1956)
+
 ---
 
 <br>
@@ -857,6 +869,19 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 ---
 
+**ГЛИЭР**, РЕЙНГОЛЬД МОРИЦЕВИЧ <br> 
+<span style="font-size:0.85em">
+	**GLIÈRE**, REINHOLD MORITZEVICH </span> <br>
+(Russian, 1875–1956) 
+
+[1927]&nbsp; [Красный мак [_The Red Poppy_], Op. 70, Act I: "Яблочко" [Russian Sailor's Dance]](https://youtu.be/ofqzE9JED0g?t=1840)
+&nbsp;[29] <br>
+🇷🇺 Симфонический оркестр Санкт-Петербургской филармонии; Аниханов, Андрей Анатольевич [André Anichanov] 
+&nbsp;(Санкт-Петербург: Дом радио, 1996)
+
+---
+---
+
 **СТРАВИНСКИЙ**, ИГОРЬ ФЁДОРОВИЧ <br> 
 <span style="font-size:0.85em">
 	**STRAVINSKY**, IGOR FYODOROVICH </span> <br>
@@ -897,7 +922,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 [1938]&nbsp; [Concerto in E-flat major, K060: I. Tempo giusto](https://youtu.be/klXjzrGMm3I) 
 &nbsp;[18] <br>
 🇫🇷 Ensemble intercontemporain; Pierre Boulez
-&nbsp;(Paris: Institut de recherche et coordination acoustique/musique, Centre Pompidou, 1980)
+&nbsp;(Paris: Institut de recherche et coordination acoustique/musique, 1980)
 
 ---
 
@@ -1207,6 +1232,17 @@ Music Center, 1968)
 ---
 ---
 
+**BABBITT**, MILTON <br>
+(American, 1916–2011) 
+
+[1948]&nbsp; [_Composition for Twelve Instruments_](https://youtu.be/qkoBD0XGTdo) 
+&nbsp;[29] <br>
+🇺🇸 Boston Modern Orchestra Project; Gil Rose
+&nbsp;(Boston: Jordan Hall, New England Conservatory)
+
+---
+---
+
 **BERNSTEIN**, LEONARD <br>
 (American, 1918–1990) 
 
@@ -1296,7 +1332,7 @@ Music Center, 1968)
 	**MAYUZUMI**, TOSHIRŌ </span> <br>
 (Japanese, 1929–1997)
 
-[1957]&nbsp; [Pieces for Prepared Piano and Strings: I. Prologue](https://youtu.be/9t6PUzltxMI) 
+[1957]&nbsp; [プリペアド・ピアノと弦楽のための小品 &nbsp;[_Pieces for Prepared Piano and Strings_]: I. Prologue](https://youtu.be/9t6PUzltxMI) 
 &nbsp;[29] <br> 
 🇯🇵 pf. <span style="font-size:1.0em">高橋悠治</span>, vn. <span style="font-size:1.0em">植木三郎</span> & <span style="font-size:1.0em">板橋建</span>, va. <span style="font-size:1.0em">江戸純子</span>, vc. <span style="font-size:1.0em">矢島三雄</span>
 &nbsp;(<span style="font-size:1.0em">東京</span>: Nippon Columbia Studio No. 1, 1969)
