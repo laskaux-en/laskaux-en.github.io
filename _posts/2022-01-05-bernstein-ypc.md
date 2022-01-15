@@ -28,7 +28,7 @@ C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—М
 
 D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Schuman—Ussachevsky—Gould—Bernstein—Foss—Bucci—Schuller—Austin
 
-E.&nbsp; [ASIAN](#asian) : <span style="font-size:0.95em">黛敏郎 </span>
+E.&nbsp; [ASIAN](#asian) : <span style="font-size:1.0em">黛敏郎 </span>
 
 F.&nbsp; [TRADITIONAL & POPULAR](#popular) 
 
@@ -1298,8 +1298,8 @@ Music Center, 1968)
 
 [1957]&nbsp; [Pieces for Prepared Piano and Strings: I. Prologue](https://youtu.be/9t6PUzltxMI) 
 &nbsp;[29] <br> 
-🇯🇵 pf. <span style="font-size:0.95em">高橋悠治</span>, vn. <span style="font-size:0.95em">植木三郎</span> & <span style="font-size:0.95em">板橋建</span>, va. <span style="font-size:0.95em">江戸純子</span>, vc. <span style="font-size:0.95em">矢島三雄</span>
-&nbsp;(<span style="font-size:0.95em">東京</span>: Nippon Columbia Studio No. 1, 1969)
+🇯🇵 pf. <span style="font-size:1.0em">高橋悠治</span>, vn. <span style="font-size:1.0em">植木三郎</span> & <span style="font-size:1.0em">板橋建</span>, va. <span style="font-size:1.0em">江戸純子</span>, vc. <span style="font-size:1.0em">矢島三雄</span>
+&nbsp;(<span style="font-size:1.0em">東京</span>: Nippon Columbia Studio No. 1, 1969)
 
 ---
 
