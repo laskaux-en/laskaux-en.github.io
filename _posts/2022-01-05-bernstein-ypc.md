@@ -10,11 +10,9 @@ excerpt: ♬&nbsp;  <br>
 tags: music television
 ---
 
- 
-
->[Year of composition]&nbsp; [Title: Section(s)]() 
+>[Year of composition]&nbsp; [Title: Section]() 
 >&nbsp;[episode] <br>
->🏁 Musical ensemble, instrument. soloist(s); conductor
+>🏁 Musical ensemble, soloists; conductor
 >&nbsp;(City: recording venue, year)
 
 ---
@@ -22,15 +20,17 @@ tags: music television
 
 ### Contents {#contents}
 
-A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beethoven—Schubert—Schumann—Wagner—J. Strauss—Brahms—Mahler—R. Strauss—Vaughan Williams—Holst—Webern—Hindemith—Walton
+A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beethoven—Schubert—Mendelssohn–Schumann—Wagner—J. Strauss—Brahms—Mahler—R. Strauss—Vaughan Williams—Holst—Webern—Hindemith—Walton
 
 B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rossini—Berlioz—Verdi—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch
 
-C.&nbsp; [SLAVIC & FINNISH](#slavic) : Chopin—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Стравинский—Прокофьев—Шостакович
+C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Стравинский—Прокофьев—Шостакович
 
 D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Schuman—Ussachevsky—Gould—Bernstein—Foss—Bucci—Schuller—Austin
 
-E.&nbsp; [TRADITIONAL & POPULAR](#popular) 
+E.&nbsp; [ASIAN](#asian) : <span style="font-size:0.95em">黛敏郎 </span>
+
+F.&nbsp; [TRADITIONAL & POPULAR](#popular) 
 
 
 <br/>
@@ -85,8 +85,8 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1721]&nbsp; [_Brandenburgische Konzerte_: No. 5 in D major, BWV 1050: I. Allegro](https://youtu.be/PLRwUDmsdpA) 
-&nbsp;[45] <br>
+[1721]&nbsp; [_Brandenburgische Konzerte_: No. 5 in D major, BWV 1050: I. Allegro](https://youtu.be/PLRwUDmsdpA) & [III. Allegro](https://youtu.be/HNnjpXHzDU0)
+&nbsp;[7,45] <br>
 🇫🇷 Café Zimmermann
 &nbsp;(Paris: Chapelle de l'hôpital Notre-Dame de Bon Secours, 2000–2001)
 
@@ -99,20 +99,26 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 [1787]&nbsp; [Symphony No. 88 in G major, Hob. I:88: II. Largo](https://youtu.be/6SVay5IH6Sg) 
 &nbsp;[33] <br>
 🇨🇦 Tafelmusik Baroque Orchestra; Bruno Weil 
-&nbsp;(Haarlem: Doopsgezinde kerk, 1994)
+&nbsp;(Haarlem: Grote Vermaning, 1994)
 
 ---
 
-[1794]&nbsp; [Symphony No. 102 in B-flat major, Hob. I:102: IV. Finale. Presto](https://youtu.be/GqUisABUuXQ) 
+[1794]&nbsp; [Symphony No. 102 in B-flat major, Hob. I:102: IV. Finale. Presto](https://youtu.be/3bmAZYIEkFU) 
 &nbsp;[5] <br>
-🇳🇱 Koninklijk Concertgebouworkest; Colin Davis 
-&nbsp;(Amsterdam: Koninklijk Concertgebouw, 1979)
+🇧🇪 La Petite Bande; Sigiswald Kuijken 
+&nbsp;(Haarlem: Grote Vermaning, 1994)
 
 ---
 ---
 
 **MOZART**, WOLFGANG AMADEUS <br> 
 (Austrian, 1756–1791) 
+
+[1779]&nbsp; [Sinfonia Concertante in E-flat major, K. 364:](https://youtu.be/Z6uYwrzYLH8) [II. Andante](https://youtu.be/Z6uYwrzYLH8?t=741) &nbsp;[7] <br>
+🇮🇹 Orchestra Mozart, vn. Giuliano Carmignola, va. Danusha Waśkiewicz; Claudio Abbado 
+&nbsp;(Bologna: Salone Bolognini, Convento San Domenico, 2007)
+
+---
 
 [1785]&nbsp; [Piano Concerto No. 21 in C major, K. 467:](https://youtu.be/iG313H9Lyto) [I. Allegro maestoso](https://youtu.be/rcOBSb69pUk) & [II. Andante](https://youtu.be/k8_xOsX2YSY) &nbsp;[5] <br>
 🇬🇧 Academy of St Martin in the Fields, pf. Alfred Brendel; Neville Marriner 
@@ -204,6 +210,13 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
+[1814]&nbsp; [_Fidelio_, Op. 72:]() 
+&nbsp;[48] <br>
+🇦🇹 Wiener Philharmoniker, Wiener Staatsopernchor; Lorin Maazel <br>
+&nbsp;(Wien: Sofiensäle, 1964)
+
+---
+
 [1824]&nbsp; [Symphony No. 9 in D minor, Op. 125: ](https://youtu.be/ns0DK_7w3oo) [II. Scherzo. Molto vivace – Presto](https://youtu.be/ns0DK_7w3oo?t=1026) 
 &nbsp;[43] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
@@ -214,6 +227,17 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **SCHUBERT**, FRANZ <br> 
 (Austrian, 1797–1828) 
+
+---
+---
+
+**MENDELSSOHN**, FELIX <br>
+(German, 1809–1847)
+
+[1844]&nbsp; [Violin Concerto in E minor, Op. 64: III. Allegro non troppo – Allegro molto vivace](https://youtu.be/mdsqJwjlHvU) 
+&nbsp;[7] <br>
+🇳🇱 Koninklijk Concertgebouworkest, vn. Henryk Szeryng; Bernard Haitink 
+&nbsp;(Amsterdam: Koninklijk Concertgebouw, 1976)
 
 ---
 ---
@@ -289,7 +313,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **MAHLER**, GUSTAV <br> 
 (Austro-Bohemian, 1860–1911) 
 
-[1899]&nbsp; [_Des Knaben Wunderhorn_]() <br>
+[1899]&nbsp; [_Des Knaben Wunderhorn_:]() <br>
 <span style="font-size:0.835em">&emsp;&emsp;</span>II. ["Verlor'ne Müh"](https://youtu.be/GjnZ1U46fLw) <br>
 <span style="font-size:0.73em">&emsp;&emsp;</span>VI. ["Des Antonius von Padua Fischpredigt"](https://youtu.be/3-B7o3dFw7E) <br>
 <span style="font-size:0.565em">&emsp;&emsp;</span>VII. ["Rheinlegendchen"](https://youtu.be/CRC-ub2oUtg) 
@@ -384,7 +408,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 [1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4) 
 &nbsp;[20] <br>
 🇩🇪 Berliner Philharmoniker, nar. Barbara Hannigan; Simon Rattle
-&nbsp;(Berlin: Berliner Philharmonie, 2012)
+&nbsp;(Berlin: Kammermusiksaal, Berliner Philharmonie, 2012)
 
 ---
 
@@ -413,7 +437,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **GABRIELI**, GIOVANNI <br> 
 (Italian, 1557–1612) 
 
-[1597]&nbsp; [Canzon per sonar septimi toni à 8: No. 2, Ch. 172 &nbsp;(from _Sacrae symphoniae, Liber 1_)](https://youtu.be/soXG5ndvuFY) &nbsp;[10] <br>
+[1597]&nbsp; [Canzon per sonar septimi toni à 8: No. 2, Ch. 172 &nbsp;(from _Sacrae symphoniae_, Liber 1)](https://youtu.be/soXG5ndvuFY) &nbsp;[10] <br>
 🇮🇹 Concerto Palatino; Bruce Dickey & Charles Toet 
 &nbsp;(Bologna: Basilica di San Petronio, 1998)
 
@@ -426,6 +450,12 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 [1711]&nbsp; [_L'estro armonico_, Op. 3: Concerto No. 10 in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA) &nbsp;[20] <br>
 🇮🇹 I Solisti Veneti, vn. Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, & Stefano Zanchetta; Claudio Scimone 
 &nbsp;(Torino: Palazzina di caccia di Stupinigi, 1987)
+
+---
+
+[1740]&nbsp; [Concerto in C major, RV 558: I. Allegro molto](https://youtu.be/xVZ5I1GXipk) &nbsp;[7] <br>
+🇮🇹 Europa Galante; Fabio Biondi 
+&nbsp;(Parma: Abbazia di San Giovanni Evangelista, 2002)
 
 ---
 ---
@@ -483,7 +513,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **BIZET**, GEORGES  <br>
 (French, 1838–1875) 
 
-[1874]&nbsp; [_Carmen_, WD 31: ](https://youtu.be/N8zqZJUx1Mw) <br>
+[1874]&nbsp; [_Carmen_, WD 31](https://youtu.be/N8zqZJUx1Mw) <br>
 &emsp;&ensp;Act I: ["L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204)<br>
 &emsp;&ensp;Act III: ["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337)
 &nbsp;[28,43] <br>
@@ -500,6 +530,13 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 &nbsp;[3,12] <br>
 🇩🇪 Berliner Philharmoniker, fl. Karlheinz Zöller; Herbert von Karajan 
 &nbsp;(Berlin: Jesus-Christus-Kirche Dahlem, 1964)
+
+---
+
+[1894]&nbsp; [_Nocturnes_, L. 91, CD 98:](https://youtu.be/WE8_pvtaXNQ) [II. "Fêtes"](https://youtu.be/w7Lj6tv9lwg) 
+&nbsp;[36] <br>
+🇳🇱 Koninklijk Concertgebouworkest; Bernard Haitink
+&nbsp;(Amsterdam: Koninklijk Concertgebouw, 1979)
 
 ---
 
@@ -582,7 +619,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **DE FALLA**, MANUEL <br> 
 (Spanish, 1876–1946)
 
-[1919]&nbsp; [_El sombrero de tres picos_: ](https://youtu.be/kDkjcdkZ7Dc) <br>
+[1919]&nbsp; [_El sombrero de tres picos_](https://youtu.be/kDkjcdkZ7Dc) <br>
 &emsp;&ensp;Act I: ["Introducción"](https://youtu.be/qxfG4X2Xru8), ["La tarde"](https://youtu.be/4s9sdGNPd5M), & ["Danza de la molinera" (Fandango)](https://youtu.be/oos034Z7CRU) <br>
 &emsp;&ensp;Act II: ["Danza del molinero" (Farruca)](https://youtu.be/MSmEJxfsV3A) & ["Danza final" (Jota)](https://youtu.be/fTjkZWYhexk) 
 &nbsp;[17,29] <br>
@@ -654,6 +691,12 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 ---
 
+**LISZT**, FERENC [FRANZ] <br> 
+(Hungarian, 1811–1886) 
+
+---
+---
+
 **SMETANA**, BEDŘICH <br> 
 (Czech, 1824–1884) 
 
@@ -669,6 +712,10 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 <span style="font-size:0.85em">
 	**MUSSORGSKY**, MODEST PETROVICH </span> <br>
 (Russian, 1839–1881)
+
+[1873]&nbsp; [Борис Годунов [_Boris Godunov_]:]() <br>
+
+---
 
 [1874]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_] &nbsp;(orchestral version, 1922):](https://youtu.be/kBg7gVkzUVc) <br>
 &nbsp;<span style="font-size:0.67em">&emsp;&emsp;</span>III. ["Тюильри" [Tuileries]](https://youtu.be/kBg7gVkzUVc?t=565) <br>
@@ -692,7 +739,9 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 	**TCHAIKOVSKY**, PYOTR ILYICH </span> <br>
 (Russian, 1840–1893)
 
-[1876]&nbsp; [Лебединое озеро [_Swan Lake_], Op. 20, TH 12:](https://youtu.be/syhogh0C-FI) Act I: [No. 5. Pas de deux](https://youtu.be/syhogh0C-FI?t=1265) & Act II: [No. 10. Scène: Moderato](https://youtu.be/Tb5Oj6ghJQM)
+[1876]&nbsp; [Лебединое озеро [_Swan Lake_], Op. 20, TH 12](https://youtu.be/syhogh0C-FI) <br>
+&emsp;&ensp;Act I: [Pas de deux](https://youtu.be/syhogh0C-FI?t=1265) <br>
+&emsp;&ensp;Act II: [Scène. Moderato](https://youtu.be/Tb5Oj6ghJQM)
 &nbsp;[47] <br>
 🇷🇺 Государственный академический симфонический оркестр СССР, vn. Yuri Torchinsky; Светланов, Евгений Фёдорович [Evgeny Svetlanov]
 &nbsp;(Москва: Англиканская церковь Святого Андрея, 1988) <br>
@@ -720,7 +769,9 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71, TH 14: Act II: "Вальс цветов [Waltz of the Flowers]"](https://youtu.be/zt29NKCpbOA) 
+[1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71, TH 14](https://youtu.be/jA1-3Xgpf7Q)
+<br>
+&emsp;&ensp;Act II: ["Вальс цветов" [Waltz of the Flowers]](https://youtu.be/zt29NKCpbOA) 
 &nbsp;[43] <br>
 🇩🇪 Berliner Philharmoniker; Ростропович, Мстислав Леопольдович [Mstislav Rostropovich] 
 &nbsp;(Berlin: Berliner Philharmonie, 1978)
@@ -751,7 +802,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1888]&nbsp; [Шехеразада [_Scheherazade_], Op. 35: I. "Море и Синдбадов корабль [The Sea and Sinbad's Ship]"](https://youtu.be/oFcyqZhhrb8)
+[1888]&nbsp; [Шехеразада [_Scheherazade_], Op. 35: I. "Море и Синдбадов корабль" [The Sea and Sinbad's Ship]](https://youtu.be/oFcyqZhhrb8)
 &nbsp;[5] <br>
 🇬🇧 Royal Philharmonic Orchestra; Thomas Beecham 
 &nbsp;(London: Kingsway Hall, 1957)
@@ -761,6 +812,22 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **SIBELIUS**, JEAN <br> 
 (Finnish, 1865–1957) 
+
+[1923]&nbsp; [Symphony No. 6 in D minor, Op. 104: I. Allegro molto moderato](https://youtu.be/z8jlX5R_lxc)
+&nbsp;[36] <br>
+🇩🇪 Berliner Philharmoniker; Herbert von Karajan 
+&nbsp;(Berlin: Jesus-Christus-Kirche Dahlem, 1967)
+
+---
+---
+
+**BARTÓK**, BÉLA <br> 
+(Hungarian, 1881–1945) 
+
+[1943]&nbsp; [Concerto for Orchestra in F minor, Sz. 116, BB 123:](https://youtu.be/clzcGIdMaN0) [IV. Intermezzo interrotto. Allegretto](https://youtu.be/RSWptWsQmAU) & [V. Finale. Pesante – Presto](https://youtu.be/xNoD_dOq9R0) 
+&nbsp;[7] <br>
+🇺🇸 Chicago Symphony Orchestra; Fritz Reiner 
+&nbsp;(Chicago: Orchestra Hall, 1955)
 
 ---
 ---
@@ -809,10 +876,10 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1955]&nbsp; [_Greeting Prelude_, K085](https://youtu.be/zBX7grKsmGU) 
+[1955]&nbsp; [_Greeting Prelude_, K085](https://youtu.be/_r4GF-iYx94) 
 &nbsp;[18] <br>
-🇺🇸 Columbia Symphony Orchestra; Igor Stravinsky 
-&nbsp;(New York: Manhattan Center, 1963)
+🇳🇴 Oslo Filharmoniske Orkester; Петренко, Василий Эдуардович [Vasily Petrenko]
+&nbsp;(Oslo: Oslo Konserthus, 2019)
 
 ---
 
@@ -876,7 +943,7 @@ E.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **MacDOWELL**, EDWARD <br>
 (American, 1860–1908)
 
-[1892]&nbsp; [Suite No. 2, Op. 48: I. "Legend"](https://youtu.be/a7UbizvyC-k) 
+[1896]&nbsp; [Suite No. 2, Op. 48: I. "Legend"](https://youtu.be/a7UbizvyC-k) 
 &nbsp;[2] <br>
 🇬🇧 Royal Philharmonic Orchestra; Karl Krueger
 &nbsp;(1967)
@@ -1118,6 +1185,13 @@ Music Center, 1968)
 **BERNSTEIN**, LEONARD <br>
 (American, 1918–1990) 
 
+[1956]&nbsp; [_Fancy Free_: Danzón]() 
+&nbsp;[36] <br>
+🇺🇸 New York Philharmonic; Leonard Bernstein
+&nbsp;(New York: Manhattan Center, 1960)
+
+---
+
 [1956]&nbsp; [_Candide_: Overture](https://youtu.be/H45NlnCX9Q0) 
 &nbsp;[12] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein
@@ -1166,7 +1240,7 @@ Music Center, 1968)
 [1962]&nbsp; [_Journey into Jazz_](https://youtu.be/zwd9QqzVmvU) 
 &nbsp;[27] <br>
 🇺🇸 Orchestra U.S.A., nar. Skitch Henderson; Gunther Schuller
-&nbsp;(1963)
+&nbsp;(New York: Brooklyn Academy of Music, 1964)
 
 ---
 ---
@@ -1184,22 +1258,52 @@ Music Center, 1968)
 <br>
 
 
-### E.&nbsp; Traditional & Popular {#popular}
+### E.&nbsp; Asian {#asian}
+
+[#previous]()&nbsp;
+[#next](#modern)&nbsp;
+[#contents](#contents)&nbsp;
+
+---
+
+**黛** 敏郎 <br>
+<span style="font-size:0.85em">
+	**MAYUZUMI**, TOSHIRŌ </span> <br>
+(Japanese, 1929–1997)
+
+[1957]&nbsp; [Pieces for Prepared Piano and Strings: I. Prologue](https://youtu.be/9t6PUzltxMI) 
+&nbsp;[29] <br> 
+🇯🇵 pf. <span style="font-size:0.95em">高橋悠治</span>, vn. <span style="font-size:0.95em">植木三郎</span> & <span style="font-size:0.95em">板橋建</span>, va. <span style="font-size:0.95em">江戸純子</span>, vc. <span style="font-size:0.95em">矢島三雄</span>
+&nbsp;(<span style="font-size:0.95em">東京</span>: Nippon Columbia Studio No. 1, 1969)
+
+---
+
+<br>
+
+
+### F.&nbsp; Traditional & Popular {#popular}
 
 [#previous]()&nbsp;
 [#first](#modern)&nbsp;
 [#contents](#contents)&nbsp;
 
 
-[Trad.]&nbsp; ["Ah ! vous dirai-je, maman"](https://youtu.be/bGt6tlQ3b0Q) 
-&nbsp;[28] <br> 
-🎙️ Julie Andrews &nbsp;(1949)
+[Trad.]&nbsp; ["Victimae paschali laudes" (Sequentia)](https://youtu.be/9XO6kBrRtYU) 
+&nbsp;[36] <br>
+🇳🇴 Consortium Vocale Oslo; Alexander M. Schweitzer
+&nbsp;(Denklingen, Oberbayern: Kirche St. Stephan, 2011)
 
 ---
 
 [Trad.]&nbsp; ["Во поле берёза стояла" [Little Birch Tree]](https://youtu.be/ZdnWBZrVpZA) 
 &nbsp;[2] <br> 
 🇷🇺 Ансамбль песни и пляски Советской армии имени А. В. Александрова, ten. Гресь, Николай Тимофеевич [Nikolay Gres] &nbsp;(1965)
+
+---
+
+[Trad.]&nbsp; ["Ah ! vous dirai-je, maman"](https://youtu.be/bGt6tlQ3b0Q) 
+&nbsp;[28] <br> 
+🎙️ Julie Andrews &nbsp;(1949)
 
 ---
 
@@ -1234,6 +1338,20 @@ Music Center, 1968)
 &nbsp;[28] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
 🎸 The Beatles (1964)
+
+---
+
+[1965]&nbsp; ["Secret Agent Man"](https://youtu.be/7hPm4eiiD08) 
+&nbsp;[36] <br>
+🎼 📃 Philip Gary Sloan & Steve Barri <br>
+🎸 Johnny Rivers (1966)
+
+---
+
+[1966]&nbsp; ["Along Comes Mary"](https://youtu.be/URUd5RUAz1I) 
+&nbsp;[36] <br>
+🎼 📃 Tandyn Almer <br>
+🎸 The Association (1966)
 
 ---
 
