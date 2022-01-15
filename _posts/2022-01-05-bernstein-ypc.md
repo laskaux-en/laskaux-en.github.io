@@ -22,7 +22,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beethoven—Schubert—Mendelssohn–Schumann—Wagner—J. Strauss—Brahms—Mahler—R. Strauss—Vaughan Williams—Holst—Webern—Hindemith—Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rossini—Berlioz—Verdi—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rossini—Berlioz—Verdi—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch–Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Стравинский—Прокофьев—Шостакович
 
@@ -59,14 +59,14 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1707]&nbsp; [Fugue in G minor, BWV 578](https://youtu.be/_DzO49kC9HA?t=6) 
 &nbsp;[45] <br>
-🎹 Ton Koopman
-&nbsp;(Maassluis: Orgel Garrels, Groote Kerk, 1994)
+🎹 org. Ton Koopman
+&nbsp;(Maassluis: Orgel Garrels [1732], Groote Kerk, 1994)
 
 ---
 
 [1720]&nbsp; [Partita No. 3 in E major, BWV 1006: I. Preludio](https://youtu.be/6gnmW-_0w2g) 
 &nbsp;[33,45] <br>
-🎻 Nathan Milstein 
+🎻 vn. Nathan Milstein 
 &nbsp;(London: Conway Hall, 1974)
 
 ---
@@ -89,6 +89,13 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 &nbsp;[7,45] <br>
 🇫🇷 Café Zimmermann
 &nbsp;(Paris: Chapelle de l'hôpital Notre-Dame de Bon Secours, 2000–2001)
+
+---
+
+[1723]&nbsp; [Invention No. 13 in A minor, BWV 784](https://youtu.be/Q6ZOIV1n5LY)
+&nbsp;[29] <br>
+🎹 hpd. Blandine Verlet
+&nbsp;(Colmar: Clavecin Ruckers [1624], Musée Unterlinden, 1982)
 
 ---
 ---
@@ -135,7 +142,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1788]&nbsp; [Piano Sonata No. 16 in C major, K. 545: I. Allegro](https://youtu.be/Lcwjx1Zt5Hs) 
 &nbsp;[28] <br>
-🎹 Walter Klien (1964)
+🎹 pf. Walter Klien (1964)
 
 ---
 
@@ -159,7 +166,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1804]&nbsp; [Piano Sonata No. 21 in C major, Op. 53: I. Allegro con brio](https://youtu.be/mKPBJp8Et_4) 
 &nbsp;[1] <br>
-🎹 Гилельс, Эмиль Григорьевич [Emil Gilels] 
+🎹 pf. Гилельс, Эмиль Григорьевич [Emil Gilels] 
 &nbsp;(Berlin: UFA-Tonstudio, 1972)
 
 ---
@@ -255,6 +262,11 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **WAGNER**, RICHARD <br> 
 (German, 1813–1883)
+
+[1868]&nbsp; [_Die Meistersinger von Nürnberg_, WWV 96: Prelude to Act I](https://youtu.be/utwbitVEHkc) 
+&nbsp;[29] <br>
+🇦🇹 Wiener Philharmoniker; Georg Solti 
+&nbsp;(Wien: Sofiensäle, 1985)
 
 ---
 ---
@@ -502,6 +514,13 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **VERDI**, GIUSEPPE <br> 
 (Italian, 1813–1901) 
 
+[1853]&nbsp; [_La traviata_, Act I: "Sempre libera"](https://youtu.be/8XWDFuXiAcs?t=479) 
+&nbsp;[29] <br>
+🇬🇧 National Philharmonic Orchestra, sop. Joan Sutherland, ten. Luciano Pavarotti; Richard Bonynge 
+&nbsp;(London: Kingsway Hall, 1979)
+
+---
+
 [1874]&nbsp; [_Messa da Requiem_: II.1. Dies irae](https://youtu.be/6Mff3-1aM_Y) 
 &nbsp;[33] <br>
 🇺🇸 Atlanta Symphony Orchestra & Chorus; Robert Shaw 
@@ -551,14 +570,14 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1907]&nbsp; [_Images, 2<sup>e</sup> série_, L. 111, CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw) 
 &nbsp;[16] <br>
-🎹 Ivan Moravec 
+🎹 pf. Ivan Moravec 
 &nbsp;(New York: RCA Studio A, 1982)
 
 ---
 
 [1908]&nbsp; [_Children's Corner_, L. 113, CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE) 
 &nbsp;[16] <br>
-🎹 Jean-Yves Thibaudet 
+🎹 pf. Jean-Yves Thibaudet 
 &nbsp;(Dunwich, Suffolk: Potton Hall, 1998)
 
 ---
@@ -571,14 +590,14 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1910]&nbsp; [_Préludes, 1<sup>re</sup> Livre_, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
 &nbsp;[16] <br>
-🎹 Arturo Benedetti Michelangeli 
+🎹 pf. Arturo Benedetti Michelangeli 
 &nbsp;(Hamburg: Musikhalle, 1978)
 
 ---
 
 [1912]&nbsp; [_Préludes, 2<sup>e</sup> Livre_, L. 123, CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM) 
 &nbsp;[16] <br>
-🎹 Walter Gieseking 
+🎹 pf. Walter Gieseking 
 &nbsp;(London: Abbey Road Studio No. 3, 1954)
 
 ---
@@ -646,10 +665,16 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **BLOCH**, ERNEST <br> 
 (Swiss–American, 1880–1959) 
 
-[1916]&nbsp; [_Schelomo, Rhapsodie hébraïque pour violoncelle et orchestre_, B. 39](https://youtu.be/M3E3eR5pbv8) 
+[1916]&nbsp; [_Schelomo: Rhapsodie hébraïque pour violoncelle et orchestre_, B. 39](https://youtu.be/M3E3eR5pbv8) 
 &nbsp;[17] <br>
 🇩🇪 Berliner Philharmoniker, vc. Pierre Fournier; Alfred Wallenstein 
 &nbsp;(Berlin: UFA-Tonstudio, 1966)
+
+---
+---
+
+**NONO**, LUIGI <br> 
+(Italian, 1924–1990) 
 
 ---
 
@@ -671,21 +696,21 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1832]&nbsp; [Mazurkas, Op. 7: No. 1 in B-flat major](https://youtu.be/nyYEdNDYYew) 
 &nbsp;[2,29] <br>
-🎹 Arthur Rubinstein 
+🎹 pf. Arthur Rubinstein 
 &nbsp;(New York: Webster Hall, 1965)
 
 ---
 
 [1833]&nbsp; [Nocturnes, Op. 15: No. 2 in F-sharp major](https://youtu.be/efLxMjeSb_Y) 
 &nbsp;[1] <br>
-🎹 Claudio Arrau 
+🎹 pf. Claudio Arrau 
 &nbsp;(Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)
 
 ---
 
 [1841]&nbsp; [Fantaisie in F minor, Op. 49](https://youtu.be/semT39kGelA) 
 &nbsp;[5] <br>
-🎹 Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
+🎹 pf. Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
 &nbsp;(London: Kingsway Hall, 1979)
 
 ---
@@ -864,7 +889,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1917]&nbsp; [_L'Histoire du soldat_, K029: "Marche royale"](https://youtu.be/Hsa1aNyI7QU) 
 &nbsp;[3,33] <br>
-🌐 vn. Manoug Parikian, cl. Ulysse Delécluse, bn. Henri Helaerts, crt. Maurice André, tbn. Roland Schnorkh, db. Joachim Gut, perc. Charles Peschier; Igor Markevitch 
+🇪🇺 vn. Manoug Parikian, cl. Ulysse Delécluse, bn. Henri Helaerts, crt. Maurice André, tbn. Roland Schnorkh, db. Joachim Gut, perc. Charles Peschier; Igor Markevitch 
 &nbsp;(Vevey: Théâtre de Vevey, 1962)
 
 ---
@@ -1019,8 +1044,8 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1926]&nbsp; [Chorale Prelude No. 3: Ben ritmato](https://youtu.be/O4MPIWLClKk?t=578) 
 &nbsp;[2] <br>
-🎹 Valentina Woshner Fillinger 
-&nbsp;(Pittsburgh: Skinner Organ, Carnegie Music Hall, 1965)
+🎹 org. Valentina Woshner Fillinger 
+&nbsp;(Pittsburgh: Skinner Organ [1933], Carnegie Music Hall, 1965)
 
 ---
 ---
@@ -1141,7 +1166,7 @@ Music Center, 1968)
 
 [1952 arr.]&nbsp; [_Old American Songs_, Set 2: "The Little Horses"](https://youtu.be/0DHeDBrd_Ls) 
 &nbsp;[20] <br>
-🎙️ Roberta Alexander, pf. Roger Vignoles
+🎙️ sop. Roberta Alexander, pf. Roger Vignoles
 &nbsp;(Cambridge: West Road Concert Hall, 1990)
 
 ---
@@ -1303,13 +1328,13 @@ Music Center, 1968)
 
 [Trad.]&nbsp; ["Ah ! vous dirai-je, maman"](https://youtu.be/bGt6tlQ3b0Q) 
 &nbsp;[28] <br> 
-🎙️ Julie Andrews &nbsp;(1949)
+🎙️ sop. Julie Andrews &nbsp;(1949)
 
 ---
 
 [Trad.]&nbsp; ["The Irish Washerwoman"](https://youtu.be/LlVXk75M4RQ) 
 &nbsp;[2] <br> 
-🎻 Liz Doherty, Paula Doohan, Séamus Gibson, Kevin Glackin, Séamus Glackin, Proinsias O Maonaigh, Dermot McLaughlin, Mairéad Ní Mhaonaigh, Tommy Peoples, & Ciaran Tourish &nbsp;(1991)
+🎻 vn. Liz Doherty, Paula Doohan, Séamus Gibson, Kevin Glackin, Séamus Glackin, Proinsias O Maonaigh, Dermot McLaughlin, Mairéad Ní Mhaonaigh, Tommy Peoples, & Ciaran Tourish &nbsp;(1991)
 
 ---
 
