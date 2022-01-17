@@ -676,7 +676,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 
 [1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) & [X. "La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)
-&nbsp;[16] <br>
+&nbsp;[16,36] <br>
 🎹 pf. Arturo Benedetti Michelangeli 
 &nbsp;(Hamburg: Musikhalle, 1978)
 
@@ -781,7 +781,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 
 
-### C.&nbsp; Slavic & Finnish {#slavic}
+### C.&nbsp; Slavic, Hungarian, & Finnish {#slavic}
 
 [#previous]()&nbsp;
 [#next](#modern)&nbsp;
@@ -826,7 +826,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 (Hungarian, 1811–1886) 
 
 [1847]&nbsp; [_Magyar rapszódiák_, S. 244: No. 2 in C-sharp minor](https://youtu.be/VbV0E7qRh0Y) 
-&nbsp;[29] <br>
+&nbsp;[29,36] <br>
 🎹 pf. Cziffra György [Georges Cziffra] 
 &nbsp;(Paris: Salle Wagram, 1972–1975)
 
@@ -945,7 +945,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 
 [1888]&nbsp; [Шехеразада [_Scheherazade_], Op. 35: I. "Море и Синдбадов корабль" [The Sea and Sinbad's Ship]](https://youtu.be/oFcyqZhhrb8)
-&nbsp;[5] <br>
+&nbsp;[5,36] <br>
 🇬🇧 Royal Philharmonic Orchestra; Thomas Beecham 
 &nbsp;(London: Kingsway Hall, 1957)
 
