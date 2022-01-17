@@ -26,7 +26,7 @@ B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Глиэр—Стравинский—Прокофьев—Шостакович
 
-D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Schuman—Ussachevsky—Gould—Babbitt—Bernstein—Foss—Bucci—Schuller—Austin
+D.&nbsp; [AMERICAN](#american) : Chadwick—MacDowell—Gilbert—Ives—Villa-Lobos—Piston—Thomson—Sessions—Fernández—Harris—Gershwin—Thompson—Revueltas—Luening—Copland—Goodman—Schuman—Ussachevsky—Gould—Babbitt—Bernstein—Foss—Bucci—Schuller—Austin
 
 E.&nbsp; [ASIAN](#asian) : <span style="font-size:0.95em">黛敏郎 </span>
 
@@ -212,9 +212,9 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 
 [1808]&nbsp; [Symphony No. 5 in C minor, Op. 67:](https://youtu.be/PNpyRBVTavQ)  <br>
-<span style="font-size:0.96em">&emsp;&emsp;</span> I. [Allegro con brio](https://youtu.be/PNpyRBVTavQ) <br>
-<span style="font-size:0.77em">&emsp;&emsp;</span>III. [Scherzo. Allegro](https://youtu.be/OFVkyoX5uuQ) <br>
-<span style="font-size:0.83em">&emsp;&emsp;</span>IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)
+<span style="font-size:0.96em">&emsp;&emsp;</span> &nbsp;I. [Allegro con brio](https://youtu.be/PNpyRBVTavQ) <br>
+<span style="font-size:0.77em">&emsp;&emsp;</span> III. [Scherzo. Allegro](https://youtu.be/OFVkyoX5uuQ) <br>
+<span style="font-size:0.83em">&emsp;&emsp;</span> IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)
 &nbsp;[5,10,16,21,33,36,41] <br>
 🇦🇹 Wiener Philharmoniker; Carlos Kleiber 
 &nbsp;(Wien: Große Musikvereinssaal, 1974)
@@ -262,6 +262,9 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **SCHUBERT**, FRANZ <br> 
 (Austrian, 1797–1828) 
+
+[1828]&nbsp; [String Quintet in C major, Op. 163, D. 956: ]() []() 
+&nbsp;[3] <br>
 
 ---
 ---
@@ -466,6 +469,13 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **HINDEMITH**, PAUL <br> 
 (German, 1895–1963) 
 
+[1922]&nbsp; [_Kleine Kammermusik_, Op. 24, No. 2: V. Sehr lebhaft](https://youtu.be/aKYDWRzxgpg) 
+&nbsp;[3] <br>
+🇳🇱 Koninklijk Concertgebouworkest; Riccardo Chailly
+&nbsp;(Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1990)
+
+---
+
 [1930]&nbsp; [_Konzertmusik für Streichorchester und Blechbläser_, Op. 50:](https://youtu.be/j6vxqnnEwiE) [Ib. Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306) 
 &nbsp;[21] <br>
 🇺🇸 San Francisco Symphony Orchestra; Herbert Blomstedt
@@ -500,7 +510,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **DE LA TORRE**, FRANCISCO <br> 
 (Spanish, 1460–1504 ca.) 
 
-[1505–1520 ca.]&nbsp; [La Spagna. Danza alta in D minor, CMP 321 &nbsp;(from _Cancionero de Palacio_)](https://youtu.be/Xj_7wDVDFBw) &nbsp;[10] <br>
+[1505–1520 ca.]&nbsp; [La Spagna. Alta in D minor &nbsp;(from _Cancionero de Palacio_: No. 321)](https://youtu.be/Xj_7wDVDFBw) &nbsp;[10] <br>
 🇨🇭 Hespèrion XXI; Jordi Savall 
 &nbsp;(Cardona, Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
 
@@ -510,9 +520,15 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **GABRIELI**, GIOVANNI <br> 
 (Italian, 1557–1612) 
 
-[1597]&nbsp; [Canzon per sonar septimi toni à 8: No. 2, Ch. 172 &nbsp;(from _Sacrae symphoniae_, Liber 1)](https://youtu.be/soXG5ndvuFY) &nbsp;[10] <br>
+[1597]&nbsp; [Canzon per sonar septimi toni à 8, Ch. 172 &nbsp;(from _Sacrae symphoniae_, Liber 1: No. 30)](https://youtu.be/soXG5ndvuFY) &nbsp;[10] <br>
 🇮🇹 Concerto Palatino; Bruce Dickey & Charles Toet 
 &nbsp;(Bologna: Basilica di San Petronio, 1998)
+
+---
+
+[1597]&nbsp; [Sonata octavi toni à 12, Ch. 184 &nbsp;(from _Sacrae symphoniae_, Liber 1: No. 59)](https://youtu.be/avtlDM-1L8s) &nbsp;[3] <br>
+🇬🇧 Gabrieli Consort & Players; Paul McCreesh 
+&nbsp;(Northumberland: Brinkburn Priory, 1989)
 
 ---
 ---
@@ -659,7 +675,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) 
+[1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117, CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) & [X. "La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)
 &nbsp;[16] <br>
 🎹 pf. Arturo Benedetti Michelangeli 
 &nbsp;(Hamburg: Musikhalle, 1978)
@@ -676,6 +692,13 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **RAVEL**, MAURICE <br> 
 (French, 1875–1937) 
+
+[1905]&nbsp; [_Introduction et allegro_, M. 46](https://youtu.be/-ojRWVhGNH4) 
+&nbsp;[3] <br>
+🇬🇧 Melos Ensemble, hp. Osian Ellis 
+&nbsp;(London: Walthamstow Assembly Hall, 1961)
+
+---
 
 [1908]&nbsp; [_Rapsodie espagnole_, M. 54: IV. Feria](https://youtu.be/vrA8MYYlB-M) 
 &nbsp;[2] <br>
@@ -770,30 +793,42 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **CHOPIN**, FRÉDÉRIC <br> 
 (Polish–French, 1810–1849)
 
-[1832]&nbsp; [Mazurkas, Op. 7: No. 1 in B-flat major](https://youtu.be/nyYEdNDYYew) 
+[1832]&nbsp; [Mazurka No. 5 in B-flat major, Op. 7: No. 1](https://youtu.be/nyYEdNDYYew) 
 &nbsp;[2,29] <br>
 🎹 pf. Arthur Rubinstein 
 &nbsp;(New York: Webster Hall, 1965)
 
 ---
 
-[1833]&nbsp; [Nocturnes, Op. 15: No. 2 in F-sharp major](https://youtu.be/efLxMjeSb_Y) 
+[1833]&nbsp; [Nocturne No.5 in F-sharp major, Op. 15: No. 2 ](https://youtu.be/efLxMjeSb_Y) 
 &nbsp;[1] <br>
 🎹 pf. Claudio Arrau 
 &nbsp;(Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)
 
 ---
 
-[1841]&nbsp; [Fantaisie in F minor, Op. 49](https://youtu.be/semT39kGelA) 
-&nbsp;[5] <br>
+[1836]&nbsp; [Mazurka No. 15 in C major, Op. 24: No. 2](https://youtu.be/mmnkyqdZJfU) 
+&nbsp;[36] <br>
 🎹 pf. Ашкенази, Владимир Давидович [Vladimir Ashkenazy] 
-&nbsp;(London: Kingsway Hall, 1979)
+&nbsp;(London: Kingsway Hall, 1983)
+
+---
+
+[1841]&nbsp; [Fantaisie in F minor, Op. 49](https://youtu.be/etjdOBLbT3c) 
+&nbsp;[5] <br>
+🎹 pf. Krystian Zimerman
+&nbsp;(Bielefeld: Rudolf-Oetker-Halle, 1987)
 
 ---
 ---
 
 **LISZT**, FERENC [FRANZ] <br> 
 (Hungarian, 1811–1886) 
+
+[1847]&nbsp; [_Magyar rapszódiák_, S. 244: No. 2 in C-sharp minor](https://youtu.be/VbV0E7qRh0Y) 
+&nbsp;[29] <br>
+🎹 pf. Cziffra György [Georges Cziffra] 
+&nbsp;(Paris: Salle Wagram, 1972–1975)
 
 ---
 ---
@@ -1126,10 +1161,10 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **THOMSON**, VIRGIL <br>
 (American, 1896–1989)
 
-[1947]&nbsp; [_The Mother of Us All_: ](https://youtu.be/UcmIZpodNX0) 
+[1947]&nbsp; [_The Mother of Us All_, Act I: "Will They Remember?"](https://youtu.be/vf8OVaL11a4) 
 &nbsp;[2] <br>
-🇬🇧 London Symphony Orchestra, pf. André Previn, cl. Gervase de Peyer; André Previn 
-&nbsp;(London: Abbey Road Studio No. 1, 1971)
+🇺🇸 Manhattan School of Music Opera Theater, mez. Noragh Devlin; Steven Osgood 
+&nbsp;(New York: Neidorff-Karpati Hall, 2013)
 
 ---
 ---
@@ -1158,6 +1193,11 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **HARRIS**, ROY <br>
 (American, 1898–1979)
+
+[1939]&nbsp; [Symphony No. 3](https://youtu.be/f0UQy8ZCh4Y) 
+&nbsp;[2] <br>
+🇺🇸 New York Philharmonic; Leonard Bernstein
+&nbsp;(New York: Manhattan Center, 1961)
 
 ---
 ---
@@ -1263,6 +1303,17 @@ Music Center, 1968)
 &nbsp;[20] <br>
 🎙️ sop. Roberta Alexander, pf. Roger Vignoles
 &nbsp;(Cambridge: West Road Concert Hall, 1990)
+
+---
+---
+
+**GOODMAN**, SAUL <br>
+(American, 1907–1996)
+
+[1956]&nbsp; [_Canon for Percussion_](https://youtu.be/e6e43Kmqiiw) 
+&nbsp;[2] <br>
+🥁 perc. Saul Goodman, Walter Rosenberger, Elden Bailey, Morris Lang, Ronald Gould, & Herbert Harris 
+&nbsp;(1960)
 
 ---
 ---
@@ -1454,7 +1505,7 @@ Music Center, 1968)
 [1843]&nbsp; ["Columbia, the Gem of the Ocean"](https://youtu.be/jreksUx8sjk) 
 &nbsp;[29] <br> 
 🎼 📃 Thomas A'Becket <br>
-🇬🇧 Royal Philharmonic Orchestra; Carmen Dragon (London: 1963)
+🇬🇧 Royal Philharmonic Orchestra; Carmen Dragon &nbsp;(London: 1963)
 
 ---
 
@@ -1462,6 +1513,21 @@ Music Center, 1968)
 &nbsp;[29] <br> 
 🎼 William Steffe &ensp;📃 Julia Ward Howe <br>
 🥁 Eric Rogers Chorale & Orchestra (1963)
+
+---
+
+[1895]&nbsp; ["America the Beautiful"](https://youtu.be/4GfF-iEVD7k) 
+&nbsp;[3] <br> 
+🎼 Samuel A. Ward &ensp;📃 	Katharine Lee Bates <br>
+🥁 Eric Rogers Chorale & Orchestra (1963)
+
+---
+
+[1896]&nbsp; ["The Stars and Stripes Forever"](https://youtu.be/bN17HdYTRUc)
+&nbsp;[3] <br> 
+🎼 📃 John Philip Sousa <br>
+🇦🇹 Wiener Philharmoniker; Gustavo Dudamel
+&nbsp;(Wien: Schlosspark Schönbrunn, 2019)
 
 ---
 
