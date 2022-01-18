@@ -22,7 +22,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beethoven—Schubert—Mendelssohn–Schumann—Wagner—J. Strauss—Brahms—Mahler—R. Strauss—Vaughan Williams—Holst—Webern—Hindemith—Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rossini—Berlioz—Verdi—Franck—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch–Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rameau—Rossini—Berlioz—Verdi—Franck—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch–Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Глиэр—Стравинский—Прокофьев—Шостакович
 
@@ -167,8 +167,11 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1788]&nbsp; [Symphony No. 41 in C major, K. 551: I. Allegro vivace](https://youtu.be/Xv1-RctSxVQ) & [III. Menuetto: Allegretto – Trio](https://youtu.be/E5q6Pu5UYhc) 
-&nbsp;[28,40] <br>
+[1788]&nbsp; [Symphony No. 41 in C major, K. 551: ](https://youtu.be/k-X5898HzDo) <br>
+<span style="font-size:0.88em">&emsp;&emsp;</span> &nbsp;I. [Allegro vivace](https://youtu.be/Xv1-RctSxVQ) <br>
+<span style="font-size:0.67em">&emsp;&emsp;</span> III. [Menuetto: Allegretto – Trio](https://youtu.be/E5q6Pu5UYhc) <br>
+<span style="font-size:0.73em">&emsp;&emsp;</span> IV. [Molto allegro](https://youtu.be/XhhD5Dg6JHw)
+&nbsp;[4,28,40] <br>
 🇦🇹 Concentus Musicus Wien; Nikolaus Harnoncourt 
 &nbsp;(Wien: Große Musikvereinssaal, 2013)
 
@@ -192,7 +195,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1804]&nbsp; [Symphony No. 3 in E-flat major, Op. 55: I. Allegro con brio](https://youtu.be/6DvRFpJha2k) &nbsp;[2,41] <br>
+[1804]&nbsp; [Symphony No. 3 in E-flat major, Op. 55: I. Allegro con brio](https://youtu.be/6DvRFpJha2k) & [IV. Finale. Allegro molto](https://youtu.be/6DvRFpJha2k) &nbsp;[2,4,41] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
 &nbsp;(London: Abbey Road Studio No. 1, 1959)
 
@@ -215,7 +218,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 <span style="font-size:0.96em">&emsp;&emsp;</span> &nbsp;I. [Allegro con brio](https://youtu.be/PNpyRBVTavQ) <br>
 <span style="font-size:0.77em">&emsp;&emsp;</span> III. [Scherzo. Allegro](https://youtu.be/OFVkyoX5uuQ) <br>
 <span style="font-size:0.83em">&emsp;&emsp;</span> IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)
-&nbsp;[5,10,16,21,33,36,41] <br>
+&nbsp;[4,5,10,16,21,33,36,41] <br>
 🇦🇹 Wiener Philharmoniker; Carlos Kleiber 
 &nbsp;(Wien: Große Musikvereinssaal, 1974)
 
@@ -510,7 +513,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **DE LA TORRE**, FRANCISCO <br> 
 (Spanish, 1460–1504 ca.) 
 
-[1505–1520 ca.]&nbsp; [La Spagna. Alta in D minor &nbsp;(from _Cancionero de Palacio_: No. 321)](https://youtu.be/Xj_7wDVDFBw) &nbsp;[10] <br>
+[1505–1520 ca.]&nbsp; [La Spagna. Danza alta in D minor &nbsp;(from _Cancionero de Palacio_: No. 321)](https://youtu.be/Xj_7wDVDFBw) &nbsp;[10] <br>
 🇨🇭 Hespèrion XXI; Jordi Savall 
 &nbsp;(Cardona, Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
 
@@ -545,6 +548,16 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 [1740]&nbsp; [Concerto in C major, RV 558: I. Allegro molto](https://youtu.be/xVZ5I1GXipk) &nbsp;[7] <br>
 🇮🇹 Europa Galante; Fabio Biondi 
 &nbsp;(Parma: Abbazia di San Giovanni Evangelista, 2002)
+
+---
+---
+
+**RAMEAU**, JEAN-PHILIPPE <br>
+(French, 1683–1764)
+
+[1772]&nbsp; ["Frère Jacques", canon à 4](https://youtu.be/ypwUqsD6qCw) &nbsp;(from Louis-Joseph Francoeur, _Diapason général de tous les instrumens à vent_)] &nbsp;[4] <br>
+🇫🇷 Le Parnasse français; Louis Castelain 
+&nbsp;(Documentary: [_Jean-Philippe Rameau, l'incompris magnifique_](https://youtu.be/HEkNuFbe5o0), 2004)
 
 ---
 ---
@@ -887,7 +900,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 
 [1878]&nbsp; [Symphony No. 4 in F minor, Op. 36, TH 27: I. Andante sostenuto – Moderato con anima – Moderato assai, quasi Andante – Allegro vivo](https://youtu.be/NAFO5ZGq-Ok) & [IV. Finale. Allegro con fuoco](https://youtu.be/kyZrdpRKyxQ)
-&nbsp;[1,2] <br>
+&nbsp;[1,2,4] <br>
 🇦🇹 Wiener Philharmoniker; Claudio Abbado 
 &nbsp;(Wien: Große Musikvereinssaal, 1975)
 
@@ -954,6 +967,12 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 **SIBELIUS**, JEAN <br> 
 (Finnish, 1865–1957) 
+
+
+[1923]&nbsp; [Symphony No. 5 in E-flat major, Op. 82: I. Tempo molto moderato]()
+&nbsp;[4] <br>
+
+---
 
 [1923]&nbsp; [Symphony No. 6 in D minor, Op. 104: I. Allegro molto moderato](https://youtu.be/z8jlX5R_lxc)
 &nbsp;[36] <br>
@@ -1531,6 +1550,14 @@ Music Center, 1968)
 
 ---
 
+[1914]&nbsp; ["Colonel Bogey March"](https://youtu.be/Mx96NLBAahk)
+&nbsp;[4] <br> 
+🎼 Kenneth J. Alford <br>
+🇺🇸 Boston Pops Orchestra; John Williams
+&nbsp;(Boston: Symphony Hall, 1990)
+
+---
+
 [1914]&nbsp; ["The Saint Louis Blues"](https://youtu.be/i58rN88xDMQ) 
 &nbsp;[2] <br> 
 🎼 William Christopher Handy <br>
@@ -1560,6 +1587,13 @@ Music Center, 1968)
 &nbsp;[1,43] <br>
 🎼 Walter Schumann <br>
 🎺 Sy Oliver & His Orchestra (1953)
+
+---
+
+[1957]&nbsp; ["All Shook Up"](https://youtu.be/23zLefwiii4) 
+&nbsp;[4] <br>
+🎼 📃 Otis Blackwell & Elvis Presley <br>
+🎸 Elvis Presley (1957)
 
 ---
 
