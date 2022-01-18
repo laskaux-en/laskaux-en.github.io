@@ -555,7 +555,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **RAMEAU**, JEAN-PHILIPPE <br>
 (French, 1683–1764)
 
-[1772]&nbsp; ["Frère Jacques", canon à 4](https://youtu.be/ypwUqsD6qCw) &nbsp;(from Louis-Joseph Francoeur, _Diapason général de tous les instrumens à vent_)] &nbsp;[4] <br>
+[1772]&nbsp; ["Frère Jacques", canon à 4](https://youtu.be/ypwUqsD6qCw) &nbsp;(from Louis-Joseph Francoeur, _Diapason général de tous les instrumens à vent_) &nbsp;[4] <br>
 🇫🇷 Le Parnasse français; Louis Castelain 
 &nbsp;(Documentary: [_Jean-Philippe Rameau, l'incompris magnifique_](https://youtu.be/HEkNuFbe5o0), 2004)
 
