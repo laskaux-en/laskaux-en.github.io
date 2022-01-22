@@ -10,7 +10,7 @@ excerpt: ♬&nbsp;  <br>
 tags: music television
 ---
 
->[Year of composition]&nbsp; [Title: Section]() 
+>[Year of composition or publication]&nbsp; [Title: Section]() 
 >&nbsp;[program no.] <br>
 >🏁 Ensemble, soloists; conductor
 >&nbsp;(City: recording venue, year)
@@ -22,7 +22,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel—Bach—Haydn—Mozart—Beethoven—Schubert—Mendelssohn–Schumann—Wagner—J. Strauss—Brahms—Mahler—R. Strauss—Vaughan Williams—Holst—Webern—Hindemith—Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : de la Torre—Gabrieli—Vivaldi—Rameau—Rossini—Berlioz—Verdi—Franck—Bizet—Debussy—Ravel—de Falla—Respighi—Bloch–Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre—Gabrieli—Vivaldi—Rameau—Rossini—Berlioz—Verdi—Franck—Bizet—Debussy—Ravel—Falla—Respighi—Bloch–Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin—Liszt—Smetana—Мусоргский—Чайковский—Dvořák—Римский-Корсаков—Sibelius—Bartók—Глиэр—Стравинский—Прокофьев—Шостакович
 
@@ -197,7 +197,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1804]&nbsp; [Symphony No. 3 in E-flat major, Op. 55: I. Allegro con brio](https://youtu.be/6DvRFpJha2k) & [IV. Finale. Allegro molto](https://youtu.be/6DvRFpJha2k) &nbsp;[2,4,41] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
-&nbsp;(London: Abbey Road Studio No. 1, 1959)
+&nbsp;(London: Abbey Road Studio One, 1959)
 
 ---
 
@@ -224,7 +224,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-[1808]&nbsp; [Symphony No. 6 in F major, Op. 68: I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande](https://youtu.be/FHkHOq-sa3U) 
+[1808]&nbsp; [Symphony No. 6 in F major, Op. 68: I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande. Allegro ma non troppo](https://youtu.be/FHkHOq-sa3U) 
 &nbsp;[1] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer 
 &nbsp;(London: Kingsway Hall, 1957)
@@ -312,7 +312,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1868]&nbsp; [_Die Meistersinger von Nürnberg_, WWV 96: Prelude to Act I](https://youtu.be/utwbitVEHkc) 
 &nbsp;[29] <br>
-🇦🇹 Wiener Philharmoniker; Georg Solti 
+🇦🇹 Wiener Philharmoniker; Solti György [Georg Solti] 
 &nbsp;(Wien: Sofiensäle, 1975)
 
 ---
@@ -510,12 +510,12 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 ---
 
-**DE LA TORRE**, FRANCISCO <br> 
-(Spanish, 1460–1504 ca.) 
+**TORRE**, FRANCISCO DE LA <br> 
+(Spanish, 1460–1504) 
 
-[1505–1520 ca.]&nbsp; [La Spagna. Danza alta in D minor &nbsp;(from _Cancionero de Palacio_: No. 321)](https://youtu.be/Xj_7wDVDFBw) &nbsp;[10] <br>
+[1505–1520]&nbsp; [La Spagna. Danza alta in D minor](https://youtu.be/Xj_7wDVDFBw)&nbsp; 📜 _Cancionero de Palacio_: CMP 321 &nbsp;[10] <br>
 🇨🇭 Hespèrion XXI; Jordi Savall 
-&nbsp;(Cardona, Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
+&nbsp;(Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
 
 ---
 ---
@@ -523,13 +523,13 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **GABRIELI**, GIOVANNI <br> 
 (Italian, 1557–1612) 
 
-[1597]&nbsp; [Canzon per sonar septimi toni à 8, Ch. 172 &nbsp;(from _Sacrae symphoniae_, Liber 1: No. 30)](https://youtu.be/soXG5ndvuFY) &nbsp;[10] <br>
+[1597]&nbsp; [Canzon per sonar septimi toni a 8, Ch. 172](https://youtu.be/soXG5ndvuFY)&nbsp; 📜 _Sacrae symphoniae_, Liber 1: No. 30 &nbsp;[10] <br>
 🇮🇹 Concerto Palatino; Bruce Dickey & Charles Toet 
 &nbsp;(Bologna: Basilica di San Petronio, 1998)
 
 ---
 
-[1597]&nbsp; [Sonata octavi toni à 12, Ch. 184 &nbsp;(from _Sacrae symphoniae_, Liber 1: No. 59)](https://youtu.be/avtlDM-1L8s) &nbsp;[3] <br>
+[1597]&nbsp; [Sonata octavi toni a 12, Ch. 184](https://youtu.be/avtlDM-1L8s)&nbsp; 📜 _Sacrae symphoniae_, Liber 1: No. 59 &nbsp;[3] <br>
 🇬🇧 Gabrieli Consort & Players; Paul McCreesh 
 &nbsp;(Northumberland: Brinkburn Priory, 1989)
 
@@ -742,7 +742,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 ---
 
-**DE FALLA**, MANUEL <br> 
+**FALLA**, MANUEL DE <br> 
 (Spanish, 1876–1946)
 
 [1919]&nbsp; [_El sombrero de tres picos_](https://youtu.be/kDkjcdkZ7Dc) <br>
@@ -877,7 +877,7 @@ F.&nbsp; [TRADITIONAL & POPULAR](#popular)
 
 [1880]&nbsp; [Хованщина [_Khovanshchina_]: Prelude](https://youtu.be/O4oZdj5gXSM) 
 &nbsp;[24] <br>
-🇬🇧 London Symphony Orchestra; Georg Solti 
+🇬🇧 London Symphony Orchestra; Solti György [Georg Solti] 
 &nbsp;(London: Kingsway Hall, 1966)
 
 ---

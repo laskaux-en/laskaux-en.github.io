@@ -32,7 +32,7 @@ Classic BBC documentary series very often bring unexpected gifts—in this case,
 [MONTEVERDI, 1607]&nbsp; [_L'Orfeo_, SV 318: Toccata](https://www.youtube.com/watch?v=mjpFi9bn1do) &nbsp;[6]
 
 
-[SIMPSON, 1617]&nbsp; [Intrada XII](https://www.youtube.com/watch?v=mUai5Hc31lg) &nbsp;[5]
+[SIMPSON, 1617]&nbsp; [Intrada in C major](https://www.youtube.com/watch?v=mUai5Hc31lg) &nbsp;[5]
 
 
 [ALLEGRI, c. 1630s]&nbsp; [_Miserere mei, Deus_](https://www.youtube.com/watch?v=rs5bc_P1kKo) &nbsp;[6]

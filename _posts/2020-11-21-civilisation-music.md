@@ -153,7 +153,7 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; Andrea Mantegna's frescoes in the Camera degli Sposi of the Palazzo Ducale, Mantova &nbsp;[4]
 
 
-[LANDINI]&nbsp; ["Gram piant' agli ochi"](https://www.youtube.com/watch?v=zYvsamvICRo)
+[LANDINI]&nbsp; ["Gram piant'agli ochi"](https://www.youtube.com/watch?v=zYvsamvICRo)
 &nbsp;♬&nbsp; Lorenzo Ghiberti, _Gates of Paradise_ from the Battistero di San Giovanni: _The Story of Adam and Eve_ | Michelangelo, _Tondo Pitti_ | Donatello, _David_  &nbsp;[4]
 
 
@@ -225,7 +225,7 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; Colonnades, Piazza San Pietro &nbsp;[7]
 
 
-[GABRIELI, 1597]&nbsp; [Canzon per sonar primi toni à 8, Ch. 170](https://www.youtube.com/watch?v=XjntqVWW9eM)
+[GABRIELI, 1597]&nbsp; [Canzon per sonar primi toni a 8, Ch. 170](https://www.youtube.com/watch?v=XjntqVWW9eM)
 &nbsp;♬&nbsp; Michelangelo, _Separation of the Earth from the Waters_, from the Sistine Chapel ceiling | 
 Raphael, _The School of Anthens_ | 
 Colosseum, or Flavian Amphitheatre | 
@@ -309,7 +309,7 @@ Gian Lorenzo Bernini, Cattedra & Baldacchino di San Pietro
 &nbsp;♬&nbsp; Johannes Vermeer, _The Music Lesson_ | _The Lacemaker_ | _Woman Reading a Letter_ | _Woman Holding a Balance_  &nbsp;[8]
  
 
-[PURCELL, 1691]&nbsp; [_The Gordion Knot Unty'd_, Z. 597: I. Overture](https://www.youtube.com/watch?v=HrTDx_Xj-U4)
+[PURCELL, 1691]&nbsp; [_The Gordion Knot Unty'd_, Z. 597: I. Overture](https://www.youtube.com/watch?v=ZZBTY_oteGM)
 &nbsp;♬&nbsp; St Paul's Cathedral &nbsp;[8]
  
 
@@ -408,7 +408,7 @@ https://youtu.be/ETxEkAM3JIE?t=642)
 
 
 [BEETHOVEN, 1803]&nbsp; [Concerto for Violin, Cello, and Piano in C major, Op. 56 (_Triple Concerto_): II. Largo (attacca)](
-https://www.youtube.com/watch?v=VVJ3dcBJSjk)
+https://www.youtube.com/watch?v=VVJ3dcBJSjk) & [III. Rondo alla (pollaca)](https://youtu.be/O98HHUxw1Hk)
 &nbsp;♬&nbsp; Fountains Abbey | Alpine landscapes &nbsp;[11]
 
 
@@ -471,7 +471,7 @@ Cathédrale Notre-Dame de Paris &nbsp;[1]
 &nbsp;♬&nbsp; Auguste Rodin, _Monument à Balzac_ &nbsp;[12]
 
 
-[STRAUSS, 1913]&nbsp; [_Festliches Präludium_, Op. 61, TrV 229](https://www.youtube.com/watch?v=RgoglFCSquk)
+[STRAUSS, 1913]&nbsp; [_Festliches Präludium_, Op. 61, TrV 229](https://youtu.be/ivM1MR9pHuU)
 &nbsp;♬&nbsp; Auguste Rodin, _Les Bourgeois de Calais_ &nbsp;[12]
 
 [#contents](#contents)
@@ -480,7 +480,7 @@ Cathédrale Notre-Dame de Paris &nbsp;[1]
 
 ### <br> F.&nbsp; Modern {#modern} 
 
-[IVES, 1892]&nbsp; [_Variations on "America"_](
+[IVES, 1891]&nbsp; [Variations on "America"](
 https://www.youtube.com/watch?v=Fly9arzuC8g)
 &nbsp;♬&nbsp; Thomas Jefferson Memorial | United States Capitol | United States Supreme Court | Washington Monument &nbsp;[10]
 
@@ -539,10 +539,10 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 
 ### Chronology of Composers {#chrono}
 
->RICHARD CŒUR DE LION <BR>
+>RICHARD CŒUR DE LION <br>
 >&emsp;&emsp;(English, 1157–1199)
 >
->FRANCESCO LANDINI <BR>
+>FRANCESCO LANDINI <br>
 >&emsp;&emsp;(Italian, 1325/35–1397)
 >
 >QUELDRYK <br>
@@ -551,63 +551,63 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 >JOHN DUNSTAPLE <br>
 >&emsp;&emsp;(English, c. 1390–1453)
 >
->GUILLAUME DUFAY <BR>
+>GUILLAUME DUFAY <br>
 >&emsp;&emsp;(Flemish, c. 1397–1474)
 >
->HEINRICH ISAAC <BR>
+>HEINRICH ISAAC <br>
 >&emsp;&emsp;(Flemish, c. 1450–1517)
 >
->JOSQUIN DES PRÉS <BR>
+>JOSQUIN DES PRÉS <br>
 >&emsp;&emsp;(French, c. 1450/5–1521)
 > 
->GIACOMO FOGLIANO <BR>
+>GIACOMO FOGLIANO <br>
 >&emsp;&emsp;(Italian, c. 1468–1548)
 >
->PHILIPPE VERDELOT <BR>
+>PHILIPPE VERDELOT <br>
 >&emsp;&emsp;(French, c. 1480/5–1530/52)
 >
->CLÉMENT JANEQUIN <BR>
+>CLÉMENT JANEQUIN <br>
 >&emsp;&emsp;(French, c. 1485–1558)
 >
->GIOVANNI PIERLUIGI DA PALESTRINA <BR>
+>GIOVANNI PIERLUIGI DA PALESTRINA <br>
 >&emsp;&emsp;(Italian, c. 1525–1594)
 >
->TOMÁS LUIS DE VICTORIA <BR>
+>TOMÁS LUIS DE VICTORIA <br>
 >&emsp;&emsp;(Spanish, c. 1548–1611)
 >
->GIOVANNI GABRIELI <BR>
+>GIOVANNI GABRIELI <br>
 >&emsp;&emsp;(Italian, c. 1554/7–1612)
 >
->JOHN DOWLAND <BR>
->&emsp;&emsp;(English, c. 1563–1626)
+>JOHN DOWLAND <br>
+>&emsp;&emsp;(English, 1563–1626)
 >
->GILES FARNABY <BR>
+>GILES FARNABY <br>
 >&emsp;&emsp;(English, c. 1563–1640)
 >
->CLAUDIO MONTEVERDI <BR>
+>CLAUDIO MONTEVERDI <br>
 >&emsp;&emsp;(Italian, 1567–1643)
 >
->ANTOINE FRANCISQUE <BR>
+>ANTOINE FRANCISQUE <br>
 >&emsp;&emsp;(French, c. 1570–1605)
 >
->MICHAEL PRAETORIUS <BR>
+>MICHAEL PRAETORIUS <br>
 >&emsp;&emsp;(German, c. 1571–1621)
 >
->THOMAS TOMKINS <BR>
+>THOMAS TOMKINS <br>
 >&emsp;&emsp;(Welsh–English, 1572–1656)
 >
->JOHANN HERMANN SCHEIN <BR>
+>JOHANN HERMANN SCHEIN <br>
 >&emsp;&emsp;(German, 1586–1630)
 >
->JEAN-BAPTISTE LULLY <BR>
->&emsp;[Giovanni Battista Lulli] <BR>
+>JEAN-BAPTISTE LULLY <br>
+>&emsp;[Giovanni Battista Lulli] <br>
 >&emsp;&emsp;(Italian–French, 1632–1687)
 >
->DIETRICH BUXTEHUDE <BR>
+>DIETRICH BUXTEHUDE <br>
 >&emsp;[Diderik Buxtehude] <br>
 >&emsp;&emsp;(Danish–German, 1637/9–1707)
 >
->HENRY PURCELL <BR>
+>HENRY PURCELL <br>
 >&emsp;&emsp;(English, 1659–1695)
 >
 >JOHANN CHRISTOPH PEPUSCH <br>
@@ -617,63 +617,63 @@ https://www.youtube.com/watch?v=v0E0AveYzvg)
 >&emsp;[Georg Friedrich Händel] <br>
 >&emsp;&emsp;(German–English, 1685–1759)
 >
->JOHANN SEBASTIAN BACH <BR>
+>JOHANN SEBASTIAN BACH <br>
 >&emsp;&emsp;(German, 1685–1750)
 >
->RICHARD MUDGE <BR>
+>RICHARD MUDGE <br>
 >&emsp;&emsp;(English, 1718–1763)
 >
->FRANZ JOSEPH HAYDN <BR>
+>FRANZ JOSEPH HAYDN <br>
 >&emsp;&emsp;(Austrian, 1732–1809)
 >
->GIOVANNI BATTISTA VIOTTI <BR>
+>GIOVANNI BATTISTA VIOTTI <br>
 >&emsp;&emsp;(Italian, 1755–1824)
 >
->WOLFGANG AMADEUS MOZART <BR>
+>WOLFGANG AMADEUS MOZART <br>
 >&emsp;&emsp;(Austrian, 1756–1791)
 >
->CLAUDE JOSEPH ROUGET DE LISLE <BR>
+>CLAUDE JOSEPH ROUGET DE LISLE <br>
 >&emsp;&emsp;(French, 1760–1836)
 >
->JAMES HEWITT <BR>
+>JAMES HEWITT <br>
 >&emsp;&emsp;(American, 1770–1827)
 >
->LUDWIG VAN BEETHOVEN <BR>
+>LUDWIG VAN BEETHOVEN <br>
 >&emsp;&emsp;(German, 1770–1827)
 >
->FRANZ SCHUBERT <BR>
+>FRANZ SCHUBERT <br>
 >&emsp;&emsp;(Austrian, 1797–1828)
 >
->HECTOR BERLIOZ <BR>
+>HECTOR BERLIOZ <br>
 >&emsp;&emsp;(French, 1803–1869)
 >
->CÉSAR FRANCK <BR>
+>CÉSAR FRANCK <br>
 >&emsp;&emsp;(Belgian–French, 1822–1890)
 >
->JOHANNES BRAHMS <BR>
+>JOHANNES BRAHMS <br>
 >&emsp;&emsp;(German, 1833–1897)
 >
 >PYOTR ILYICH TCHAIKOVSKY <br>
 >&emsp;[Пётр Ильи́ч Чайко́вский] <br>
 >&emsp;&emsp;(Russian, 1840–1893)
 >
->CLAUDE DEBUSSY <BR>
+>CLAUDE DEBUSSY <br>
 >&emsp;&emsp;(French, 1862–1918)
 >
->RICHARD STRAUSS <BR>
+>RICHARD STRAUSS <br>
 >&emsp;&emsp;(German, 1864–1949)
 >
->CHARLES IVES <BR>
+>CHARLES IVES <br>
 >&emsp;&emsp;(American, 1874–1954)
 >
 >IGOR STRAVINSKY <br>
 >&emsp;[Игорь Стравинский] <br>
 >&emsp;&emsp;(Russian–French–American, 1882–1971)
 >
->WILLIAM WALTON <BR>
+>WILLIAM WALTON <br>
 >&emsp;&emsp;(English, 1902–1983)
 >
->OLIVIER MESSIAEN <BR>
+>OLIVIER MESSIAEN <br>
 >&emsp;&emsp;(French, 1908–1992)
 
 [#contents](#contents)
