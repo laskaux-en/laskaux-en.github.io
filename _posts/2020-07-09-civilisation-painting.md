@@ -484,7 +484,7 @@ FRANCESCO DI GIORGIO MARTINI
 
 
 <br> **RAFFAELLO SANZIO DA URBINO (RAPHAEL)**
-<br>(Italian, 1483–1520)&ensp;[4,5,6] <br>
+<br>(Italian, 1483–1520)&ensp;[4,5,6,7] <br>
 >
 >![](https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1846/WA_1846_0000/WA_1846_158-a-L.jpg)<br>
 >_Self-Portrait_ (1498–9, Ashmolean Museum, Oxford) <br>
