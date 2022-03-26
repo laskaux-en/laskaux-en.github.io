@@ -1731,6 +1731,13 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 
 ---
 
+[1914]&nbsp; [_Watch Your Step_: "Play a Simple Melody"](https://youtu.be/uaczOl8dC3I), ["The Syncopated Walk"](https://youtu.be/GJbEqvaJp6I), & ["Show Us How to Do the Fox Trot"](https://youtu.be/GJbEqvaJp6I)&nbsp; [O4] <br>
+🎼 Irving Berlin <br>
+📃 Harry Bache Smith <br>
+🎙️ Ethel Merman & Dan Dailey&nbsp; (1954)
+
+---
+
 [1917]&nbsp; [_Eileen_: "Thine Alone"](https://youtu.be/1SB69tY0GTE) & ["I Arrest You"](https://youtu.be/zDtSXblxGT0)&nbsp; [O4] <br>
 🎼 Victor Herbert <br>
 📃 Henry Blossom <br>
@@ -1755,6 +1762,12 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 🎼 Leonard Bernstein <br>
 📃 Betty Comden & Adolph Greenz <br>
 🎙️ Michael Kermoyan, Adolph Green, John Reardon, & Cris Alexander&nbsp; (1960)
+
+---
+
+[1948]&nbsp; [_Kiss Me, Kate_: "Another Op'nin', Another Show"](https://youtu.be/ivtOuT-BAaQ)&nbsp; [O4] <br>
+🎼 📃 Cole Porter <br>
+🎙️ Louise Marshall; John Wilson Orchestra; John Wilson&nbsp; (London: Royal Albert Hall, 2014)
 
 ---
 
