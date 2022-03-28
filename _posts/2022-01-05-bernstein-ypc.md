@@ -10,7 +10,7 @@ excerpt: ♬&nbsp;  <br>
 tags: music television
 ---
 
->[Year of composition or publication]&nbsp; [Title: Section]()&nbsp; [program No.] <br>
+>[Year of composition or publication]&nbsp; [Title: Section]()&nbsp; [program №] <br>
 >🏁 Ensemble; soloists; conductor&nbsp; (City: recording venue, year)
 
 ---
@@ -46,7 +46,7 @@ G.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **HANDEL**, GEORGE FRIDERIC <br> 
 (German–British, 1685–1759) 
 
-[1717]&nbsp; [_Water Music_ Suite No. 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
+[1717]&nbsp; [_Water Music_ Suite № 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
 II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5] <br>
 🇬🇧 The English Concert; Trevor Pinnock&nbsp; (London: Henry Wood Hall, 1983)
 
@@ -63,8 +63,7 @@ I. [Andante—Allegro](https://youtu.be/bCCx2g8Jwro)&nbsp; [Y25] <br>
 (German, 1685–1750) 
 
 
-[1735]&nbsp; [Magnificat in D major, BWV 243](https://www.youtube.com/watch?v=52UIMSMWFVE&list=PLr0MsaDpKsY9SxUBFwDP5acldThbovLx3): 
-I. ["Magnificat anima mea Dominum"](https://youtu.be/52UIMSMWFVE) | 
+[1735]&nbsp; [Magnificat in D major, BWV 243](https://www.youtube.com/watch?v=52UIMSMWFVE&list=PLr0MsaDpKsY9SxUBFwDP5acldThbovLx3): I. ["Magnificat anima mea Dominum"](https://youtu.be/52UIMSMWFVE) | 
 VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O6] <br>
 🇫🇷 🇧🇪 La Chapelle Royale & Collegium Vocale Gent; Philippe Herreweghe&nbsp; (1990)
 
@@ -85,12 +84,12 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O6] <br>
 
 ---
 
-[1723]&nbsp; [Invention No. 13 in A minor, BWV 784](https://youtu.be/tsF7Yisq6xY)&nbsp; [Y29] <br>
+[1723]&nbsp; [Invention № 13 in A minor, BWV 784](https://youtu.be/tsF7Yisq6xY)&nbsp; [Y29] <br>
 ‹hpd› Blandine Verlet&nbsp; (Colmar: Clavecin Ruckers ‹1624›, Musée Unterlinden, 1982)
 
 ---
 
-[1722]&nbsp; [Fugue No. 4 in C-sharp minor, BWV 849, No. 2](https://youtu.be/0DUiC7t7xFM)&nbsp; 📖 _Das wohltemperierte Klavier_, Teil 1&nbsp; [H1] <br> 
+[1722]&nbsp; [Fugue № 4 in C-sharp minor, BWV 849, № 2](https://youtu.be/0DUiC7t7xFM)&nbsp; 📖 _Das wohltemperierte Klavier_, Teil 1&nbsp; [H1] <br> 
 ‹hpd› Céline Frisch&nbsp; (Namur: Clavecin Anthony Sidey & Frédéric Bal ‹1995› from Silbermann original, Église Saint-Rémi de Franc-Waret, 2014)
 
 ---
@@ -101,48 +100,48 @@ II. [Andante](https://youtu.be/vGJ7nvV7WJE)&nbsp; [Y21] <br>
 
 ---
 
-[1720]&nbsp; [Violin Sonata No. 1 in G minor, BWV 1001](https://youtu.be/ekgfPKasoys): I. [Adagio](https://youtu.be/N7UtcsozxWI)&nbsp; [Y3, H3] <br>
+[1720]&nbsp; [Violin Sonata № 1 in G minor, BWV 1001](https://youtu.be/ekgfPKasoys): I. [Adagio](https://youtu.be/N7UtcsozxWI)&nbsp; [Y3, H3] <br>
 ‹vn› Arthur Grumiaux&nbsp; (Amsterdam: Bachzaal, 1960)
 
 ---
 
-[1720]&nbsp; [Violin Partita No. 3 in E major, BWV 1006](https://youtu.be/CWOOe9HawnY): I. [Preludio](https://youtu.be/6gnmW-_0w2g)&nbsp; [Y33, Y45] <br>
+[1720]&nbsp; [Violin Partita № 3 in E major, BWV 1006](https://youtu.be/CWOOe9HawnY): I. [Preludio](https://youtu.be/6gnmW-_0w2g)&nbsp; [Y33, Y45] <br>
 ‹vn› Nathan Milstein&nbsp; (London: Conway Hall, 1974)
 
 ---
 
-[1721]&nbsp; [_Brandenburgische Konzerte_: No. 2 in F major, BWV 1047](https://youtu.be/YPn4ApwY_44): 
+[1721]&nbsp; [_Brandenburgische Konzerte_: № 2 in F major, BWV 1047](https://youtu.be/YPn4ApwY_44): 
 I. [(No tempo indication, usu. Allegro)](https://youtu.be/YPn4ApwY_44)&nbsp; [O3] <br>
 🇩🇪 Freiburger Barockorchester&nbsp; (Freiburg: Ensemblehaus, 2013)
 
 ---
 
-[1721]&nbsp; [_Brandenburgische Konzerte_: No. 3 in G major, BWV 1048](https://youtu.be/20tau1ngCtY): 
+[1721]&nbsp; [_Brandenburgische Konzerte_: № 3 in G major, BWV 1048](https://youtu.be/20tau1ngCtY): 
 I. [(No tempo indication, usu. Allegro/Allegro moderato)](https://youtu.be/13dmIwj6HhQ)&nbsp; [Y3] <br>
 🇩🇪 Musica Antiqua Köln; Reinhard Goebel&nbsp; (Köln: Deutschlandfunk Kammermusiksaal, 1986)
 
 ---
 
-[1721]&nbsp; [_Brandenburgische Konzerte_: No. 4 in G major, BWV 1049](https://youtu.be/jwQlnNgi-wM): 
+[1721]&nbsp; [_Brandenburgische Konzerte_: № 4 in G major, BWV 1049](https://youtu.be/jwQlnNgi-wM): 
 I. [Allegro](https://youtu.be/jwQlnNgi-wM) | 
 III. [Presto](https://youtu.be/glJuKcwf95w)&nbsp; [Y5, Y10] <br>
 🇮🇹 Concerto Italiano; Rinaldo Alessandrini&nbsp; (Roma: Palazzo Farnese, 2005)
 
 ---
 
-[1721]&nbsp; [_Brandenburgische Konzerte_: No. 5 in D major, BWV 1050](https://youtu.be/PLRwUDmsdpA): 
+[1721]&nbsp; [_Brandenburgische Konzerte_: № 5 in D major, BWV 1050](https://youtu.be/PLRwUDmsdpA): 
 I. [Allegro](https://youtu.be/PLRwUDmsdpA) | 
 III. [Allegro](https://youtu.be/HNnjpXHzDU0)&nbsp; [Y7, Y45, O6] <br>
 🇫🇷 Café Zimmermann&nbsp; (Paris: Chapelle de l'hôpital Notre-Dame de Bon Secours, 2000–2001)
 
 ---
 
-[1739]&nbsp; [_Orchestersuiten_: No. 2 in B minor, BWV 1067](https://www.youtube.com/watch?v=FQQNSc9KhLY&list=PLs2vq238vU6n1ipwMECSyFJMohKFrR7mC): VII. [Badinerie](https://youtu.be/W_uxsGKqmbM)&nbsp; [O6] <br>
+[1739]&nbsp; [_Orchestersuiten_: № 2 in B minor, BWV 1067](https://www.youtube.com/watch?v=FQQNSc9KhLY&list=PLs2vq238vU6n1ipwMECSyFJMohKFrR7mC): VII. [Badinerie](https://youtu.be/W_uxsGKqmbM)&nbsp; [O6] <br>
 🇩🇪 Berliner Barock Solisten; ‹hpd› Emmanuel Pahud; Rainer Kussmaul&nbsp; (Berlin: Teldex Studio, 2000)
 
 ---
 
-[1731]&nbsp; [_Orchestersuiten_: No. 3 in D major, BWV 1068](https://youtu.be/t0J6wvaf1WM): II. [Air](https://youtu.be/-KxSMBIgsHo)&nbsp; [O6] <br>
+[1731]&nbsp; [_Orchestersuiten_: № 3 in D major, BWV 1068](https://youtu.be/t0J6wvaf1WM): II. [Air](https://youtu.be/-KxSMBIgsHo)&nbsp; [O6] <br>
 🇬🇧 The Academy of Ancient Music; Christopher Hogwood&nbsp; (London: Church of St Barnabas, Pimlico, 1988)
 
 ---
@@ -157,14 +156,14 @@ III. [Allegro](https://youtu.be/HNnjpXHzDU0)&nbsp; [Y7, Y45, O6] <br>
 **HAYDN**, FRANZ JOSEPH <br> 
 (Austrian, 1732–1809) 
 
-[1787]&nbsp; [Symphony No. 88 in G major, Hob. I:88](https://youtu.be/90WCaVqcTwc): 
+[1787]&nbsp; [Symphony № 88 in G major, Hob. I:88](https://youtu.be/90WCaVqcTwc): 
 II. [Largo](https://youtu.be/6SVay5IH6Sg) | 
 IV. [Finale (Allegro con spirito)](https://youtu.be/dLOqweWj6XE)&nbsp; [Y6, Y33] <br>
 🇨🇦 Tafelmusik Baroque Orchestra; Bruno Weil&nbsp; (Haarlem: Grote Vermaning, 1994)
 
 ---
 
-[1794]&nbsp; [Symphony No. 102 in B-flat major, Hob. I:102](https://youtu.be/dKQffKAKG54): 
+[1794]&nbsp; [Symphony № 102 in B-flat major, Hob. I:102](https://youtu.be/dKQffKAKG54): 
 IV. [Finale (Presto)](https://youtu.be/3bmAZYIEkFU)&nbsp; [Y5] <br>
 🇧🇪 La Petite Bande; Sigiswald Kuijken&nbsp; (Haarlem: Grote Vermaning, 1994)
 
@@ -182,19 +181,19 @@ III. [Allegro con spirito](https://youtu.be/DLKGP4Uflas)&nbsp; [Y37] <br>
 **MOZART**, WOLFGANG AMADEUS <br> 
 (Austrian, 1756–1791) 
 
-[1782]&nbsp; [Symphony No. 35 in D major, K. 385](https://youtu.be/s3ryJkWcQA4):
+[1782]&nbsp; [Symphony № 35 in D major, K. 385](https://youtu.be/s3ryJkWcQA4):
 IV. [Finale (Presto)](https://youtu.be/AajT-kp6ZGM)&nbsp; [Y21] <br>
 🇬🇧 English Baroque Soloists; John Eliot Gardiner&nbsp; (London: St John's, Smith Square, 1988)
 
 ---
 
-[1782]&nbsp; [Symphony No. 39 in E-flat major, K. 543](https://youtu.be/gHb0XTYsKU0): 
+[1782]&nbsp; [Symphony № 39 in E-flat major, K. 543](https://youtu.be/gHb0XTYsKU0): 
 III. [Menuetto (Allegretto—Trio)](https://youtu.be/cjfK_osAi1k)&nbsp; [Y15] <br>
 🇳🇱 Orchestra of the Eighteenth Century; Frans Brüggenk&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1988)
 
 ---
 
-[1788]&nbsp; [Symphony No. 40 in G minor, K. 550](https://youtu.be/sgPRF0zQlZI): 
+[1788]&nbsp; [Symphony № 40 in G minor, K. 550](https://youtu.be/sgPRF0zQlZI): 
 I. [Molto allegro](https://youtu.be/vygOD6srdyE) |
 II. [Andante](https://youtu.be/aizxSmcgsgo) |
 III. [Menuetto (Allegretto—Trio)](https://youtu.be/fGVjH3eVEno) |
@@ -203,7 +202,7 @@ IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, H1, H2] <
 
 ---
 
-[1788]&nbsp; [Symphony No. 41 in C major, K. 551](https://youtu.be/k-X5898HzDo): 
+[1788]&nbsp; [Symphony № 41 in C major, K. 551](https://youtu.be/k-X5898HzDo): 
 I. [Allegro vivace](https://youtu.be/Xv1-RctSxVQ) | 
 III. [Menuetto (Allegretto—Trio)](https://youtu.be/E5q6Pu5UYhc) | 
 IV. [Molto allegro](https://youtu.be/XhhD5Dg6JHw)&nbsp; [Y4, Y28, Y40] <br>
@@ -217,14 +216,14 @@ II. [Andante](https://youtu.be/Z6uYwrzYLH8?t=741)&nbsp; [Y7] <br>
 
 ---
 
-[1785]&nbsp; [Piano Concerto No. 21 in C major, K. 467](https://youtu.be/iG313H9Lyto): 
+[1785]&nbsp; [Piano Concerto № 21 in C major, K. 467](https://youtu.be/iG313H9Lyto): 
 I. [Allegro maestoso](https://youtu.be/rcOBSb69pUk) | 
 II. [Andante](https://youtu.be/k8_xOsX2YSY)&nbsp; [Y5] <br>
 🇬🇧 Academy of St Martin in the Fields; ‹pf› Alfred Brendel; Neville Marriner&nbsp; (London: Walthamstow Assembly Hall, 1981)
 
 ---
 
-[1786]&nbsp; [Piano Concerto No. 23 in A major, K. 488](): 
+[1786]&nbsp; [Piano Concerto № 23 in A major, K. 488](): 
 I. [Allegro](https://youtu.be/iKwI2qG_zgo) | 
 II. [Adagio](https://youtu.be/rb173eofmqs) |
 III. [Allegro assai](https://youtu.be/zoI4bRHbYbk)&nbsp; [Y22] <br>
@@ -232,7 +231,7 @@ III. [Allegro assai](https://youtu.be/zoI4bRHbYbk)&nbsp; [Y22] <br>
 
 ---
 
-[1781]&nbsp; [Serenade No. 10 in B-flat major, K. 361/370a](https://youtu.be/NYGJCzLbWHA): 
+[1781]&nbsp; [Serenade № 10 in B-flat major, K. 361/370a](https://youtu.be/NYGJCzLbWHA): 
 VII. [Finale (Molto Allegro)](https://youtu.be/CwDI7XwyJUM)&nbsp; [Y3] <br>
 🇺🇸 Orpheus Chamber Orchestra&nbsp; (Purchase, New York: The Performing Arts Center, 1986)
 
@@ -244,13 +243,13 @@ IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6] <br>
 
 ---
 
-[1788]&nbsp; [Piano Sonata No. 16 in C major, K. 545](https://youtu.be/Lcwjx1Zt5Hs): 
+[1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/Lcwjx1Zt5Hs): 
 I. [Allegro](https://youtu.be/Lcwjx1Zt5Hs)&nbsp; [Y28] <br>
 ‹pf› Walter Klien&nbsp; (1964)
 
 ---
 
-[1791]&nbsp; [_Drei Deutsche Tänze_, K. 605: No. 3 in C major](https://youtu.be/LQT1HLpRbvA)&nbsp; [Y40] <br>
+[1791]&nbsp; [_Drei Deutsche Tänze_, K. 605: № 3 in C major](https://youtu.be/LQT1HLpRbvA)&nbsp; [Y40] <br>
 🇦🇹 Wiener Mozart Ensemble; Willi Boskovsky&nbsp; (Wien: Sofiensäle, 1966)
 
 ---
@@ -264,20 +263,20 @@ I. [Allegro](https://youtu.be/Lcwjx1Zt5Hs)&nbsp; [Y28] <br>
 **BEETHOVEN**, LUDWIG VAN <br> 
 (German, 1770–1827) 
 
-[1802]&nbsp; [Symphony No. 2 in D major, Op. 36](https://youtu.be/9PXFVQbheP4):
+[1802]&nbsp; [Symphony № 2 in D major, Op. 36](https://youtu.be/9PXFVQbheP4):
 II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [H3] <br>
 🇦🇹 Wiener Philharmoniker; Karl Böhm&nbsp; (Wien: Große Musikvereinssaal, 1971)
 
 ---
 
-[1804]&nbsp; [Symphony No. 3 in E-flat major, Op. 55](https://youtu.be/6DvRFpJha2k):
+[1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/6DvRFpJha2k):
 I. [Allegro con brio](https://youtu.be/6DvRFpJha2k) | 
 IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Abbey Road Studio One, 1959)
 
 ---
 
-[1808]&nbsp; [Symphony No. 5 in C minor, Op. 67](https://youtu.be/PNpyRBVTavQ): 
+[1808]&nbsp; [Symphony № 5 in C minor, Op. 67](https://youtu.be/PNpyRBVTavQ): 
 I. [Allegro con brio](https://youtu.be/PNpyRBVTavQ) | 
 III. [Scherzo (Allegro)](https://youtu.be/OFVkyoX5uuQ) |
 IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)&nbsp; [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, H3] <br>
@@ -285,7 +284,7 @@ IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)&nbsp; [Y4, Y5, Y10, Y16, Y21, Y33, Y
 
 ---
 
-[1808]&nbsp; [Symphony No. 6 in F major, Op. 68](https://youtu.be/FHkHOq-sa3U): 
+[1808]&nbsp; [Symphony № 6 in F major, Op. 68](https://youtu.be/FHkHOq-sa3U): 
 I. ["Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande" (Allegro ma non troppo)](https://youtu.be/FHkHOq-sa3U) |
 II. ["Scene am Bach" (Andante molto moto)](https://youtu.be/FHkHOq-sa3U?t=785) |
 III. ["Lustiges Zusammensein der Landleute" (Allegro)](https://youtu.be/FHkHOq-sa3U?t=1589) |
@@ -295,7 +294,7 @@ V. ["Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm" (Allegretto)](htt
 
 ---
 
-[1812]&nbsp; [Symphony No. 7 in A major, Op. 92](https://youtu.be/xuzRkGqJx_U): 
+[1812]&nbsp; [Symphony № 7 in A major, Op. 92](https://youtu.be/xuzRkGqJx_U): 
 II. [Allegretto](https://youtu.be/oZDRIzd2Igg) |
 III. [Presto—Assai meno presto](https://youtu.be/ca_PJWMywpY) |
 IV. [Allegro con brio](https://youtu.be/Yqw_hN0kxYQ)&nbsp; [Y21, Y33, Y40] <br>
@@ -303,21 +302,21 @@ IV. [Allegro con brio](https://youtu.be/Yqw_hN0kxYQ)&nbsp; [Y21, Y33, Y40] <br>
 
 ---
 
-[1824]&nbsp; [Symphony No. 9 in D minor, Op. 125](https://youtu.be/ns0DK_7w3oo): 
+[1824]&nbsp; [Symphony № 9 in D minor, Op. 125](https://youtu.be/ns0DK_7w3oo): 
 II. [Scherzo (Molto vivace—Presto)](https://youtu.be/ns0DK_7w3oo?t=1026) | 
 IV. [Finale](https://youtu.be/ns0DK_7w3oo?t=3956)&nbsp; [Y34, Y43, O3] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Kingsway Hall, 1957)
 
 ---
 
-[1806]&nbsp; [Piano Concerto No. 4 in G major, Op. 58](https://youtu.be/m9QwiUxtQRg): 
+[1806]&nbsp; [Piano Concerto № 4 in G major, Op. 58](https://youtu.be/m9QwiUxtQRg): 
 II. [Andante con moto](https://youtu.be/m9QwiUxtQRg?t=1081) | 
 III. [Rondo (Vivace)](https://youtu.be/m9QwiUxtQRg?t=1391)&nbsp; [Y41] <br>
 🇺🇸 The Cleveland Orchestra; ‹pf› Leon Fleisher; Széll György [George Szell]&nbsp; (Cleveland: Severance Hall, 1960)
 
 ---
 
-[1806]&nbsp; [_Leonoren-Ouvertüre_ No. 3, Op. 72b](https://youtu.be/D0WtHOSn1Vo)&nbsp; [Y12, Y41] <br>
+[1806]&nbsp; [_Leonoren-Ouvertüre_ № 3, Op. 72b](https://youtu.be/D0WtHOSn1Vo)&nbsp; [Y12, Y41] <br>
 🇦🇹 Wiener Philharmoniker; Leonard Bernstein&nbsp; (Wien: Große Musikvereinssaal, 1978)
 
 ---
@@ -327,19 +326,19 @@ III. [Rondo (Vivace)](https://youtu.be/m9QwiUxtQRg?t=1391)&nbsp; [Y41] <br>
 
 ---
 
-[1826]&nbsp; [String Quartet No. 14 in C-sharp minor, Op. 131](https://youtu.be/MCtLbxNW2oI): 
+[1826]&nbsp; [String Quartet № 14 in C-sharp minor, Op. 131](https://youtu.be/MCtLbxNW2oI): 
 V. [Presto](https://youtu.be/DZQAk0iUcO8)&nbsp; [Y3] <br>
 🇮🇹 Quartetto Italiano: ‹vn› Paolo Borciani, ‹vn› Elisa Pegreffi, ‹va› Piero Farulli, ‹vc› Franco Rossi&nbsp; (Vevey: Théâtre de Vevey, 1962)
 
 ---
 
-[1804]&nbsp; [Piano Sonata No. 21 in C major, Op. 53](https://youtu.be/Mb8HFK9Qv7M):
+[1804]&nbsp; [Piano Sonata № 21 in C major, Op. 53](https://youtu.be/Mb8HFK9Qv7M):
 I. [Allegro con brio](https://youtu.be/mKPBJp8Et_4)&nbsp; [Y1] <br>
 ‹pf› Гилельс, Эмиль Григорьевич [Emil Gilels]&nbsp; (Berlin: UFA-Tonstudio, 1972)
 
 ---
 
-[1810]&nbsp; [Bagatelle No. 25 in A minor, WoO 59](https://youtu.be/s71I_EWJk7I)&nbsp; [H2] <br>
+[1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/s71I_EWJk7I)&nbsp; [H2] <br>
 ‹pf› <span style="font-size:0.95em">郎朗</span> [Lang Lang]&nbsp; (Paris: Philharmonie de Paris, 2019)
 
 ---
@@ -354,7 +353,7 @@ I. [Allegro con brio](https://youtu.be/mKPBJp8Et_4)&nbsp; [Y1] <br>
 **SCHUBERT**, FRANZ <br> 
 (Austrian, 1797–1828) 
 
-[1822]&nbsp; [Symphony No. 8 in B minor, D. 759](https://youtu.be/ORieaXQ69pU): I. [Allegro moderato](https://youtu.be/ORieaXQ69pU)&nbsp; [O3] <br>
+[1822]&nbsp; [Symphony № 8 in B minor, D. 759](https://youtu.be/ORieaXQ69pU): I. [Allegro moderato](https://youtu.be/ORieaXQ69pU)&nbsp; [O3] <br>
 🇬🇧 Orchestra of the Age of Enlightenment; Charles Mackerras&nbsp; (London: Abbey Road Studio One, 1990)
 
 
@@ -394,7 +393,7 @@ I. [Allegro moderato](https://youtu.be/ZEfmpGTc6uo)&nbsp; [Y3] <br>
 **SCHUMANN**, ROBERT <br> 
 (German, 1810–1856) 
 
-[1847]&nbsp; [Symphony No. 2 in C major, Op. 61: III. Adagio espressivo](https://youtu.be/f6_gZYQNhpI?t=1041)&nbsp; [Y5] <br>
+[1847]&nbsp; [Symphony № 2 in C major, Op. 61: III. Adagio espressivo](https://youtu.be/f6_gZYQNhpI?t=1041)&nbsp; [Y5] <br>
 🇺🇸 The Cleveland Orchestra; Széll György [George Szell]&nbsp; (Cleveland: Severance Hall, 1960)
 
 ---
@@ -452,7 +451,7 @@ I. [Allegro moderato](https://youtu.be/ZEfmpGTc6uo)&nbsp; [Y3] <br>
 **BRAHMS**, JOHANNES <br> 
 (German, 1833–1897) 
 
-[1876]&nbsp; [Symphony No. 1 in C minor, Op. 68:](https://youtu.be/eYXmV8d6p2E) 
+[1876]&nbsp; [Symphony № 1 in C minor, Op. 68:](https://youtu.be/eYXmV8d6p2E) 
 I. [Un poco sostenuto—Allegro](https://youtu.be/5-NP9bfwiZ8) |
 II. [Andante sostenuto](https://youtu.be/JQORT-XU_Mw) |
 III. [Un poco allegretto e grazioso](https://youtu.be/UvSbhV5Gpzk) |
@@ -461,13 +460,13 @@ IV. [Adagio—Più andante—Allegro non troppo, ma con brio—Più allegro](htt
 
 ---
 
-[1877]&nbsp; [Symphony No. 2 in D major, Op. 73:](https://youtu.be/Zi5vLfekHm4) 
+[1877]&nbsp; [Symphony № 2 in D major, Op. 73:](https://youtu.be/Zi5vLfekHm4) 
 IV. [Allegro con spirito](https://youtu.be/V8bExUCQZ98)&nbsp; [Y4]<br>
 🇩🇪 Gewandhausorchester; Riccardo Chailly&nbsp; (Leipzig: Gewandhaus, 2012)
 
 ---
 
-[1885]&nbsp; [Symphony No. 4 in E minor, Op. 98:](https://youtu.be/JGg0oNtZzgI) 
+[1885]&nbsp; [Symphony № 4 in E minor, Op. 98:](https://youtu.be/JGg0oNtZzgI) 
 I. [Allegro non troppo](https://youtu.be/onwEcAR3DV0?t=10) |
 II. [Andante moderato](https://youtu.be/hD9Fu4clOEA) |
 III. [Allegro giocoso](https://youtu.be/MTzh5h2YITs) |
@@ -481,7 +480,7 @@ IV. [Allegro energico e passionato](https://youtu.be/s71pegGaWKU)&nbsp; [Y6, Y21
 
 ---
 
-[1868]&nbsp; [_Ungarische Tänze_, WoO 1: No. 5 in F-sharp minor](https://youtu.be/gME1KWU6gHI)&nbsp; [Y2] <br>
+[1868]&nbsp; [_Ungarische Tänze_, WoO 1: № 5 in F-sharp minor](https://youtu.be/gME1KWU6gHI)&nbsp; [Y2] <br>
 🇭🇺 Magyar Rádió Szimfonikus Zenekara; Bogár István [István Bogár]&nbsp; (Budapest: Istituto Italiano di Cultura, 1988)
 
 ---
@@ -490,26 +489,26 @@ IV. [Allegro energico e passionato](https://youtu.be/s71pegGaWKU)&nbsp; [Y6, Y21
 **MAHLER**, GUSTAV <br> 
 (Bohemian/Austrian, 1860–1911) 
 
-[1888]&nbsp; [Symphony No. 1 in D major:](https://youtu.be/W4f3dNyONl0)
+[1888]&nbsp; [Symphony № 1 in D major:](https://youtu.be/W4f3dNyONl0)
 III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&nbsp; [Y6, Y8] <br>
 🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelik&nbsp; (München: Herkulessaal, Münchner Residenz, 1979)
 
 ---
 
-[1894]&nbsp; [Symphony No. 2 in C minor/E-flat major:]() 
+[1894]&nbsp; [Symphony № 2 in C minor/E-flat major:]() 
 III. [In ruhig fliessender Bewegung]() | 
 V. [In Tempo des Scherzos]()&nbsp; [Y8] <br>
 
 ---
 
-[1900]&nbsp; [Symphony No. 4 in G major:]() 
+[1900]&nbsp; [Symphony № 4 in G major:]() 
 I. [Bedächtig, nicht eilen]() |
 III. [Ruhevoll, poco adagio]() |
 IV. [Sehr behaglich]()&nbsp; [Y8] <br>
 
 ---
 
-[1902]&nbsp; [Symphony No. 5 in C-sharp minor:]() 
+[1902]&nbsp; [Symphony № 5 in C-sharp minor:]() 
 
 ---
 
@@ -566,8 +565,8 @@ VII. ["Der Ritt durch die Luft" (Ein wenig ruhiger als vorher)](https://youtu.be
 
 [1911]&nbsp; [_Der Rosenkavalier_, Op. 59, TrV 227:](https://youtu.be/NULxVW-gH64)
 [Einleitung](https://youtu.be/FjNPp-O2_TM) from Act I |
-[Walzerfolge No. 1, TrV 227c](https://youtu.be/7PP5cMyts58) | 
-[Walzerfolge No. 2, TrV 227a](https://youtu.be/7w2uvF1Dl88)&nbsp; [Y6, Y40, Y43] <br>
+[Walzerfolge № 1, TrV 227c](https://youtu.be/7PP5cMyts58) | 
+[Walzerfolge № 2, TrV 227a](https://youtu.be/7w2uvF1Dl88)&nbsp; [Y6, Y40, Y43] <br>
 🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956) <br>
 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 
@@ -577,7 +576,7 @@ VII. ["Der Ritt durch die Luft" (Ein wenig ruhiger als vorher)](https://youtu.be
 **VAUGHAN WILLIAMS**, RALPH <br> 
 (British, 1872–1958) 
 
-[1934]&nbsp; [Symphony No. 4 in F minor:](https://youtu.be/qpa8tzCbLQ0) 
+[1934]&nbsp; [Symphony № 4 in F minor:](https://youtu.be/qpa8tzCbLQ0) 
 I. [Allegro](https://youtu.be/qpa8tzCbLQ0) |
 II. [Andante moderato](https://youtu.be/nxTcMAgHf0Q) |
 III. [Scherzo (Allegro molto)](https://youtu.be/-6iZ5Szn-Zc) |
@@ -615,7 +614,7 @@ IV. [Finale con epilogo fugato (Allegro molto)](https://youtu.be/pXkyun7gAJQ)&nb
 **HINDEMITH**, PAUL <br> 
 (German, 1895–1963) 
 
-[1922]&nbsp; [_Kleine Kammermusik_, Op. 24, No. 2](https://youtu.be/8xj_8bTCrQk?t=11):
+[1922]&nbsp; [_Kleine Kammermusik_, Op. 24, № 2](https://youtu.be/8xj_8bTCrQk?t=11):
 V. [Sehr lebhaft](https://youtu.be/aKYDWRzxgpg)&nbsp; [Y3] <br>
 🇳🇱 Koninklijk Concertgebouworkest; Riccardo Chailly&nbsp; (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1990)
 
@@ -652,7 +651,7 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 **TORRE**, FRANCISCO DE LA <br> 
 (Spanish, 1460–1504) 
 
-[1505–1520]&nbsp; [La Spagna. Danza alta in D minor](https://youtu.be/Xj_7wDVDFBw)&nbsp; 📖 _Cancionero de Palacio_, No. 321&nbsp; [Y10] <br>
+[1505–1520]&nbsp; [La Spagna. Danza alta in D minor](https://youtu.be/Xj_7wDVDFBw)&nbsp; 📖 _Cancionero de Palacio_, № 321&nbsp; [Y10] <br>
 🇨🇭 Hespèrion XXI; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
 
 ---
@@ -661,12 +660,12 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 **GABRIELI**, GIOVANNI <br> 
 (Italian, 1557–1612) 
 
-[1597]&nbsp; [Canzon per sonar septimi toni a 8, Ch. 172](https://youtu.be/soXG5ndvuFY)&nbsp; 📖 _Sacrae symphoniae_, Liber 1, No. 30&nbsp; [Y10] <br>
+[1597]&nbsp; [Canzon per sonar septimi toni a 8, Ch. 172](https://youtu.be/soXG5ndvuFY)&nbsp; 📖 _Sacrae symphoniae_, Liber 1, № 30&nbsp; [Y10] <br>
 🇮🇹 Concerto Palatino; Bruce Dickey & Charles Toet&nbsp; (Bologna: Basilica di San Petronio, 1998)
 
 ---
 
-[1597]&nbsp; [Sonata octavi toni a 12, Ch. 184](https://youtu.be/avtlDM-1L8s)&nbsp; 📖 _Sacrae symphoniae_, Liber 1, No. 59&nbsp; [Y3] <br>
+[1597]&nbsp; [Sonata octavi toni a 12, Ch. 184](https://youtu.be/avtlDM-1L8s)&nbsp; 📖 _Sacrae symphoniae_, Liber 1, № 59&nbsp; [Y3] <br>
 🇬🇧 Gabrieli Consort & Players; Paul McCreesh&nbsp; (Northumberland: Brinkburn Priory, 1989)
 
 ---
@@ -675,7 +674,7 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 **VIVALDI**, ANTONIO <br> 
 (Italian, 1678–1741) 
 
-[1711]&nbsp; [Concerto for Four Violins in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA)&nbsp; 📖 _L'estro armonico_, Op. 3, No. 10&nbsp; [Y20] <br>
+[1711]&nbsp; [Concerto for Four Violins in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA)&nbsp; 📖 _L'estro armonico_, Op. 3, № 10&nbsp; [Y20] <br>
 🇮🇹 I Solisti Veneti; ‹vn› Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, & Stefano Zanchetta; Claudio Scimone&nbsp; (Torino: Palazzina di caccia di Stupinigi, 1987)
 
 ---
@@ -779,7 +778,7 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E)—["Tristesse"](https://youtu.
 **SAINT-SAËNS**, CAMILLE  <br>
 (French, 1835–1921)
 
-[1888]&nbsp; [Cello Concerto No. 1 in A minor, Op. 33](https://youtu.be/fvcdunC_0kw)&nbsp; [Y21] <br>
+[1888]&nbsp; [Cello Concerto № 1 in A minor, Op. 33](https://youtu.be/fvcdunC_0kw)&nbsp; [Y21] <br>
 🇫🇷 Orchestre National de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Studio 103, Maison de la Radio, 1980)
 
 ---
@@ -837,7 +836,7 @@ III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k)&nbsp; [Y16]
 
 ---
 
-[1908]&nbsp; [_Ibéria_, L. 122/CD 118 (_Images pour orchestre_), No. 2](https://youtu.be/zUKoT6Jyip4): 
+[1908]&nbsp; [_Ibéria_, L. 122/CD 118 (_Images pour orchestre_), № 2](https://youtu.be/zUKoT6Jyip4): 
 II. ["Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) | 
 III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1957)
@@ -961,27 +960,27 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 **CHOPIN**, FRÉDÉRIC <br> 
 (Polish–French, 1810–1849)
 
-[1832]&nbsp; [Mazurka No. 5 in B-flat major, Op. 7, No. 1](https://youtu.be/nyYEdNDYYew)&nbsp; [Y2, Y29] <br>
+[1832]&nbsp; [Mazurka № 5 in B-flat major, Op. 7, № 1](https://youtu.be/nyYEdNDYYew)&nbsp; [Y2, Y29] <br>
 ‹pf› Arthur Rubinstein&nbsp; (New York: Webster Hall, 1965)
 
 ---
 
-[1836]&nbsp; [Mazurka No. 15 in C major, Op. 24, No. 2](https://youtu.be/mmnkyqdZJfU)&nbsp; [Y36] <br>
+[1836]&nbsp; [Mazurka № 15 in C major, Op. 24, № 2](https://youtu.be/mmnkyqdZJfU)&nbsp; [Y36] <br>
 ‹pf› Ашкенази, Владимир Давидович [Vladimir Ashkenazy]&nbsp; (London: Kingsway Hall, 1983)
 
 ---
 
-[1833]&nbsp; [Nocturne No. 5 in F-sharp major, Op. 15, No. 2](https://youtu.be/efLxMjeSb_Y)&nbsp; [Y1] <br>
+[1833]&nbsp; [Nocturne № 5 in F-sharp major, Op. 15, № 2](https://youtu.be/efLxMjeSb_Y)&nbsp; [Y1] <br>
 ‹pf› Claudio Arrau&nbsp; (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)
 
 ---
 
-[1833]&nbsp; [Nocturne No. 8 in D-flat major, Op. 27, No. 2](https://youtu.be/L3q-WfZBDvc)&nbsp; [H2] <br>
+[1833]&nbsp; [Nocturne № 8 in D-flat major, Op. 27, № 2](https://youtu.be/L3q-WfZBDvc)&nbsp; [H2] <br>
 ‹pf› Maria João Pires&nbsp; (München: Musikhochschule, 1995)
 
 ---
 
-[1835]&nbsp; [Ballade No. 1 in G minor, Op. 23](https://youtu.be/64UEt-bZWyM)&nbsp; [H3] <br>
+[1835]&nbsp; [Ballade № 1 in G minor, Op. 23](https://youtu.be/64UEt-bZWyM)&nbsp; [H3] <br>
 ‹pf› Murray Perahia&nbsp; (La Chaux-de-Fonds, Neuchâtel: Salle de Musique, Musica Théâtre, 1994)
 
 ---
@@ -995,7 +994,7 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 **LISZT**, FERENC [FRANZ] <br> 
 (Hungarian, 1811–1886) 
 
-[1847]&nbsp; [_Magyar rapszódiák_, S. 244: No. 2 in C-sharp minor](https://youtu.be/VbV0E7qRh0Y)&nbsp; [Y29, Y36] <br>
+[1847]&nbsp; [_Magyar rapszódiák_, S. 244: № 2 in C-sharp minor](https://youtu.be/VbV0E7qRh0Y)&nbsp; [Y29, Y36] <br>
 ‹pf› Cziffra György [Georges Cziffra]&nbsp; (Paris: Salle Wagram, 1972–1975)
 
 ---
@@ -1013,7 +1012,7 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 **WIENIAWSKI**, HENRYK <br>
 (Polish, 1835–1880) 
 
-[1862]&nbsp; [Violin Concerto No. 2 in D minor, Op. 22:](https://youtu.be/9TR3HU5ovOA) III. [Allegro con fuoco—Allegro moderato (à la Zingara)](https://youtu.be/HIkw1zWtTiQ)&nbsp; [Y9] <br>
+[1862]&nbsp; [Violin Concerto № 2 in D minor, Op. 22:](https://youtu.be/9TR3HU5ovOA) III. [Allegro con fuoco—Allegro moderato (à la Zingara)](https://youtu.be/HIkw1zWtTiQ)&nbsp; [Y9] <br>
 🇫🇷 Orchestre de Paris; ‹vn› Itzhak Perlman; Daniel Barenboim&nbsp; (Paris: Salle Pleyel, 1983) 
 
 ---
@@ -1049,26 +1048,26 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 	**TCHAIKOVSKY**, PYOTR ILYICH </span> <br>
 (Russian, 1840–1893)
 
-[1872]&nbsp; [Symphony No. 2 in C minor, Op. 17/TH 25](https://youtu.be/1XV63dP4t54): 
+[1872]&nbsp; [Symphony № 2 in C minor, Op. 17/TH 25](https://youtu.be/1XV63dP4t54): 
 IV. [Finale (Moderato assai—Allegro vivo)](https://youtu.be/1XV63dP4t54?t=1444)&nbsp; [H3] <br>
 🇳🇴 Oslo Filharmoniske Orkester; Mariss Jansons&nbsp; (Oslo: Oslo Konserthus, 1985)
 
 ---
 
-[1878]&nbsp; [Symphony No. 4 in F minor, Op. 36/TH 27](https://youtu.be/NAFO5ZGq-Ok): 
+[1878]&nbsp; [Symphony № 4 in F minor, Op. 36/TH 27](https://youtu.be/NAFO5ZGq-Ok): 
 I. [Andante sostenuto—Moderato con anima—Moderato assai, quasi Andante—Allegro vivo](https://youtu.be/NAFO5ZGq-Ok) | IV. [Finale (Allegro con fuoco)](https://youtu.be/kyZrdpRKyxQ)&nbsp; [Y1, Y2, Y4] <br>
 🇦🇹 Wiener Philharmoniker; Claudio Abbado&nbsp; (Wien: Große Musikvereinssaal, 1975)
 
 ---
 
-[1888]&nbsp; [Symphony No. 5 in E minor, Op. 64/TH 29](https://youtu.be/_X-agnluvaI): 
+[1888]&nbsp; [Symphony № 5 in E minor, Op. 64/TH 29](https://youtu.be/_X-agnluvaI): 
 I. [Andante—Allegro con anima—Molto più tranquillo](https://youtu.be/_X-agnluvaI) | 
 IV. [Finale (Andante maestoso—Allegro vivace—Meno Mosso)](https://youtu.be/_X-agnluvaI?t=1938)&nbsp; [Y1] <br>
 🇷🇺 Симфонический оркестр Ленинградской государственной филармонии; Мравинский, Евгений Александрович [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
 
 ---
 
-[1893]&nbsp; [Symphony No. 6 in B minor, Op. 74/TH 30](https://youtu.be/kSOgrz2jYQI): 
+[1893]&nbsp; [Symphony № 6 in B minor, Op. 74/TH 30](https://youtu.be/kSOgrz2jYQI): 
 I. [Adagio—Allegro non troppo](https://youtu.be/kSOgrz2jYQI) |
 II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3] <br>
 🇷🇺 Симфонический оркестр Ленинградской государственной филармонии; Мравинский, Евгений Александрович [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
@@ -1103,7 +1102,7 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3] <br>
 **DVOŘÁK**, ANTONÍN <br> 
 (Czech, 1841–1904) 
 
-[1893]&nbsp; [Symphony No. 9 in E minor, Op. 95/B. 178:](https://youtu.be/1weI5FXQ_v0) 
+[1893]&nbsp; [Symphony № 9 in E minor, Op. 95/B. 178:](https://youtu.be/1weI5FXQ_v0) 
 I. [Adagio—Allegro molto](https://youtu.be/1weI5FXQ_v0) | 
 II. [Largo](https://youtu.be/1weI5FXQ_v0?t=532)&nbsp; [Y2] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1957)
@@ -1139,23 +1138,23 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 **SIBELIUS**, JEAN <br> 
 (Finnish, 1865–1957) 
 
-[1902]&nbsp; [Symphony No. 2 in D major, Op. 43:]() 
+[1902]&nbsp; [Symphony № 2 in D major, Op. 43:]() 
 []()
 
 
 ---
 
-[1911]&nbsp; [Symphony No. 4 in A minor, Op. 63:](https://youtu.be/wKmxiTXi_qs) II. [Allegro molto vivace](https://youtu.be/1xRikSH9CKo)&nbsp; [Y36] <br>
+[1911]&nbsp; [Symphony № 4 in A minor, Op. 63:](https://youtu.be/wKmxiTXi_qs) II. [Allegro molto vivace](https://youtu.be/1xRikSH9CKo)&nbsp; [Y36] <br>
 🇦🇹 Wiener Philharmoniker; Lorin Maazel&nbsp; (Wien: Sofiensäle, 1968)
 
 ---
 
-[1915]&nbsp; [Symphony No. 5 in E-flat major, Op. 82:](https://youtu.be/_-onpGxdZFs) I. [Tempo molto moderato](https://youtu.be/_-onpGxdZFs)&nbsp; [Y4] <br>
+[1915]&nbsp; [Symphony № 5 in E-flat major, Op. 82:](https://youtu.be/_-onpGxdZFs) I. [Tempo molto moderato](https://youtu.be/_-onpGxdZFs)&nbsp; [Y4] <br>
 🇳🇴 Oslo Filharmoniske Orkester; Mariss Jansons&nbsp; (Oslo: Oslo Konserthus, 1992)
 
 ---
 
-[1923]&nbsp; [Symphony No. 6 in D minor, Op. 104:](https://youtu.be/z8jlX5R_lxc) I. [Allegro molto moderato](https://youtu.be/z8jlX5R_lxc)&nbsp; [Y36] <br>
+[1923]&nbsp; [Symphony № 6 in D minor, Op. 104:](https://youtu.be/z8jlX5R_lxc) I. [Allegro molto moderato](https://youtu.be/z8jlX5R_lxc)&nbsp; [Y36] <br>
 🇩🇪 Berliner Philharmoniker; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1967)
 
 ---
@@ -1169,7 +1168,7 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 
 ---
 
-[1928]&nbsp; [Violin Rhapsody No. 1, Sz. 87/BB 94:](https://youtu.be/VSHjf_hzG7Q) II. [Friss (Allegretto moderato)](https://youtu.be/nUg1OSPomQo)&nbsp; [Y25] <br>
+[1928]&nbsp; [Violin Rhapsody № 1, Sz. 87/BB 94:](https://youtu.be/VSHjf_hzG7Q) II. [Friss (Allegretto moderato)](https://youtu.be/nUg1OSPomQo)&nbsp; [Y25] <br>
 🇺🇸 New York Philharmonic; ‹vn› Isaac Stern; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1962)
 
 ---
@@ -1260,7 +1259,7 @@ I. [Tempo giusto](https://youtu.be/klXjzrGMm3I)&nbsp; [Y18] <br>
 	**PROKOFIEV**, SERGEI SERGEYEVICH </span> <br>
 (Russian, 1891–1953) 
 
-[1917]&nbsp; [Symphony No. 1 in D major, Op. 25:](https://youtu.be/WLT55kPIFCo) 
+[1917]&nbsp; [Symphony № 1 in D major, Op. 25:](https://youtu.be/WLT55kPIFCo) 
 I. [Allegro](https://youtu.be/_FKv9moORv0) | 
 III. [Gavotta (Non troppo allegro)](https://youtu.be/nnc5aovCZ9c) |
 IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <br>
@@ -1284,19 +1283,19 @@ IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <
 	**SHOSTAKOVICH**, DMITRI DMITRIYEVICH </span> <br>
 (Russian, 1906–1975)
 
-[19]&nbsp; [Symphony No. 5 in D minor, Op. 47]():
+[19]&nbsp; [Symphony № 5 in D minor, Op. 47]():
 II. [Allegretto]()&nbsp; [H3] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1963)
 
 ---
 
-[1941]&nbsp; [Symphony No. 7 in C major, Op. 60](https://youtu.be/zU4KjoF_X74):
+[1941]&nbsp; [Symphony № 7 in C major, Op. 60](https://youtu.be/zU4KjoF_X74):
 I. [Allegretto](https://youtu.be/zU4KjoF_X74)&nbsp; [Y34] <br>
 🇳🇱 Koninklijk Concertgebouworkest; Mariss Jansons&nbsp; (Amsterdam: Koninklijk Concertgebouw, 2006)
 
 ---
 
-[1945]&nbsp; [Symphony No. 9 in E-flat major, Op. 70](https://youtu.be/EH2IGekYPc8):
+[1945]&nbsp; [Symphony № 9 in E-flat major, Op. 70](https://youtu.be/EH2IGekYPc8):
 I. [Allegro](https://youtu.be/3TagkfyXZWU) | 
 II. [Moderato](https://youtu.be/I6QexYv16t0) |
 III. [Presto](https://youtu.be/1lL-bVN7yac) | 
@@ -1334,7 +1333,7 @@ V. [Allegretto—Allegro](https://youtu.be/745uf9sbWfI)&nbsp; [Y34] <br>
 **MacDOWELL**, EDWARD <br>
 (American, 1860–1908)
 
-[1896]&nbsp; [Suite No. 2, Op. 48: I. "Legend"](https://youtu.be/a7UbizvyC-k)&nbsp; [Y2] <br>
+[1896]&nbsp; [Suite № 2, Op. 48: I. "Legend"](https://youtu.be/a7UbizvyC-k)&nbsp; [Y2] <br>
 🇬🇧 Royal Philharmonic Orchestra; Karl Krueger&nbsp; (1967)
 
 ---
@@ -1368,12 +1367,12 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **VILLA-LOBOS**, HEITOR <br>
 (Brazilian, 1887–1959) 
 
-[1933]&nbsp; [_Bachianas brasileiras_ No. 2, W247: IV. Toccata "O Trenzinho do Caipira"](https://youtu.be/E3FT9Z3LDKo)&nbsp; [Y10] <br>
+[1933]&nbsp; [_Bachianas brasileiras_ № 2, W247: IV. Toccata "O Trenzinho do Caipira"](https://youtu.be/E3FT9Z3LDKo)&nbsp; [Y10] <br>
 🇬🇧 London Symphony Orchestra; Eugene Goossens&nbsp; (London: Walthamstow Assembly Hall, 1958)
 
 ---
 
-[1945]&nbsp; [_Bachianas brasileiras_ No. 5, W389: I. Ária "Cantilena"](https://youtu.be/RZRhb1NcYsQ) & [II. Dança "Martelo"](https://youtu.be/yTIdNCmuHfA)&nbsp; [Y23] <br>
+[1945]&nbsp; [_Bachianas brasileiras_ № 5, W389: I. Ária "Cantilena"](https://youtu.be/RZRhb1NcYsQ) & [II. Dança "Martelo"](https://youtu.be/yTIdNCmuHfA)&nbsp; [Y23] <br>
 🇫🇷 Orchestre national de la Radiodiffusion française, ‹sop› Victoria de los Ángeles; Heitor Villa-Lobos&nbsp; (Paris: Salle de la Mutualité, 1956)
 
 ---
@@ -1409,7 +1408,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **SESSIONS**, ROGER <br>
 (American, 1896–1985)
 
-[1926]&nbsp; [Chorale Prelude No. 3: Ben ritmato](https://youtu.be/O4MPIWLClKk?t=578)&nbsp; [Y2] <br>
+[1926]&nbsp; [Chorale Prelude № 3: Ben ritmato](https://youtu.be/O4MPIWLClKk?t=578)&nbsp; [Y2] <br>
 ‹org› Valentina Woshner Fillinger&nbsp; (Pittsburgh: Skinner Organ ‹1933›, Carnegie Music Hall, 1965)
 
 ---
@@ -1427,7 +1426,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **HARRIS**, ROY <br>
 (American, 1898–1979)
 
-[1939]&nbsp; [Symphony No. 3](https://youtu.be/f0UQy8ZCh4Y)&nbsp; [Y2] <br>
+[1939]&nbsp; [Symphony № 3](https://youtu.be/f0UQy8ZCh4Y)&nbsp; [Y2] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1961)
 
 ---
@@ -1450,7 +1449,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **THOMPSON**, RANDALL <br>
 (American, 1899–1984) <br>
 
-[1931]&nbsp; [Symphony No. 2 in E minor: II. Largo](https://youtu.be/75ximAdSAI8) & [III. Vivace](https://youtu.be/XXzRZsZjgKQ)&nbsp; [Y2, Y24] <br>
+[1931]&nbsp; [Symphony № 2 in E minor: II. Largo](https://youtu.be/75ximAdSAI8) & [III. Vivace](https://youtu.be/XXzRZsZjgKQ)&nbsp; [Y2, Y24] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Philharmonic Hall, 1968)
 
 ---
@@ -1478,7 +1477,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 (American, 1900–1990) 
 
 
-[1946]&nbsp; [Symphony No. 3](https://youtu.be/YkFvXd_h2XE): 
+[1946]&nbsp; [Symphony № 3](https://youtu.be/YkFvXd_h2XE): 
 IV. [Finale (Molto deliberato—Allegro risoluto)](https://youtu.be/MTXIpXOS9pA)&nbsp; [Y2] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Philharmonic Hall, 1966)
 
@@ -1542,7 +1541,7 @@ II. [Molto moderato—Allegro assai](https://youtu.be/AFKNIWwSuiI)&nbsp; [Y27] <
 
 ---
 
-[1943]&nbsp; [_Symphony for Strings_ (Symphony No. 5):](https://youtu.be/Ag15Eu0ZJjI) III. [Presto](https://youtu.be/ZyRJ-JpV4gE)&nbsp; [Y3] <br>
+[1943]&nbsp; [_Symphony for Strings_ (Symphony № 5):](https://youtu.be/Ag15Eu0ZJjI) III. [Presto](https://youtu.be/ZyRJ-JpV4gE)&nbsp; [Y3] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Philharmonic Hall, 1966)
 
 ---
