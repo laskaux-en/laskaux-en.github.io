@@ -145,7 +145,7 @@ Classic BBC documentary series very often bring unexpected gifts—in this case,
 [VARÈSE, 1936]&nbsp; [_Densité 21,5_](https://www.youtube.com/watch?v=J5-nkJz0guk) &nbsp;[2]
 
 
-[BARBER, 1936]&nbsp; [Adagio for Strings, Op. 11](https://www.youtube.com/watch?v=tVNhFMZP4NM) &nbsp;[1]
+[BARBER, 1936]&nbsp; [Adagio for Strings, Op. 11](https://www.youtube.com/watch?v=tVNhFMZP4NM)&nbsp; [1]
 
 
 [SHOSTAKOVICH, 1937]&nbsp; [Symphony No. 5 in D minor, Op. 47: III. Largo](https://www.youtube.com/watch?v=vu8YuFHrPSY) &nbsp;[2]
