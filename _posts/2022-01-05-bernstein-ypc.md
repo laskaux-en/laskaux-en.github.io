@@ -690,7 +690,7 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 (French, 1683–1764)
 
 [1727]&nbsp; [Suite in G major, RCT 6:](https://youtu.be/kxTuTtdpEtQ) V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp; 📖 _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
-‹hpd› Pieter-Jan Belder&nbsp; (Deventer: Bom Klavecimbel ‹2008›, Doopsgezinde Kerk, 2008) 
+‹hpd› Pieter-Jan Belder&nbsp; (Deventer: Bom Klavecimbel ‹2008›, Penninckhuis, 2008) 
 
 > [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_:](https://youtu.be/WQfCIE3gVmY) VIa. ["La poule"](https://youtu.be/gdBSXAKGGDM) (arr. anonymous)&nbsp; <br>
 > 🇫🇷 Les Talens Lyriques; Christophe Rousset&nbsp; (2003) 
@@ -875,7 +875,6 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 
 **RAVEL**, MAURICE <br> 
 (French, 1875–1937) 
-
 
 [1908]&nbsp; [_Rapsodie espagnole_, M. 54](https://youtu.be/H7LiVXOwMFM): I. [Prélude à la nuit"](https://youtu.be/H7LiVXOwMFM) | IV. ["Feria"](https://youtu.be/vrA8MYYlB-M)&nbsp; [Y2, H5] <br>
 🇫🇷 Orchestre de Paris; Jean Martinon&nbsp; (Paris: Salle Wagram, 1974)
