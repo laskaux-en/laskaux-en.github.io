@@ -1282,7 +1282,7 @@ IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <
 	**SHOSTAKOVICH**, DMITRI DMITRIYEVICH </span> <br>
 (Russian, 1906–1975)
 
-[19]&nbsp; [Symphony № 5 in D minor, Op. 47]():
+[1937]&nbsp; [Symphony № 5 in D minor, Op. 47]():
 II. [Allegretto]()&nbsp; [H3] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1963)
 
