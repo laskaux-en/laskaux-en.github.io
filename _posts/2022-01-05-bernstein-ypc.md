@@ -1047,26 +1047,26 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 	**TCHAIKOVSKY**, PYOTR ILYICH </span> <br>
 (Russian, 1840–1893)
 
-[1872]&nbsp; [Symphony № 2 in C minor, Op. 17/TH 25](https://youtu.be/1XV63dP4t54): 
+[1872]&nbsp; [Symphony № 2 in C minor, Op. 17; TH 25](https://youtu.be/1XV63dP4t54): 
 IV. [Finale (Moderato assai–Allegro vivo)](https://youtu.be/1XV63dP4t54?t=1444)&nbsp; [N3] <br>
 🇳🇴 Oslo Filharmoniske Orkester; Mariss Jansons&nbsp; (Oslo: Oslo Konserthus, 1985)
 
 ---
 
-[1878]&nbsp; [Symphony № 4 in F minor, Op. 36/TH 27](https://youtu.be/NAFO5ZGq-Ok): 
+[1878]&nbsp; [Symphony № 4 in F minor, Op. 36; TH 27](https://youtu.be/NAFO5ZGq-Ok): 
 I. [Andante sostenuto–Moderato con anima–Moderato assai, quasi Andante–Allegro vivo](https://youtu.be/NAFO5ZGq-Ok) | IV. [Finale (Allegro con fuoco)](https://youtu.be/kyZrdpRKyxQ)&nbsp; [Y1, Y2, Y4] <br>
 🇦🇹 Wiener Philharmoniker; Claudio Abbado&nbsp; (Wien: Große Musikvereinssaal, 1975)
 
 ---
 
-[1888]&nbsp; [Symphony № 5 in E minor, Op. 64/TH 29](https://youtu.be/_X-agnluvaI): 
+[1888]&nbsp; [Symphony № 5 in E minor, Op. 64; TH 29](https://youtu.be/_X-agnluvaI): 
 I. [Andante–Allegro con anima–Molto più tranquillo](https://youtu.be/_X-agnluvaI) | 
 IV. [Finale (Andante maestoso–Allegro vivace–Meno Mosso)](https://youtu.be/_X-agnluvaI?t=1938)&nbsp; [Y1] <br>
 🇷🇺 Ленинградской государственной филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
 
 ---
 
-[1893]&nbsp; [Symphony № 6 in B minor, Op. 74/TH 30](https://youtu.be/kSOgrz2jYQI): 
+[1893]&nbsp; [Symphony № 6 in B minor, Op. 74; TH 30](https://youtu.be/kSOgrz2jYQI): 
 I. [Adagio–Allegro non troppo](https://youtu.be/kSOgrz2jYQI) |
 II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O5] <br>
 🇷🇺 Ленинградской государственной филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
@@ -1078,12 +1078,12 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O5] <br>
 
 ---
 
-[1880]&nbsp; [Торжественная увертюра «1812 год» [_1812 Overture_], Op. 49/TH 49](https://youtu.be/gXyS-ednXzY)&nbsp; [Y20] <br>
+[1880]&nbsp; [Торжественная увертюра «1812 год» [_1812 Overture_], Op. 49; TH 49](https://youtu.be/gXyS-ednXzY)&nbsp; [Y20] <br>
 🇷🇺 Санкт-Петербургской филармонии, Оркестр штаба Ленинградского военного округа, Санкт-Петербургский камерный хор; Владимир Ашкенази [Vladimir Ashkenazy]&nbsp; (Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1996)
 
 ---
 
-[1876]&nbsp; [Лебединое озеро [_Swan Lake_], Op. 20/TH 12:](https://youtu.be/syhogh0C-FI) 
+[1876]&nbsp; [Лебединое озеро [_Swan Lake_], Op. 20; TH 12:](https://youtu.be/syhogh0C-FI) 
 [Pas de deux](https://youtu.be/syhogh0C-FI?t=1265) from Act I |
 [Scène (Moderato)](https://youtu.be/Tb5Oj6ghJQM) from Act II&nbsp; [Y47] <br>
 🇷🇺 Государственный симфонический оркестр СССР; ‹vn› Yuri Torchinsky; Евгений Светланов [Yevgeny Svetlanov]&nbsp; (Москва: Англиканская церковь Святого Андрея, 1988) <br> 
@@ -1091,7 +1091,7 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O5] <br>
 
 ---
 
-[1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71/TH 14:](https://youtu.be/jA1-3Xgpf7Q)
+[1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71; TH 14:](https://youtu.be/jA1-3Xgpf7Q)
 ["Вальс цветов" [Waltz of the Flowers]](https://youtu.be/zt29NKCpbOA) from Act II&nbsp; [Y43] <br>
 🇩🇪 Berliner Philharmoniker; Мстислав Ростропович [Mstislav Rostropovich]&nbsp; (Berlin: Berliner Philharmonie, 1978)
 
@@ -1101,14 +1101,14 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O5] <br>
 **DVOŘÁK**, ANTONÍN <br> 
 (Czech, 1841–1904) 
 
-[1893]&nbsp; [Symphony № 9 in E minor, Op. 95/B. 178:](https://youtu.be/1weI5FXQ_v0) 
+[1893]&nbsp; [Symphony № 9 in E minor, Op. 95; B. 178:](https://youtu.be/1weI5FXQ_v0) 
 I. [Adagio–Allegro molto](https://youtu.be/1weI5FXQ_v0) | 
 II. [Largo](https://youtu.be/1weI5FXQ_v0?t=532)&nbsp; [Y2] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1957)
 
 ---
 
-[1895]&nbsp; [Cello Concerto in B minor, Op. 104/B. 191:](https://youtu.be/BPu3gFAMJK0) 
+[1895]&nbsp; [Cello Concerto in B minor, Op. 104; B. 191:](https://youtu.be/BPu3gFAMJK0) 
 I. [Allegro](https://youtu.be/BPu3gFAMJK0)&nbsp; [Y9] <br>
 🇩🇪 Berliner Philharmoniker; ‹vc› Pierre Fournier; Széll György [George Szell]&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1961)
 
