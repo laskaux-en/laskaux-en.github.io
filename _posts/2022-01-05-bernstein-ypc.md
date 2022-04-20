@@ -818,18 +818,18 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E)–["Tristesse"](https://youtu.
 **DEBUSSY**, CLAUDE <br> 
 (French, 1862–1918) 
 
-[1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86/CD 87](https://youtu.be/tjEdr3MuXTE)&nbsp; [Y3, Y12, O5] <br>
+[1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86; CD 87](https://youtu.be/tjEdr3MuXTE)&nbsp; [Y3, Y12, O5] <br>
 🇩🇪 Berliner Philharmoniker; ‹fl› Karlheinz Zöller; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1964)
 
 ---
 
-[1894]&nbsp; [_Nocturnes_, L. 91/CD 98](https://youtu.be/WE8_pvtaXNQ): 
+[1894]&nbsp; [_Nocturnes_, L. 91; CD 98](https://youtu.be/WE8_pvtaXNQ): 
 II. ["Fêtes"](https://youtu.be/w7Lj6tv9lwg)&nbsp; [Y36] <br>
 🇳🇱 Koninklijk Concertgebouworkest; Bernard Haitink&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1979)
 
 ---
 
-[1905]&nbsp; [_La mer_, L. 109/CD 111](https://youtu.be/9M7wlVokbac):
+[1905]&nbsp; [_La mer_, L. 109; CD 111](https://youtu.be/9M7wlVokbac):
 I. ["De l'aube à midi sur la mer"](https://youtu.be/BrPzMbtuFfk) |
 II. ["Jeux de vagues"](https://youtu.be/POQXW177ARQ) |
 III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k)&nbsp; [Y16]<br>
@@ -837,29 +837,29 @@ III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k)&nbsp; [Y16]
 
 ---
 
-[1908]&nbsp; [_Ibéria_, L. 122/CD 118 (_Images pour orchestre_), № 2](https://youtu.be/zUKoT6Jyip4): 
+[1908]&nbsp; [_Ibéria_, L. 122; CD 118 (_Images pour orchestre_), № 2](https://youtu.be/zUKoT6Jyip4): 
 II. ["Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) | 
 III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1957)
 
 ---
 
-[1907]&nbsp; [_Images_, 2<sup>e</sup> série, L. 111/CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw)&nbsp; [Y16] <br>
+[1907]&nbsp; [_Images_, 2<sup>e</sup> série, L. 111; CD 120: III. "Poissons d'or"](https://youtu.be/Suhn-E8Ltiw)&nbsp; [Y16] <br>
 ‹pf› Ivan Moravec&nbsp; (New York: RCA Studio A, 1982)
 
 ---
 
-[1908]&nbsp; [_Children's Corner_, L. 113/CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE)&nbsp; [Y16] <br>
+[1908]&nbsp; [_Children's Corner_, L. 113; CD 119: VI. "Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE)&nbsp; [Y16] <br>
 ‹pf› Jean-Yves Thibaudet&nbsp; (Dunwich, Suffolk: Potton Hall, 1998)
 
 ---
 
-[1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117/CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) & [X. "La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)&nbsp; [Y16, Y36] <br>
+[1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117; CD 125: II. "Voiles"](https://youtu.be/9B5laNPnM4k) & [X. "La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)&nbsp; [Y16, Y36] <br>
 ‹pf› Arturo Benedetti Michelangeli&nbsp; (Hamburg: Musikhalle, 1978)
 
 ---
 
-[1912]&nbsp; [_Préludes_, 2<sup>e</sup> Livre, L. 123/CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
+[1912]&nbsp; [_Préludes_, 2<sup>e</sup> Livre, L. 123; CD 131: III. "La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
 ‹pf› Walter Gieseking&nbsp; (London: Abbey Road Studio Three, 1954)
 
 ---
