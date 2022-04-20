@@ -769,7 +769,7 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E)–["Tristesse"](https://youtu.
 **FRANCK**, CÉSAR <br>
 (Belgian–French, 1822–1890)
 
-[1888]&nbsp; [Symphony in D minor, FWV 48/CFF 130:](https://youtu.be/nfbOVwzyh20) II. [Allegretto](https://youtu.be/nfbOVwzyh20?t=1080)&nbsp; [Y21, N3] <br>
+[1888]&nbsp; [Symphony in D minor, FWV 48; CFF 130:](https://youtu.be/nfbOVwzyh20) II. [Allegretto](https://youtu.be/nfbOVwzyh20?t=1080)&nbsp; [Y21, N3] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1961)
 
 ---
@@ -788,9 +788,10 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E)–["Tristesse"](https://youtu.
 (French, 1838–1875) 
 
 [1874]&nbsp; [_Carmen_, WD 31: ](https://youtu.be/N8zqZJUx1Mw)
-[Prelude](https://youtu.be/N8zqZJUx1Mw) & ["L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204) from Act I |
+[Prelude](https://youtu.be/i2Ataaunnno?t=12) & ["L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204) from Act I |
 ["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337) from Act III&nbsp; [Y28, Y43, O4, O7] <br>
-🇫🇷 Orchestre & Chœur national de la Radiodiffusion française; ‹sop› Victoria de los Ángeles & Janine Micheau; Thomas Beecham&nbsp; (Paris: Salle Wagram, 1958–1959)
+🇫🇷 Orchestre & Chœur national de la Radiodiffusion française; ‹sop› Victoria de los Ángeles & Janine Micheau; Thomas Beecham&nbsp; (Paris: Salle Wagram, 1958–1959) <br>
+🇦🇹 Orchester der Wiener Staatsoper; Carlos Kleiber&nbsp; (Wien: Wiener Staatsoper, 1978)
 
 ---
 ---
