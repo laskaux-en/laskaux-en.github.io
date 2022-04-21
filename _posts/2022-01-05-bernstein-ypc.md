@@ -1299,7 +1299,7 @@ II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [N3] <br>
 ---
 
 [1941]&nbsp; [Symphony № 7 in C major, Op. 60](https://youtu.be/zU4KjoF_X74):
-I. [Allegretto](https://youtu.be/zU4KjoF_X74)&nbsp; [Y34] <br>
+I. [Allegretto](https://youtu.be/zU4KjoF_X74)&nbsp; [Y34, F1] <br>
 🇳🇱 Koninklijk Concertgebouworkest; Mariss Jansons&nbsp; (Amsterdam: Koninklijk Concertgebouw, 2006)
 
 ---
@@ -1499,7 +1499,7 @@ IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6] <br>
 
 ---
 
-[1938]&nbsp; [_Billy the Kid_: "Prairie Night"](https://youtu.be/c5OimRvOf90)&nbsp; [Y2] <br>
+[1938]&nbsp; [_Billy the Kid_:](https://youtu.be/bVfot8Og4yw) ["Prairie Night"](https://youtu.be/c5OimRvOf90)&nbsp; [Y2, F1] <br>
 🇬🇧 London Symphony Orchestra; Aaron Copland&nbsp; (London: Walthamstow Assembly Hall, 1969)
 
 ---
