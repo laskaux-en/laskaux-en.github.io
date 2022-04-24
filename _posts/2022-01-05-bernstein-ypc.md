@@ -20,7 +20,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, & Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Ravel, Falla, Respighi, Bloch, & Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Ravel, Falla, Respighi, Bloch, & Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Kodály, Sibelius, Bartók, Глиэр, Стравинский, Прокофьев, & Шостакович
 
@@ -63,9 +63,9 @@ I. [Andante–Allegro](https://youtu.be/bCCx2g8Jwro)&nbsp; [Y25] <br>
 (German, 1685–1750) 
 
 
-[1735]&nbsp; [Magnificat in D major, BWV 243](https://www.youtube.com/watch?v=52UIMSMWFVE&list=PLr0MsaDpKsY9SxUBFwDP5acldThbovLx3): I. ["Magnificat anima mea Dominum"](https://youtu.be/52UIMSMWFVE) | 
-VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O6] <br>
-🇫🇷 🇧🇪 La Chapelle Royale & Collegium Vocale Gent; Philippe Herreweghe&nbsp; (1990)
+[1735]&nbsp; [Magnificat in D major, BWV 243](https://youtube.com/playlist?list=PLr0MsaDpKsY9SxUBFwDP5acldThbovLx3): I. ["Magnificat anima mea Dominum"](https://youtu.be/52UIMSMWFVE) | 
+VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O6, F3] <br>
+🇫🇷 La Chapelle Royale & 🇧🇪 Collegium Vocale Gent; Philippe Herreweghe&nbsp; (1990)
 
 ---
 
@@ -85,18 +85,28 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O6] <br>
 ---
 
 [1723]&nbsp; [Invention № 13 in A minor, BWV 784](https://youtu.be/tsF7Yisq6xY)&nbsp; [Y29] <br>
-‹hpd› Blandine Verlet&nbsp; (Colmar: Clavecin Ruckers ‹1624›, Musée Unterlinden, 1982)
+‹hpd› Blandine Verlet&nbsp; (Colmar: Ruckers ‹1624›, Musée Unterlinden, 1982)
 
 ---
 
-[1722]&nbsp; [Fugue № 4 in C-sharp minor, BWV 849, № 2](https://youtu.be/0DUiC7t7xFM)&nbsp; 📖 _Das wohltemperierte Klavier_, Teil 1&nbsp; [N1] <br> 
-‹hpd› Céline Frisch&nbsp; (Namur: Clavecin Anthony Sidey & Frédéric Bal ‹1995› from Silbermann original, Église Saint-Rémi de Franc-Waret, 2014)
+[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp; 📖 _Das wohltemperierte Klavier_, Teil 1&nbsp; [N1] <br> 
+‹hpd› Céline Frisch&nbsp; (Namur: Anthony Sidey & Frédéric Bal ‹1995› aft. Silbermann, Église Saint-Rémi de Franc-Waret, 2014)
+
+---
+
+[<u>1720</u>]&nbsp; [Chromatic Fantasia & Fugue in D minor, BWV 903: Fantasia](https://youtu.be/x9T9ZsHfg-s)&nbsp; [O6] <br>
+‹hpd› Christophe Rousset&nbsp; (Castres: Henri Hemsch ‹1751›, Chapelle de Saint-Hippolyte, 1990)
+
+---
+
+[<u>1714</u>]&nbsp; [Fantasia & Fugue in A minor, BWV 944: Fugue](https://youtu.be/3Rmu3fWIu-w)&nbsp; [O6] <br>
+‹hpd› Pierre Hantaï&nbsp; (Haarlem: Bruce Kennedy ‹1994› aft. Michael Mietke ‹1702›, Grote Vermaning, 1994)
 
 ---
 
 [1735]&nbsp; [_Italienisches Konzert_, BWV 971](https://youtu.be/TCRObKw_e0w): 
 II. [Andante](https://youtu.be/vGJ7nvV7WJE)&nbsp; [Y21] <br>
-‹hpd› Christophe Rousset&nbsp; (Castres: Clavecin Hemsch ‹1751›, Chapelle de Saint-Hippolyte, 1990)
+‹hpd› Christophe Rousset&nbsp; (Castres: Henri Hemsch ‹1751›, Chapelle de Saint-Hippolyte, 1990)
 
 ---
 
@@ -111,13 +121,13 @@ II. [Andante](https://youtu.be/vGJ7nvV7WJE)&nbsp; [Y21] <br>
 ---
 
 [1721]&nbsp; [_Brandenburgische Konzerte_: № 2 in F major, BWV 1047](https://youtu.be/YPn4ApwY_44): 
-I. [(No tempo indication, usu. Allegro)](https://youtu.be/YPn4ApwY_44)&nbsp; [O3] <br>
+I. [(usu. Allegro)](https://youtu.be/YPn4ApwY_44)&nbsp; [O3] <br>
 🇩🇪 Freiburger Barockorchester&nbsp; (Freiburg: Ensemblehaus, 2013)
 
 ---
 
 [1721]&nbsp; [_Brandenburgische Konzerte_: № 3 in G major, BWV 1048](https://youtu.be/20tau1ngCtY): 
-I. [(No tempo indication, usu. Allegro/Allegro moderato)](https://youtu.be/13dmIwj6HhQ)&nbsp; [Y3] <br>
+I. [(usu. Allegro/Allegro moderato)](https://youtu.be/13dmIwj6HhQ)&nbsp; [Y3] <br>
 🇩🇪 Musica Antiqua Köln; Reinhard Goebel&nbsp; (Köln: Deutschlandfunk Kammermusiksaal, 1986)
 
 ---
@@ -136,7 +146,13 @@ III. [Allegro](https://youtu.be/HNnjpXHzDU0)&nbsp; [Y7, Y45, O6] <br>
 
 ---
 
-[1739]&nbsp; [_Orchestersuiten_: № 2 in B minor, BWV 1067](https://www.youtube.com/watch?v=FQQNSc9KhLY&list=PLs2vq238vU6n1ipwMECSyFJMohKFrR7mC): VII. [Badinerie](https://youtu.be/W_uxsGKqmbM)&nbsp; [O6] <br>
+[1734]&nbsp; [Harpsichord Concerto No. 1 in D minor, BWV 1052](https://youtu.be/mUmdlQjCuZg): 
+I. [Allegro](https://youtu.be/mUmdlQjCuZg)&nbsp; [F4] <br>
+🇳🇱 Melante Amsterdam; ‹hpd› Bob van Asperen&nbsp; (Utrecht: Maria Minor, 1991)
+
+---
+
+[1739]&nbsp; [_Orchestersuiten_: № 2 in B minor, BWV 1067](https://youtube.com/playlist?list=PLs2vq238vU6n1ipwMECSyFJMohKFrR7mC): VII. [Badinerie](https://youtu.be/W_uxsGKqmbM)&nbsp; [O6] <br>
 🇩🇪 Berliner Barock Solisten; ‹hpd› Emmanuel Pahud; Rainer Kussmaul&nbsp; (Berlin: Teldex Studio, 2000)
 
 ---
@@ -271,7 +287,7 @@ II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [N3] <br>
 
 [1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/6DvRFpJha2k):
 I. [Allegro con brio](https://youtu.be/6DvRFpJha2k) | 
-IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3, O5] <br>
+IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3, O5, O6, F4] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Abbey Road Studio One, 1959)
 
 ---
@@ -548,17 +564,17 @@ IX. ["Nachtwandlerlied"](https://youtu.be/yeK59XNZme4)&nbsp; [Y51] <br>
 
 ---
 
-[1897]&nbsp; [_Don Quixote_, Op. 35, TrV 135](https://youtu.be/yTrYWCdsRZQ) <br>
-&emsp;&ensp;Introduktion: ["Don Quichotte verliert über der Lektüre der Ritterromane seinen Verstand und beschließt, selbst fahrender Ritter zu werden" (Mäßiges Zeitmaß)](https://youtu.be/wUlcqvxBTsk) <br>
-&emsp;&ensp;Thema: ["Don Quichotte, der Ritter von der traurigen Gestalt" (Mäßig)](https://youtu.be/1nJSj9W0UJI) | ["Sancho Pansa" (Maggiore)](https://youtu.be/_JPd76o8L94) <br>
-&emsp;&ensp;Variationen: I. ["Abenteuer an den Windmühlen" (Gemächlich)](https://youtu.be/TFTtqSb48Cw) |
+[1897]&nbsp; [_Don Quixote_, Op. 35, TrV 135](https://youtu.be/yTrYWCdsRZQ): 
+Introduktion ["Don Quichotte verliert über der Lektüre der Ritterromane seinen Verstand und beschließt, selbst fahrender Ritter zu werden" (Mäßiges Zeitmaß)](https://youtu.be/wUlcqvxBTsk) |
+Thema ["Don Quichotte, der Ritter von der traurigen Gestalt" (Mäßig)](https://youtu.be/1nJSj9W0UJI) & ["Sancho Pansa" (Maggiore)](https://youtu.be/_JPd76o8L94) |
+Variation I. ["Abenteuer an den Windmühlen" (Gemächlich)](https://youtu.be/TFTtqSb48Cw) |
 II. ["Der siegreiche Kampf gegen das Heer des großen Kaisers Alifanfaron" (Kriegerisch)](https://youtu.be/wgjTrENqs5c) |
 III. ["Gespräch zwischen Ritter und Knappen" (Mäßiges Zeitmaß)](https://youtu.be/Xf-2A0pxS30) |
 IV. ["Unglückliches Abenteuer mit einer Prozession von Büßern" (Etwas breiter)](https://youtu.be/WHl2iiiMMUo) |
 V. ["Die Waffenwache" (Sehr langsam)](https://youtu.be/JLJ28LU6Y5I) |
 VI. ["Begegnung mit Dulzinea" (Schnell)](https://youtu.be/dVab7fcJrlM) |
-VII. ["Der Ritt durch die Luft" (Ein wenig ruhiger als vorher)](https://youtu.be/ifDLt6J6HYw) <br>
-&emsp;&ensp;Finale: ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8bg)&nbsp; [Y1, Y44] <br> 
+VII. ["Der Ritt durch die Luft" (Ein wenig ruhiger als vorher)](https://youtu.be/ifDLt6J6HYw) |
+Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8bg)&nbsp; [Y1, Y44] <br> 
 🇩🇪 Staatskapelle Dresden; ‹vc› Paul Tortelier, ‹va› Max Rostal; Rudolf Kempe&nbsp; (Dresden: Lukaskirche, 1973)
 
 ---
@@ -778,7 +794,16 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E) | ["Tristesse"](https://youtu.
 ---
 ---
 
-**SAINT-SAËNS**, CAMILLE  <br>
+**PONCHIELLI**, AMILCARE <br>
+(Italian, 1834–1886)
+
+[1876]&nbsp; [_La Gioconda_, Op. 9:]() ["Suicidio!"](https://youtu.be/247JZJn6REk) from Act IV&nbsp; [F4] <br>
+🇮🇹 Orchestra del Teatro alla Scala di Milano; ‹sop› Maria Callas; Antonino Votto&nbsp; (Milano: Teatro alla Scala, 1959)
+
+---
+---
+
+**SAINT-SAËNS**, CAMILLE <br>
 (French, 1835–1921)
 
 [1888]&nbsp; [Cello Concerto № 1 in A minor, Op. 33](https://youtu.be/fvcdunC_0kw)&nbsp; [Y21] <br>
@@ -791,7 +816,7 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E) | ["Tristesse"](https://youtu.
 (French, 1838–1875) 
 
 [1874]&nbsp; [_Carmen_, WD 31: Prelude](https://youtu.be/N8zqZJUx1Mw) & ["L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204) from Act I |
-["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337) from Act III&nbsp; [Y28, Y43, O4] <br>
+["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337) from Act III&nbsp; [Y28, Y43, O4, O7] <br>
 🇫🇷 Orchestre & Chœur national de la Radiodiffusion française; ‹sop› Victoria de los Ángeles & Janine Micheau; Thomas Beecham&nbsp; (Paris: Salle Wagram, 1958–1959) <br>
 
 > [Prelude](https://youtu.be/i2Ataaunnno?t=13) from Act I&nbsp; [O7] <br>
@@ -1011,7 +1036,7 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 **SMETANA**, BEDŘICH <br> 
 (Czech, 1824–1884) 
 
-[1875]&nbsp; [_Má vlast_, JB 1:112:](https://www.youtube.com/watch?v=rv-jmudlvnc&list=PLhSTl2wzRss2KaxuxqRcojkzJWOXF2JT1) II. ["Vltava"](https://youtu.be/jUqqM4I0riI)&nbsp; [Y29] <br>
+[1875]&nbsp; [_Má vlast_, JB 1:112:](https://youtube.com/playlist?list=PLhSTl2wzRss2KaxuxqRcojkzJWOXF2JT1) II. ["Vltava"](https://youtu.be/jUqqM4I0riI)&nbsp; [Y29] <br>
 🇩🇪 Berliner Philharmoniker; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1960)
 
 ---
@@ -1071,14 +1096,14 @@ I. [Andante sostenuto–Moderato con anima–Moderato assai, quasi Andante–All
 [1888]&nbsp; [Symphony № 5 in E minor, Op. 64; TH 29](https://youtu.be/_X-agnluvaI): 
 I. [Andante–Allegro con anima–Molto più tranquillo](https://youtu.be/_X-agnluvaI) | 
 IV. [Finale (Andante maestoso–Allegro vivace–Meno Mosso)](https://youtu.be/_X-agnluvaI?t=1938)&nbsp; [Y1] <br>
-🇷🇺 Ленинградской государственной филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
+🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
 
 ---
 
 [1893]&nbsp; [Symphony № 6 in B minor, Op. 74; TH 30](https://youtu.be/kSOgrz2jYQI): 
 I. [Adagio–Allegro non troppo](https://youtu.be/kSOgrz2jYQI) |
 II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O5] <br>
-🇷🇺 Ленинградской государственной филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
+🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Wien: Große Musikvereinssaal, 1960)
 
 ---
 
@@ -1209,8 +1234,12 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 (Russian–French–American, 1882–1971) 
 
 
-[1910]&nbsp; [_L'Oiseau de feu_, K010 (Suite, 1919)](https://open.spotify.com/album/6Lh5dNLljOhN7BSWDafXcI)&nbsp; [Y47] <br>
-🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]&nbsp; (1988)
+[1910]&nbsp; [_L'Oiseau de feu_, K010:](https://youtu.be/9y81hCpDt6o) ["Danse infernale de tous les sujets de Kachtcheï"](https://youtu.be/_dwOMnkdrIY) & ["Berceuse"](https://youtu.be/3Ji-yIzrv8E) from Tableau I | ["Disparition du palais et des sortilèges de Kachtcheï, animation des chevaliers pétrifiés, allégresse générale"](https://youtu.be/dCl540k7A84) from Tableau II&nbsp; [F4] <br>
+🇬🇧 London Symphony Orchestra; Doráti Antal [Antal Doráti]&nbsp; (London: Watford Town Hall, 1959)
+
+
+> [1919]&nbsp; [_L'Oiseau de feu_ (Suite)](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4)&nbsp; [Y47, F4] <br>
+>🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]&nbsp; (1988)
 
 ---
 
@@ -1294,13 +1323,13 @@ IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <
 
 [1937]&nbsp; [Symphony № 5 in D minor, Op. 47](https://youtu.be/Avt-KOQy1mo):
 II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [N3] <br>
-🇷🇺 Ленинградской государственной филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Большой зал Ленинградской филармонии, 1984)
+🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Большой зал Ленинградской филармонии, 1984)
 
 ---
 
-[1941]&nbsp; [Symphony № 7 in C major, Op. 60](https://youtu.be/zU4KjoF_X74):
-I. [Allegretto](https://youtu.be/zU4KjoF_X74)&nbsp; [Y34, F1] <br>
-🇳🇱 Koninklijk Concertgebouworkest; Mariss Jansons&nbsp; (Amsterdam: Koninklijk Concertgebouw, 2006)
+[1941]&nbsp; [Symphony № 7 in C major, Op. 60](https://youtu.be/HyyRDvOmoCA):
+I. [Allegretto](https://youtu.be/HyyRDvOmoCA)&nbsp; [Y34, F1] <br>
+🇷🇺 Санкт-Петербургской филармонии; Юрий Темирканов [Yuri Temirkanov]  (Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1995)
 
 ---
 
@@ -1310,7 +1339,7 @@ II. [Moderato](https://youtu.be/I6QexYv16t0) |
 III. [Presto](https://youtu.be/1lL-bVN7yac) | 
 IV. [Largo](https://youtu.be/zdMOW14M74M) |
 V. [Allegretto–Allegro](https://youtu.be/745uf9sbWfI)&nbsp; [Y34] <br>
-🇷🇺 Московской государственной филармонии; Кирилл Кондрашин [Kirill Kondrashin]&nbsp; (Москва: 1965)
+🇷🇺 Московской филармонии; Кирилл Кондрашин [Kirill Kondrashin]&nbsp; (Москва: 1965)
 
 ---
 
