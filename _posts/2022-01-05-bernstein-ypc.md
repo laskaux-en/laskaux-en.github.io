@@ -58,7 +58,7 @@ I. [Andante–Allegro](https://youtu.be/bCCx2g8Jwro)&nbsp; [Y25] <br>
 
 ---
 
-[1717]&nbsp; [_Water Music_ Suite № 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
+[1717]&nbsp; [_Water Music_: Suite № 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
 II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5] <br>
 🇬🇧 The English Concert; Trevor Pinnock&nbsp; (London: Henry Wood Hall, 1983)
 
@@ -535,7 +535,7 @@ III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&n
 I. [Allegro maestoso](https://youtu.be/50bzM9s5f7A) | 
 III. [In ruhig fliessender Bewegung](https://youtu.be/TdSK59igcJc) | 
 V. [In Tempo des Scherzos: "O Schmerz!"](https://youtu.be/P6E7IxZI1TA)&nbsp; [Y8, L2] <br>
-🇬🇧 Philharmonia Orchestra & Chorus; ‹sop› Elisabeth Schwarzkopf, ‹alt› Hilde Rössel-Majdan; Otto Klemperer&nbsp; (London: Kingsway Hall, 1961–1962)
+🇬🇧 Philharmonia Orchestra & Chorus; ‹sop› Elisabeth Schwarzkopf, ‹mez› Hilde Rössel-Majdan; Otto Klemperer&nbsp; (London: Kingsway Hall, 1961–1962)
 
 ---
 
@@ -751,10 +751,10 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 **RAMEAU**, JEAN-PHILIPPE <br>
 (French, 1683–1764)
 
-[1727]&nbsp; [Suite in G major, RCT 6:](https://youtu.be/kxTuTtdpEtQ) V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp; 📖 _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
+[1727]&nbsp; [Suite in G major, RCT 6](https://youtu.be/kxTuTtdpEtQ): V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp; 📖 _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
 ‹hpd› Pieter-Jan Belder&nbsp; (Deventer: Bom Klavecimbel ‹2008›, Penninckhuis, 2008) 
 
-> [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_:](https://youtu.be/WQfCIE3gVmY) VIa. ["La poule"](https://youtu.be/gdBSXAKGGDM) (arr. anonymous)&nbsp; <br>
+> [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_](https://youtu.be/WQfCIE3gVmY): VI.1. ["La poule"](https://youtu.be/gdBSXAKGGDM) <br>
 > 🇫🇷 Les Talens Lyriques; Christophe Rousset&nbsp; (2003) 
 
 ---
@@ -965,7 +965,7 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 
 ---
 
-[1912]&nbsp; [_Daphnis et Chloé_, M. 57](https://youtu.be/YHrstmOPKBQ): IIIc. ["Danse générale"](https://youtu.be/YHrstmOPKBQ)&nbsp; [Y16] <br>
+[1912]&nbsp; [_Daphnis et Chloé_, M. 57:](https://youtu.be/YHrstmOPKBQ) ["Danse générale"](https://youtu.be/YHrstmOPKBQ) from Partie III&nbsp; [Y16] <br>
 🇨🇦 Orchestre symphonique de Montréal; Charles Dutoit&nbsp; (Montréal: Église de Saint-Eustache, 1980)
 
 ---
@@ -1141,12 +1141,14 @@ VI. ["Qui sedes ad dexteram Patris"](https://youtu.be/_BlW8sGDUTE)&nbsp; [F10] <
 	**MUSSORGSKY**, MODEST PETROVICH </span> <br>
 (Russian, 1839–1881)
 
+[1874]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]](https://youtu.be/sfqVGWCYfw8)&nbsp;(for Piano) <br>
+‹pf› Alfred Brendel&nbsp; (Wien, 1955)
 
-[1874]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]](https://youtu.be/kBg7gVkzUVc)&nbsp;(orch. Maurice Ravel, 1922): 
-III. ["Тюильри" [Tuileries]](https://youtu.be/kBg7gVkzUVc?t=565) |
-V. ["Балет невылупившихся птенцов" [Ballet of Unhatched Chicks]](https://youtu.be/kBg7gVkzUVc?t=821) |
-X. ["Богатырские ворота" [The Bogatyr Gates]](https://youtu.be/kBg7gVkzUVc?t=1492)&nbsp; [Y1] <br>
-🇺🇸 The Cleveland Orchestra; Lorin Maazel&nbsp; (Cleveland: Masonic Auditorium, 1978)
+> [1922]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]](https://youtu.be/kBg7gVkzUVc)&nbsp;(for Orchestra, arr. Maurice Ravel): 
+> III. ["Тюильри" [Tuileries]](https://youtu.be/kBg7gVkzUVc?t=565) |
+> V. ["Балет невылупившихся птенцов" [Ballet of Unhatched Chicks]](https://youtu.be/kBg7gVkzUVc?t=821) |
+> X. ["Богатырские ворота" [The Bogatyr Gates]](https://youtu.be/kBg7gVkzUVc?t=1492)&nbsp; [Y1] <br>
+> 🇺🇸 The Cleveland Orchestra; Lorin Maazel&nbsp; (Cleveland: Masonic Auditorium, 1978)
 
 ---
 
@@ -1296,8 +1298,11 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 **KODÁLY**, ZOLTÁN <br> 
 (Hungarian, 1882–1967) 
 
-[1926]&nbsp; [_Háry János_](https://youtu.be/Jw5fXWF49fk) (Suite, 1927): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
-🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl: 1973)
+[1926]&nbsp; [_Háry János_](https://youtu.be/uIAyDNRSG0I) <br>
+🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
+
+> [1927]&nbsp; ["Háry János" Suite](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
+🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, 1973)
 
 ---
 ---
@@ -1323,7 +1328,7 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 🇬🇧 London Symphony Orchestra; Doráti Antal [Antal Doráti]&nbsp; (London: Watford Town Hall, 1959)
 
 
-> [1919]&nbsp; [_L'Oiseau de feu_](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4) (Suite)&nbsp; [Y47, F4] <br>
+> [1919]&nbsp; ["L'Oiseau de feu" Suite](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4)&nbsp; [Y47, F4] <br>
 >🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]&nbsp; (1988)
 
 ---
@@ -1430,7 +1435,7 @@ II. [Moderato](https://youtu.be/I6QexYv16t0) |
 III. [Presto](https://youtu.be/1lL-bVN7yac) | 
 IV. [Largo](https://youtu.be/zdMOW14M74M) |
 V. [Allegretto–Allegro](https://youtu.be/745uf9sbWfI)&nbsp; [Y34] <br>
-🇷🇺 Московской филармонии; Кирилл Кондрашин [Kirill Kondrashin]&nbsp; (Москва: 1965)
+🇷🇺 Московской филармонии; Кирилл Кондрашин [Kirill Kondrashin]&nbsp; (Москва, 1965)
 
 ---
 
@@ -1462,7 +1467,7 @@ V. [Allegretto–Allegro](https://youtu.be/745uf9sbWfI)&nbsp; [Y34] <br>
 **MacDOWELL**, EDWARD <br>
 (American, 1860–1908)
 
-[1896]&nbsp; [Suite № 2, Op. 48: I. "Legend"](https://youtu.be/a7UbizvyC-k)&nbsp; [Y2] <br>
+[1896]&nbsp; [Suite № 2, Op. 48](https://youtu.be/a7UbizvyC-k): I. ["Legend"](https://youtu.be/a7UbizvyC-k)&nbsp; [Y2] <br>
 🇬🇧 Royal Philharmonic Orchestra; Karl Krueger&nbsp;(1967)
 
 ---
@@ -1496,12 +1501,12 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **VILLA-LOBOS**, HEITOR <br>
 (Brazilian, 1887–1959) 
 
-[1933]&nbsp; [_Bachianas brasileiras_ № 2, W247: IV. Toccata "O Trenzinho do Caipira"](https://youtu.be/E3FT9Z3LDKo)&nbsp; [Y10] <br>
+[1933]&nbsp; [_Bachianas brasileiras_ № 2, W247](https://youtu.be/uzpiV3qxk34): IV. [Toccata "O Trenzinho do Caipira"](https://youtu.be/E3FT9Z3LDKo)&nbsp; [Y10] <br>
 🇬🇧 London Symphony Orchestra; Eugene Goossens&nbsp; (London: Walthamstow Assembly Hall, 1958)
 
 ---
 
-[1945]&nbsp; [_Bachianas brasileiras_ № 5, W389: I. Ária "Cantilena"](https://youtu.be/RZRhb1NcYsQ) & [II. Dança "Martelo"](https://youtu.be/yTIdNCmuHfA)&nbsp; [Y23] <br>
+[1945]&nbsp; [_Bachianas brasileiras_ № 5, W389](https://youtu.be/uzpiV3qxk34?t=1871): I. [Ária "Cantilena"](https://youtu.be/RZRhb1NcYsQ) | II. [Dança "Martelo"](https://youtu.be/yTIdNCmuHfA)&nbsp; [Y23] <br>
 🇫🇷 Orchestre national de la Radiodiffusion française, ‹sop› Victoria de los Ángeles; Heitor Villa-Lobos&nbsp; (Paris: Salle de la Mutualité, 1956)
 
 ---
@@ -1510,8 +1515,11 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **PISTON**, WALTER <br>
 (American, 1894–1976) 
 
-[1938]&nbsp; [_The Incredible Flutist_ (Suite, 1940)](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV)&nbsp; [Y6, Y24] <br>
-🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1963)
+[1938]&nbsp; [_The Incredible Flutist_:](https://youtu.be/296W5NDtots) ["Arrival of Side Show Parade"](https://youtu.be/DOue9JqHrnk)&nbsp; [Y6] <br>
+🇺🇸 Louisville Orchestra; Jorge Mester&nbsp;(1976)
+
+> [1940]&nbsp; ["The Incredible Flutist" Suite](https://open.spotify.com/album/7tkjng61aFQr9jK6VDtbnV)&nbsp; [Y24] <br>
+> 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1963)
 
 ---
 ---
@@ -1519,7 +1527,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **WHITE**, PAUL <br>
 (American, 1895–1973) 
 
-[1934]&nbsp; [_Five Miniatures for Orchestra_:](https://youtu.be/EWXyPNJH6HA) V. ["Mosquito Dance"](https://youtu.be/EWXyPNJH6HA)&nbsp; [Y6] <br>
+[1934]&nbsp; [_Five Miniatures for Orchestra_](https://youtu.be/EWXyPNJH6HA): V. ["Mosquito Dance"](https://youtu.be/EWXyPNJH6HA)&nbsp; [Y6] <br>
 🇺🇸 Boston Pops Orchestra; Arthur Fiedler&nbsp; (1963)
 
 ---
@@ -1589,8 +1597,11 @@ III. [Vivace](https://youtu.be/XXzRZsZjgKQ)&nbsp; [Y2, Y24] <br>
 **REVUELTAS**, SILVESTRE <br>
 (Mexican, 1899–1940) 
 
-[1937]&nbsp; [_Sensemayá_, R. 48 (orch. 1938, R. 67)](https://youtu.be/zCBDqPyXsdo)&nbsp; [Y23] <br>
-🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2008)
+[1937]&nbsp; [_Sensemayá_, R. 48](https://youtu.be/rGTtFSy3Hzs) (for Chamber Ensemble) <br>
+🇳🇱 Ebony Band Amsterdam; Werner Herbers&nbsp; (Tilburg: Schouwburg Concertzaal, 2003)
+
+> [1938]&nbsp; [_Sensemayá_, R. 67](https://youtu.be/zCBDqPyXsdo) (for Orchestra)&nbsp; [Y23] <br>
+> 🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2008)
 
 ---
 ---
