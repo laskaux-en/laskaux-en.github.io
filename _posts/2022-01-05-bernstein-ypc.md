@@ -296,7 +296,7 @@ II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [N3] <br>
 I. [Allegro con brio](https://youtu.be/6DvRFpJha2k) | 
 II. [Marcia funebre (Adagio assai)](https://youtu.be/6DvRFpJha2k?t=1003) | 
 IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3, O5, O6, F4, F5] <br>
-🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Abbey Road Studio One, 1959)
+🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Abbey Road Studio 1, 1959)
 
 ---
 
@@ -379,7 +379,7 @@ I. [Allegro con brio](https://youtu.be/mKPBJp8Et_4)&nbsp; [Y1] <br>
 (Austrian, 1797–1828) 
 
 [1822]&nbsp; [Symphony № 8 in B minor, D. 759](https://youtu.be/ORieaXQ69pU): I. [Allegro moderato](https://youtu.be/ORieaXQ69pU)&nbsp; [O3, F5] <br>
-🇬🇧 Orchestra of the Age of Enlightenment; Charles Mackerras&nbsp; (London: Abbey Road Studio One, 1990)
+🇬🇧 Orchestra of the Age of Enlightenment; Charles Mackerras&nbsp; (London: Abbey Road Studio 1, 1990)
 
 
 ---
@@ -779,7 +779,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 ---
 
 [1823]&nbsp; [_Semiramide_: Overture](https://youtu.be/-i7CKKddSnM)&nbsp; [Y12] <br>
-🇬🇧 London Classical Players; Roger Norrington&nbsp; (London: Abbey Road Studio One, 1990)
+🇬🇧 London Classical Players; Roger Norrington&nbsp; (London: Abbey Road Studio 1, 1990)
 
 ---
 
@@ -934,7 +934,7 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 ---
 
 [1912]&nbsp; [_Préludes_, 2<sup>e</sup> Livre, L. 123; CD 131](https://youtu.be/MWkxPtFS10I): III. ["La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
-‹pf› Walter Gieseking&nbsp; (London: Abbey Road Studio Three, 1954)
+‹pf› Walter Gieseking&nbsp; (London: Abbey Road Studio 3, 1954)
 
 ---
 ---
@@ -1050,6 +1050,11 @@ VI. ["Qui sedes ad dexteram Patris"](https://youtu.be/_BlW8sGDUTE)&nbsp; [F10] <
 **MESSIAEN**, OLIVIER <br>
 (French, 1908–1992)
 
+[1944]&nbsp; [_Trois petites liturgies de la présence divine_](https://youtu.be/Us6fWBUZpVE):
+I. [Antienne de la conversation intérieure](https://youtu.be/Us6fWBUZpVE) |
+II. [Séquence du verbe, cantique divin](https://youtu.be/OUQTzbcnjeE) |
+III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F10] <br>
+🇨🇭 Danmarks Underholdningsorkester, Danmarks Radio Vokalensemblet & Koncertkoret; ‹pf› Marianna Shirinyan, ‹ondes Martenot› Thomas Bloch; Marcus Creed&nbsp; (Copenhagen: DR Studio 2, 2014)
 
 ---
 ---
@@ -1195,7 +1200,7 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O5, F5] <
 ---
 
 [1869/1880]&nbsp; [Ромео и Джульетта [_Romeo and Juliet_], TH 42](https://youtu.be/V24AukCRRY0)&nbsp; [Y4, O5] <br>
-🇬🇧 Philharmonia Orchestra; Игорь Маркевич [Igor Markevitch]&nbsp; (London: Abbey Road Studio One, 1959)
+🇬🇧 Philharmonia Orchestra; Игорь Маркевич [Igor Markevitch]&nbsp; (London: Abbey Road Studio 1, 1959)
 
 ---
 
@@ -1302,7 +1307,7 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
 
 > [1927]&nbsp; ["Háry János" Suite](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
-🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, 1973)
+🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, North Rhine-Westphalia, 1973)
 
 ---
 ---
@@ -1573,7 +1578,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 (American, 1898–1937)
 
 [1924]&nbsp; [_Rhapsody in Blue_](https://youtu.be/UcmIZpodNX0)&nbsp; [Y2, Y3, Y4, L2] <br>
-🇬🇧 London Symphony Orchestra, ‹pf› André Previn, ‹cl› Gervase de Peyer; André Previn&nbsp; (London: Abbey Road Studio One, 1971)
+🇬🇧 London Symphony Orchestra, ‹pf› André Previn, ‹cl› Gervase de Peyer; André Previn&nbsp; (London: Abbey Road Studio 1, 1971)
 
 ---
 
@@ -1633,7 +1638,7 @@ IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6] <br>
 ---
 
 [1936]&nbsp; [_El Salón México_](https://youtu.be/GSQVZXPcnUo)&nbsp; [F5] <br>
-🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: Abbey Road Studio One, 1972)
+🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: EMI Studios, 1972)
 
 ---
 
@@ -1651,7 +1656,7 @@ IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6] <br>
 ‹pf› William Chapman Nyaho & Susanna Garcia&nbsp;(1998)
 
 > [1946]&nbsp; [_Danzón cubano_](https://youtu.be/9M136usGJuI) (for Orchestra)&nbsp; [Y23] <br>
-> 🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: Abbey Road Studio One, 1970)
+> 🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: EMI Studios, 1970)
 
 ---
 
@@ -1755,7 +1760,12 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 **FOSS**, LUKAS <br>
 (German–American, 1922–2009) 
 
-[1967]&nbsp; [_Baroque Variations_:](https://youtu.be/AtQ9XZ7f_Rg) III. ["On a Bach Prelude", or _Phorion_](https://youtu.be/xjad33Iah-s)&nbsp; [Y45] <br>
+[1956]&nbsp; [_Psalms_](https://youtu.be/SqlPPey7_Tc): II. [Psalm 98](https://youtu.be/2_AWvOY9J-w)&nbsp; [F10] <br>
+🇺🇸 University of Texas Chamber Singers; ‹ten› John Len Wiles, ‹pf› Alena Gorina & Dwight Bigler; James Morrow&nbsp; (Austin: University Presbyterian Church, 2007)
+
+---
+
+[1967]&nbsp; [_Baroque Variations_](https://youtu.be/AtQ9XZ7f_Rg): III. ["On a Bach Prelude", or _Phorion_](https://youtu.be/xjad33Iah-s)&nbsp; [Y45] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Philharmonic Hall, 1967)
 
 ---
@@ -1815,7 +1825,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 (Japanese, 1929–1997)
 
 [1957]&nbsp; [<span style="font-size:0.95em">プリペアド・ピアノと弦楽のための小品</span><span style="font-size:0.75em">&ensp;</span>[_Pieces for Prepared Piano and Strings_]:]((https://youtu.be/9t6PUzltxMI)) I. [Prologue](https://youtu.be/9t6PUzltxMI)&nbsp; [Y29] <br> 
-🇯🇵 ‹pf› <span style="font-size:0.95em">高橋悠治</span> [Yuji Takahashi], ‹vn› <span style="font-size:0.95em">植木三郎</span> [Saburo Ueki] & <span style="font-size:0.95em">板橋建</span> [Ken Itabashi], ‹va› <span style="font-size:0.95em">江戸純子</span> [Sumiko Edo], ‹vc› <span style="font-size:0.95em">矢島三雄</span> [Mitsuo Yajima]&nbsp; (<span style="font-size:0.95em">東京</span>: Nippon Columbia Studio One, 1969)
+🇯🇵 ‹pf› <span style="font-size:0.95em">高橋悠治</span> [Yuji Takahashi], ‹vn› <span style="font-size:0.95em">植木三郎</span> [Saburo Ueki] & <span style="font-size:0.95em">板橋建</span> [Ken Itabashi], ‹va› <span style="font-size:0.95em">江戸純子</span> [Sumiko Edo], ‹vc› <span style="font-size:0.95em">矢島三雄</span> [Mitsuo Yajima]&nbsp; (<span style="font-size:0.95em">東京</span>: Nippon Columbia Studio 1, 1969)
 
 ---
 
