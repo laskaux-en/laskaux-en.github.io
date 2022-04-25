@@ -18,7 +18,7 @@ tags: music television
 
 ### Contents {#contents}
 
-A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, & Walton
+A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, Walton, & Britten
 
 B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, Poulenc, Messiaen, & Nono
 
