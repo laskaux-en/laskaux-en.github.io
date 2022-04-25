@@ -20,7 +20,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, & Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, & Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, Poulenc, & Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Kodály, Sibelius, Bartók, Глиэр, Стравинский, Прокофьев, & Шостакович
 
@@ -463,12 +463,17 @@ IV. [Saltarello (Presto)](https://youtu.be/P2H8Hq7oGxs)&nbsp; [F5] <br>
 ---
 
 [1868]&nbsp; [_Geschichten aus dem Wienerwald_, Op. 325](https://youtu.be/_8szNuNDysQ)&nbsp; [Y1, Y43] <br>
-🇦🇹 Wiener Symphoniker; Robert Stolz&nbsp;(1960s)
+🇦🇹 Wiener Symphoniker; Robert Stolz&nbsp;(1966)
 
 ---
 
 [1874]&nbsp; [_Wiener Blut_, Op. 354](https://youtu.be/qVsysysXK7Q)&nbsp; [Y40] <br>
-🇦🇹 Wiener Symphoniker; Robert Stolz&nbsp;(1960s)
+🇦🇹 Wiener Symphoniker; Robert Stolz&nbsp;(1966)
+
+---
+
+[1889]&nbsp; [_Kaiser-Walzer_, Op. 437](https://youtu.be/-LoMl_yDYwo)&nbsp; [F5] <br>
+🇦🇹 Wiener Johann Strauss Orchester; Willi Boskovsky&nbsp; (Wien: Casino Baumgarten, 1982)
 
 ---
 ---
@@ -661,6 +666,17 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 
 [1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4)&nbsp; [Y20] <br>
 🇩🇪 Berliner Philharmoniker; ‹nar› Barbara Hannigan; Simon Rattle&nbsp; (Berlin: Kammermusiksaal, Berliner Philharmonie, 2012)
+
+---
+---
+
+**BRITTEN**, BENJAMIN <br>
+(English, 1913–1976)
+
+[1942]&nbsp; [_A Ceremony of Carols_, Op. 28](https://youtu.be/g6so5mVoNQs): 
+I. [Procession "Hodie Christus natus est"](https://youtu.be/g6so5mVoNQs) | 
+II. ["Wolcum Yule!"](https://youtu.be/jWIpOmq3eXk)&nbsp; [F10] <br>
+🇨🇿 Ensemble Inégal; ‹hp› Kateřina Englichová; Adam Viktora&nbsp;(2011)
 
 ---
 
@@ -994,6 +1010,15 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 
 [1923]&nbsp; [_La Création du monde_, Op. 81](https://youtu.be/wuuQgM2OmtI)&nbsp; [L2] <br>
 🇺🇸 Boston Symphony Orchestra; Charles Munch&nbsp; (Boston: Symphony Hall, 1960)
+
+---
+---
+
+**POULENC**, FRANCIS <br>
+(French, 1899–1963)
+
+[1938]&nbsp; [_Gloria_, FP 177](https://youtube.com/playlist?list=PL8AhTXrM6LH0B2fZ9D6kmga0pfCgN0HkN)&nbsp; [F10] <br>
+🇨🇭 Orchestre de la Suisse Romande, Chœur de la Radio Suisse Romande, Choeur Pro Arte de Lausanne; Jesús López Cobos&nbsp; (Genève: Victoria Hall, 1982)
 
 ---
 ---
