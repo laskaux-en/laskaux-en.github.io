@@ -20,7 +20,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, & Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, Poulenc, & Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, Poulenc, Messiaen, & Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Kodály, Sibelius, Bartók, Глиэр, Стравинский, Прокофьев, & Шостакович
 
@@ -44,17 +44,23 @@ G.&nbsp; [TRADITIONAL & POPULAR](#popular)
 ---
 
 **HANDEL**, GEORGE FRIDERIC <br> 
-(German–British, 1685–1759) 
+(German–English, 1685–1759) 
 
-[1717]&nbsp; [_Water Music_ Suite № 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
-II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5] <br>
-🇬🇧 The English Concert; Trevor Pinnock&nbsp; (London: Henry Wood Hall, 1983)
+[1741]&nbsp; [_Messiah_, HVW 56](https://youtu.be/DJ6AgBpqWVQ): 
+№ 12. ["For unto us a Child is born"](https://youtu.be/s8-DsACFjQM) from Part I&nbsp; [F10] <br>
+🇩🇪 Freiburger Barockorchester & 🇬🇧 Choir of Clare College, Cambridge; René Jacobs&nbsp; (Freiburg: Paulussaal, 2006)
 
 ---
 
 [1736]&nbsp; [Harp Concerto in B-flat major, HVW 294](https://youtu.be/bCCx2g8Jwro): 
 I. [Andante–Allegro](https://youtu.be/bCCx2g8Jwro)&nbsp; [Y25] <br>
 🇮🇹 La Divina Armonia; ‹hp› Margreth Köll, ‹lute› Luca Pianca; Lorenzo Ghielmi&nbsp; (Valle di Colorina: Santuario del Divin Prigioniero, 2007)
+
+---
+
+[1717]&nbsp; [_Water Music_ Suite № 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
+II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5] <br>
+🇬🇧 The English Concert; Trevor Pinnock&nbsp; (London: Henry Wood Hall, 1983)
 
 ---
 ---
@@ -316,7 +322,7 @@ V. ["Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm" (Allegretto)](htt
 I. [Poco sostenuto–Vivace](https://youtu.be/_iXsMAKqgdM) |
 II. [Allegretto](https://youtu.be/oZDRIzd2Igg) |
 III. [Presto–Assai meno presto](https://youtu.be/ca_PJWMywpY) |
-IV. [Allegro con brio](https://youtu.be/Yqw_hN0kxYQ)&nbsp; [Y21, Y33, Y40, O5, F5] <br>
+IV. [Allegro con brio](https://youtu.be/Yqw_hN0kxYQ)&nbsp; [Y21, Y33, Y40, O5, F5, F11] <br>
 🇦🇹 Wiener Philharmoniker; Carlos Kleiber&nbsp; (Wien: Große Musikvereinssaal, 1974)
 
 ---
@@ -607,7 +613,7 @@ Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8
 ---
 
 **VAUGHAN WILLIAMS**, RALPH <br> 
-(British, 1872–1958) 
+(English, 1872–1958) 
 
 [1934]&nbsp; [Symphony № 4 in F minor:](https://youtu.be/qpa8tzCbLQ0) 
 I. [Allegro](https://youtu.be/qpa8tzCbLQ0) |
@@ -625,7 +631,7 @@ IV. [Finale con epilogo fugato (Allegro molto)](https://youtu.be/pXkyun7gAJQ)&nb
 ---
 
 **HOLST**, GUSTAV <br> 
-(British, 1874–1934) 
+(English, 1874–1934) 
 
 ---
 ---
@@ -662,7 +668,7 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 ---
 
 **WALTON**, WILLIAM <br> 
-(British, 1902–1983) 
+(English, 1902–1983) 
 
 [1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4)&nbsp; [Y20] <br>
 🇩🇪 Berliner Philharmoniker; ‹nar› Barbara Hannigan; Simon Rattle&nbsp; (Berlin: Kammermusiksaal, Berliner Philharmonie, 2012)
@@ -677,6 +683,16 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 I. [Procession "Hodie Christus natus est"](https://youtu.be/g6so5mVoNQs) | 
 II. ["Wolcum Yule!"](https://youtu.be/jWIpOmq3eXk)&nbsp; [F10] <br>
 🇨🇿 Ensemble Inégal; ‹hp› Kateřina Englichová; Adam Viktora&nbsp;(2011)
+
+> I. [Procession "Hodie Christus natus est"](https://youtu.be/tDVI5HXikzk)&nbsp; [F10] <br>
+🇬🇧 Choir Of St John's College, Cambridge; George Guest&nbsp; (Cambridge: St John's College Chapel, 1966)
+>
+
+---
+
+[1948]&nbsp; [_Saint Nicolas_, Op. 42](https://youtube.com/playlist?list=OLAK5uy_nFxGfe9GK7EiLNSmLO7R17arwJPyPparQ):
+II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
+🇬🇧 English Chamber Orchestra, Thomas Tallis Chamber Choir; ‹ten› Philip Langridge; Steuart Bedford&nbsp;(London: All Hallows' Gospel Oak, 1996)
 
 ---
 
@@ -1017,8 +1033,21 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 **POULENC**, FRANCIS <br>
 (French, 1899–1963)
 
-[1938]&nbsp; [_Gloria_, FP 177](https://youtube.com/playlist?list=PL8AhTXrM6LH0B2fZ9D6kmga0pfCgN0HkN)&nbsp; [F10] <br>
-🇨🇭 Orchestre de la Suisse Romande, Chœur de la Radio Suisse Romande, Choeur Pro Arte de Lausanne; Jesús López Cobos&nbsp; (Genève: Victoria Hall, 1982)
+[1960]&nbsp; [_Gloria_, FP 177](https://youtube.com/playlist?list=PL8AhTXrM6LH0B2fZ9D6kmga0pfCgN0HkN) :
+I. ["Gloria"](https://youtu.be/VLjGinrp6Y4) |
+II. ["Laudamus te"](https://youtu.be/QZWuwpfYZ1Q) |
+III. ["Domine Deus"](https://youtu.be/-NYumVcXV9M) |
+IV. ["Domine fili unigenite"](https://youtu.be/3MqE6ksnxtg) |
+V. ["Domine Deus, Agnus Dei"](https://youtu.be/_BlW8sGDUTE) |
+VI. ["Qui sedes ad dexteram Patris"](https://youtu.be/_BlW8sGDUTE)&nbsp; [F10] <br>
+🇨🇭 Orchestre de la Suisse Romande, Chœur de la Radio Suisse Romande, Choeur Pro Arte de Lausanne; ‹sop› Sylvia Greenberg, ‹ten› Gösta Winbergh; Jesús López Cobos&nbsp; (Genève: Victoria Hall, 1982)
+
+---
+---
+
+**MESSIAEN**, OLIVIER <br>
+(French, 1908–1992)
+
 
 ---
 ---
