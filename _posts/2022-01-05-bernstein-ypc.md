@@ -20,7 +20,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, & Walton
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Ravel, Falla, Respighi, Bloch, & Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, & Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Kodály, Sibelius, Bartók, Глиэр, Стравинский, Прокофьев, & Шостакович
 
@@ -110,7 +110,8 @@ II. [Andante](https://youtu.be/vGJ7nvV7WJE)&nbsp; [Y21] <br>
 
 ---
 
-[1720]&nbsp; [Violin Sonata № 1 in G minor, BWV 1001](https://youtu.be/ekgfPKasoys): I. [Adagio](https://youtu.be/N7UtcsozxWI)&nbsp; [Y3, N3] <br>
+[1720]&nbsp; [Violin Sonata № 1 in G minor, BWV 1001](https://youtu.be/ekgfPKasoys): 
+I. [Adagio](https://youtu.be/N7UtcsozxWI)&nbsp; [Y3, N3] <br>
 ‹vn› Arthur Grumiaux&nbsp; (Amsterdam: Bachzaal, 1960)
 
 ---
@@ -903,6 +904,15 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 ---
 ---
 
+**SATIE**, ERIK <br>
+(French, 1866–1925)
+
+[1917]&nbsp; [_Parade_](https://youtu.be/6q-rhBxegZw): IV. ["Rag-time du paquebot"](https://youtu.be/QCCYZGoWTV4)&nbsp; [L2] <br>
+🇲🇨 Orchestre national de l'Opéra de Monte-Carlo; Louis Frémaux&nbsp; (1962)
+
+---
+---
+
 **RAVEL**, MAURICE <br> 
 (French, 1875–1937) 
 
@@ -965,6 +975,15 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 
 [1916]&nbsp; [_Schelomo: Rhapsodie hébraïque pour violoncelle et orchestre_, B. 39](https://youtu.be/M3E3eR5pbv8)&nbsp; [Y17] <br>
 🇩🇪 Berliner Philharmoniker; ‹vc› Pierre Fournier; Alfred Wallenstein&nbsp; (Berlin: UFA-Tonstudio, 1966)
+
+---
+---
+
+**MILHAUD**, DARIUS <br>
+(French, 1892–1974)
+
+[1923]&nbsp; [_La Création du monde_, Op. 81](https://youtu.be/wuuQgM2OmtI)&nbsp; [L2] <br>
+🇺🇸 Boston Symphony Orchestra; Charles Munch&nbsp; (Boston: Symphony Hall, 1960)
 
 ---
 ---
@@ -1270,6 +1289,11 @@ I. [_L'adoration de la terre_:](https://youtu.be/4PUlxNXXIV0) ["Augures printani
 
 ---
 
+[1918]&nbsp; [_Ragtime_, K030](https://youtu.be/0oTPudBHX2o)&nbsp; [L2] <br>
+🇺🇸 Columbia Chamber Ensemble; Игорь Стравинский [Igor Stravinsky]&nbsp; (New York: Manhattan Center, 1962)
+
+---
+
 [1920]&nbsp; [_Symphonies d'instruments à vent_, K036](https://youtu.be/ASIAsXIPTDc)&nbsp; [Y3] <br>
 🇩🇪 Berliner Philharmoniker; Pierre Boulez&nbsp; (Berlin: Berliner Philharmonie, 1996)
 
@@ -1473,7 +1497,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 **GERSHWIN**, GEORGE <br>
 (American, 1898–1937)
 
-[1924]&nbsp; [_Rhapsody in Blue_](https://youtu.be/UcmIZpodNX0)&nbsp; [Y2, Y3, Y4] <br>
+[1924]&nbsp; [_Rhapsody in Blue_](https://youtu.be/UcmIZpodNX0)&nbsp; [Y2, Y3, Y4, L2] <br>
 🇬🇧 London Symphony Orchestra, ‹pf› André Previn, ‹cl› Gervase de Peyer; André Previn&nbsp; (London: Abbey Road Studio One, 1971)
 
 ---
@@ -1516,7 +1540,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 
 
 [1946]&nbsp; [Symphony № 3](https://youtu.be/YkFvXd_h2XE): 
-IV. [Finale (Molto deliberato–Allegro risoluto)](https://youtu.be/MTXIpXOS9pA)&nbsp; [Y2] <br>
+IV. [Finale (Molto deliberato–Allegro risoluto)](https://youtu.be/MTXIpXOS9pA)&nbsp; [Y2, L2] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Philharmonic Hall, 1966)
 
 ---
@@ -1907,7 +1931,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 ---
 
 
-#### <br> g3. Secular hymns & marches
+#### <br> g3. Secular Hymns & Marches
 
 [18C]&nbsp; ["God Save the King/Queen"](https://youtu.be/J8FL_eOHSNU) <br> 
 🇬🇧 Gloucester Cathedral Choir; ‹org› Ian Ball; David Briggs&nbsp; (Gloucester Cathedral, 2000)
@@ -1930,7 +1954,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 
 > [1836]&nbsp; ["Fair Harvard"](https://youtu.be/aFkH4QofWm0)&nbsp; [N1] <br> 
 > 📃 Samuel Gilman <br>
-> ‎‍🎓 Harvard Glee Club&nbsp; (2013)
+> 🇺🇸 Harvard Glee Club&nbsp; (2013)
 
 ---
 
@@ -1969,24 +1993,36 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 🇺🇸 Boston Pops Orchestra; John Williams&nbsp; (Boston: Symphony Hall, 1990)
 
 
-#### <br> g4. Jazz
+#### <br> g4. Ragtime & Jazz
+
+[1899]&nbsp; ["Maple Leaf Rag"](https://youtu.be/6eeoDeklDKg)&nbsp; [L2] <br> 
+🎼 Scott Joplin <br>
+🎹 Dudley "Big Tiny" Little&nbsp; (1957)
+
+---
+
+[1910]&nbsp; ["Spaghetti Rag"](https://youtu.be/r3HMNOUh_HY)&nbsp; [L2] <br> 
+🎼 George Lyons & Bob Yosco <br>
+🎹 Dudley "Big Tiny" Little&nbsp; (1957)
+
+---
 
 [1914]&nbsp; ["The Saint Louis Blues"](https://youtu.be/i58rN88xDMQ)&nbsp; [Y2] <br> 
 🎼 William Christopher Handy <br>
-🎙️ Louis Armstrong & Bessie Smith&nbsp; (1925)
+🎺 Louis Armstrong & Bessie Smith&nbsp; (1925)
 
 ---
 
 [1928]&nbsp; ["I Can't Give You Anything but Love, Baby"](https://youtu.be/9Scd9WGDZog)&nbsp; [Y5] <br> 
 🎼 Jimmy McHugh <br>
 📃 Dorothy Fields <br>
-🎙️ Louis Armstrong & His Savoy Ballroom Five&nbsp; (1929)
+🎺 Louis Armstrong & His Savoy Ballroom Five&nbsp; (1929)
 
 ---
 
 [1953]&nbsp; ["Dragnet"](https://youtu.be/6tS0cgIuVkk)&nbsp; [Y1, Y43] <br>
 🎼 Walter Schumann <br>
-🎙️ Sy Oliver & His Orchestra&nbsp; (1953)
+🎺 Sy Oliver & His Orchestra&nbsp; (1953)
 
 
 
@@ -1994,7 +2030,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 
 [1957]&nbsp; ["All Shook Up"](https://youtu.be/23zLefwiii4)&nbsp; [Y4] <br>
 🎼 📃 Otis Blackwell & Elvis Presley <br>
-🎙️ Elvis Presley&nbsp; (1957)
+🎸 Elvis Presley&nbsp; (1957)
 
 ---
 
@@ -2007,54 +2043,54 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] 
 
 [1964]&nbsp; ["And I Love Her"](https://youtu.be/9_c2XZd9mMo)&nbsp; [Y28] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎙️ The Beatles&nbsp; (1964)
+🎸 The Beatles&nbsp; (1964)
 
 ---
 
 [1964]&nbsp; ["Hanky Panky"](https://youtu.be/bsgKZb9jQ1s)&nbsp; [Y36] <br>
 🎼 📃 Jeff Barry & Ellie Greenwich <br>
-🎙️ Tommy James and the Shondells&nbsp; (1966)
+🎸 Tommy James and the Shondells&nbsp; (1966)
 
 ---
 
 [1964]&nbsp; ["You Really Got Me"](https://youtu.be/02TiweAPm4I)&nbsp; [Y36] <br>
 🎼 📃 Ray Davies <br>
-🎙️ The Kinks&nbsp; (1964)
+🎸 The Kinks&nbsp; (1964)
 
 ---
 
 [1965]&nbsp; ["Secret Agent Man"](https://youtu.be/7hPm4eiiD08)&nbsp; [Y36] <br>
 🎼 📃 Philip Gary Sloan & Steve Barri <br>
-🎙️ Johnny Rivers&nbsp; (1966)
+🎸 Johnny Rivers&nbsp; (1966)
 
 ---
 
 [1965]&nbsp; ["Help!"](https://youtu.be/MKUex3fci5c)&nbsp; [Y32] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎙️ The Beatles&nbsp; (1965)
+🎸 The Beatles&nbsp; (1965)
 
 ---
 
 [1965]&nbsp; ["Norwegian Wood (This Bird Has Flown)"](https://youtu.be/Y_V6y1ZCg_8)&nbsp; [Y36] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎙️ The Beatles&nbsp; (1965)
+🎸 The Beatles&nbsp; (1965)
 
 ---
 
 [1966]&nbsp; ["Along Comes Mary"](https://youtu.be/URUd5RUAz1I)&nbsp; [Y36] <br>
 🎼 📃 Tandyn Almer <br>
-🎙️ The Association&nbsp; (1966)
+🎸 The Association&nbsp; (1966)
 
 ---
 
 [1967]&nbsp; ["A Day in the Life"](https://youtu.be/iSMu5Juyedk)&nbsp; [Y43] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎙️ The Beatles&nbsp; (1967)
+🎸 The Beatles&nbsp; (1967)
 
 ---
 
 [1969]&nbsp; ["Brandenburg"](https://youtu.be/aGeoI06Xkw4)&nbsp; [Y45] <br>
-🎼 📃 🎙️ New York Rock & Roll Ensemble&nbsp; (1969)
+🎼 📃 🎸 New York Rock & Roll Ensemble&nbsp; (1969)
 
 <br>
 
