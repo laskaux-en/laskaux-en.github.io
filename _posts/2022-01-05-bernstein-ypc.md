@@ -24,7 +24,7 @@ B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Kodály, Sibelius, Bartók, Глиэр, Стравинский, Прокофьев, & Шостакович
 
-D.&nbsp; [AMERICAN](#american) : Chadwick, MacDowell, Gilbert, Ives, Villa-Lobos, Thomson, White, Piston, Sessions, Fernández, Harris, Gershwin, Thompson, Revueltas, Luening, Copland, Goodman, Schuman, Ussachevsky, Gould, Babbitt, Bernstein, Foss, Bucci, Schuller, & Austin
+D.&nbsp; [AMERICAN](#american) : Chadwick, MacDowell, Gilbert, Ives, Villa-Lobos, Thomson, White, Piston, Sessions, Fernández, Harris, Gershwin, Thompson, Revueltas, Luening, Copland, Goodman, Schuman, Ussachevsky, Gould, Babbitt, Bernstein, Foss, Bucci, Schuller, Austin, & Ran
 
 E.&nbsp; [ASIAN](#asian) : <span style="font-size:0.95em">黛敏郎 </span>
 
