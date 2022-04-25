@@ -531,9 +531,11 @@ III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&n
 
 ---
 
-[1894]&nbsp; [Symphony № 2 in C minor/E-flat major:]() 
-III. [In ruhig fliessender Bewegung]() | 
-V. [In Tempo des Scherzos]()&nbsp; [Y8] <br>
+[1894]&nbsp; [Symphony № 2 in C minor:](https://youtu.be/mBuGQMjXsVQ)
+I. [Allegro maestoso](https://youtu.be/50bzM9s5f7A) | 
+III. [In ruhig fliessender Bewegung](https://youtu.be/TdSK59igcJc) | 
+V. [In Tempo des Scherzos: "O Schmerz!"](https://youtu.be/P6E7IxZI1TA)&nbsp; [Y8, L2] <br>
+🇬🇧 Philharmonia Orchestra & Chorus; ‹sop› Elisabeth Schwarzkopf, ‹alt› Hilde Rössel-Majdan; Otto Klemperer&nbsp; (London: Kingsway Hall, 1961–1962)
 
 ---
 
