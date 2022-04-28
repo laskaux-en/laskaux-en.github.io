@@ -1313,7 +1313,7 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 (Russian, 1873–1943)
 
 [1901]&nbsp; [Piano Concerto № 2 in C minor, Op. 18](https://youtu.be/ygfLNLs2IBU): 
-I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7] <br>
+I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7, F1] <br>
 🇵🇱 Orkiestra Filharmonii Warszawskiej; ‹pf› Святослав Рихтер [Sviatoslav Richter]; Stanisław Wisłocki&nbsp; (Warszawa: Filharmonia Narodowa, 1959)
 
 ---
@@ -1383,7 +1383,7 @@ IV. ["La foire du mardi gras (la nuit)"](https://youtu.be/bJMCstu7c_w)&nbsp; [Y1
 
 [1917]&nbsp; [_L'Histoire du soldat_, K029:](https://youtu.be/2NIG4yG-KXo) 
 ["Marche royale"](https://youtu.be/Hsa1aNyI7QU)&nbsp; [Y3, Y33] <br>
-🇪🇺 ‹vn› Manoug Parikian, ‹cl› Ulysse Delécluse, ‹bn› Henri Helaerts, ‹crt› Maurice André, ‹tbn› Roland Schnorkh, ‹db› Joachim Gut, ‹perc› Charles Peschier; Игорь Маркевич [Igor Markevitch]&nbsp; (Vevey: Théâtre de Vevey, 1962)
+‹vn› Manoug Parikian, ‹cl› Ulysse Delécluse, ‹bn› Henri Helaerts, ‹crt› Maurice André, ‹tbn› Roland Schnorkh, ‹db› Joachim Gut, ‹perc› Charles Peschier; Игорь Маркевич [Igor Markevitch]&nbsp; (Vevey: Théâtre de Vevey, 1962)
 
 ---
 
