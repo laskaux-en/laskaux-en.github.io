@@ -22,7 +22,7 @@ A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethove
 
 B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, Poulenc, Messiaen, & Nono
 
-C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Kodály, Sibelius, Bartók, Глиэр, Стравинский, Прокофьев, & Шостакович
+C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Sibelius, Рахманинов, Глиэр, Bartók, Стравинский, Kodály, Прокофьев, & Шостакович
 
 D.&nbsp; [AMERICAN](#american) : Chadwick, MacDowell, Gilbert, Ives, Villa-Lobos, Thomson, White, Piston, Sessions, Fernández, Harris, Gershwin, Thompson, Revueltas, Luening, Copland, Goodman, Schuman, Ussachevsky, Gould, Babbitt, Bernstein, Foss, Bucci, Schuller, Austin, & Ran
 
@@ -80,7 +80,7 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 
 ---
 
-[<u>1730</u>]&nbsp; [Toccata & Fugue in D minor, BWV 565](https://youtu.be/cl9b8UgXYQw)&nbsp; [O7] <br>
+[<u>1730</u>]&nbsp; [Toccata & Fugue in D minor, BWV 565: Toccata](https://youtu.be/cl9b8UgXYQw)&nbsp; [O7] <br>
 ‹org› Ton Koopman&nbsp; (Maassluis: Orgel Garrels ‹1732›, Groote Kerk, 1983)
 
 ---
@@ -379,12 +379,14 @@ I. [Allegro con brio](https://youtu.be/mKPBJp8Et_4)&nbsp; [Y1] <br>
 ["Hat man nicht auch Gold beineben"](https://youtu.be/V9GpHvB0x0Y) from Act I |
 ["Gott! Welch Dunkel hier!"](https://youtu.be/2tl5cExEoJg),
 ["Nur hurtig fort, nur frisch gegraben"](https://youtu.be/slJIaFf3xCg),
-["Euch werde Lohn in bessern Welten"](https://youtu.be/5EHYBA5uZwE), &
-["Er sterbe!"](https://youtu.be/IkYHv5b4miQ) from Act II&nbsp; [Y48] <br>
-🇬🇧 Philharmonia Orchestra & Chorus; ‹ten› Jon Vickers & Gerhard Unger, ‹mez› Christa Ludwig, ‹sop› Ingeborg Hallstein, ‹bass› Gottlob Frick & Walter Berry; Otto Klemperer&nbsp; (London: Kingsway Hall, 1962)
+["Euch werde Lohn in bessern Welten"](https://youtu.be/5EHYBA5uZwE),
+["Er sterbe!"](https://youtu.be/IkYHv5b4miQ), &
+["Es schlägt der Rache Stunde"](https://youtu.be/63UogFHgs9Y) from Act II&nbsp; [Y48] <br>
+🇬🇧 Philharmonia Orchestra; ‹ten› Jon Vickers & Gerhard Unger, ‹mez› Christa Ludwig, ‹sop› Ingeborg Hallstein, ‹bass› Gottlob Frick & Walter Berry; Otto Klemperer&nbsp; (London: Kingsway Hall, 1962)
 
-> [Overture](https://youtu.be/QVmAsLkEYMw)&nbsp; [Y48] <br>
-> 🇦🇹 Wiener Philharmoniker; Lorin Maazel&nbsp; (Wien: Sofiensäle, 1964)
+> [Overture](https://youtu.be/QVmAsLkEYMw) | 
+["Er sterbe!"](https://youtu.be/snFCG8ud80E) from Act II&nbsp; [Y48] <br>
+> 🇦🇹 Wiener Philharmoniker; ‹sop› Birgit Nilsson, ‹ten› James McCracken, ‹bar› Tom Krause, ‹bass› Kurt Böhme; Lorin Maazel&nbsp; (Wien: Sofiensäle, 1964)
 
 ---
 ---
@@ -1305,28 +1307,14 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 ---
 ---
 
-**BARTÓK**, BÉLA <br> 
-(Hungarian, 1881–1945) 
+**РАХМАНИНОВ**, СЕРГЕЙ ВАСИЛЬЕВИЧ <br> 
+<span style="font-size:0.85em">
+	**RACHMANINOFF**, SERGEI VASILYEVICH </span> <br>
+(Russian, 1873–1943)
 
-[1943]&nbsp; [Concerto for Orchestra in F minor, Sz. 116; BB 123](https://youtu.be/clzcGIdMaN0): IV. [Intermezzo interrotto (Allegretto)](https://youtu.be/RSWptWsQmAU) | V. [Finale (Pesante–Presto)](https://youtu.be/xNoD_dOq9R0)&nbsp; [Y7] <br>
-🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1955)
-
----
-
-[1928]&nbsp; [Violin Rhapsody № 1, Sz. 87; BB 94:](https://youtu.be/VSHjf_hzG7Q) II. [Friss (Allegretto moderato)](https://youtu.be/nUg1OSPomQo)&nbsp; [Y25] <br>
-🇺🇸 New York Philharmonic; ‹vn› Isaac Stern; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1962)
-
----
----
-
-**KODÁLY**, ZOLTÁN <br> 
-(Hungarian, 1882–1967) 
-
-[1926]&nbsp; [_Háry János_](https://youtu.be/uIAyDNRSG0I) <br>
-🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
-
-> [1927]&nbsp; ["Háry János" Suite](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
-🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, North Rhine-Westphalia, 1973)
+[1901]&nbsp; [Piano Concerto № 2 in C minor, Op. 18](https://youtu.be/ygfLNLs2IBU): 
+I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7] <br>
+🇵🇱 Orkiestra Filharmonii Warszawskiej; ‹pf› Святослав Рихтер [Sviatoslav Richter]; Stanisław Wisłocki&nbsp; (Warszawa: Filharmonia Narodowa, 1959)
 
 ---
 ---
@@ -1338,6 +1326,20 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 
 [1927]&nbsp; [Красный мак [_The Red Poppy_], Op. 70:](https://youtu.be/ofqzE9JED0g) ["Яблочко" [Russian Sailor's Dance]](https://youtu.be/ofqzE9JED0g?t=1840) from Act I&nbsp; [Y29] <br>
 🇷🇺 Государственный Санкт-Петербургский симфонический оркестр; Андрей Аниханов [André Anichanov]&nbsp; (Санкт-Петербург: Дом радио, 1996)
+
+---
+---
+
+**BARTÓK**, BÉLA <br> 
+(Hungarian, 1881–1945) 
+
+[1943]&nbsp; [Concerto for Orchestra in F minor, Sz. 116; BB 123](https://youtu.be/clzcGIdMaN0): IV. [Intermezzo interrotto (Allegretto)](https://youtu.be/RSWptWsQmAU) | V. [Finale (Pesante–Presto)](https://youtu.be/xNoD_dOq9R0)&nbsp; [Y7] <br>
+🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1955)
+
+---
+
+[1928]&nbsp; [Violin Rhapsody № 1, Sz. 87; BB 94:](https://youtu.be/VSHjf_hzG7Q) II. [Friss (Allegretto moderato)](https://youtu.be/nUg1OSPomQo)&nbsp; [Y25] <br>
+🇺🇸 New York Philharmonic; ‹vn› Isaac Stern; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1962)
 
 ---
 ---
@@ -1408,6 +1410,18 @@ I. [Tempo giusto](https://youtu.be/klXjzrGMm3I)&nbsp; [Y18] <br>
 
 [1955]&nbsp; [_Greeting Prelude_, K085](https://youtu.be/_r4GF-iYx94)&nbsp; [Y18] <br>
 🇳🇴 Oslo Filharmoniske Orkester; Василий Петренко [Vasily Petrenko]&nbsp; (Oslo: Oslo Konserthus, 2019)
+
+---
+---
+
+**KODÁLY**, ZOLTÁN <br> 
+(Hungarian, 1882–1967) 
+
+[1926]&nbsp; [_Háry János_](https://youtu.be/uIAyDNRSG0I) <br>
+🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
+
+> [1927]&nbsp; ["Háry János" Suite](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
+🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, North Rhine-Westphalia, 1973)
 
 ---
 ---
