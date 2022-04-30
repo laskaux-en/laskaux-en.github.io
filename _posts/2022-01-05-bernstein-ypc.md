@@ -148,7 +148,7 @@ III. [Presto](https://youtu.be/glJuKcwf95w)&nbsp; [Y5, Y10] <br>
 
 [1721]&nbsp; [_Brandenburgische Konzerte_: № 5 in D major, BWV 1050](https://youtu.be/PLRwUDmsdpA): 
 I. [Allegro](https://youtu.be/PLRwUDmsdpA) | 
-III. [Allegro](https://youtu.be/HNnjpXHzDU0)&nbsp; [Y7, Y45, O7] <br>
+III. [Allegro](https://youtu.be/HNnjpXHzDU0)&nbsp; [Y7, Y45, O7, O8] <br>
 🇫🇷 Café Zimmermann&nbsp; (Paris: Chapelle de l'hôpital Notre-Dame de Bon Secours, 2000–2001)
 
 ---
@@ -261,7 +261,7 @@ VII. [Finale (Molto allegro)](https://youtu.be/CwDI7XwyJUM)&nbsp; [Y3] <br>
 ---
 
 [1787]&nbsp; [_Ein musikalischer Spaß_, K. 522](https://youtu.be/uzM4C-tKkOs): 
-IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6] <br>
+IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 2005)
 
 ---
@@ -589,7 +589,7 @@ VII. ["Rheinlegendchen"](https://youtu.be/CRC-ub2oUtg)&nbsp; [Y8, Y40] <br>
 **STRAUSS**, RICHARD <br> 
 (German, 1864–1949) 
 
-[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28, TrV 171](https://youtu.be/RgoglFCSquk)&nbsp; [Y49] <br>
+[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28, TrV 171](https://youtu.be/RgoglFCSquk)&nbsp; [Y49, L4] <br>
 🇩🇪 Staatskapelle Dresden; Rudolf Kempe&nbsp; (Dresden: Lukaskirche, 1970)
 
 ---
@@ -626,10 +626,10 @@ Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8
 [Einleitung](https://youtu.be/FjNPp-O2_TM) from Act I&nbsp; [Y6] <br>
 🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956) <br>
 
-> [1911]&nbsp; [Walzerfolge № 2, TrV 227a](https://youtu.be/7w2uvF1Dl88) from Act III&nbsp; [Y40] <br>
+> [1911]&nbsp; [Waltz Sequence № 2 from _Der Rosenkavalier_, TrV 227a](https://youtu.be/7w2uvF1Dl88) from Act III&nbsp; [Y40] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 >
-> [1944]&nbsp; [Walzerfolge № 1, TrV 227c](https://youtu.be/7PP5cMyts58) from Acts I & II&nbsp; [Y40, Y43] <br>
+> [1944]&nbsp; [Waltz Sequence № 1 from _Der Rosenkavalier_, TrV 227c](https://youtu.be/7PP5cMyts58) from Acts I & II&nbsp; [Y40, Y43] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 
 ---
@@ -1296,7 +1296,7 @@ III. ["Царевич и царевна" [The Young Prince and the Young Princes
 
 ---
 
-[1915]&nbsp; [Symphony № 5 in E-flat major, Op. 82](https://youtu.be/_-onpGxdZFs): I. [Tempo molto moderato](https://youtu.be/_-onpGxdZFs)&nbsp; [Y4] <br>
+[1915]&nbsp; [Symphony № 5 in E-flat major, Op. 82](https://youtu.be/_-onpGxdZFs): I. [Tempo molto moderato](https://youtu.be/_-onpGxdZFs)&nbsp; [Y4, O8] <br>
 🇳🇴 Oslo Filharmoniske Orkester; Mariss Jansons&nbsp; (Oslo: Oslo Konserthus, 1992)
 
 ---
@@ -1354,7 +1354,7 @@ I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7, F1] <br>
 🇬🇧 London Symphony Orchestra; Doráti Antal [Antal Doráti]&nbsp; (London: Watford Town Hall, 1959)
 
 
-> [1919]&nbsp; ["L'Oiseau de feu" Suite](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4)&nbsp; [Y47, F4] <br>
+> [1919]&nbsp; [Suite from _L'Oiseau de feu_](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4)&nbsp; [Y47, F4] <br>
 >🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]&nbsp; (1988)
 
 ---
@@ -1420,7 +1420,7 @@ I. [Tempo giusto](https://youtu.be/klXjzrGMm3I)&nbsp; [Y18] <br>
 [1926]&nbsp; [_Háry János_](https://youtu.be/uIAyDNRSG0I) <br>
 🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
 
-> [1927]&nbsp; ["Háry János" Suite](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
+> [1927]&nbsp; [Suite from _Háry János_](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
 🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, North Rhine-Westphalia, 1973)
 
 ---
@@ -1556,7 +1556,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 [1938]&nbsp; [_The Incredible Flutist_:](https://youtu.be/296W5NDtots) ["Arrival of Side Show Parade"](https://youtu.be/DOue9JqHrnk)&nbsp; [Y6] <br>
 🇺🇸 Louisville Orchestra; Jorge Mester&nbsp;(1976)
 
-> [1940]&nbsp; ["The Incredible Flutist" Suite](https://youtube.com/playlist?list=PL8AhTXrM6LH0ws76cLEde06YWikcuOqIq)&nbsp; [Y24] <br>
+> [1940]&nbsp; [Suite from _The Incredible Flutist_](https://youtube.com/playlist?list=PL8AhTXrM6LH0ws76cLEde06YWikcuOqIq)&nbsp; [Y24] <br>
 > 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1963)
 
 ---
@@ -1778,15 +1778,17 @@ Music Center, 1968)
 
 ---
 
-[1957]&nbsp; [_West Side Story_ (Symphonic Dances, 1960)](https://youtu.be/js7vOU8lfYM): 
+[1957]&nbsp; [_West Side Story_: Mambo (Meno presto)](https://youtu.be/NYvEvP2cmdk) from Act I&nbsp; [Y23, O8] <br>
+🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007) 
+
+> [1960]&nbsp; [Symphonic Dances from _West Side Story_](https://youtu.be/js7vOU8lfYM): 
+III. [Scherzo](https://youtu.be/js7vOU8lfYM?t=479) |
 IV. [Mambo (Meno presto)](https://youtu.be/NYvEvP2cmdk) |
 V. [Cha-Cha (Andantino con grazia)](https://youtu.be/js7vOU8lfYM?t=689) |
 VII. ["Cool" Fugue (Allegretto)](https://youtu.be/js7vOU8lfYM?t=782) | 
-VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23] <br>
+VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, O8] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1961) <br>
 
-> IV. [Mambo (Meno presto)](https://youtu.be/NYvEvP2cmdk)&nbsp; [Y23] <br>
-> 🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007) 
 
 ---
 ---
