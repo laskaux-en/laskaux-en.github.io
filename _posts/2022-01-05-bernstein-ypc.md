@@ -626,10 +626,10 @@ Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8
 [Einleitung](https://youtu.be/FjNPp-O2_TM) from Act I&nbsp; [Y6] <br>
 🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956) <br>
 
-> [1911]&nbsp; [Waltz Sequence № 2 from _Der Rosenkavalier_, TrV 227a](https://youtu.be/7w2uvF1Dl88) from Act III&nbsp; [Y40] <br>
+> [1911]&nbsp; [Waltz Sequence № 2 from _Der Rosenkavalier_, TrV 227a](https://youtu.be/7w2uvF1Dl88)&nbsp; [Y40] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 >
-> [1944]&nbsp; [Waltz Sequence № 1 from _Der Rosenkavalier_, TrV 227c](https://youtu.be/7PP5cMyts58) from Acts I & II&nbsp; [Y40, Y43] <br>
+> [1944]&nbsp; [Waltz Sequence № 1 from _Der Rosenkavalier_, TrV 227c](https://youtu.be/7PP5cMyts58)&nbsp; [Y40, Y43] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 
 ---
