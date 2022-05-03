@@ -20,7 +20,7 @@ tags: music television
 
 A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, Walton, & Britten
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Milhaud, Poulenc, Messiaen, & Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Ibert, Milhaud, Poulenc, Messiaen, & Nono
 
 C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Sibelius, Рахманинов, Глиэр, Bartók, Стравинский, Kodály, Прокофьев, & Шостакович
 
@@ -28,17 +28,25 @@ D.&nbsp; [AMERICAN](#american) : Chadwick, MacDowell, Gilbert, Ives, Villa-Lobos
 
 E.&nbsp; [ASIAN](#asian) : <span style="font-size:0.95em">黛敏郎 </span>
 
-F.&nbsp; [MUSICAL THEATRE](#musical) 
+F.&nbsp; [MUSICAL COMEDY](#musical) : 
+[American](#musical-american) | 
+[British](#musical-british) | 
+[German](#musical-german)
 
-G.&nbsp; [TRADITIONAL & POPULAR](#popular) 
+G.&nbsp; [TRADITIONAL & POPULAR](#popular) : 
+[Plainsong](#plainsong) | 
+[Folk](#folk) | 
+[Secular Hymn & March](#hymn) | 
+[Ragtime & Jazz](#jazz) | 
+[Pop & Rock](#rock)
 
 
 <br/>
 
 ### A.&nbsp; Germanic & British {#germanic}
 
-[#last]()&nbsp;
-[#next](#modern)&nbsp;
+[#next](#latin)&nbsp;
+[#last](#popular)&nbsp;
 [#contents](#contents)&nbsp;
 
 ---
@@ -46,7 +54,7 @@ G.&nbsp; [TRADITIONAL & POPULAR](#popular)
 **HANDEL**, GEORGE FRIDERIC <br> 
 (German–English, 1685–1759) 
 
-[1741]&nbsp; [_Messiah_, HVW 56](https://youtu.be/DJ6AgBpqWVQ): 
+[1741]&nbsp; [_Messiah_, HVW 56](https://youtu.be/DJ6AgBpqWVQ):
 № 12. ["For unto us a Child is born"](https://youtu.be/s8-DsACFjQM) from Part I&nbsp; [F10] <br>
 🇩🇪 Freiburger Barockorchester & 🇬🇧 Choir of Clare College, Cambridge; René Jacobs&nbsp; (Freiburg: Paulussaal, 2006)
 
@@ -95,7 +103,7 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 
 ---
 
-[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp; 📖 _Das wohltemperierte Klavier_, Teil 1&nbsp; [N1] <br> 
+[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [N1] <br> 
 ‹hpd› Céline Frisch&nbsp; (Namur: Anthony Sidey & Frédéric Bal ‹1995› aft. Silbermann, Église Saint-Rémi de Franc-Waret, 2014)
 
 ---
@@ -187,7 +195,7 @@ IV. [Finale (Allegro con spirito)](https://youtu.be/WKFnjvfYmzA)&nbsp; [Y6, Y33]
 ---
 
 [1794]&nbsp; [Symphony № 102 in B-flat major, Hob. I:102](https://youtu.be/dKQffKAKG54): 
-IV. [Finale (Presto)](https://youtu.be/3bmAZYIEkFU)&nbsp; [Y5] <br>
+IV. [Finale (Presto)](https://youtu.be/3bmAZYIEkFU)&nbsp; [Y5, L4] <br>
 🇧🇪 La Petite Bande; Sigiswald Kuijken&nbsp; (Haarlem: Grote Vermaning, 1994)
 
 ---
@@ -295,7 +303,8 @@ II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [N3] <br>
 [1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/6DvRFpJha2k):
 I. [Allegro con brio](https://youtu.be/6DvRFpJha2k) | 
 II. [Marcia funebre (Adagio assai)](https://youtu.be/6DvRFpJha2k?t=1003) | 
-IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3, O6, O7, F4, F5] <br>
+III. [Scherzo (Allegro vivace)](https://youtu.be/6DvRFpJha2k?t=2020)
+IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Abbey Road Studio 1, 1959)
 
 ---
@@ -303,7 +312,7 @@ IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4,
 [1808]&nbsp; [Symphony № 5 in C minor, Op. 67](https://youtu.be/PNpyRBVTavQ): 
 I. [Allegro con brio](https://youtu.be/PNpyRBVTavQ) | 
 III. [Scherzo (Allegro)](https://youtu.be/OFVkyoX5uuQ) |
-IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)&nbsp; [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, N3] <br>
+IV. [Allegro](https://youtu.be/-u5WiRmLnYQ)&nbsp; [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, L4, N3] <br>
 🇦🇹 Wiener Philharmoniker; Carlos Kleiber&nbsp; (Wien: Große Musikvereinssaal, 1974)
 
 ---
@@ -329,7 +338,7 @@ IV. [Allegro con brio](https://youtu.be/Yqw_hN0kxYQ)&nbsp; [Y21, Y33, Y40, O6, F
 
 [1824]&nbsp; [Symphony № 9 in D minor, Op. 125](https://youtu.be/ns0DK_7w3oo): 
 II. [Scherzo (Molto vivace–Presto)](https://youtu.be/ns0DK_7w3oo?t=1026) | 
-IV. [Finale](https://youtu.be/ns0DK_7w3oo?t=3956)&nbsp; [Y34, Y43, O3, F5, L1] <br>
+IV. [Finale](https://youtu.be/ns0DK_7w3oo?t=3956)&nbsp; [Y34, Y43, O3, L1, F5] <br>
 🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Kingsway Hall, 1957)
 
 ---
@@ -626,10 +635,10 @@ Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8
 [Einleitung](https://youtu.be/FjNPp-O2_TM) from Act I&nbsp; [Y6] <br>
 🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956) <br>
 
-> [1911]&nbsp; [Walzerfolge № 2 from _Der Rosenkavalier_, TrV 227a](https://youtu.be/7w2uvF1Dl88)&nbsp; [Y40] <br>
+> [1911]&nbsp; [Walzerfolge № 2 ◁ _Der Rosenkavalier_, TrV 227a](https://youtu.be/7w2uvF1Dl88)&nbsp; [Y40] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 >
-> [1944]&nbsp; [Walzerfolge № 1 from _Der Rosenkavalier_, TrV 227c](https://youtu.be/7PP5cMyts58)&nbsp; [Y40, Y43] <br>
+> [1944]&nbsp; [Walzerfolge № 1 ◁ _Der Rosenkavalier_, TrV 227c](https://youtu.be/7PP5cMyts58)&nbsp; [Y40, Y43] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 
 ---
@@ -649,6 +658,16 @@ IV. [Finale con epilogo fugato (Allegro molto)](https://youtu.be/pXkyun7gAJQ)&nb
 
 [1910]&nbsp; [_Fantasia on a Theme by Thomas Tallis_](https://youtu.be/_-a3cEM6fjU)&nbsp; [Y3] <br>
 🇬🇧 Sinfonia of London; John Barbirolli&nbsp; (London: Temple Church, 1962)
+
+---
+---
+
+**SCHÖNBERG**, ARNOLD <br>
+(Austrian–American, 1874–1951)
+
+[1923]&nbsp; [_Suite für Klavier_, Op. 25](https://youtu.be/GBWzWLo5G8M?t=8):
+I. [Präludium](https://youtu.be/GBWzWLo5G8M?t=8)&nbsp; [L4] <br>
+‹pf› Maurizio Pollini &nbsp; (München: Plenarsaal, Bayerische Akademie der Wissenschaften, 1974)
 
 ---
 ---
@@ -724,17 +743,16 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 
 ### B.&nbsp; Italian, French, & Iberian {#latin}
 
-[#last]()&nbsp;
-[#next](#modern)&nbsp;
+[#previous](#germanic)&nbsp;
+[#next](#slavic)&nbsp;
 [#contents](#contents)&nbsp;
-
 
 ---
 
 **TORRE**, FRANCISCO DE LA <br> 
 (Spanish, 1460–1504) 
 
-[1505–1520]&nbsp; [La Spagna. Danza alta in D minor](https://youtu.be/Xj_7wDVDFBw)&nbsp; 📖 _Cancionero de Palacio_, № 321&nbsp; [Y10] <br>
+[1505–1520]&nbsp; [La Spagna. Danza alta in D minor](https://youtu.be/Xj_7wDVDFBw)&nbsp;◁ _Cancionero de Palacio_, № 321&nbsp; [Y10] <br>
 🇨🇭 Hespèrion XXI; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
 
 ---
@@ -743,12 +761,12 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 **GABRIELI**, GIOVANNI <br> 
 (Italian, 1557–1612) 
 
-[1597]&nbsp; [Canzon per sonar septimi toni a 8, Ch. 172](https://youtu.be/soXG5ndvuFY)&nbsp; 📖 _Sacrae symphoniae_, Liber 1, № 30&nbsp; [Y10] <br>
+[1597]&nbsp; [Canzon per sonar septimi toni a 8, Ch. 172](https://youtu.be/soXG5ndvuFY)&nbsp;◁ _Sacrae symphoniae_, Liber 1, № 30&nbsp; [Y10] <br>
 🇮🇹 Concerto Palatino; Bruce Dickey & Charles Toet&nbsp; (Bologna: Basilica di San Petronio, 1998)
 
 ---
 
-[1597]&nbsp; [Sonata octavi toni a 12, Ch. 184](https://youtu.be/avtlDM-1L8s)&nbsp; 📖 _Sacrae symphoniae_, Liber 1, № 59&nbsp; [Y3] <br>
+[1597]&nbsp; [Sonata octavi toni a 12, Ch. 184](https://youtu.be/avtlDM-1L8s)&nbsp;◁ _Sacrae symphoniae_, Liber 1, № 59&nbsp; [Y3] <br>
 🇬🇧 Gabrieli Consort & Players; Paul McCreesh&nbsp; (Northumberland: Brinkburn Priory, 1989)
 
 ---
@@ -757,12 +775,12 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 **VIVALDI**, ANTONIO <br> 
 (Italian, 1678–1741) 
 
-[1711]&nbsp; [Concerto for Four Violins in B minor, RV 580: I. Allegro](https://youtu.be/1ozNyz3N2sA)&nbsp; 📖 _L'estro armonico_, Op. 3, № 10&nbsp; [Y20] <br>
+[1711]&nbsp; [Concerto for Four Violins in B minor, RV 580](https://youtu.be/1ozNyz3N2sA): I. [Allegro](https://youtu.be/1ozNyz3N2sA)&nbsp;◁ _L'estro armonico_, Op. 3, № 10&nbsp; [Y20] <br>
 🇮🇹 I Solisti Veneti; ‹vn› Glauco Bertagnin, Kazuki Sasaki, Marco Fornaciari, & Stefano Zanchetta; Claudio Scimone&nbsp; (Torino: Palazzina di caccia di Stupinigi, 1987)
 
 ---
 
-[1740]&nbsp; [Concerto in C major, RV 558: I. Allegro molto](https://youtu.be/xVZ5I1GXipk)
+[1740]&nbsp; [Concerto in C major, RV 558](https://youtu.be/xVZ5I1GXipk): I. [Allegro molto](https://youtu.be/xVZ5I1GXipk)
 &nbsp; [Y7] <br>
 🇮🇹 Europa Galante; Fabio Biondi&nbsp; (Parma: Abbazia di San Giovanni Evangelista, 2002)
 
@@ -772,7 +790,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 **RAMEAU**, JEAN-PHILIPPE <br>
 (French, 1683–1764)
 
-[1727]&nbsp; [Suite in G major, RCT 6](https://youtu.be/kxTuTtdpEtQ): V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp; 📖 _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
+[1727]&nbsp; [Suite in G major, RCT 6](https://youtu.be/kxTuTtdpEtQ): V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp;◁ _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
 ‹hpd› Pieter-Jan Belder&nbsp; (Deventer: Bom Klavecimbel ‹2008›, Penninckhuis, 2008) 
 
 > [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_](https://youtu.be/WQfCIE3gVmY): VI.1. ["La poule"](https://youtu.be/gdBSXAKGGDM) <br>
@@ -780,7 +798,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 
 ---
 
-[1772]&nbsp; ["Frère Jacques", canon à 4](https://youtu.be/ypwUqsD6qCw)&nbsp; 📖 _Diapason général de tous les instrumens à vent_&nbsp; [Y4, Y6] <br>
+[1772]&nbsp; ["Frère Jacques", canon à 4](https://youtu.be/ypwUqsD6qCw)&nbsp;◁ _Diapason général de tous les instrumens à vent_&nbsp; [Y4, Y6] <br>
 🇫🇷 Le Parnasse français; Louis Castelain&nbsp; (Arte: [_Jean-Philippe Rameau, l'incompris magnifique_](https://youtu.be/HEkNuFbe5o0), 2014)
 
 ---
@@ -873,7 +891,7 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
 (French, 1835–1921)
 
 [1888]&nbsp; [Cello Concerto № 1 in A minor, Op. 33](https://youtu.be/fvcdunC_0kw)&nbsp; [Y21] <br>
-🇫🇷 Orchestre National de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Studio 103, Maison de la Radio, 1980)
+🇫🇷 Orchestre national de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Studio 103, Maison de la Radio, 1980)
 
 ---
 ---
@@ -885,7 +903,7 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
 ["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337) from Act III&nbsp; [Y28, Y43, O5, O9] <br>
 🇫🇷 Orchestre & Chœur national de la Radiodiffusion française; ‹sop› Victoria de los Ángeles & Janine Micheau; Thomas Beecham&nbsp; (Paris: Salle Wagram, 1958–1959) <br>
 
-> [Prelude](https://youtu.be/i2Ataaunnno?t=13) from Act I&nbsp; [O9] <br>
+> [Prelude](https://youtu.be/i2Ataaunnno?t=13) to Act I&nbsp; [O9] <br>
 > 🇦🇹 Orchester der Wiener Staatsoper; Carlos Kleiber&nbsp; (Wien: Wiener Staatsoper, 1978)
 
 ---
@@ -986,8 +1004,15 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 
 ---
 
-[1912]&nbsp; [_Daphnis et Chloé_, M. 57:](https://youtu.be/YHrstmOPKBQ) ["Danse générale"](https://youtu.be/YHrstmOPKBQ) from Partie III&nbsp; [Y16] <br>
-🇨🇦 Orchestre symphonique de Montréal; Charles Dutoit&nbsp; (Montréal: Église de Saint-Eustache, 1980)
+[1912]&nbsp; [_Daphnis et Chloé_, M. 57:](https://youtu.be/YHrstmOPKBQ) ["Lever du jour"](https://youtu.be/wdX5mrp8uE0) & ["Danse générale"](https://youtu.be/unQk8sR0E5Q) from Partie III&nbsp; [Y16, L3] <br>
+🇩🇪 Berliner Philharmoniker & Rundfunkchor Berlin (Gerd Müller-Lorenz); Pierre Boulez&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1994)
+
+
+> [1911]&nbsp; [Suite № 1 ◁ _Daphnis et Chloé_, M. 57a](https://youtu.be/5Fzu4FqdC5w) <br>
+🇦🇹 Wiener Philharmoniker; Lorin Maazel&nbsp; (Wien: Große Musikvereinssaal, 1996)
+>
+> [1913]&nbsp; [Suite № 2 ◁ _Daphnis et Chloé_, M. 57b](https://youtube.com/playlist?list=PL8AhTXrM6LH26t7CwQ8mrxt3AykrM_JT2)&nbsp; [L3] <br>
+🇨🇦 Orchestre symphonique de Montréal & Choeur; Charles Dutoit&nbsp; (Montréal: Église de Saint-Eustache, 1980)
 
 ---
 
@@ -1044,8 +1069,22 @@ IV. ["Pini della Via Appia"](https://youtu.be/7b5sDyW4dio)&nbsp; [Y49] <br>
 ---
 ---
 
+**IBERT**, JACQUES <br>
+(French, 1890–1962)
+
+[1930]&nbsp; [_Divertissement_](https://youtube.com/playlist?list=PLYdRGn0LcOEq8OR2TCRscBLJkQcJ6ajAs): II. [Cortège](https://youtu.be/0RyZLO4w5iE)&nbsp; [L4] <br>
+🇫🇷 Orchestre de la Société des concerts du Conservatoire; Jean Martinon&nbsp; (Paris: Maison de la Mutualité, 1960)
+
+---
+---
+
 **MILHAUD**, DARIUS <br>
 (French, 1892–1974)
+
+[1920]&nbsp; [_Le Bœuf sur le toit_, Op. 58](https://youtu.be/7BlYn9IeoEs)&nbsp; [L4] <br>
+🇬🇧 London Symphony Orchestra; Doráti Antal [Antal Doráti]&nbsp; (Watford, Hertfordshire: Watford Colosseum, 1965)
+
+---
 
 [1923]&nbsp; [_La Création du monde_, Op. 81](https://youtu.be/wuuQgM2OmtI)&nbsp; [L2] <br>
 🇺🇸 Boston Symphony Orchestra; Charles Munch&nbsp; (Boston: Symphony Hall, 1960)
@@ -1094,8 +1133,8 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 
 ### C.&nbsp; Slavic, Hungarian, & Finnish {#slavic}
 
-[#previous]()&nbsp;
-[#next](#modern)&nbsp;
+[#previous](#latin)&nbsp;
+[#next](#american)&nbsp;
 [#contents](#contents)&nbsp;
 <br>
 
@@ -1170,7 +1209,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 [1874]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]](https://youtu.be/sfqVGWCYfw8) <br>
 ‹pf› Alfred Brendel&nbsp; (Wien, 1955)
 
-> [1922]&nbsp; [Картинки с выставки [_Pictures at an Exhibition_]](https://youtu.be/kBg7gVkzUVc)&nbsp;(arr. Maurice Ravel): 
+> [1922]&nbsp; [Картинки с выставки](https://youtu.be/kBg7gVkzUVc)&nbsp;(arr. Maurice Ravel): 
 > III. ["Тюильри" [Tuileries]](https://youtu.be/kBg7gVkzUVc?t=565) |
 > V. ["Балет невылупившихся птенцов" [Ballet of Unhatched Chicks]](https://youtu.be/kBg7gVkzUVc?t=821) |
 > X. ["Богатырские ворота" [The Bogatyr Gates]](https://youtu.be/kBg7gVkzUVc?t=1492)&nbsp; [Y1] <br>
@@ -1231,7 +1270,7 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O6, F5] <
 ---
 
 [1876]&nbsp; [Лебединое озеро [_Swan Lake_], Op. 20; TH 12:](https://youtu.be/syhogh0C-FI) 
-[Pas de deux](https://youtu.be/syhogh0C-FI?t=1265) from Act I | [Scène (Moderato)](https://youtu.be/syhogh0C-FI?t=2769) from Act II&nbsp; [Y47] <br>
+[Pas de deux](https://youtu.be/syhogh0C-FI?t=1266) from Act I | [Scène (Moderato)](https://youtu.be/syhogh0C-FI?t=2769) from Act II&nbsp; [Y47] <br>
 🇷🇺 Государственный симфонический оркестр СССР; ‹vn› Yuri Torchinsky; Евгений Светланов [Yevgeny Svetlanov]&nbsp; (Москва: Англиканская церковь Святого Андрея, 1988)
 
 > [Scène (Moderato)](https://youtu.be/Tb5Oj6ghJQM) from Act II&nbsp; [Y47] <br>
@@ -1239,9 +1278,12 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O6, F5] <
 
 ---
 
-[1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71; TH 14:](https://youtu.be/jA1-3Xgpf7Q)
-["Вальс цветов" [Waltz of the Flowers]](https://youtu.be/zt29NKCpbOA) from Act II&nbsp; [Y43] <br>
-🇩🇪 Berliner Philharmoniker; Мстислав Ростропович [Mstislav Rostropovich]&nbsp; (Berlin: Berliner Philharmonie, 1978)
+[1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71; TH 14:](https://youtube.com/playlist?list=OLAK5uy_mhaRthcxmB5-0Wx2CEzP36AYVSI6i6jPM)
+["Вальс цветов" [Waltz of the Flowers]](https://youtu.be/0H31G7foVZ4) from Act II&nbsp; [Y43] <br>
+🇷🇺 Симфонический оркестр Мариинского театра; Валерий Гергиев [Valery Gergiev]&nbsp; (Baden-Baden: Festspielhaus, 1998)
+
+> [1892]&nbsp; [Suite ◁ Щелкунчик, Op. 71a; TH 35](https://youtu.be/jA1-3Xgpf7Q)&nbsp; [Y43] <br>
+>🇩🇪 Berliner Philharmoniker; Мстислав Ростропович [Mstislav Rostropovich]&nbsp; (Berlin: Berliner Philharmonie, 1978)
 
 ---
 ---
@@ -1353,8 +1395,7 @@ I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7, F1] <br>
 [1910]&nbsp; [_L'Oiseau de feu_, K010:](https://youtu.be/9y81hCpDt6o) ["Danse infernale de tous les sujets de Kachtcheï"](https://youtu.be/_dwOMnkdrIY) & ["Berceuse"](https://youtu.be/3Ji-yIzrv8E) from Tableau I | ["Disparition du palais et des sortilèges de Kachtcheï, animation des chevaliers pétrifiés, allégresse générale"](https://youtu.be/dCl540k7A84) from Tableau II&nbsp; [F4] <br>
 🇬🇧 London Symphony Orchestra; Doráti Antal [Antal Doráti]&nbsp; (London: Watford Town Hall, 1959)
 
-
-> [1919]&nbsp; [Suite from _L'Oiseau de feu_](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4)&nbsp; [Y47, F4] <br>
+> [1919]&nbsp; [Suite ◁ _L'Oiseau de feu_](https://youtube.com/playlist?list=PL8AhTXrM6LH2UEKKB79Xcm5KKK7cV-_i4)&nbsp; [Y47, F4] <br>
 >🇭🇺 Budapesti Fesztiválzenekar; Fischer Iván [Iván Fischer]&nbsp; (1988)
 
 ---
@@ -1397,7 +1438,9 @@ IV. ["La foire du mardi gras (la nuit)"](https://youtu.be/bJMCstu7c_w)&nbsp; [Y1
 
 ---
 
-[1923]&nbsp; [_Octuor pour instruments à vent_, K041](https://youtu.be/gy1l0Ul8frA): II. [Tema con variazioni (Andantino)](https://youtu.be/9lAtg90rb7A)&nbsp; [N1] <br>
+[1923]&nbsp; [_Octuor pour instruments à vent_, K041](https://youtu.be/gy1l0Ul8frA): 
+II. [Tema con variazioni (Andantino)](https://youtu.be/9lAtg90rb7A) |
+III. [Finale (Tempo giusto)](https://youtu.be/7aBVQ-PTnCw)&nbsp; [L4, N1] <br>
 🇬🇧 London Sinfonietta; Riccardo Chailly&nbsp; (London: Kingsway Hall, 1980)
 
 ---
@@ -1420,7 +1463,7 @@ I. [Tempo giusto](https://youtu.be/klXjzrGMm3I)&nbsp; [Y18] <br>
 [1926]&nbsp; [_Háry János_](https://youtu.be/uIAyDNRSG0I) <br>
 🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
 
-> [1927]&nbsp; [Suite from _Háry János_](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
+> [1927]&nbsp; [Suite ◁ _Háry János_](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
 🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, North Rhine-Westphalia, 1973)
 
 ---
@@ -1431,7 +1474,7 @@ I. [Tempo giusto](https://youtu.be/klXjzrGMm3I)&nbsp; [Y18] <br>
 	**PROKOFIEV**, SERGEI SERGEYEVICH </span> <br>
 (Russian, 1891–1953) 
 
-[1917]&nbsp; [Symphony № 1 in D major, Op. 25:](https://youtu.be/WLT55kPIFCo) 
+[1917]&nbsp; [Symphony № 1 in D major, Op. 25](https://youtu.be/WLT55kPIFCo): 
 I. [Allegro](https://youtu.be/_FKv9moORv0) | 
 III. [Gavotta (Non troppo allegro)](https://youtu.be/nnc5aovCZ9c) |
 IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <br>
@@ -1439,7 +1482,14 @@ IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <
 
 ---
 
-[1934]&nbsp; [Поручик Киже [_Lieutenant Kijé_], Op. 60](https://youtu.be/EK9mOTugCxk): I. ["Рождение Киже" [Birth of Kijé]](https://youtu.be/DNDFP9L0XdE)&nbsp; [Y36] <br>
+[1944]&nbsp; [Symphony № 5 in B-flat major, Op. 100](https://youtu.be/nKSJXktKRbY):
+II. [Allegro marcato](https://youtu.be/QusHe7b8GBA)&nbsp; [L4] <br>
+🇨🇭 Orchestre de la Suisse Romande; Ernest Ansermet&nbsp; (Genève: Victoria Hall, 1964)
+
+---
+
+[1934]&nbsp; [Поручик Киже [_Lieutenant Kijé_], Op. 60](https://youtu.be/EK9mOTugCxk): 
+I. ["Рождение Киже" [Birth of Kijé]](https://youtu.be/DNDFP9L0XdE)&nbsp; [Y36] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1959)
 
 ---
@@ -1448,7 +1498,7 @@ IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <
 🇺🇸 Boston Symphony Orchestra; ‹nar› Eleanor Roosevelt; Сергей Кусевицкий [Serge Koussevitzky]&nbsp; (Tanglewood, Massachusetts: Theatre-Concert Hall, 1950)
 
 ---
----
+--- 
 
 **ШОСТАКОВИЧ**, ДМИТРИЙ ДМИТРИЕВИЧ <br> 
 <span style="font-size:0.85em">
@@ -1456,8 +1506,8 @@ IV. [Finale (Molto vivace)](https://youtu.be/MS6vkBMETEI)&nbsp; [Y6, Y28, Y43] <
 (Russian, 1906–1975)
 
 [1937]&nbsp; [Symphony № 5 in D minor, Op. 47](https://youtu.be/Avt-KOQy1mo):
-II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [N3] <br>
-🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Большой зал Ленинградской филармонии, 1984)
+II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [L4, N3] <br>
+🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Большой зал, Ленинградской филармонии, 1984)
 
 ---
 
@@ -1477,6 +1527,12 @@ V. [Allegretto–Allegro](https://youtu.be/745uf9sbWfI)&nbsp; [Y34] <br>
 
 ---
 
+[1957]&nbsp; [Piano Concerto No. 2 in F major, Op. 102](https://youtu.be/CNKCyQOZ8mk):
+III. [Allegro](https://youtu.be/ANsTq6OGXZc)&nbsp; [L4] <br>
+🇨🇦 I Musici de Montréal; ‹pf› Дмитрий Максимович Шостакович [Dmitri Maximovich Shostakovich]; Максим Дмитриевич Шостакович [Maxim Dmitriyevich Shostakovich]&nbsp; (Montréal: Église Sainte-Madeleine d'Outremont, 1984)
+
+---
+
 [1930]&nbsp; [Золотой век [_The Golden Age_], Op. 22:](https://youtu.be/nrbirpPhfho) 
 [Polka (Allegretto)](https://youtu.be/2ix1mnrVmI0) from Act II&nbsp; [Y6, O6] <br>
 🇸🇪 Kungliga Filharmonikerna; Геннадий Рождественский [Gennady Rozhdestvensky]&nbsp; (Stockholm: Konserthuset Stockholm, 1993)
@@ -1487,8 +1543,8 @@ V. [Allegretto–Allegro](https://youtu.be/745uf9sbWfI)&nbsp; [Y34] <br>
 
 ### D.&nbsp; American {#american}
 
-[#previous]()&nbsp;
-[#next](#modern)&nbsp;
+[#previous](#slavic)&nbsp;
+[#next](#asian)&nbsp;
 [#contents](#contents)&nbsp;
 
 ---
@@ -1556,7 +1612,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 [1938]&nbsp; [_The Incredible Flutist_:](https://youtu.be/296W5NDtots) ["Arrival of Side Show Parade"](https://youtu.be/DOue9JqHrnk)&nbsp; [Y6] <br>
 🇺🇸 Louisville Orchestra; Jorge Mester&nbsp;(1976)
 
-> [1940]&nbsp; [Suite from _The Incredible Flutist_](https://youtube.com/playlist?list=PL8AhTXrM6LH0ws76cLEde06YWikcuOqIq)&nbsp; [Y24] <br>
+> [1940]&nbsp; [Suite ◁ _The Incredible Flutist_](https://youtube.com/playlist?list=PL8AhTXrM6LH0ws76cLEde06YWikcuOqIq)&nbsp; [Y24] <br>
 > 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Manhattan Center, 1963)
 
 ---
@@ -1615,7 +1671,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 
 ---
 
-[1928]&nbsp; [_An American in Paris_](https://youtu.be/xQzNjsI18yY)&nbsp; [Y2, Y6, Y17, Y33, F5] <br>
+[1928]&nbsp; [_An American in Paris_](https://youtu.be/xQzNjsI18yY)&nbsp; [Y2, Y6, Y17, Y33, L4, F5] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Hotel St. George, 1958)
 
 ---
@@ -1665,7 +1721,7 @@ IV. [Finale (Molto deliberato–Allegro risoluto)](https://youtu.be/MTXIpXOS9pA)
 
 [1925]&nbsp; [_Music for the Theatre_](https://youtu.be/_jekiBjUIIA):
 II. [Dance](https://youtu.be/P8l5lVcDZe8) |
-IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6] <br>
+IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6, L4] <br>
 🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Hotel St. George, 1958)
 
 ---
@@ -1778,10 +1834,10 @@ Music Center, 1968)
 
 ---
 
-[1957]&nbsp; [_West Side Story_: Mambo (Meno presto)](https://youtu.be/NYvEvP2cmdk) from Act I&nbsp; [Y23, O8] <br>
+[1957]&nbsp; [_West Side Story_: Mambo](https://youtu.be/NYvEvP2cmdk) from Act I&nbsp; [Y23, O8] <br>
 🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007) 
 
-> [1960]&nbsp; [Symphonic Dances from _West Side Story_](https://youtu.be/js7vOU8lfYM): 
+> [1960]&nbsp; [Symphonic Dances ◁ _West Side Story_](https://youtu.be/js7vOU8lfYM): 
 III. [Scherzo](https://youtu.be/js7vOU8lfYM?t=479) |
 IV. [Mambo (Meno presto)](https://youtu.be/NYvEvP2cmdk) |
 V. [Cha-Cha (Andantino con grazia)](https://youtu.be/js7vOU8lfYM?t=689) |
@@ -1811,7 +1867,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 (American, 1924–2002) 
 
 [1960]&nbsp; [_Concerto for a Singing Instrument_:](https://youtu.be/qbNC_f23BYw) III. [(For kazoo)](https://www.bilibili.com/video/BV1CT4y177rf)&nbsp; [Y10]&nbsp; 🔔 <br>
-🇺🇸 New York Philharmonic, ‹kazoo› & ‹sop› Anita Darian; Leonard Bernstein&nbsp; (New York: Carnegie Hall, 1960)
+🇺🇸 New York Philharmonic; ‹kazoo› & ‹sop› Anita Darian; Leonard Bernstein&nbsp; (New York: Carnegie Hall, 1960)
 
 ---
 ---
@@ -1820,7 +1876,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 (American, 1925–2015)
 
 [1962]&nbsp; [_Journey into Jazz_](https://youtu.be/zwd9QqzVmvU)&nbsp; [Y27] <br>
-🇺🇸 Orchestra U.S.A., ‹nar› Skitch Henderson; Gunther Schuller&nbsp; (New York: Brooklyn Academy of Music, 1964)
+🇺🇸 Orchestra U.S.A.; ‹nar› Skitch Henderson; Gunther Schuller&nbsp; (New York: Brooklyn Academy of Music, 1964)
 
 ---
 ---
@@ -1849,8 +1905,8 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 ### E.&nbsp; Asian {#asian}
 
-[#previous]()&nbsp;
-[#next](#modern)&nbsp;
+[#previous](#american)&nbsp;
+[#next](#musical)&nbsp;
 [#contents](#contents)&nbsp;
 
 ---
@@ -1869,127 +1925,94 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 
 
-### F.&nbsp; Musical Theatre {#musical}
+### F.&nbsp; Musical Comedy {#musical}
 
-[#previous]()&nbsp;
-[#first](#modern)&nbsp;
+#### f1. American {#musical-american}
+
+[#previous](#asian)&nbsp;
+[#next](#musical-british)&nbsp;
 [#contents](#contents)&nbsp;
-
----
 
 [1866]&nbsp; [_The Black Crook_: "You Naughty, Naughty Men"](https://youtu.be/Tu1Y-M0c8hY) | ["March of the Amazons"](https://youtu.be/wIe3MKVGuXw)&nbsp; [O5] <br>
 🎼 George Bickwell <br>
 📃 Theodore Kennick <br>
-🎙️ Libby Dees &nbsp;🎹 Adam Roberts&nbsp; (2010)
-
----
-
-[1878]&nbsp; [_H.M.S. Pinafore_: "We Shall Sail the Ocean Blue"](https://youtu.be/ipjK8yNMA30)&nbsp; [O5] <br>
-🎼 Arthur Sullivan <br>
-📃 William Schwenck Gilbert <br>
-🎙️ D'Oyly Carte Opera Chorus; New Symphony Orchestra of London; Izidor Godfrey&nbsp; (London: Decca Studios, West Hampstead, 1959)
-
----
-
-[1879]&nbsp; [_The Pirates of Penzance_: "I Am the Very Model of a Modern Major-General"](https://youtu.be/6Ppw5-lJRoA?t=6)&nbsp; [Y6] <br>
-🎼 Arthur Sullivan <br>
-📃 William Schwenck Gilbert <br>
-🎙️ John Reed; Royal Philharmonic Orchestra & D'Oyly Carte Opera Chorus; Izidor Godfrey&nbsp; (London: Decca Studios, West Hampstead, 1967)
-
----
-
-[1885]&nbsp; [_The Mikado_: "Alone, and yet Alive"](https://youtu.be/rW7BK9ROa3g) | ["On a Tree by a River a Little Tom Tit"](https://youtu.be/XKcQQOoFGlY)&nbsp; [Y6, O5] <br> 
-🎼 Arthur Sullivan <br>
-📃 William Schwenck Gilbert <br>
-🎙️ Lyndsie Holland & John Reed; Royal Philharmonic Orchestra; Royston Nash&nbsp; (London: Decca Studios, West Hampstead, 1973)
+🎙️ Libby Dees&nbsp;(2010)
 
 ---
 
 [1891]&nbsp; [_A Trip to Chinatown_: "The Bowery"](https://youtu.be/nV5HOUlVsvs) | ["Reuben and Cynthia"](https://youtu.be/tav7v5P3h6M)&nbsp; [O5] <br>
 🎼 Percy Gaunt <br>
 📃 Charles Hale Hoyt <br>
-🎙️ Richard Perry, Gina Ferraro, & William Schaeffer&nbsp; (1978)
+🎙️ Richard Perry, Gina Ferraro, & William Schaeffer&nbsp;(1978)
 
 ---
 
 [1899]&nbsp; [_Florodora_: "Tell Me Pretty, Maiden"](https://youtu.be/DLOXLc95aTU)&nbsp; [O5] <br>
 🎼 Leslie Stuart & Paul Rubens <br>
 📃 	Paul Rubens & Edward Boyd-Jones <br>
-🎙️ Peter Morrison & Marilyn Hill Smith&nbsp; (2004)
+🎙️ Peter Morrison & Marilyn Hill Smith&nbsp;(2004)
 
 ---
 
 [1906]&nbsp; [_The Red Mill_: "Moonbeams"](https://youtu.be/zT-He1U_cGA)&nbsp; [O5] <br>
 🎼 Victor Herbert <br>
 📃 Henry Blossom <br>
-🎙️ Virginia Croskery&nbsp; (1999)
+🎙️ Virginia Croskery&nbsp;(1999)
 
 ---
 
 [1910]&nbsp; [_Naughty Marietta_: "Ah! Sweet Mystery of Life"](https://youtu.be/xZTsdjbPXhU) | ["Italian Street Song"](https://youtu.be/ihjuZSmeL94)&nbsp; [O5] <br>
 🎼 Victor Herbert <br>
 📃 Rida Johnson Young <br>
-🎙️ Jeanette MacDonald & Nelson Eddy&nbsp; (1935)
+🎙️ Jeanette MacDonald & Nelson Eddy&nbsp;(1935)
 
 ---
 
 [1914]&nbsp; [_Watch Your Step_: "Play a Simple Melody"](https://youtu.be/uaczOl8dC3I) | ["The Syncopated Walk"](https://youtu.be/GJbEqvaJp6I) | ["Show Us How to Do the Fox Trot"](https://youtu.be/GJbEqvaJp6I)&nbsp; [O5] <br>
 🎼 Irving Berlin <br>
 📃 Harry Bache Smith <br>
-🎙️ Ethel Merman & Dan Dailey&nbsp; (1954)
+🎙️ Ethel Merman & Dan Dailey&nbsp;(1954)
 
 ---
 
 [1917]&nbsp; [_Eileen_: "Thine Alone"](https://youtu.be/1SB69tY0GTE) | ["I Arrest You"](https://youtu.be/zDtSXblxGT0)&nbsp; [O5] <br>
 🎼 Victor Herbert <br>
 📃 Henry Blossom <br>
-🎙️ Eamonn Mulhall & Mary O'Sullivan; Orchestra of Ireland; David Brophy&nbsp; (2012)
+🎙️ Eamonn Mulhall & Mary O'Sullivan; Orchestra of Ireland; David Brophy&nbsp;(2012)
 
 ---
 
 [1920]&nbsp; [Vaudeville: "I Wish That I'd Been Born in Borneo"](https://youtu.be/lD0_2rxc8ao)&nbsp; [O5] <br> 
 🎼 Walter Donaldson <br>
 📃 Grant Clarke <br>
-🎙️ Eddie Cantor&nbsp; (1921)
+🎙️ Eddie Cantor&nbsp;(1921)
 
 ---
 
 [1926]&nbsp; [_Oh, Kay!_: "Someone to Watch Over Me"](https://youtu.be/Y8RqHGgzjLs)&nbsp; [O5] <br>
 🎼 George Gershwin <br>
 📃 Ira Gershwin & Howard Dietz <br>
-🎙️ <span style="font-size:0.95em">純名里沙</span> [Risa Junna]&nbsp; (2016)
-
----
-
-[1928]&nbsp; [_Die Dreigroschenoper_: "Die Moritat von Mackie Messer"](https://youtu.be/AZuFkaOJFsQ) <br> 
-🎼 Kurt Weill <br>
-📃 Bertolt Brecht <br>
-🎙️ Jürgen Holtz & Ensemble Modern; Heinz Karl Gruber&nbsp; (1999)
-
-
-> [1954]&nbsp; ["Mack the Knife"](https://youtu.be/iooViITRp9M)&nbsp; [Y21] <br> 
-> 📃 Marc Blitzstein <br>
-> 🎙️ Bobby Darin&nbsp; (1959)
+🎙️ <span style="font-size:0.95em">純名里沙</span> [Risa Junna]&nbsp;(2016)
 
 ---
 
 [1933]&nbsp; [_As Thousands Cheer_: "Heat Wave"](https://youtu.be/4Vm83Ekx-Rw)&nbsp; [O5] <br>
 🎼 📃 Irving Berlin <br>
-🎙️ Ethel Merman&nbsp; (1938)
+🎙️ Ethel Merman&nbsp;(1938)
 
 ---
 
 [1935]&nbsp; [_Jubilee_: "Begin the Beguine"](https://youtu.be/Tl_e8H0nla4)&nbsp; [F5] <br>
 🎼 📃 Cole Porter <br>
-🎙️ Mario Lanza&nbsp; (1954)
+🎙️ Mario Lanza&nbsp;(1954)
 
 ---
 
-[1944]&nbsp; [_On the Town_: "New York, New York"](https://youtu.be/RzV-fHaERis) |
-["Chase Music"](https://youtu.be/Lk5ZvhI912M)&nbsp; [O4, O5] <br>
+[1944]&nbsp; [_On the Town_: "New York, New York"](https://youtu.be/RzV-fHaERis) | ["Carried Away"](https://youtu.be/8PIlTlJv8UE) |
+["Chase Music"](https://youtu.be/Lk5ZvhI912M)&nbsp; [O4, O5, L4] <br>
 🎼 Leonard Bernstein <br>
 📃 Betty Comden & Adolph Greenz <br>
-🎙️ Michael Kermoyan, Adolph Green, John Reardon, & Cris Alexander&nbsp; (1960)
+🎙️ Michael Kermoyan, Adolph Green, John Reardon, Cris Alexander, & Betty Comden&nbsp;(1960)
 
 ---
 
@@ -2001,13 +2024,13 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 [1950]&nbsp; [_Guys and Dolls_: "Fugue for Tinhorns"](https://youtu.be/EtzlyQRwt60)&nbsp; [Y15, O5] <br>
 🎼 📃 Frank Loesser <br>
-🎙️ Frank Sinatra, Bing Crosby, & Dean Martin&nbsp; (1963)
+🎙️ Frank Sinatra, Bing Crosby, & Dean Martin&nbsp;(1963)
 
 ---
 
 [1955]&nbsp; [_Damn Yankees_: "Whatever Lola Wants"](https://youtu.be/aQv2sq6jEhU?t=62)&nbsp; [O5] <br>
 🎼 📃 Richard Adler & Jerry Ross <br>
-🎙️ Gwen Verdon&nbsp; (1958)
+🎙️ Gwen Verdon&nbsp;(1958)
 
 ---
 
@@ -2016,7 +2039,58 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 📃 Alan Jay Lerner <br>
 🎙️ Kiri Te Kanawa; London Symphony Orchestra; John Mauceri&nbsp; (London: Royal Albert Hall, 1987)
 
+
+
+#### <br> f2. British {#musical-british}
+
+[#previous](#musical-american)&nbsp;
+[#next](#musical-german)&nbsp;
+[#contents](#contents)&nbsp;
+
+[1878]&nbsp; [_H.M.S. Pinafore_: "We Shall Sail the Ocean Blue"](https://youtu.be/ipjK8yNMA30)&nbsp; [O5] <br>
+🎼 Arthur Sullivan <br>
+📃 William Schwenck Gilbert <br>
+🎙️ D'Oyly Carte Opera Chorus; New Symphony Orchestra of London; Izidor Godfrey&nbsp;(1959)
+
 ---
+
+[1879]&nbsp; [_The Pirates of Penzance_: "I Am the Very Model of a Modern Major-General"](https://youtu.be/6Ppw5-lJRoA?t=6)&nbsp; [Y6] <br>
+🎼 Arthur Sullivan <br>
+📃 William Schwenck Gilbert <br>
+🎙️ John Reed; Royal Philharmonic Orchestra & D'Oyly Carte Opera Chorus; Izidor Godfrey&nbsp;(1967)
+
+---
+
+[1882]&nbsp; [_Iolanthe_: "Loudly Let the Trumpet Bray"](https://youtu.be/1CzZNzQeyqM)&nbsp; [L4] <br>
+🎼 Arthur Sullivan <br>
+📃 William Schwenck Gilbert <br>
+🎙️ D'Oyly Carte Opera Chorus; New Symphony Orchestra of London & Band of The Grenadier Guards; Izidor Godfrey&nbsp;(1960)
+
+---
+
+[1885]&nbsp; [_The Mikado_: "Alone, and yet Alive"](https://youtu.be/rW7BK9ROa3g) | ["On a Tree by a River a Little Tom Tit"](https://youtu.be/XKcQQOoFGlY)&nbsp; [Y6, O5] <br> 
+🎼 Arthur Sullivan <br>
+📃 William Schwenck Gilbert <br>
+🎙️ Lyndsie Holland & John Reed; Royal Philharmonic Orchestra; Royston Nash&nbsp;(1973)
+
+
+
+#### <br> f3. German {#musical-german}
+
+[#previous](#musical-british)&nbsp;
+[#next](#plainsong)&nbsp;
+[#contents](#contents)&nbsp;
+
+[1928]&nbsp; [_Die Dreigroschenoper_: "Die Moritat von Mackie Messer"](https://youtu.be/AZuFkaOJFsQ) <br> 
+🎼 Kurt Weill <br>
+📃 Bertolt Brecht <br>
+🎙️ Jürgen Holtz & Ensemble Modern; Heinz Karl Gruber&nbsp; (1999)
+
+
+> [1954]&nbsp; ["Mack the Knife"](https://youtu.be/iooViITRp9M)&nbsp; [Y21] <br> 
+> 📃 Marc Blitzstein <br>
+> 🎙️ Bobby Darin&nbsp; (1959)
+
 
 <br>
 
@@ -2024,31 +2098,35 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 ### G.&nbsp; Traditional & Popular {#popular}
 
-[#previous]()&nbsp;
-[#first](#modern)&nbsp;
+
+#### g1. Plainsong  {#plainsong}
+
+[#previous](#musical-german)&nbsp;
+[#next](#folk)&nbsp;
 [#contents](#contents)&nbsp;
-
-
-#### g1. Plainsong 
 
 [11C]&nbsp; ["Victimae paschali laudes" (Sequentia)](https://youtu.be/9XO6kBrRtYU)&nbsp; [Y36] <br>
 🇳🇴 Consortium Vocale Oslo; Alexander M. Schweitzer&nbsp; (Denklingen, Oberbayern: Kirche St. Stephan, 2011)
 
 
-#### <br> g2. Folk 
+#### <br> g2. Folk  {#folk}
+
+[#previous](#plainsong)&nbsp;
+[#next](#hymn)&nbsp;
+[#contents](#contents)&nbsp;
 
 [18C]&nbsp; ["Во поле берёза стояла" [Little Birch Tree]](https://youtu.be/ZdnWBZrVpZA)&nbsp; [Y2, Y4] <br> 
-🇷🇺 Ансамбль песни и пляски Советской армии имени А. В. Александрова; ‹ten› Николай Гресь [Nikolay Gres]; Борис Александров [Boris Alexandrov]&nbsp; (1965)
+🎙️ Николай Гресь [Nikolay Gres]; Ансамбль песни и пляски Советской армии имени А. В. Александрова; Борис Александров [Boris Alexandrov]&nbsp;(1965)
 
 ---
 
 [18C]&nbsp; ["Ah ! vous dirai-je, maman"](https://youtu.be/noeedoiULWs)&nbsp; [Y28] <br> 
-🎙️ Sabine Devieilhe &nbsp;🎹 Mathieu Pordoy&nbsp; (Genève: Grand Théâtre de Genève, 2020)
+🎙️ Sabine Devieilhe&nbsp;(2020)
 
 ---
 
 [18C]&nbsp; ["The Irish Washerwoman"](https://youtu.be/LlVXk75M4RQ)&nbsp; [Y2] <br> 
-🎻 Liz Doherty, Paula Doohan, Séamus Gibson, Kevin Glackin, Séamus Glackin, Proinsias O Maonaigh, Dermot McLaughlin, Mairéad Ní Mhaonaigh, Tommy Peoples, & Ciaran Tourish&nbsp; (1991)
+🎻 Liz Doherty, Paula Doohan, Séamus Gibson, Kevin Glackin, Séamus Glackin, Proinsias O Maonaigh, Dermot McLaughlin, Mairéad Ní Mhaonaigh, Tommy Peoples, & Ciaran Tourish&nbsp;(1991)
 
 ---
 
@@ -2062,175 +2140,195 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 [19C]&nbsp; ["Bury Me Not on the Lone Prairie"](https://youtu.be/cQ3NoBgfqG8) <br> 
 📃 Edwin Hubble Chapin <br>
-🎙️ Burl Ives&nbsp; (1961)
+🎙️ Burl Ives&nbsp;(1961)
 
 > [1936]&nbsp; ["Carry Me Back to the Lone Prairie"](https://youtu.be/NR4aaJ9vEnI)&nbsp; [Y15] <br> 
 > 📃 Carson Robison <br>
-> 🎙️ Johnny Bond&nbsp; (1961)
+> 🎙️ Johnny Bond&nbsp;(1961)
 
 ---
 
 
-#### <br> g3. Secular Hymns & Marches
+#### <br> g3. Secular Hymn & March {#hymn}
+
+[#previous](#folk)&nbsp;
+[#next](#jazz)&nbsp;
+[#contents](#contents)&nbsp;
 
 [18C]&nbsp; ["God Save the King/Queen"](https://youtu.be/J8FL_eOHSNU) <br> 
-🇬🇧 Gloucester Cathedral Choir; ‹org› Ian Ball; David Briggs&nbsp; (Gloucester Cathedral, 2000)
+🎙️ Gloucester Cathedral Choir; ‹org› Ian Ball; David Briggs&nbsp;(2000)
 
 > [1831]&nbsp; ["America (My Country, ’Tis of Thee)"](https://youtu.be/pgIEZwZWZhw)&nbsp; [O6] <br> 
 > 📃 Samuel Francis Smith <br>
-> 🇺🇸 RCA Victor Symphony Orchestra & Robert Shaw Chorale&nbsp; (1962)
+> 🥁 Robert Shaw Chorale & RCA Victor Symphony Orchestra&nbsp;(1962)
 
 ---
 
 [18C]&nbsp; ["Yankee Doodle"](https://youtu.be/br-ARX5bLPI)&nbsp; [Y29] <br> 
-🎙️ Eric Rogers Chorale & Orchestra&nbsp; (1963)
+🥁 Eric Rogers Chorale & Orchestra&nbsp;(1963)
 
 ---
 
 [1808]&nbsp; ["Believe Me, if All Those Endearing Young Charms"](https://youtu.be/87WWMvlPXA8) <br> 
 📃 Thomas Moore <br>
-🎙️ Joni James&nbsp; (1959)
+🎙️ Joni James&nbsp;(1959)
 
 
 > [1836]&nbsp; ["Fair Harvard"](https://youtu.be/aFkH4QofWm0)&nbsp; [N1] <br> 
 > 📃 Samuel Gilman <br>
-> 🇺🇸 Harvard Glee Club&nbsp; (2013)
+> 🎙️ Harvard Glee Club&nbsp;(2013)
 
 ---
 
 [1843]&nbsp; ["Columbia, the Gem of the Ocean"](https://youtu.be/jreksUx8sjk)&nbsp; [Y15, Y29] <br> 
 🎼 📃 Thomas A'Becket <br>
-🇬🇧 Royal Philharmonic Orchestra; Carmen Dragon&nbsp; (1963)
+🥁 Royal Philharmonic Orchestra; Carmen Dragon&nbsp;(1963)
 
 ---
 
 [1861]&nbsp; ["John Brown's Body"](https://youtu.be/1Jwf6Y4arcY?t=1448) <br> 
 🎼 William Steffe <br>
 📃 Tiger Battalion (disputed) <br>
-📺 <span style="font-size:0.95em">英若诚</span>&nbsp; (1994)
+📺 <span style="font-size:0.95em">英若诚</span>&nbsp;(1994)
 
 > [1862]&nbsp; ["Battle Hymn of the Republic"](https://youtu.be/AFbboRBPZZQ)&nbsp; [Y29] <br> 
 > 📃 Julia Ward Howe <br>
-> 🇺🇸 RCA Victor Symphony Orchestra & Robert Shaw Chorale&nbsp; (1962)
+> 🥁 Robert Shaw Chorale & RCA Victor Symphony Orchestra&nbsp;(1962)
 
 ---
 
 [1895]&nbsp; ["America the Beautiful"](https://youtu.be/4GfF-iEVD7k)&nbsp; [Y3] <br> 
 🎼 Samuel A. Ward <br>
 📃 Katharine Lee Bates <br>
-🎙️ Eric Rogers Chorale & Orchestra&nbsp; (1963)
+🥁 Eric Rogers Chorale & Orchestra&nbsp;(1963)
 
 ---
 
 [1896]&nbsp; ["The Stars and Stripes Forever"](https://youtu.be/cwv8n10dros)&nbsp; [Y3] <br> 
 🎼 📃 John Philip Sousa <br>
-🇺🇸 New York Philharmonic; Leonard Bernstein&nbsp; (New York: Philharmonic Hall, 1967)
+🥁 New York Philharmonic; Leonard Bernstein&nbsp;(1967)
 
 ---
 
 [1914]&nbsp; ["Colonel Bogey March"](https://youtu.be/Mx96NLBAahk)&nbsp; [Y4] <br> 
 🎼 Kenneth J. Alford <br>
-🇺🇸 Boston Pops Orchestra; John Williams&nbsp; (Boston: Symphony Hall, 1990)
+🥁 Boston Pops Orchestra; John Williams&nbsp;(1990)
 
 
-#### <br> g4. Ragtime & Jazz
+
+#### <br> g4. Ragtime & Jazz {#jazz}
+
+[#previous](#hymn)&nbsp;
+[#next](#rock)&nbsp;
+[#contents](#contents)&nbsp;
 
 [1899]&nbsp; ["Maple Leaf Rag"](https://youtu.be/6eeoDeklDKg)&nbsp; [L2] <br> 
 🎼 Scott Joplin <br>
-🎹 Dudley "Big Tiny" Little&nbsp; (1957)
+🎹 Dudley "Big Tiny" Little&nbsp;(1957)
 
 ---
 
 [1910]&nbsp; ["Spaghetti Rag"](https://youtu.be/r3HMNOUh_HY)&nbsp; [L2] <br> 
 🎼 George Lyons & Bob Yosco <br>
-🎹 Dudley "Big Tiny" Little&nbsp; (1957)
+🎹 Dudley "Big Tiny" Little&nbsp;(1957)
 
 ---
 
 [1914]&nbsp; ["The Saint Louis Blues"](https://youtu.be/i58rN88xDMQ)&nbsp; [Y2] <br> 
 🎼 William Christopher Handy <br>
-🎺 Louis Armstrong & Bessie Smith&nbsp; (1925)
+🎺 Louis Armstrong & Bessie Smith&nbsp;(1925)
+
+---
+
+[1919]&nbsp; ["The Near Future (How Dry I Am)"](https://youtu.be/4owhHaI0ioI)&nbsp; [L3] <br> 
+🎼 Irving Berlin <br>
+🎺 Artie Shaw (1969)
 
 ---
 
 [1928]&nbsp; ["I Can't Give You Anything but Love, Baby"](https://youtu.be/9Scd9WGDZog)&nbsp; [Y5] <br> 
 🎼 Jimmy McHugh <br>
 📃 Dorothy Fields <br>
-🎺 Louis Armstrong & His Savoy Ballroom Five&nbsp; (1929)
+🎺 Louis Armstrong & His Savoy Ballroom Five&nbsp;(1929)
 
 ---
 
 [1953]&nbsp; ["Dragnet"](https://youtu.be/6tS0cgIuVkk)&nbsp; [Y1, Y43] <br>
 🎼 Walter Schumann <br>
-🎺 Sy Oliver & His Orchestra&nbsp; (1953)
+🎺 Sy Oliver & His Orchestra&nbsp;(1953)
 
 
 
-#### <br> g5. Pop & Rock
+#### <br> g5. Pop & Rock {#rock}
+
+[#previous](#jazz)&nbsp;
+[#first](#germanic)&nbsp;
+[#contents](#contents)&nbsp;
 
 [1957]&nbsp; ["All Shook Up"](https://youtu.be/23zLefwiii4)&nbsp; [Y4] <br>
 🎼 📃 Otis Blackwell & Elvis Presley <br>
-🎸 Elvis Presley&nbsp; (1957)
+🎸 Elvis Presley&nbsp;(1957)
 
 ---
 
 [1958]&nbsp; ["Nel blu, dipinto di blu (Volare)"](https://youtu.be/6jWsIpAbo-8)&nbsp; [Y15] <br>
 🎼 📃 Domenico Modugno <br>
 📃 Franco Migliacci <br>
-🎙️ Domenico Modugno&nbsp; (1958)
+🎙️ Domenico Modugno&nbsp;(1958)
 
 ---
 
 [1964]&nbsp; ["And I Love Her"](https://youtu.be/9_c2XZd9mMo)&nbsp; [Y28] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎸 The Beatles&nbsp; (1964)
+🎸 The Beatles&nbsp;(1964)
 
 ---
 
 [1964]&nbsp; ["Hanky Panky"](https://youtu.be/bsgKZb9jQ1s)&nbsp; [Y36] <br>
 🎼 📃 Jeff Barry & Ellie Greenwich <br>
-🎸 Tommy James and the Shondells&nbsp; (1966)
+🎸 Tommy James and the Shondells&nbsp;(1966)
 
 ---
 
 [1964]&nbsp; ["You Really Got Me"](https://youtu.be/02TiweAPm4I)&nbsp; [Y36] <br>
 🎼 📃 Ray Davies <br>
-🎸 The Kinks&nbsp; (1964)
+🎸 The Kinks&nbsp;(1964)
 
 ---
 
 [1965]&nbsp; ["Secret Agent Man"](https://youtu.be/7hPm4eiiD08)&nbsp; [Y36] <br>
 🎼 📃 Philip Gary Sloan & Steve Barri <br>
-🎸 Johnny Rivers&nbsp; (1966)
+🎸 Johnny Rivers&nbsp;(1966)
 
 ---
 
 [1965]&nbsp; ["Help!"](https://youtu.be/MKUex3fci5c)&nbsp; [Y32] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎸 The Beatles&nbsp; (1965)
+🎸 The Beatles&nbsp;(1965)
 
 ---
 
 [1965]&nbsp; ["Norwegian Wood (This Bird Has Flown)"](https://youtu.be/Y_V6y1ZCg_8)&nbsp; [Y36] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎸 The Beatles&nbsp; (1965)
+🎸 The Beatles&nbsp;(1965)
 
 ---
 
 [1966]&nbsp; ["Along Comes Mary"](https://youtu.be/URUd5RUAz1I)&nbsp; [Y36] <br>
 🎼 📃 Tandyn Almer <br>
-🎸 The Association&nbsp; (1966)
+🎸 The Association&nbsp;(1966)
 
 ---
 
 [1967]&nbsp; ["A Day in the Life"](https://youtu.be/iSMu5Juyedk)&nbsp; [Y43] <br>
 🎼 📃 John Lennon & Paul McCartney <br>
-🎸 The Beatles&nbsp; (1967)
+🎸 The Beatles&nbsp;(1967)
 
 ---
 
 [1969]&nbsp; ["Brandenburg"](https://youtu.be/aGeoI06Xkw4)&nbsp; [Y45] <br>
-🎼 📃 🎸 New York Rock & Roll Ensemble&nbsp; (1969)
+🎼 📃 🎸 New York Rock & Roll Ensemble&nbsp;(1969)
+
 
 <br>
 
