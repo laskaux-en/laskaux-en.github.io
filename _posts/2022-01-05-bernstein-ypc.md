@@ -18,7 +18,7 @@ tags: music television
 
 ### Contents {#contents}
 
-A.&nbsp; [GERMANIC & BRITISH](#germanic) : Handel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Vaughan Williams, Holst, Webern, Hindemith, Walton, & Britten
+A.&nbsp; [GERMANIC & BRITISH](#germanic) : Händel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Lehár, Vaughan Williams, Schönberg, Holst, Webern, Hindemith, Walton, & Britten
 
 B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Ibert, Milhaud, Poulenc, Messiaen, & Nono
 
@@ -51,7 +51,9 @@ G.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 ---
 
-**HANDEL**, GEORGE FRIDERIC <br> 
+**HÄNDEL**, GEORG FRIEDRICH <br>
+<span style="font-size:0.85em">
+	**HANDEL**, GEORGE FRIDERIC </span> <br> 
 (German–English, 1685–1759) 
 
 [1741]&nbsp; [_Messiah_, HVW 56](https://youtu.be/DJ6AgBpqWVQ):
@@ -67,7 +69,7 @@ I. [Andante–Allegro](https://youtu.be/bCCx2g8Jwro)&nbsp; [Y25] <br>
 ---
 
 [1717]&nbsp; [_Water Music_: Suite № 2 in D major, HVW 349](https://youtu.be/OCk2T8uqQ-c): 
-II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5] <br>
+II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5, L3] <br>
 🇬🇧 The English Concert; Trevor Pinnock&nbsp; (London: Henry Wood Hall, 1983)
 
 ---
@@ -268,7 +270,7 @@ VII. [Finale (Molto allegro)](https://youtu.be/CwDI7XwyJUM)&nbsp; [Y3] <br>
 
 ---
 
-[1787]&nbsp; [_Ein musikalischer Spaß_, K. 522](https://youtu.be/uzM4C-tKkOs): 
+[1787]&nbsp; [Divertimento "Ein musikalischer Spaß", K. 522](https://youtu.be/uzM4C-tKkOs): 
 IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 2005)
 
@@ -383,19 +385,15 @@ I. [Allegro con brio](https://youtu.be/mKPBJp8Et_4)&nbsp; [Y1] <br>
 ---
 
 [1814]&nbsp; [_Fidelio_, Op. 72:](https://youtu.be/LmqTSrrTQck)
-[Overture](https://youtu.be/QVmAsLkEYMw) |
+[<u>Overture</u>](https://youtu.be/QVmAsLkEYMw) |
 ["Jetzt, Schätzchen, jetzt sind wir allein"](https://youtu.be/ejF_Vpx_87I) & 
 ["Hat man nicht auch Gold beineben"](https://youtu.be/V9GpHvB0x0Y) from Act I |
 ["Gott! Welch Dunkel hier!"](https://youtu.be/2tl5cExEoJg),
 ["Nur hurtig fort, nur frisch gegraben"](https://youtu.be/slJIaFf3xCg),
-["Euch werde Lohn in bessern Welten"](https://youtu.be/5EHYBA5uZwE),
-["Er sterbe!"](https://youtu.be/IkYHv5b4miQ), &
-["Es schlägt der Rache Stunde"](https://youtu.be/63UogFHgs9Y) from Act II&nbsp; [Y48] <br>
-🇬🇧 Philharmonia Orchestra; ‹ten› Jon Vickers & Gerhard Unger, ‹mez› Christa Ludwig, ‹sop› Ingeborg Hallstein, ‹bass› Gottlob Frick & Walter Berry; Otto Klemperer&nbsp; (London: Kingsway Hall, 1962)
-
-> [Overture](https://youtu.be/QVmAsLkEYMw) | 
-["Er sterbe!"](https://youtu.be/snFCG8ud80E) from Act II&nbsp; [Y48] <br>
-> 🇦🇹 Wiener Philharmoniker; ‹sop› Birgit Nilsson, ‹ten› James McCracken, ‹bar› Tom Krause, ‹bass› Kurt Böhme; Lorin Maazel&nbsp; (Wien: Sofiensäle, 1964)
+["Euch werde Lohn in bessern Welten"](https://youtu.be/5EHYBA5uZwE), &
+["<u>Er sterbe!</u>"](https://youtu.be/snFCG8ud80E) from Act II&nbsp; [Y48] <br>
+🇬🇧 Philharmonia Orchestra; ‹ten› Jon Vickers & Gerhard Unger, ‹mez› Christa Ludwig, ‹sop› Ingeborg Hallstein, ‹bass› Gottlob Frick & Walter Berry; Otto Klemperer&nbsp; (London: Kingsway Hall, 1962) | 
+🇦🇹 <u>Wiener Philharmoniker; ‹sop› Birgit Nilsson, ‹ten› James McCracken, ‹bar› Tom Krause, ‹bass› Kurt Böhme; Lorin Maazel&nbsp; (Wien: Sofiensäle, 1964)</u>
 
 ---
 ---
@@ -419,7 +417,7 @@ I. [Allegro ma non troppo](https://youtu.be/UMtEwl7AcqI)&nbsp; [Y3] <br>
 
 ---
 
-[1824]&nbsp; [Sonata for Arpeggione and Piano in A minor, D. 821](https://youtu.be/8CW6S4gRahY): 
+[1824]&nbsp; [Arpeggione Sonata in A minor, D. 821](https://youtu.be/8CW6S4gRahY): 
 I. [Allegro moderato](https://youtu.be/ZEfmpGTc6uo)&nbsp; [Y3] <br>
 ‹vc› Мстислав Ростропович [Mstislav Rostropovich] & ‹pf› Benjamin Britten&nbsp; (Snape, Suffolk: Snape Maltings Concert Hall, 1968) 
 
@@ -548,7 +546,7 @@ IV. [Allegro energico e passionato](https://youtu.be/s71pegGaWKU)&nbsp; [Y6, Y21
 ---
 
 **MAHLER**, GUSTAV <br> 
-(Bohemian/Austrian, 1860–1911) 
+(Austro-Bohemian, 1860–1911) 
 
 [1888]&nbsp; [Symphony № 1 in D major](https://youtu.be/W4f3dNyONl0):
 III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&nbsp; [Y6, Y8] <br>
@@ -633,13 +631,26 @@ Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8
 
 [1911]&nbsp; [_Der Rosenkavalier_, Op. 59, TrV 227:](https://youtu.be/NULxVW-gH64)
 [Einleitung](https://youtu.be/FjNPp-O2_TM) from Act I&nbsp; [Y6] <br>
-🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956) <br>
+🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956)
 
 > [1911]&nbsp; [Walzerfolge № 2 ◁ _Der Rosenkavalier_, TrV 227a](https://youtu.be/7w2uvF1Dl88)&nbsp; [Y40] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
 >
 > [1944]&nbsp; [Walzerfolge № 1 ◁ _Der Rosenkavalier_, TrV 227c](https://youtu.be/7PP5cMyts58)&nbsp; [Y40, Y43] <br>
 > 🇩🇪 Gewandhausorchester; Herbert Blomstedt&nbsp; (Leipzig: Gewandhaus, 1996)
+
+---
+---
+
+**LEHÁR**, FERENC [FRANZ] <br> 
+(Austro-Hungarian, 1870–1948) 
+
+[1905]&nbsp; [_Die lustige Witwe_:](https://youtu.be/gqHx7Ou3o_4)
+["Lippen schweigen"](https://youtu.be/0uhXzrECY3s) from Act III&nbsp; [L3] <br>
+🇩🇪 Berliner Symphoniker; ‹ten› Rudolf Schock, ‹sop› Margit Schramm; Robert Stolz&nbsp;(1965)
+
+> [1940]&nbsp; [Overture ◁ _Die lustige Witwe_](https://youtu.be/PgNQ-8PN1CM)&nbsp; [L3] <br>
+🇭🇺 Budapesti Filharmóniai Társaság Zenekara; Sándor János [János Sándor]&nbsp; (Budapest: MHV Stúdió, 1977)
 
 ---
 ---
@@ -722,13 +733,11 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 (English, 1913–1976)
 
 [1942]&nbsp; [_A Ceremony of Carols_, Op. 28](https://youtu.be/g6so5mVoNQs): 
-I. [Procession "Hodie Christus natus est"](https://youtu.be/g6so5mVoNQs) | 
+I. [<u>Procession "Hodie Christus natus est"</u>](https://youtu.be/tDVI5HXikzk) | 
 II. ["Wolcum Yule!"](https://youtu.be/jWIpOmq3eXk)&nbsp; [F10] <br>
-🇨🇿 Ensemble Inégal; ‹hp› Kateřina Englichová; Adam Viktora&nbsp;(2011)
+🇨🇿 Ensemble Inégal; ‹hp› Kateřina Englichová; Adam Viktora&nbsp;(2011) |
+🇬🇧 <u>Choir of St John's College, Cambridge; George Guest&nbsp; (Cambridge: St John's College Chapel, 1966) </u>
 
-> I. [Procession "Hodie Christus natus est"](https://youtu.be/tDVI5HXikzk)&nbsp; [F10] <br>
-🇬🇧 Choir Of St John's College, Cambridge; George Guest&nbsp; (Cambridge: St John's College Chapel, 1966)
->
 
 ---
 
@@ -794,7 +803,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 ‹hpd› Pieter-Jan Belder&nbsp; (Deventer: Bom Klavecimbel ‹2008›, Penninckhuis, 2008) 
 
 > [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_](https://youtu.be/WQfCIE3gVmY): VI.1. ["La poule"](https://youtu.be/gdBSXAKGGDM) <br>
-> 🇫🇷 Les Talens Lyriques; Christophe Rousset&nbsp; (2003) 
+> 🇫🇷 Les Talens Lyriques; Christophe Rousset&nbsp;(2003) 
 
 ---
 
@@ -899,12 +908,15 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
 **BIZET**, GEORGES  <br>
 (French, 1838–1875) 
 
-[1874]&nbsp; [_Carmen_, WD 31: Prelude](https://youtu.be/N8zqZJUx1Mw) & ["L'amour est un oiseau rebelle"](https://youtu.be/N8zqZJUx1Mw?t=1204) from Act I |
-["Je dis que rien ne m'épouvante"](https://youtu.be/N8zqZJUx1Mw?t=7337) from Act III&nbsp; [Y28, Y43, O5, O9] <br>
-🇫🇷 Orchestre & Chœur national de la Radiodiffusion française; ‹sop› Victoria de los Ángeles & Janine Micheau; Thomas Beecham&nbsp; (Paris: Salle Wagram, 1958–1959) <br>
+[1874]&nbsp; [_Carmen_, WD 31: Prelude](https://youtu.be/AvYttCeW6kY) | ["L'amour est un oiseau rebelle" (Habanera)](https://youtu.be/iqlUlr2yzY8) from Act I |
+["Je dis que rien ne m'épouvante"](https://youtu.be/igxrQkEMX1s) from Act III&nbsp; [Y28, Y43, O5, O9] <br>
+🇫🇷 Orchestre du Capitole de Toulouse & Les Éléments; ‹sop› Angela Gheorghiu & Inva Mula; Michel Plasson&nbsp; (Toulouse: Halle aux Grains, 2002) 
 
-> [Prelude](https://youtu.be/i2Ataaunnno?t=13) to Act I&nbsp; [O9] <br>
-> 🇦🇹 Orchester der Wiener Staatsoper; Carlos Kleiber&nbsp; (Wien: Wiener Staatsoper, 1978)
+> [1882]&nbsp; [Suite № 1 ◁ _Carmen_](https://youtu.be/RJs4ZA_lKMg) (arr. Ernest Guiraud)&nbsp; [O9] <br>
+> 🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1958)
+>
+> [1887]&nbsp; [Suite № 2 ◁ _Carmen_](https://youtu.be/8HWyj92lckc) (arr. Ernest Guiraud)&nbsp; [Y43, O5] <br>
+> 🇫🇷 Orchestre des Concerts Lamoureux; Игорь Маркевич [Igor Markevitch]&nbsp; (Paris, 1959)
 
 ---
 ---
@@ -957,22 +969,22 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 
 ---
 
-[1907]&nbsp; [_Images_, 2<sup>e</sup> série, L. 111; CD 120](https://youtu.be/nHolOfFs0ZU): III. ["Poissons d'or"](https://youtu.be/Suhn-E8Ltiw)&nbsp; [Y16] <br>
+[1907]&nbsp; [_Images_, Série II, L. 111; CD 120](https://youtu.be/nHolOfFs0ZU): № 3. ["Poissons d'or"](https://youtu.be/Suhn-E8Ltiw)&nbsp; [Y16] <br>
 ‹pf› Ivan Moravec&nbsp; (New York: RCA Studio A, 1982)
 
 ---
 
-[1908]&nbsp; [_Children's Corner_, L. 113; CD 119](https://youtu.be/IA-UEzd608g): VI. ["Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE)&nbsp; [Y16] <br>
+[1908]&nbsp; [_Children's Corner_, L. 113; CD 119](https://youtu.be/IA-UEzd608g): № 6. ["Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE)&nbsp; [Y16] <br>
 ‹pf› Jean-Yves Thibaudet&nbsp; (Dunwich, Suffolk: Potton Hall, 1998)
 
 ---
 
-[1910]&nbsp; [_Préludes_, 1<sup>re</sup> Livre, L. 117; CD 125](https://youtu.be/P2xhiiqp71A): II. ["Voiles"](https://youtu.be/9B5laNPnM4k) | X. ["La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)&nbsp; [Y16, Y36] <br>
+[1910]&nbsp; [_Préludes_, Livre I, L. 117; CD 125](https://youtu.be/P2xhiiqp71A): № 2. ["Voiles"](https://youtu.be/9B5laNPnM4k) | № 10. ["La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)&nbsp; [Y16, Y36] <br>
 ‹pf› Arturo Benedetti Michelangeli&nbsp; (Hamburg: Musikhalle, 1978)
 
 ---
 
-[1912]&nbsp; [_Préludes_, 2<sup>e</sup> Livre, L. 123; CD 131](https://youtu.be/MWkxPtFS10I): III. ["La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
+[1912]&nbsp; [_Préludes_, Livre II, L. 123; CD 131](https://youtu.be/MWkxPtFS10I): № 3. ["La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
 ‹pf› Walter Gieseking&nbsp; (London: Abbey Road Studio 3, 1954)
 
 ---
@@ -1036,13 +1048,11 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 (Spanish, 1876–1946)
 
 [1919]&nbsp; [_El sombrero de tres picos_: ](https://youtu.be/t6z6aX1CtfM) 
-["Introducción"](https://youtu.be/J4nKcKKsoDs), ["La tarde"](https://youtu.be/fuoMCUtUcow), & ["Danza de la molinera" (Fandango)](https://youtu.be/ZVp2d7vjEgk) from Act I |
+["Introducción"](https://youtu.be/J4nKcKKsoDs), ["La tarde"](https://youtu.be/fuoMCUtUcow), & ["<u>Danza de la molinera</u>" (Fandango)](https://youtu.be/oos034Z7CRU) from Act I |
 ["Danza del molinero" (Farruca)](https://youtu.be/WleibHJzVLw) & ["Danza final" (Jota)](https://youtu.be/PvkwWcuaGio) from Act II&nbsp; [Y17, Y29] <br>
-🇨🇭 Orchestre de la Suisse Romande; ‹mez› Teresa Berganza; Ernest Ansermet&nbsp; (Genève: Victoria Hall, 1961)
- 
-> ["Danza de la molinera" (Fandango)](https://youtu.be/oos034Z7CRU) from Act I&nbsp; [Y29] <br>
-🇨🇦 Orchestre symphonique de Montréal; Charles Dutoit
-&nbsp;(Montréal: Église de Saint-Eustache, 1981)
+🇨🇭 Orchestre de la Suisse Romande; ‹mez› Teresa Berganza; Ernest Ansermet&nbsp; (Genève: Victoria Hall, 1961) |
+🇨🇦 <u>Orchestre symphonique de Montréal; Charles Dutoit
+&nbsp;(Montréal: Église de Saint-Eustache, 1981)</u>
 
 ---
 ---
@@ -1140,7 +1150,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 
 ---
 
-**CHOPIN**, FRÉDÉRIC <br> 
+**CHOPIN**, FRYDERYK [FRÉDÉRIC] <br> 
 (Polish–French, 1810–1849)
 
 [1832]&nbsp; [Mazurka № 5 in B-flat major, Op. 7, № 1](https://youtu.be/nyYEdNDYYew)&nbsp; [Y2, Y29] <br>
@@ -1186,7 +1196,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 **SMETANA**, BEDŘICH <br> 
 (Czech, 1824–1884) 
 
-[1875]&nbsp; [_Má vlast_, JB 1:112](https://youtube.com/playlist?list=PLhSTl2wzRss2KaxuxqRcojkzJWOXF2JT1): II. ["Vltava"](https://youtu.be/jUqqM4I0riI)&nbsp; [Y29] <br>
+[1875]&nbsp; [_Má vlast_, JB 1:112](https://youtube.com/playlist?list=PLhSTl2wzRss2KaxuxqRcojkzJWOXF2JT1): II. ["Vltava"](https://youtu.be/jUqqM4I0riI)&nbsp; [Y29, L3] <br>
 🇩🇪 Berliner Philharmoniker; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1960)
 
 ---
@@ -1210,9 +1220,9 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 ‹pf› Alfred Brendel&nbsp; (Wien, 1955)
 
 > [1922]&nbsp; [Картинки с выставки](https://youtu.be/kBg7gVkzUVc)&nbsp;(arr. Maurice Ravel): 
-> III. ["Тюильри" [Tuileries]](https://youtu.be/kBg7gVkzUVc?t=565) |
-> V. ["Балет невылупившихся птенцов" [Ballet of Unhatched Chicks]](https://youtu.be/kBg7gVkzUVc?t=821) |
-> X. ["Богатырские ворота" [The Bogatyr Gates]](https://youtu.be/kBg7gVkzUVc?t=1492)&nbsp; [Y1] <br>
+> III. ["Тюильри [Tuileries]"](https://youtu.be/kBg7gVkzUVc?t=565) |
+> V. ["Балет невылупившихся птенцов [Ballet of Unhatched Chicks]"](https://youtu.be/kBg7gVkzUVc?t=821) |
+> X. ["Богатырские ворота [The Bogatyr Gates]"](https://youtu.be/kBg7gVkzUVc?t=1492)&nbsp; [Y1] <br>
 > 🇺🇸 The Cleveland Orchestra; Lorin Maazel&nbsp; (Cleveland: Masonic Auditorium, 1978)
 
 ---
@@ -1270,16 +1280,17 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O6, F5] <
 ---
 
 [1876]&nbsp; [Лебединое озеро [_Swan Lake_], Op. 20; TH 12:](https://youtu.be/syhogh0C-FI) 
-[Pas de deux](https://youtu.be/syhogh0C-FI?t=1266) from Act I | [Scène (Moderato)](https://youtu.be/syhogh0C-FI?t=2769) from Act II&nbsp; [Y47] <br>
-🇷🇺 Государственный симфонический оркестр СССР; ‹vn› Yuri Torchinsky; Евгений Светланов [Yevgeny Svetlanov]&nbsp; (Москва: Англиканская церковь Святого Андрея, 1988)
+[Pas de deux](https://youtu.be/syhogh0C-FI?t=1266) from Act I | [<u>Scène (Moderato)</u>](https://youtu.be/Tb5Oj6ghJQM) from Act II&nbsp; [Y47] <br>
+🇷🇺 Государственный симфонический оркестр СССР; ‹vn› Yuri Torchinsky; Евгений Светланов [Yevgeny Svetlanov]&nbsp; (Москва: Англиканская церковь Святого Андрея, 1988) |
+🇳🇱 <u>Koninklijk Concertgebouworkest; Anatole Fistoulari&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1961)</u>
 
-> [Scène (Moderato)](https://youtu.be/Tb5Oj6ghJQM) from Act II&nbsp; [Y47] <br>
-> 🇳🇱 Koninklijk Concertgebouworkest; Anatole Fistoulari&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1961)
+> [1900]&nbsp; [Suite ◁ Лебединое озеро, Op. 20a; TH 219](https://youtu.be/rvOyRbZiwbs)&nbsp; [Y47] <br>
+> 🇦🇹 Wiener Philharmoniker; Herbert von Karajan&nbsp; (Wien: Sofiensäle, 1965)
 
 ---
 
 [1892]&nbsp; [Щелкунчик [_The Nutcracker_], Op. 71; TH 14:](https://youtube.com/playlist?list=OLAK5uy_mhaRthcxmB5-0Wx2CEzP36AYVSI6i6jPM)
-["Вальс цветов" [Waltz of the Flowers]](https://youtu.be/0H31G7foVZ4) from Act II&nbsp; [Y43] <br>
+["Вальс цветов [Waltz of the Flowers]"](https://youtu.be/0H31G7foVZ4) from Act II&nbsp; [Y43] <br>
 🇷🇺 Симфонический оркестр Мариинского театра; Валерий Гергиев [Valery Gergiev]&nbsp; (Baden-Baden: Festspielhaus, 1998)
 
 > [1892]&nbsp; [Suite ◁ Щелкунчик, Op. 71a; TH 35](https://youtu.be/jA1-3Xgpf7Q)&nbsp; [Y43] <br>
@@ -1317,8 +1328,8 @@ IV. [Scena e canto gitano](https://youtu.be/LtGzxooAxeI) | V. [Fandango asturian
 ---
 
 [1888]&nbsp; [Шехеразада [_Scheherazade_], Op. 35](https://youtu.be/oFcyqZhhrb8): 
-I. ["Море и Синдбадов корабль" [The Sea and Sinbad's Ship]](https://youtu.be/oFcyqZhhrb8) |
-III. ["Царевич и царевна" [The Young Prince and the Young Princes]](https://youtu.be/oFcyqZhhrb8?t=1325)&nbsp; [Y5, Y36] <br>
+I. ["Море и Синдбадов корабль [The Sea and Sinbad's Ship]"](https://youtu.be/oFcyqZhhrb8) |
+III. ["Царевич и царевна [The Young Prince and the Young Princes]"](https://youtu.be/oFcyqZhhrb8?t=1325)&nbsp; [Y5, Y36] <br>
 🇬🇧 Royal Philharmonic Orchestra; Thomas Beecham&nbsp; (London: Kingsway Hall, 1957)
 
 ---
@@ -1366,7 +1377,7 @@ I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7, F1] <br>
 	**GLIÈRE**, REINHOLD MORITZEVICH </span> <br>
 (Russian, 1875–1956) 
 
-[1927]&nbsp; [Красный мак [_The Red Poppy_], Op. 70:](https://youtu.be/ofqzE9JED0g) ["Яблочко" [Russian Sailor's Dance]](https://youtu.be/ofqzE9JED0g?t=1840) from Act I&nbsp; [Y29] <br>
+[1927]&nbsp; [Красный мак [_The Red Poppy_], Op. 70:](https://youtu.be/ofqzE9JED0g) ["Яблочко [Russian Sailor's Dance]"](https://youtu.be/ofqzE9JED0g?t=1840) from Act I&nbsp; [Y29] <br>
 🇷🇺 Государственный Санкт-Петербургский симфонический оркестр; Андрей Аниханов [André Anichanov]&nbsp; (Санкт-Петербург: Дом радио, 1996)
 
 ---
@@ -1463,7 +1474,7 @@ I. [Tempo giusto](https://youtu.be/klXjzrGMm3I)&nbsp; [Y18] <br>
 [1926]&nbsp; [_Háry János_](https://youtu.be/uIAyDNRSG0I) <br>
 🇭🇺 Magyar Állami Operaház Zenekara; Török Levente [Levente Török]&nbsp; (Budapest: Erkel Színház, 2019)
 
-> [1927]&nbsp; [Suite ◁ _Háry János_](https://youtu.be/Jw5fXWF49fk): I. ["The Fairy Tale Begins"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
+> [1927]&nbsp; [Suite ◁ _Háry János_](https://youtu.be/Jw5fXWF49fk): I. ["Kezdődik a mese [The Fairy Tale Begins]"](https://youtu.be/blVLX8E5WbA)&nbsp; [Y6] <br>
 🇭🇺 Philharmonia Hungarica; Doráti Antal [Antal Doráti]&nbsp; (Marl, North Rhine-Westphalia, 1973)
 
 ---
@@ -1489,7 +1500,7 @@ II. [Allegro marcato](https://youtu.be/QusHe7b8GBA)&nbsp; [L4] <br>
 ---
 
 [1934]&nbsp; [Поручик Киже [_Lieutenant Kijé_], Op. 60](https://youtu.be/EK9mOTugCxk): 
-I. ["Рождение Киже" [Birth of Kijé]](https://youtu.be/DNDFP9L0XdE)&nbsp; [Y36] <br>
+I. ["Рождение Киже [Birth of Kijé]"](https://youtu.be/DNDFP9L0XdE)&nbsp; [Y36] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1959)
 
 ---
@@ -1761,7 +1772,7 @@ II. [Molto moderato–Allegro assai](https://youtu.be/AFKNIWwSuiI)&nbsp; [Y27] <
 
 ---
 
-[1952 arr.]&nbsp; [_Old American Songs_, Set 2: "The Little Horses"](https://youtu.be/0DHeDBrd_Ls)&nbsp; [Y20] <br>
+[1952 arr.]&nbsp; [_Old American Songs_, Set II: "The Little Horses"](https://youtu.be/0DHeDBrd_Ls)&nbsp; [Y20] <br>
 ‹sop› Roberta Alexander & ‹pf› Roger Vignoles&nbsp; (Cambridge: West Road Concert Hall, 1990)
 
 ---
@@ -2115,8 +2126,13 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 [#next](#hymn)&nbsp;
 [#contents](#contents)&nbsp;
 
+[17C]&nbsp; ["Il était une Bergère"](https://youtu.be/1HFZwMH0pUU)&nbsp; [L3] <br> 
+🎙️ Colette Renard&nbsp;(1959)
+
+---
+
 [18C]&nbsp; ["Во поле берёза стояла" [Little Birch Tree]](https://youtu.be/ZdnWBZrVpZA)&nbsp; [Y2, Y4] <br> 
-🎙️ Николай Гресь [Nikolay Gres]; Ансамбль песни и пляски Советской армии имени А. В. Александрова; Борис Александров [Boris Alexandrov]&nbsp;(1965)
+🎙️ Николай Гресь [Nikolay Gres] & Ансамбль Александрова&nbsp;(1965)
 
 ---
 
