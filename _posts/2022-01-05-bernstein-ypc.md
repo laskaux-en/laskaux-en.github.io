@@ -243,16 +243,16 @@ IV. [Molto allegro](https://youtu.be/XhhD5Dg6JHw)&nbsp; [Y4, Y28, Y40] <br>
 
 ---
 
-[1779]&nbsp; [Sinfonia Concertante in E-flat major, K. 364](https://youtu.be/Z6uYwrzYLH8): 
-II. [Andante](https://youtu.be/Z6uYwrzYLH8?t=741)&nbsp; [Y7] <br>
+[1779]&nbsp; [Sinfonia Concertante in E-flat major, K. 364](https://youtu.be/VA9R9SPhtuc): 
+II. [Andante](https://youtu.be/HuIziJY8IfI)&nbsp; [Y7] <br>
 🇮🇹 Orchestra Mozart; ‹vn› Giuliano Carmignola, ‹va› Danusha Waśkiewicz; Claudio Abbado&nbsp; (Bologna: Salone Bolognini, Convento San Domenico, 2007)
 
 ---
 
-[1785]&nbsp; [Piano Concerto № 21 in C major, K. 467](https://youtu.be/iG313H9Lyto): 
-I. [Allegro maestoso](https://youtu.be/rcOBSb69pUk) | 
-II. [Andante](https://youtu.be/k8_xOsX2YSY)&nbsp; [Y5] <br>
-🇬🇧 Academy of St Martin in the Fields; ‹pf› Alfred Brendel; Neville Marriner&nbsp; (London: Walthamstow Assembly Hall, 1981)
+[1785]&nbsp; [Piano Concerto № 21 in C major, K. 467](https://youtu.be/irpuPEHEKuM): 
+I. [Allegro maestoso](https://youtu.be/p4vmqQCR4So) | 
+II. [Andante](https://youtu.be/iZlogu4xUtQ)&nbsp; [Y5] <br>
+🇬🇧 English Baroque Soloists; ‹fp› Malcolm Bilson; John Eliot Gardiner&nbsp; (London: St John’s, Smith Square, 1986)
 
 ---
 
@@ -276,9 +276,9 @@ IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 
 ---
 
-[1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/Lcwjx1Zt5Hs): 
-I. [Allegro](https://youtu.be/Lcwjx1Zt5Hs)&nbsp; [Y28, F2] <br>
-‹pf› Walter Klien&nbsp;(1964)
+[1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/iCCvA-GRRxk?t=9): 
+I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9)&nbsp; [Y28, F2] <br>
+‹fp› Алексе́й Люби́мов [Alexei Lubimov]&nbsp; (Semur-en-Auxois: Théâtre du Rempart, 1990)
 
 ---
 
@@ -297,7 +297,7 @@ I. [Allegro](https://youtu.be/Lcwjx1Zt5Hs)&nbsp; [Y28, F2] <br>
 (German, 1770–1827) 
 
 [1802]&nbsp; [Symphony № 2 in D major, Op. 36](https://youtu.be/9PXFVQbheP4):
-II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [N3] <br>
+II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [L3, N3] <br>
 🇦🇹 Wiener Philharmoniker; Karl Böhm&nbsp; (Wien: Große Musikvereinssaal, 1971)
 
 ---
@@ -345,10 +345,10 @@ IV. [Finale](https://youtu.be/ns0DK_7w3oo?t=3956)&nbsp; [Y34, Y43, O3, L1, F5] <
 
 ---
 
-[1806]&nbsp; [Piano Concerto № 4 in G major, Op. 58](https://youtu.be/m9QwiUxtQRg): 
-II. [Andante con moto](https://youtu.be/m9QwiUxtQRg?t=1081) | 
-III. [Rondo (Vivace)](https://youtu.be/m9QwiUxtQRg?t=1391)&nbsp; [Y41] <br>
-🇺🇸 The Cleveland Orchestra; ‹pf› Leon Fleisher; Széll György [George Szell]&nbsp; (Cleveland: Severance Hall, 1960)
+[1806]&nbsp; [Piano Concerto № 4 in G major, Op. 58](https://youtu.be/Hjy5hETRPAY): 
+II. [Andante con moto](https://youtu.be/FykCvAEt92k) | 
+III. [Rondo (Vivace)](https://youtu.be/NAcXCX8NDMA)&nbsp; [Y41] <br>
+🇬🇧 Orchestre Révolutionnaire et Romantique; ‹fp› Robert Levin; John Eliot Gardiner &nbsp;(Watford, Hertfordshire: Watford Colosseum, 1996)
 
 ---
 
@@ -373,14 +373,14 @@ V. [Presto](https://youtu.be/DZQAk0iUcO8)&nbsp; [Y3] <br>
 
 ---
 
-[1804]&nbsp; [Piano Sonata № 21 in C major, Op. 53](https://youtu.be/Mb8HFK9Qv7M):
-I. [Allegro con brio](https://youtu.be/mKPBJp8Et_4)&nbsp; [Y1] <br>
-‹pf› Эмиль Гилельс [Emil Gilels]&nbsp; (Berlin: UFA-Tonstudio, 1972)
+[1804]&nbsp; [Piano Sonata № 21 in C major, Op. 53](https://youtu.be/0BFeNQKbalY):
+I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
+‹fp› Ronald Brautigam&nbsp; (Stockholm: Österåkers kyrka, 2007)
 
 ---
 
-[1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/s71I_EWJk7I)&nbsp; [N2] <br>
-‹pf› <span style="font-size:0.95em">郎朗</span> [Lang Lang]&nbsp; (Paris: Philharmonie de Paris, 2019)
+[1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/ozNFUflBsCA)&nbsp; [N2] <br>
+‹fp› Ronald Brautigam&nbsp; (Stockholm: Österåkers kyrka, 2010)
 
 ---
 
@@ -418,7 +418,8 @@ I. [Allegro ma non troppo](https://youtu.be/UMtEwl7AcqI)&nbsp; [Y3] <br>
 ---
 
 [1824]&nbsp; [Arpeggione Sonata in A minor, D. 821](https://youtu.be/8CW6S4gRahY): 
-I. [Allegro moderato](https://youtu.be/ZEfmpGTc6uo)&nbsp; [Y3] <br>
+I. [Allegro moderato](https://youtu.be/ZEfmpGTc6uo) |
+II. [Adagio](https://youtu.be/96-8atgscy8)&nbsp; [Y3, L3] <br>
 ‹vc› Мстислав Ростропович [Mstislav Rostropovich] & ‹pf› Benjamin Britten&nbsp; (Snape, Suffolk: Snape Maltings Concert Hall, 1968) 
 
 ---
@@ -534,6 +535,11 @@ IV. [Allegro energico e passionato](https://youtu.be/s71pegGaWKU)&nbsp; [Y6, Y21
 
 ---
 
+[1858]&nbsp; [Piano Concerto No. 1 in D minor, Op. 15]():
+I. [Maestoso]()&nbsp; [L3]
+
+---
+
 [1880]&nbsp; [_Akademische Festouvertüre_, Op. 80](https://youtu.be/8nWIecrO_bE)&nbsp; [Y24] <br>
 🇦🇹 Wiener Philharmoniker; Leonard Bernstein&nbsp; (Wien: Große Musikvereinssaal, 1978)
 
@@ -596,12 +602,16 @@ VII. ["Rheinlegendchen"](https://youtu.be/CRC-ub2oUtg)&nbsp; [Y8, Y40] <br>
 **STRAUSS**, RICHARD <br> 
 (German, 1864–1949) 
 
-[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28, TrV 171](https://youtu.be/RgoglFCSquk)&nbsp; [Y49, L4] <br>
+[1889]&nbsp; [_Tod und Verklärung_, Op. 24; TrV 158]()&nbsp; [L3] <br>
+
+---
+
+[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28; TrV 171](https://youtu.be/RgoglFCSquk)&nbsp; [Y49, L4] <br>
 🇩🇪 Staatskapelle Dresden; Rudolf Kempe&nbsp; (Dresden: Lukaskirche, 1970)
 
 ---
 
-[1896]&nbsp; [_Also sprach Zarathustra_, Op. 30, TrV 176: ](https://youtu.be/alFUFoIwJsU) 
+[1896]&nbsp; [_Also sprach Zarathustra_, Op. 30; TrV 176: ](https://youtu.be/alFUFoIwJsU) 
 I. ["Einleitung, oder Sonnenaufgang"](https://youtu.be/vOxNClpXDAA) |
 II. ["Von den Hinterweltlern"](https://youtu.be/wOfma2djxdk) |
 III. ["Von der großen Sehnsucht"](https://youtu.be/9ioPGcq6Bzc) |
@@ -614,7 +624,7 @@ IX. ["Nachtwandlerlied"](https://youtu.be/yeK59XNZme4)&nbsp; [Y51] <br>
 
 ---
 
-[1897]&nbsp; [_Don Quixote_, Op. 35, TrV 135](https://youtu.be/yTrYWCdsRZQ): 
+[1897]&nbsp; [_Don Quixote_, Op. 35; TrV 135](https://youtu.be/yTrYWCdsRZQ): 
 Introduktion ["Don Quichotte verliert über der Lektüre der Ritterromane seinen Verstand und beschließt, selbst fahrender Ritter zu werden" (Mäßiges Zeitmaß)](https://youtu.be/wUlcqvxBTsk) |
 Thema ["Don Quichotte, der Ritter von der traurigen Gestalt" (Mäßig)](https://youtu.be/1nJSj9W0UJI) & ["Sancho Pansa" (Maggiore)](https://youtu.be/_JPd76o8L94) |
 Variation I. ["Abenteuer an den Windmühlen" (Gemächlich)](https://youtu.be/TFTtqSb48Cw) |
@@ -629,7 +639,7 @@ Finale ["Wieder zur Besinnung gekommen" (Sehr ruhig)](https://youtu.be/Lm8gh74Q8
 
 ---
 
-[1911]&nbsp; [_Der Rosenkavalier_, Op. 59, TrV 227:](https://youtu.be/NULxVW-gH64)
+[1911]&nbsp; [_Der Rosenkavalier_, Op. 59; TrV 227:](https://youtu.be/NULxVW-gH64)
 [Einleitung](https://youtu.be/FjNPp-O2_TM) from Act I&nbsp; [Y6] <br>
 🇬🇧 Philharmonia Orchestra; Herbert von Karajan&nbsp; (London: Kingsway Hall, 1956)
 
