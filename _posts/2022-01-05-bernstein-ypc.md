@@ -231,7 +231,7 @@ I. [Molto allegro](https://youtu.be/vygOD6srdyE) |
 II. [Andante](https://youtu.be/aizxSmcgsgo) |
 III. [Menuetto (Allegretto–Trio)](https://youtu.be/fGVjH3eVEno) |
 IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, O6, F5, N1, N2] <br>
-🇬🇧 Scottish Chamber Orchestra; Charles Mackerras&nbsp; (Praha: Rudolfinum, 1986)
+🇬🇧 Scottish Chamber Orchestra; Charles Mackerras&nbsp; (Glasgow: City Halls, 2007)
 
 ---
 
