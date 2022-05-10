@@ -18,26 +18,25 @@ tags: music television
 
 ### Contents {#contents}
 
-A.&nbsp; [GERMANIC & BRITISH](#germanic) : Händel, Bach, Haydn, Mozart, Beethoven, Schubert, Mendelssohn, Schumann, Wagner, J. Strauss, Brahms, Mahler, R. Strauss, Lehár, Vaughan Williams, Schönberg, Holst, Webern, Hindemith, Walton, & Britten
+A.&nbsp; [GERMANIC & BRITISH](#germanic) : Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten
 
-B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Torre, Gabrieli, Vivaldi, Rameau, Rossini, Berlioz, Verdi, Franck, Ponchielli, Saint-Saëns, Bizet, Chabrier, Debussy, Dukas, Satie, Ravel, Falla, Respighi, Bloch, Ibert, Milhaud, Poulenc, Messiaen, & Nono
+B.&nbsp; [ITALIAN, FRENCH, & IBERIAN](#latin) : Wipo · Torre · Gabrieli · Vivaldi · Rameau · Rossini · Berlioz · Verdi · Franck · Ponchielli · Saint-Saëns · Bizet · Chabrier · Debussy · Dukas · Satie · Ravel · Falla · Respighi · Bloch · Ibert · Milhaud · Poulenc · Messiaen · & Nono
 
-C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin, Liszt, Smetana, Wieniawski, Мусоргский, Чайковский, Dvořák, Римский-Корсаков, Sibelius, Рахманинов, Глиэр, Bartók, Стравинский, Kodály, Прокофьев, & Шостакович
+C.&nbsp; [SLAVIC, HUNGARIAN, & FINNISH](#slavic) : Chopin · Liszt · Smetana · Wieniawski · Мусоргский · Чайковский · Dvořák · Римский-Корсаков · Sibelius · Рахманинов · Глиэр · Bartók · Стравинский · Kodály · Прокофьев · Шостакович
 
-D.&nbsp; [AMERICAN](#american) : Chadwick, MacDowell, Gilbert, Ives, Villa-Lobos, Thomson, White, Piston, Sessions, Fernández, Harris, Gershwin, Thompson, Revueltas, Luening, Copland, Goodman, Schuman, Ussachevsky, Gould, Babbitt, Bernstein, Foss, Bucci, Schuller, Austin, & Ran
+D.&nbsp; [AMERICAN](#american) : Chadwick · MacDowell · Gilbert · Ives · Villa-Lobos · Thomson · White · Piston · Sessions · Fernández · Harris · Gershwin · Thompson · Revueltas · Luening · Copland · Goodman · Schuman · Ussachevsky · Gould · Babbitt · Bernstein · Foss · Bucci · Schuller · Austin · Ran
 
 E.&nbsp; [ASIAN](#asian) : <span style="font-size:0.95em">黛敏郎 </span>
 
 F.&nbsp; [MUSICAL COMEDY](#musical) : 
-[American](#musical-american) | 
-[British](#musical-british) | 
+[American](#musical-american) · 
+[British](#musical-british) · 
 [German](#musical-german)
 
-G.&nbsp; [TRADITIONAL & POPULAR](#popular) : 
-[Plainsong](#plainsong) | 
-[Folk](#folk) | 
-[Secular Hymn & March](#hymn) | 
-[Ragtime & Jazz](#jazz) | 
+G.&nbsp; [TRADITIONAL & POPULAR](#popular) :  
+[Folk](#folk) · 
+[Hymn & March](#hymn) · 
+[Ragtime & Jazz](#jazz) · 
 [Pop & Rock](#rock)
 
 
@@ -58,7 +57,7 @@ G.&nbsp; [TRADITIONAL & POPULAR](#popular) :
 
 [1741]&nbsp; [_Messiah_, HVW 56](https://youtu.be/DJ6AgBpqWVQ):
 № 12. ["For unto us a Child is born"](https://youtu.be/s8-DsACFjQM) from Part I&nbsp; [F10] <br>
-🇩🇪 Freiburger Barockorchester & 🇬🇧 Choir of Clare College, Cambridge; René Jacobs&nbsp; (Freiburg: Paulussaal, 2006)
+🇩🇪 Freiburger Barockorchester<span style="font-size:0.75em"> </span>·<span style="font-size:0.75em"> </span>🇬🇧 Choir of Clare College, Cambridge; René Jacobs&nbsp; (Freiburg: Paulussaal, 2006)
 
 ---
 
@@ -81,7 +80,7 @@ II. [Alla Hornpipe](https://youtu.be/96Th_y6PGUg)&nbsp; [Y5, L3] <br>
 
 [1735]&nbsp; [Magnificat in D major, BWV 243](https://youtube.com/playlist?list=PLr0MsaDpKsY9SxUBFwDP5acldThbovLx3): I. ["Magnificat anima mea Dominum"](https://youtu.be/52UIMSMWFVE) | 
 VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
-🇫🇷 La Chapelle Royale & 🇧🇪 Collegium Vocale Gent; Philippe Herreweghe&nbsp;(1990)
+🇫🇷 La Chapelle Royale<span style="font-size:0.75em"> </span>·<span style="font-size:0.75em"> </span>🇧🇪 Collegium Vocale Gent; Philippe Herreweghe&nbsp;(1990)
 
 ---
 
@@ -222,7 +221,7 @@ IV. [Finale (Presto)](https://youtu.be/AajT-kp6ZGM)&nbsp; [Y21] <br>
 
 [1782]&nbsp; [Symphony № 39 in E-flat major, K. 543](https://youtu.be/gHb0XTYsKU0): 
 III. [Menuetto (Allegretto–Trio)](https://youtu.be/cjfK_osAi1k)&nbsp; [Y15] <br>
-🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggenk&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1988)
+🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1988)
 
 ---
 
@@ -287,8 +286,8 @@ I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9)&nbsp; [Y28, F2] <br>
 
 ---
 
-[1786]&nbsp; [_Le nozze di Figaro_, K. 492: Overture](https://youtu.be/wWcapjzS1Ao)&nbsp; [Y5, Y43] <br>
-🇦🇹 Wiener Philharmoniker; Erich Kleiber&nbsp; (Wien: Grosser Redoutensaal, Hofburg, 1955)
+[1786]&nbsp; [_Le nozze di Figaro_, K. 492: Overture](https://youtu.be/LsZ_KjrKBXA)&nbsp; [Y5, Y43] <br>
+🇩🇪 Concerto Köln; René Jacobs&nbsp; (Köln: Orchesterprobenzentrum Stolberger Straße, 2003)
 
 ---
 ---
@@ -302,12 +301,12 @@ II. [Larghetto](https://youtu.be/YaJTVwAuIGo)&nbsp; [L3, N3] <br>
 
 ---
 
-[1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/6DvRFpJha2k):
-I. [Allegro con brio](https://youtu.be/6DvRFpJha2k) | 
-II. [Marcia funebre (Adagio assai)](https://youtu.be/6DvRFpJha2k?t=1003) | 
-III. [Scherzo (Allegro vivace)](https://youtu.be/6DvRFpJha2k?t=2020)
-IV. [Finale (Allegro molto)](https://youtu.be/6DvRFpJha2k?t=2416)&nbsp; [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] <br>
-🇬🇧 Philharmonia Orchestra; Otto Klemperer&nbsp; (London: Abbey Road Studio 1, 1959)
+[1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/JGp1-nmuzXM):
+I. [Allegro con brio](https://youtu.be/JGp1-nmuzXM) | 
+II. [Marcia funebre (Adagio assai)](https://youtu.be/hIYY-4WJnSQ) | 
+III. [Scherzo (Allegro vivace)](https://youtu.be/8xSH5IiDxcg)
+IV. [Finale (Allegro molto)](https://youtu.be/WknGBqMb0hI)&nbsp; [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] <br>
+🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 1994)
 
 ---
 
@@ -352,8 +351,8 @@ III. [Rondo (Vivace)](https://youtu.be/NAcXCX8NDMA)&nbsp; [Y41] <br>
 
 ---
 
-[1806]&nbsp; [_Leonoren-Ouvertüre_ № 3, Op. 72b](https://youtu.be/D0WtHOSn1Vo)&nbsp; [Y12, Y41] <br>
-🇦🇹 Wiener Philharmoniker; Leonard Bernstein&nbsp; (Wien: Große Musikvereinssaal, 1978)
+[1806]&nbsp; [_Leonoren-Ouvertüre_ № 3, Op. 72b](https://youtu.be/6mtHJ_hnVfY)&nbsp; [Y12, Y41] <br>
+🇬🇧 Chamber Orchestra of Europe; Nikolaus Harnoncourt&nbsp; (Graz: Stefaniensaal, 1993)
 
 ---
 
@@ -688,7 +687,7 @@ IV. [Finale con epilogo fugato (Allegro molto)](https://youtu.be/pXkyun7gAJQ)&nb
 
 [1923]&nbsp; [_Suite für Klavier_, Op. 25](https://youtu.be/GBWzWLo5G8M?t=8):
 I. [Präludium](https://youtu.be/GBWzWLo5G8M?t=8)&nbsp; [L4] <br>
-‹pf› Maurizio Pollini &nbsp; (München: Plenarsaal, Bayerische Akademie der Wissenschaften, 1974)
+‹pf› Maurizio Pollini&nbsp; (München: Plenarsaal, Bayerische Akademie der Wissenschaften, 1974)
 
 ---
 ---
@@ -766,6 +765,15 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 [#next](#slavic)&nbsp;
 [#contents](#contents)&nbsp;
 
+---
+
+**WIPO** BURGUNDIENSIS <br> 
+(Burgundian, <u>995</u>–<u>1050</u>) 
+
+[11C]&nbsp; ["Victimœ paschali laudes" (Sequentia)](https://youtu.be/9XO6kBrRtYU)&nbsp;◁ _Codex Las Huelgas_ & _Missale Romanum_&nbsp; [Y36] <br>
+🇳🇴 Consortium Vocale Oslo; Alexander M. Schweitzer&nbsp; (Denklingen, Oberbayern: Kirche St. Stephan, 2011)
+
+---
 ---
 
 **TORRE**, FRANCISCO DE LA <br> 
@@ -876,7 +884,7 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E) | ["Tristesse"](https://youtu.
 (Italian, 1813–1901) 
 
 [1853]&nbsp; [_La traviata_: "Sempre libera"](https://youtu.be/8XWDFuXiAcs?t=479) from Act I&nbsp; [Y29] <br>
-🇬🇧 National Philharmonic Orchestra, ‹sop› Joan Sutherland, ‹ten› Luciano Pavarotti; Richard Bonynge&nbsp; (London: Kingsway Hall, 1979)
+🇬🇧 National Philharmonic Orchestra; ‹sop› Joan Sutherland, ‹ten› Luciano Pavarotti; Richard Bonynge&nbsp; (London: Kingsway Hall, 1979)
 
 ---
 
@@ -2099,7 +2107,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 #### <br> f3. German {#musical-german}
 
 [#previous](#musical-british)&nbsp;
-[#next](#plainsong)&nbsp;
+[#next](#folk)&nbsp;
 [#contents](#contents)&nbsp;
 
 [1928]&nbsp; [_Die Dreigroschenoper_: "Die Moritat von Mackie Messer"](https://youtu.be/AZuFkaOJFsQ) <br> 
@@ -2119,20 +2127,9 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 ### G.&nbsp; Traditional & Popular {#popular}
 
-
-#### g1. Plainsong  {#plainsong}
+#### g1. Folk  {#folk}
 
 [#previous](#musical-german)&nbsp;
-[#next](#folk)&nbsp;
-[#contents](#contents)&nbsp;
-
-[11C]&nbsp; ["Victimae paschali laudes" (Sequentia)](https://youtu.be/9XO6kBrRtYU)&nbsp; [Y36] <br>
-🇳🇴 Consortium Vocale Oslo; Alexander M. Schweitzer&nbsp; (Denklingen, Oberbayern: Kirche St. Stephan, 2011)
-
-
-#### <br> g2. Folk  {#folk}
-
-[#previous](#plainsong)&nbsp;
 [#next](#hymn)&nbsp;
 [#contents](#contents)&nbsp;
 
@@ -2175,7 +2172,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 ---
 
 
-#### <br> g3. Secular Hymn & March {#hymn}
+#### <br> g2. Hymn & March {#hymn}
 
 [#previous](#folk)&nbsp;
 [#next](#jazz)&nbsp;
@@ -2242,7 +2239,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 
 
-#### <br> g4. Ragtime & Jazz {#jazz}
+#### <br> g3. Ragtime & Jazz {#jazz}
 
 [#previous](#hymn)&nbsp;
 [#next](#rock)&nbsp;
@@ -2285,7 +2282,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 
 
-#### <br> g5. Pop & Rock {#rock}
+#### <br> g4. Pop & Rock {#rock}
 
 [#previous](#jazz)&nbsp;
 [#first](#germanic)&nbsp;
