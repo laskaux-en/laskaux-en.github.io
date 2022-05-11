@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 09 May 2022 20:56:22 -0400</pubDate>
+    <pubDate>Wed, 11 May 2022 04:17:40 -0400</pubDate>
     
       <item>
         <title>The Music Lessons</title>
@@ -20,30 +20,33 @@
 
 &lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
 
-&lt;p&gt;A.  &lt;a href=&quot;#germanic&quot;&gt;GERMANIC &amp;amp; BRITISH&lt;/a&gt; : Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#germanic&quot;&gt;A.  GERMANIC &lt;strong&gt;·&lt;/strong&gt; BRITISH&lt;/a&gt; &lt;br /&gt;
+Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten&lt;/p&gt;
 
-&lt;p&gt;B.  &lt;a href=&quot;#latin&quot;&gt;ITALIAN, FRENCH, &amp;amp; IBERIAN&lt;/a&gt; : Wipo · Torre · Gabrieli · Vivaldi · Rameau · Rossini · Berlioz · Verdi · Franck · Ponchielli · Saint-Saëns · Bizet · Chabrier · Debussy · Dukas · Satie · Ravel · Falla · Respighi · Bloch · Ibert · Milhaud · Poulenc · Messiaen · &amp;amp; Nono&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#latin&quot;&gt;B.  ITALIAN &lt;strong&gt;·&lt;/strong&gt; FRENCH &lt;strong&gt;·&lt;/strong&gt; IBERIAN&lt;/a&gt; &lt;br /&gt;
+Wipo · Torre · Gabrieli · Vivaldi · Rameau · Rossini · Berlioz · Verdi · Franck · Ponchielli · Saint-Saëns · Bizet · Chabrier · Debussy · Dukas · Satie · Ravel · Falla · Respighi · Bloch · Ibert · Milhaud · Poulenc · Messiaen · Nono&lt;/p&gt;
 
-&lt;p&gt;C.  &lt;a href=&quot;#slavic&quot;&gt;SLAVIC, HUNGARIAN, &amp;amp; FINNISH&lt;/a&gt; : Chopin · Liszt · Smetana · Wieniawski · Мусоргский · Чайковский · Dvořák · Римский-Корсаков · Sibelius · Рахманинов · Глиэр · Bartók · Стравинский · Kodály · Прокофьев · Шостакович&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#slavic&quot;&gt;C.  SLAVIC &lt;strong&gt;·&lt;/strong&gt; HUNGARIAN &lt;strong&gt;·&lt;/strong&gt; FINNISH&lt;/a&gt; &lt;br /&gt;
+Chopin · Liszt · Smetana · Wieniawski · Мусоргский · Чайковский · Dvořák · Римский-Корсаков · Sibelius · Рахманинов · Глиэр · Bartók · Стравинский · Kodály · Прокофьев · Шостакович&lt;/p&gt;
 
-&lt;p&gt;D.  &lt;a href=&quot;#american&quot;&gt;AMERICAN&lt;/a&gt; : Chadwick · MacDowell · Gilbert · Ives · Villa-Lobos · Thomson · White · Piston · Sessions · Fernández · Harris · Gershwin · Thompson · Revueltas · Luening · Copland · Goodman · Schuman · Ussachevsky · Gould · Babbitt · Bernstein · Foss · Bucci · Schuller · Austin · Ran&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#american&quot;&gt;D.  AMERICAN&lt;/a&gt; &lt;br /&gt;
+Chadwick · MacDowell · Gilbert · Ives · Villa-Lobos · Thomson · White · Piston · Sessions · Fernández · Harris · Gershwin · Thompson · Revueltas · Luening · Copland · Goodman · Schuman · Ussachevsky · Gould · Babbitt · Bernstein · Foss · Bucci · Schuller · Austin · Ran&lt;/p&gt;
 
-&lt;p&gt;E.  &lt;a href=&quot;#asian&quot;&gt;ASIAN&lt;/a&gt; : &lt;span style=&quot;font-size:0.95em&quot;&gt;黛敏郎 &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#asian&quot;&gt;E.  ASIAN&lt;/a&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.95em&quot;&gt;黛敏郎 &lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;F.  &lt;a href=&quot;#musical&quot;&gt;MUSICAL COMEDY&lt;/a&gt; : 
-&lt;a href=&quot;#musical-american&quot;&gt;American&lt;/a&gt; · 
-&lt;a href=&quot;#musical-british&quot;&gt;British&lt;/a&gt; · 
-&lt;a href=&quot;#musical-german&quot;&gt;German&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#musical&quot;&gt;F.  MUSICAL COMEDY&lt;/a&gt; &lt;br /&gt; 
+American · British · German&lt;/p&gt;
 
-&lt;p&gt;G.  &lt;a href=&quot;#popular&quot;&gt;TRADITIONAL &amp;amp; POPULAR&lt;/a&gt; :&lt;br /&gt;
-&lt;a href=&quot;#folk&quot;&gt;Folk&lt;/a&gt; · 
-&lt;a href=&quot;#hymn&quot;&gt;Hymn &amp;amp; March&lt;/a&gt; · 
-&lt;a href=&quot;#jazz&quot;&gt;Ragtime &amp;amp; Jazz&lt;/a&gt; · 
-&lt;a href=&quot;#rock&quot;&gt;Pop &amp;amp; Rock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#popular&quot;&gt;G.  TRADITIONAL &lt;strong&gt;·&lt;/strong&gt; POPULAR&lt;/a&gt; &lt;br /&gt; 
+Folk · 
+Hymn &amp;amp; March · 
+Ragtime &amp;amp; Jazz · 
+Pop &amp;amp; Rock&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;germanic&quot;&gt;A.  Germanic &amp;amp; British&lt;/h3&gt;
+&lt;h3 id=&quot;germanic&quot;&gt;A.  Germanic · British&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#latin&quot;&gt;#next&lt;/a&gt; 
 &lt;a href=&quot;#popular&quot;&gt;#last&lt;/a&gt; 
@@ -174,7 +177,7 @@ I. &lt;a href=&quot;https://youtu.be/mUmdlQjCuZg&quot;&gt;Allegro&lt;/a&gt;  [F
 &lt;hr /&gt;
 
 &lt;p&gt;[1731]  &lt;a href=&quot;https://youtu.be/t0J6wvaf1WM&quot;&gt;&lt;em&gt;Orchestersuiten&lt;/em&gt;: № 3 in D major, BWV 1068&lt;/a&gt;: II. &lt;a href=&quot;https://youtu.be/-KxSMBIgsHo&quot;&gt;Air&lt;/a&gt;  [O7] &lt;br /&gt;
-🇬🇧 The Academy of Ancient Music; Christopher Hogwood  (London: Church of St Barnabas, Pimlico, 1988)&lt;/p&gt;
+🇬🇧 Academy of Ancient Music; Christopher Hogwood  (London: Church of St Barnabas, Pimlico, 1988)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -191,7 +194,7 @@ I. &lt;a href=&quot;https://youtu.be/mUmdlQjCuZg&quot;&gt;Allegro&lt;/a&gt;  [F
 &lt;p&gt;[1787]  &lt;a href=&quot;https://youtu.be/oIo1d41YNos&quot;&gt;Symphony № 88 in G major, Hob. I:88&lt;/a&gt;: 
 II. &lt;a href=&quot;https://youtu.be/8-Fbawv5Xv8&quot;&gt;Largo&lt;/a&gt; | 
 IV. &lt;a href=&quot;https://youtu.be/WKFnjvfYmzA&quot;&gt;Finale (Allegro con spirito)&lt;/a&gt;  [Y6, Y33] &lt;br /&gt;
-🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggenk  (Utrecht: Muziekcentrum Vredenburg, 1988)&lt;/p&gt;
+🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen  (Utrecht: Muziekcentrum Vredenburg, 1988)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -277,7 +280,7 @@ IV. &lt;a href=&quot;https://youtu.be/NQOAAcMpceM&quot;&gt;Presto&lt;/a&gt;  [Y
 
 &lt;p&gt;[1788]  &lt;a href=&quot;https://youtu.be/iCCvA-GRRxk?t=9&quot;&gt;Piano Sonata № 16 in C major, K. 545&lt;/a&gt;: 
 I. &lt;a href=&quot;https://youtu.be/iCCvA-GRRxk?t=9&quot;&gt;Allegro&lt;/a&gt;  [Y28, F2] &lt;br /&gt;
-‹fp› Алексе́й Люби́мов [Alexei Lubimov]  (Semur-en-Auxois: Théâtre du Rempart, 1990)&lt;/p&gt;
+‹fp› Алексе́й Люби́мов [Alexei Lubimov]  (Semur-en-Auxois: Christopher Clarke ‹1986› aft. Anton Walter ‹&lt;u&gt;1795&lt;/u&gt;›, Théâtre du Rempart, 1990)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -295,52 +298,53 @@ I. &lt;a href=&quot;https://youtu.be/iCCvA-GRRxk?t=9&quot;&gt;Allegro&lt;/a&gt;�
 &lt;p&gt;&lt;strong&gt;BEETHOVEN&lt;/strong&gt;, LUDWIG VAN &lt;br /&gt; 
 (German, 1770–1827)&lt;/p&gt;
 
-&lt;p&gt;[1802]  &lt;a href=&quot;https://youtu.be/9PXFVQbheP4&quot;&gt;Symphony № 2 in D major, Op. 36&lt;/a&gt;:
-II. &lt;a href=&quot;https://youtu.be/YaJTVwAuIGo&quot;&gt;Larghetto&lt;/a&gt;  [L3, N3] &lt;br /&gt;
-🇦🇹 Wiener Philharmoniker; Karl Böhm  (Wien: Große Musikvereinssaal, 1971)&lt;/p&gt;
+&lt;p&gt;[1802]  &lt;a href=&quot;https://youtu.be/ucSBO6ymke0&quot;&gt;Symphony № 2 in D major, Op. 36&lt;/a&gt;:
+II. &lt;a href=&quot;https://youtu.be/r0sXW0O21EM&quot;&gt;Larghetto&lt;/a&gt;  [L3, N3] &lt;br /&gt;
+🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen  (Utrecht: Muziekcentrum Vredenburg, 1988)&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;[1804]  &lt;a href=&quot;https://youtu.be/JGp1-nmuzXM&quot;&gt;Symphony № 3 in E-flat major, Op. 55&lt;/a&gt;:
 I. &lt;a href=&quot;https://youtu.be/JGp1-nmuzXM&quot;&gt;Allegro con brio&lt;/a&gt; | 
 II. &lt;a href=&quot;https://youtu.be/hIYY-4WJnSQ&quot;&gt;Marcia funebre (Adagio assai)&lt;/a&gt; | 
-III. &lt;a href=&quot;https://youtu.be/8xSH5IiDxcg&quot;&gt;Scherzo (Allegro vivace)&lt;/a&gt;
+III. &lt;a href=&quot;https://youtu.be/8xSH5IiDxcg&quot;&gt;Scherzo (Allegro vivace)&lt;/a&gt; |
 IV. &lt;a href=&quot;https://youtu.be/WknGBqMb0hI&quot;&gt;Finale (Allegro molto)&lt;/a&gt;  [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] &lt;br /&gt;
 🇪🇸 Le Concert des Nations; Jordi Savall  (Barcelona: Església de Sant Vicenç, Castell de Cardona, 1994)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/PNpyRBVTavQ&quot;&gt;Symphony № 5 in C minor, Op. 67&lt;/a&gt;: 
-I. &lt;a href=&quot;https://youtu.be/PNpyRBVTavQ&quot;&gt;Allegro con brio&lt;/a&gt; | 
-III. &lt;a href=&quot;https://youtu.be/OFVkyoX5uuQ&quot;&gt;Scherzo (Allegro)&lt;/a&gt; |
-IV. &lt;a href=&quot;https://youtu.be/-u5WiRmLnYQ&quot;&gt;Allegro&lt;/a&gt;  [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, L4, N3] &lt;br /&gt;
-🇦🇹 Wiener Philharmoniker; Carlos Kleiber  (Wien: Große Musikvereinssaal, 1974)&lt;/p&gt;
+&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/BBVo8edT4ZQ&quot;&gt;Symphony № 5 in C minor, Op. 67&lt;/a&gt;: 
+I. &lt;a href=&quot;https://youtu.be/BBVo8edT4ZQ&quot;&gt;Allegro con brio&lt;/a&gt; | 
+II. &lt;a href=&quot;https://youtu.be/7Ib7n-TJ08I&quot;&gt;Andante con moto&lt;/a&gt; |
+III. &lt;a href=&quot;https://youtu.be/aw0vVtYukMs&quot;&gt;Scherzo (Allegro)&lt;/a&gt; |
+IV. &lt;a href=&quot;https://youtu.be/piMZmAkel8s&quot;&gt;Allegro&lt;/a&gt;  [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, L4, N3] &lt;br /&gt;
+🇫🇷 Les Siècles; François-Xavier Roth  (Paris: Philharmonie de Paris, 2020)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U&quot;&gt;Symphony № 6 in F major, Op. 68&lt;/a&gt;: 
-I. &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U&quot;&gt;“Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande” (Allegro ma non troppo)&lt;/a&gt; |
-II. &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U?t=785&quot;&gt;“Scene am Bach” (Andante molto moto)&lt;/a&gt; |
-III. &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U?t=1589&quot;&gt;“Lustiges Zusammensein der Landleute” (Allegro)&lt;/a&gt; |
-IV. &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U?t=1987&quot;&gt;“Gewitter, Sturm” (Allegro)&lt;/a&gt; |
-V. &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U?t=2212&quot;&gt;“Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm” (Allegretto)&lt;/a&gt;  [Y1, N3] &lt;br /&gt;
-🇬🇧 Philharmonia Orchestra; Otto Klemperer  (London: Kingsway Hall, 1957)&lt;/p&gt;
+&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/fn_STo8vUM4&quot;&gt;Symphony № 6 in F major, Op. 68&lt;/a&gt;: 
+I. &lt;a href=&quot;https://youtu.be/fn_STo8vUM4&quot;&gt;“Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande” (Allegro ma non troppo)&lt;/a&gt; |
+II. &lt;a href=&quot;https://youtu.be/grM0wXn-los&quot;&gt;“Scene am Bach” (Andante molto moto)&lt;/a&gt; |
+III. &lt;a href=&quot;https://youtu.be/RGnXW-9g5dY&quot;&gt;“Lustiges Zusammensein der Landleute” (Allegro)&lt;/a&gt; |
+IV. &lt;a href=&quot;https://youtu.be/9S_cY9xXhls&quot;&gt;“Gewitter, Sturm” (Allegro)&lt;/a&gt; |
+V. &lt;a href=&quot;https://youtu.be/QRyWa4C_1MI&quot;&gt;“Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm” (Allegretto)&lt;/a&gt;  [Y1, N3] &lt;br /&gt;
+🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen  (Rotterdam: De Doelen, 2011)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1812]  &lt;a href=&quot;https://youtu.be/xuzRkGqJx_U&quot;&gt;Symphony № 7 in A major, Op. 92&lt;/a&gt;: 
-I. &lt;a href=&quot;https://youtu.be/_iXsMAKqgdM&quot;&gt;Poco sostenuto–Vivace&lt;/a&gt; |
-II. &lt;a href=&quot;https://youtu.be/oZDRIzd2Igg&quot;&gt;Allegretto&lt;/a&gt; |
-III. &lt;a href=&quot;https://youtu.be/ca_PJWMywpY&quot;&gt;Presto–Assai meno presto&lt;/a&gt; |
-IV. &lt;a href=&quot;https://youtu.be/Yqw_hN0kxYQ&quot;&gt;Allegro con brio&lt;/a&gt;  [Y21, Y33, Y40, O6, F5, F11] &lt;br /&gt;
-🇦🇹 Wiener Philharmoniker; Carlos Kleiber  (Wien: Große Musikvereinssaal, 1974)&lt;/p&gt;
+&lt;p&gt;[1812]  &lt;a href=&quot;https://www.youtube.com/watch?v=dCWEpi5TBSY&amp;amp;list=OLAK5uy_kQXieOujIToKUcXHA49PdH3EPopw-6I4w&amp;amp;index=26&quot;&gt;Symphony № 7 in A major, Op. 92&lt;/a&gt;: 
+I. &lt;a href=&quot;https://youtu.be/dCWEpi5TBSY&quot;&gt;Poco sostenuto–Vivace&lt;/a&gt; |
+II. &lt;a href=&quot;https://youtu.be/blrB2gSn9iI&quot;&gt;Allegretto&lt;/a&gt; |
+III. &lt;a href=&quot;https://youtu.be/eSu6ZIAVzQI&quot;&gt;Presto–Assai meno presto&lt;/a&gt; |
+IV. &lt;a href=&quot;https://youtu.be/8z2jOV-hyYU&quot;&gt;Allegro con brio&lt;/a&gt;  [Y21, Y33, Y40, O6, F5, F11] &lt;br /&gt;
+🇫🇷 La Chambre Philharmonique; Emmanuel Krivine  (Grenoble: MC2, 2010)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1824]  &lt;a href=&quot;https://youtu.be/ns0DK_7w3oo&quot;&gt;Symphony № 9 in D minor, Op. 125&lt;/a&gt;: 
-II. &lt;a href=&quot;https://youtu.be/ns0DK_7w3oo?t=1026&quot;&gt;Scherzo (Molto vivace–Presto)&lt;/a&gt; | 
-IV. &lt;a href=&quot;https://youtu.be/ns0DK_7w3oo?t=3956&quot;&gt;Finale&lt;/a&gt;  [Y34, Y43, O3, L1, F5] &lt;br /&gt;
-🇬🇧 Philharmonia Orchestra; Otto Klemperer  (London: Kingsway Hall, 1957)&lt;/p&gt;
+&lt;p&gt;[1824]  &lt;a href=&quot;https://youtu.be/QABvt2zQcY0&quot;&gt;Symphony № 9 in D minor, Op. 125&lt;/a&gt;: 
+II. &lt;a href=&quot;https://youtu.be/zdk_bU-sCK4&quot;&gt;Scherzo (Molto vivace–Presto)&lt;/a&gt; | 
+IV. &lt;a href=&quot;https://youtu.be/VugS2OIiAtk&quot;&gt;Finale&lt;/a&gt;  [Y34, Y43, O3, L1, F5] &lt;br /&gt;
+🇫🇷 La Chapelle Royale &amp;amp; Orchestre des Champs Elysées&lt;span style=&quot;font-size:0.8em&quot;&gt; &lt;/span&gt;·&lt;span style=&quot;font-size:0.8em&quot;&gt; &lt;/span&gt;🇧🇪 Collegium Vocale Gent; ‹sop› Melanie Diener, ‹mez› Petra Lang, ‹ten› Endrik Wottrich, ‹bass› Dietrich Henschel; Philippe Herreweghe (Metz: Arsenal, 1998)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -351,13 +355,13 @@ III. &lt;a href=&quot;https://youtu.be/NAcXCX8NDMA&quot;&gt;Rondo (Vivace)&lt;/a
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1806]  &lt;a href=&quot;https://youtu.be/6mtHJ_hnVfY&quot;&gt;&lt;em&gt;Leonoren-Ouvertüre&lt;/em&gt; № 3, Op. 72b&lt;/a&gt;  [Y12, Y41] &lt;br /&gt;
+&lt;p&gt;[1806]  &lt;a href=&quot;https://youtu.be/6mtHJ_hnVfY?t=10&quot;&gt;&lt;em&gt;Leonoren-Ouvertüre&lt;/em&gt; № 3, Op. 72b&lt;/a&gt;  [Y12, Y41] &lt;br /&gt;
 🇬🇧 Chamber Orchestra of Europe; Nikolaus Harnoncourt  (Graz: Stefaniensaal, 1993)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1810]  &lt;a href=&quot;https://youtu.be/9OJNAyFeHbw&quot;&gt;&lt;em&gt;Egmont&lt;/em&gt;, Op. 84: Overture&lt;/a&gt;  [Y5] &lt;br /&gt;
-🇩🇪 Berliner Philharmoniker; Herbert von Karajan  (Berlin: Jesus-Christus-Kirche Dahlem, 1970)&lt;/p&gt;
+&lt;p&gt;[1810]  &lt;a href=&quot;https://youtu.be/CFlQpWFcLR8&quot;&gt;&lt;em&gt;Egmont&lt;/em&gt;, Op. 84: Overture&lt;/a&gt;  [Y5] &lt;br /&gt;
+🇧🇪 Anima Eterna; Jos van Immerseel  (Bruges: Concertgebouw Brugge, 2006)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -374,12 +378,12 @@ V. &lt;a href=&quot;https://youtu.be/DZQAk0iUcO8&quot;&gt;Presto&lt;/a&gt;  [Y3
 
 &lt;p&gt;[1804]  &lt;a href=&quot;https://youtu.be/0BFeNQKbalY&quot;&gt;Piano Sonata № 21 in C major, Op. 53&lt;/a&gt;:
 I. &lt;a href=&quot;https://youtu.be/0BFeNQKbalY&quot;&gt;Allegro con brio&lt;/a&gt;  [Y1] &lt;br /&gt;
-‹fp› Ronald Brautigam  (Stockholm: Österåkers kyrka, 2007)&lt;/p&gt;
+‹fp› Ronald Brautigam  (Stockholm: Paul McNulty aft. Conrad Graf ‹1819›, Österåkers kyrka, 2007)&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;[1810]  &lt;a href=&quot;https://youtu.be/ozNFUflBsCA&quot;&gt;Bagatelle № 25 in A minor, WoO 59&lt;/a&gt;  [N2] &lt;br /&gt;
-‹fp› Ronald Brautigam  (Stockholm: Österåkers kyrka, 2010)&lt;/p&gt;
+‹fp› Ronald Brautigam  (Stockholm: Paul McNulty aft. Anton Walter ‹&lt;u&gt;1805&lt;/u&gt;›, Österåkers kyrka, 2010)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -759,7 +763,7 @@ II. &lt;a href=&quot;https://youtu.be/VXW2tLweH8g&quot;&gt;“The Birth of Nicol
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;latin&quot;&gt;B.  Italian, French, &amp;amp; Iberian&lt;/h3&gt;
+&lt;h3 id=&quot;latin&quot;&gt;B.  Italian · French · Iberian&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#germanic&quot;&gt;#previous&lt;/a&gt; 
 &lt;a href=&quot;#slavic&quot;&gt;#next&lt;/a&gt; 
@@ -1161,7 +1165,7 @@ III. &lt;a href=&quot;https://youtu.be/YN9pd4GTif8&quot;&gt;Psalmodie de l’Ubi
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;slavic&quot;&gt;C.  Slavic, Hungarian, &amp;amp; Finnish&lt;/h3&gt;
+&lt;h3 id=&quot;slavic&quot;&gt;C.  Slavic · Hungarian · Finnish&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#latin&quot;&gt;#previous&lt;/a&gt; 
 &lt;a href=&quot;#american&quot;&gt;#next&lt;/a&gt; 
@@ -1387,7 +1391,7 @@ III. &lt;a href=&quot;https://youtu.be/oFcyqZhhrb8?t=1325&quot;&gt;“Царев
 
 &lt;p&gt;&lt;strong&gt;РАХМАНИНОВ&lt;/strong&gt;, СЕРГЕЙ ВАСИЛЬЕВИЧ &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.85em&quot;&gt;
-	&lt;strong&gt;RACHMANINOFF&lt;/strong&gt;, SERGEI VASILYEVICH &lt;/span&gt; &lt;br /&gt;
+	&lt;strong&gt;RACHMANINOV&lt;/strong&gt;, SERGEI VASILYEVICH &lt;/span&gt; &lt;br /&gt;
 (Russian, 1873–1943)&lt;/p&gt;
 
 &lt;p&gt;[1901]  &lt;a href=&quot;https://youtu.be/ygfLNLs2IBU&quot;&gt;Piano Concerto № 2 in C minor, Op. 18&lt;/a&gt;: 
@@ -2130,7 +2134,7 @@ VIII. &lt;a href=&quot;https://youtu.be/js7vOU8lfYM?t=1020&quot;&gt;Rumble (Molt
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;popular&quot;&gt;G.  Traditional &amp;amp; Popular&lt;/h3&gt;
+&lt;h3 id=&quot;popular&quot;&gt;G.  Traditional · Popular&lt;/h3&gt;
 
 &lt;h4 id=&quot;folk&quot;&gt;g1. Folk&lt;/h4&gt;
 
@@ -2247,6 +2251,12 @@ VIII. &lt;a href=&quot;https://youtu.be/js7vOU8lfYM?t=1020&quot;&gt;Rumble (Molt
 &lt;p&gt;[1914]  &lt;a href=&quot;https://youtu.be/Mx96NLBAahk&quot;&gt;“Colonel Bogey March”&lt;/a&gt;  [Y4] &lt;br /&gt; 
 🎼 Kenneth J. Alford &lt;br /&gt;
 🥁 Boston Pops Orchestra; John Williams (1990)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1914]  &lt;a href=&quot;https://youtu.be/kKx9oPyh0KM&quot;&gt;“Over There”&lt;/a&gt;  [O1] &lt;br /&gt; 
+🎼 George M. Cohan &lt;br /&gt;
+🥁 Eric Rogers Chorale &amp;amp; Orchestra (1963)&lt;/p&gt;
 
 &lt;h4 id=&quot;jazz&quot;&gt;&lt;br /&gt; g3. Ragtime &amp;amp; Jazz&lt;/h4&gt;
 
@@ -2742,7 +2752,7 @@ XIII. &lt;a href=&quot;https://youtu.be/U_1cEHqdJEg&quot;&gt;Magnificat: “Depo
 &lt;hr /&gt;
 
 &lt;p&gt;[1791]  &lt;a href=&quot;https://youtu.be/Wk-z4k0a0YE&quot;&gt;String Quintet № 6 in E-flat major, K. 614&lt;/a&gt;: III. &lt;a href=&quot;https://youtu.be/Wk-z4k0a0YE?t=1092&quot;&gt;Menuetto (Allegretto)&lt;/a&gt;  [C10] &lt;br /&gt;
-🇨🇿 Talichovo kvarteto: ‹vn› Petr Messiereur, ‹vn› Jan Kvapil, ‹va› Jan Talich, ‹vc› Evžen Rattay; ‹va› Karel Řehák  (Sion: Salle de la Fondation Tibor Varga, 1995)&lt;/p&gt;
+🇨🇿 Talichovo kvarteto: ‹vn› Petr Messiereur, ‹vn› Jan Kvapil, ‹va› Jan Talich, ‹vc› Evžen Rattay; ‹va› Karel Řehák  (Sion, Valais: Salle de la Fondation Tibor Varga, 1995)&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -2757,18 +2767,20 @@ II. &lt;a href=&quot;https://youtu.be/hIYY-4WJnSQ&quot;&gt;Marcia funebre (Adagi
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/Z1FSFLhbc-Y&quot;&gt;Symphony № 4 in B-flat major, Op. 60&lt;/a&gt;: IV. &lt;a href=&quot;https://youtu.be/Z1FSFLhbc-Y?t=1706&quot;&gt;Allegro ma non troppo&lt;/a&gt;  [A1] &lt;br /&gt;
-🇬🇧 Philharmonia Orchestra; Otto Klemperer  (London: Kingsway Hall, 1957)&lt;/p&gt;
+&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/fISnFVEHuNE&quot;&gt;Symphony № 4 in B-flat major, Op. 60&lt;/a&gt;: IV. &lt;a href=&quot;https://youtu.be/Ov6VgJqtuM4&quot;&gt;Allegro ma non troppo&lt;/a&gt;  [A1] &lt;br /&gt;
+🇨🇭 Tonhalle-Orchester Zürich; David Zinman  (Zürich: Tonhalle, 1998)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U&quot;&gt;Symphony № 6 in F major, Op. 68&lt;/a&gt;: V. &lt;a href=&quot;https://youtu.be/FHkHOq-sa3U?t=2212&quot;&gt;Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm (Allegretto)&lt;/a&gt;  [AM2] &lt;br /&gt;
-🇬🇧 Philharmonia Orchestra; Otto Klemperer  (London: Kingsway Hall, 1957)&lt;/p&gt;
+&lt;p&gt;[1808]  &lt;a href=&quot;https://youtu.be/fn_STo8vUM4&quot;&gt;Symphony № 6 in F major, Op. 68&lt;/a&gt;: 
+V. &lt;a href=&quot;https://youtu.be/QRyWa4C_1MI&quot;&gt;“Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm” (Allegretto)&lt;/a&gt;  [AM2] &lt;br /&gt;
+🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen  (Rotterdam: De Doelen, 2011)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1824]  &lt;a href=&quot;https://youtu.be/ns0DK_7w3oo&quot;&gt;Symphony № 9 in D minor, Op. 125&lt;/a&gt;: IV. &lt;a href=&quot;https://youtu.be/ns0DK_7w3oo?t=3956&quot;&gt;Finale&lt;/a&gt;  [AM3] &lt;br /&gt;
-🇬🇧 Philharmonia Orchestra; Otto Klemperer  (London: Kingsway Hall, 1957)&lt;/p&gt;
+&lt;p&gt;[1824]  &lt;a href=&quot;https://youtu.be/QABvt2zQcY0&quot;&gt;Symphony № 9 in D minor, Op. 125&lt;/a&gt;:
+IV. &lt;a href=&quot;https://youtu.be/VugS2OIiAtk&quot;&gt;Finale&lt;/a&gt;  [AM3] &lt;br /&gt;
+🇫🇷 La Chapelle Royale &amp;amp; Orchestre des Champs Elysées&lt;span style=&quot;font-size:0.8em&quot;&gt; &lt;/span&gt;·&lt;span style=&quot;font-size:0.8em&quot;&gt; &lt;/span&gt;🇧🇪 Collegium Vocale Gent; ‹sop› Melanie Diener, ‹mez› Petra Lang, ‹ten› Endrik Wottrich, ‹bass› Dietrich Henschel; Philippe Herreweghe (Metz: Arsenal, 1998)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2777,13 +2789,13 @@ II. &lt;a href=&quot;https://youtu.be/hIYY-4WJnSQ&quot;&gt;Marcia funebre (Adagi
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1806]  &lt;a href=&quot;https://youtu.be/D0WtHOSn1Vo&quot;&gt;&lt;em&gt;Leonoren-Ouvertüre&lt;/em&gt; № 3, Op. 72b&lt;/a&gt;  [C12] &lt;br /&gt;
-🇦🇹 Wiener Philharmoniker; Leonard Bernstein  (Wien: Große Musikvereinssaal, 1978)&lt;/p&gt;
+&lt;p&gt;[1806]  &lt;a href=&quot;https://youtu.be/6mtHJ_hnVfY?t=10&quot;&gt;&lt;em&gt;Leonoren-Ouvertüre&lt;/em&gt; № 3, Op. 72b&lt;/a&gt;  [C12] &lt;br /&gt;
+🇬🇧 Chamber Orchestra of Europe; Nikolaus Harnoncourt  (Graz: Stefaniensaal, 1993)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;[1810]  &lt;a href=&quot;https://youtu.be/9OJNAyFeHbw&quot;&gt;&lt;em&gt;Egmont&lt;/em&gt;, Op. 84: Overture&lt;/a&gt;  [AM8] &lt;br /&gt;
-🇩🇪 Berliner Philharmoniker; Herbert von Karajan  (Berlin: Jesus-Christus-Kirche Dahlem, 1970)&lt;/p&gt;
+&lt;p&gt;[1810]  &lt;a href=&quot;https://youtu.be/CFlQpWFcLR8&quot;&gt;&lt;em&gt;Egmont&lt;/em&gt;, Op. 84: Overture&lt;/a&gt;  [Y5] &lt;br /&gt;
+🇧🇪 Anima Eterna; Jos van Immerseel  (Bruges: Concertgebouw Brugge, 2006)&lt;/p&gt;
 
 &lt;hr /&gt;
 
