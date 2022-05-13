@@ -19,7 +19,7 @@ tags: music television
 ### Contents {#contents}
 
 [A.&nbsp; GERMANIC **·** BRITISH](#germanic) <br>
-Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten
+Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss (S) · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten
 
 [B.&nbsp; ITALIAN **·** FRENCH **·** IBERIAN](#latin) <br>
 Wipo · Torre · Gabrieli · Vivaldi · Rameau · Rossini · Berlioz · Verdi · Franck · Ponchielli · Saint-Saëns · Bizet · Chabrier · Debussy · Dukas · Satie · Ravel · Falla · Respighi · Bloch · Ibert · Milhaud · Poulenc · Messiaen · Nono
@@ -36,7 +36,7 @@ Chadwick · MacDowell · Gilbert · Ives · Villa-Lobos · Thomson · White · P
 [F.&nbsp; MUSICAL COMEDY](#musical) <br> 
 American · British · German
 
-[G.&nbsp; TRADITIONAL **·** POPULAR](#popular) <br> 
+[G.&nbsp; TRADITIONAL & POPULAR](#popular) <br> 
 Folk · 
 Hymn & March · 
 Ragtime & Jazz · 
@@ -93,22 +93,22 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 ---
 
 [<u>1730</u>]&nbsp; [Toccata & Fugue in D minor, BWV 565: Toccata](https://youtu.be/cl9b8UgXYQw)&nbsp; [O7] <br>
-‹org› Ton Koopman&nbsp; (Maassluis: Orgel Garrels ‹1732›, Groote Kerk, 1983)
+‹org› Ton Koopman ⟨Rudolph Garrels 1732⟩&nbsp; (Maassluis: Groote Kerk, 1983) <br>
 
 ---
 
 [1707]&nbsp; [Fugue in G minor, BWV 578](https://youtu.be/_DzO49kC9HA?t=6)&nbsp; [Y45] <br>
-‹org› Ton Koopman&nbsp; (Maassluis: Orgel Garrels ‹1732›, Groote Kerk, 1994)
+‹org› Ton Koopman ⟨Rudolph Garrels 1732⟩&nbsp; (Maassluis: Groote Kerk, 1994)
 
 ---
 
 [1723]&nbsp; [Invention № 13 in A minor, BWV 784](https://youtu.be/tsF7Yisq6xY)&nbsp; [Y29] <br>
-‹hpd› Blandine Verlet&nbsp; (Colmar: Ruckers ‹1624›, Musée Unterlinden, 1982)
+‹hpd› Blandine Verlet ⟨Joannes Ruckers 1624⟩&nbsp; (Colmar: Musée Unterlinden, 1982)
 
 ---
 
 [1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [N1] <br> 
-‹hpd› Céline Frisch&nbsp; (Namur: Anthony Sidey & Frédéric Bal ‹1995› aft. Silbermann, Église Saint-Rémi de Franc-Waret, 2014)
+‹hpd› Céline Frisch ⟨Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann⟩&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
 
 ---
 
@@ -118,7 +118,7 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 ---
 
 [<u>1714</u>]&nbsp; [Fantasia & Fugue in A minor, BWV 944: Fugue](https://youtu.be/3Rmu3fWIu-w)&nbsp; [O7] <br>
-‹hpd› Pierre Hantaï&nbsp; (Haarlem: Bruce Kennedy ‹1994› aft. Michael Mietke ‹1702›, Grote Vermaning, 1994)
+‹hpd› Pierre Hantaï: Bruce Kennedy ‹1994› ⇦ Michael Mietke ‹1702›&nbsp; (Haarlem: Grote Vermaning, 1994)
 
 ---
 
@@ -295,7 +295,7 @@ IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 [1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/iCCvA-GRRxk?t=9): 
 I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9) |
 II. [Andante](https://youtu.be/02Q6T_AG8u4)&nbsp; [Y28, F2] <br>
-‹fp› Алексе́й Люби́мов [Alexei Lubimov]&nbsp; (Semur-en-Auxois: Christopher Clarke ‹1986› aft. Anton Walter ‹<u>1795</u>›, Théâtre du Rempart, 1990)
+‹fp› Алексе́й Люби́мов [Alexei Lubimov]&nbsp; (Semur-en-Auxois: Christopher Clarke ‹1986› ⇦ Anton Walter ‹<u>1795</u>›, Théâtre du Rempart, 1990)
 
 ---
 
@@ -400,12 +400,12 @@ V. [Presto](https://youtu.be/DZQAk0iUcO8)&nbsp; [Y3] <br>
 
 [1804]&nbsp; [Piano Sonata № 21 in C major, Op. 53](https://youtu.be/0BFeNQKbalY):
 I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
-‹fp› Ronald Brautigam&nbsp; (Stockholm: Paul McNulty aft. Conrad Graf ‹1819›, Österåkers kyrka, 2007)
+‹fp› Ronald Brautigam&nbsp; (Stockholm: Paul McNulty ⇦ Conrad Graf ‹1819›, Österåkers kyrka, 2007)
 
 ---
 
 [1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/ozNFUflBsCA)&nbsp; [N2] <br>
-‹fp› Ronald Brautigam&nbsp; (Stockholm: Paul McNulty aft. Anton Walter ‹<u>1805</u>›, Österåkers kyrka, 2010)
+‹fp› Ronald Brautigam&nbsp; (Stockholm: Paul McNulty ⇦ Anton Walter ‹<u>1805</u>›, Österåkers kyrka, 2010)
 
 ---
 
@@ -2151,7 +2151,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 
 
 
-### G.&nbsp; Traditional · Popular {#popular}
+### G.&nbsp; Traditional & Popular {#popular}
 
 #### g1. Folk  {#folk}
 

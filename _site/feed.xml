@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 13 May 2022 04:27:13 -0400</pubDate>
+    <pubDate>Fri, 13 May 2022 14:52:14 -0400</pubDate>
     
       <item>
         <title>The Music Lessons</title>
@@ -21,7 +21,7 @@
 &lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#germanic&quot;&gt;A.  GERMANIC &lt;strong&gt;·&lt;/strong&gt; BRITISH&lt;/a&gt; &lt;br /&gt;
-Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten&lt;/p&gt;
+Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss (S) · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#latin&quot;&gt;B.  ITALIAN &lt;strong&gt;·&lt;/strong&gt; FRENCH &lt;strong&gt;·&lt;/strong&gt; IBERIAN&lt;/a&gt; &lt;br /&gt;
 Wipo · Torre · Gabrieli · Vivaldi · Rameau · Rossini · Berlioz · Verdi · Franck · Ponchielli · Saint-Saëns · Bizet · Chabrier · Debussy · Dukas · Satie · Ravel · Falla · Respighi · Bloch · Ibert · Milhaud · Poulenc · Messiaen · Nono&lt;/p&gt;
@@ -38,7 +38,7 @@ Chadwick · MacDowell · Gilbert · Ives · Villa-Lobos · Thomson · White · P
 &lt;p&gt;&lt;a href=&quot;#musical&quot;&gt;F.  MUSICAL COMEDY&lt;/a&gt; &lt;br /&gt; 
 American · British · German&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#popular&quot;&gt;G.  TRADITIONAL &lt;strong&gt;·&lt;/strong&gt; POPULAR&lt;/a&gt; &lt;br /&gt; 
+&lt;p&gt;&lt;a href=&quot;#popular&quot;&gt;G.  TRADITIONAL &amp;amp; POPULAR&lt;/a&gt; &lt;br /&gt; 
 Folk · 
 Hymn &amp;amp; March · 
 Ragtime &amp;amp; Jazz · 
@@ -93,22 +93,22 @@ VII. &lt;a href=&quot;https://youtu.be/uzUx0ufHQGQ&quot;&gt;“Fecit potentiam�
 &lt;hr /&gt;
 
 &lt;p&gt;[&lt;u&gt;1730&lt;/u&gt;]  &lt;a href=&quot;https://youtu.be/cl9b8UgXYQw&quot;&gt;Toccata &amp;amp; Fugue in D minor, BWV 565: Toccata&lt;/a&gt;  [O7] &lt;br /&gt;
-‹org› Ton Koopman  (Maassluis: Orgel Garrels ‹1732›, Groote Kerk, 1983)&lt;/p&gt;
+‹org› Ton Koopman ⟨Rudolph Garrels 1732⟩  (Maassluis: Groote Kerk, 1983) &lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;[1707]  &lt;a href=&quot;https://youtu.be/_DzO49kC9HA?t=6&quot;&gt;Fugue in G minor, BWV 578&lt;/a&gt;  [Y45] &lt;br /&gt;
-‹org› Ton Koopman  (Maassluis: Orgel Garrels ‹1732›, Groote Kerk, 1994)&lt;/p&gt;
+‹org› Ton Koopman ⟨Rudolph Garrels 1732⟩  (Maassluis: Groote Kerk, 1994)&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;[1723]  &lt;a href=&quot;https://youtu.be/tsF7Yisq6xY&quot;&gt;Invention № 13 in A minor, BWV 784&lt;/a&gt;  [Y29] &lt;br /&gt;
-‹hpd› Blandine Verlet  (Colmar: Ruckers ‹1624›, Musée Unterlinden, 1982)&lt;/p&gt;
+‹hpd› Blandine Verlet ⟨Joannes Ruckers 1624⟩  (Colmar: Musée Unterlinden, 1982)&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;[1722]  &lt;a href=&quot;https://youtu.be/0DUiC7t7xFM&quot;&gt;Prelude &amp;amp; Fugue № 4 in C-sharp minor, BWV 849: Fugue&lt;/a&gt; ◁ &lt;em&gt;Das wohltemperierte Klavier&lt;/em&gt;, Teil I  [N1] &lt;br /&gt; 
-‹hpd› Céline Frisch  (Namur: Anthony Sidey &amp;amp; Frédéric Bal ‹1995› aft. Silbermann, Église Saint-Rémi de Franc-Waret, 2014)&lt;/p&gt;
+‹hpd› Céline Frisch ⟨Anthony Sidey &amp;amp; Frédéric Bal 1995 ⇦ Gottfried Silbermann⟩  (Namur: Église Saint-Rémi de Franc-Waret, 2014) &lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -118,7 +118,7 @@ VII. &lt;a href=&quot;https://youtu.be/uzUx0ufHQGQ&quot;&gt;“Fecit potentiam�
 &lt;hr /&gt;
 
 &lt;p&gt;[&lt;u&gt;1714&lt;/u&gt;]  &lt;a href=&quot;https://youtu.be/3Rmu3fWIu-w&quot;&gt;Fantasia &amp;amp; Fugue in A minor, BWV 944: Fugue&lt;/a&gt;  [O7] &lt;br /&gt;
-‹hpd› Pierre Hantaï  (Haarlem: Bruce Kennedy ‹1994› aft. Michael Mietke ‹1702›, Grote Vermaning, 1994)&lt;/p&gt;
+‹hpd› Pierre Hantaï: Bruce Kennedy ‹1994› ⇦ Michael Mietke ‹1702›  (Haarlem: Grote Vermaning, 1994)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -295,7 +295,7 @@ IV. &lt;a href=&quot;https://youtu.be/NQOAAcMpceM&quot;&gt;Presto&lt;/a&gt;  [Y
 &lt;p&gt;[1788]  &lt;a href=&quot;https://youtu.be/iCCvA-GRRxk?t=9&quot;&gt;Piano Sonata № 16 in C major, K. 545&lt;/a&gt;: 
 I. &lt;a href=&quot;https://youtu.be/iCCvA-GRRxk?t=9&quot;&gt;Allegro&lt;/a&gt; |
 II. &lt;a href=&quot;https://youtu.be/02Q6T_AG8u4&quot;&gt;Andante&lt;/a&gt;  [Y28, F2] &lt;br /&gt;
-‹fp› Алексе́й Люби́мов [Alexei Lubimov]  (Semur-en-Auxois: Christopher Clarke ‹1986› aft. Anton Walter ‹&lt;u&gt;1795&lt;/u&gt;›, Théâtre du Rempart, 1990)&lt;/p&gt;
+‹fp› Алексе́й Люби́мов [Alexei Lubimov]  (Semur-en-Auxois: Christopher Clarke ‹1986› ⇦ Anton Walter ‹&lt;u&gt;1795&lt;/u&gt;›, Théâtre du Rempart, 1990)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -400,12 +400,12 @@ V. &lt;a href=&quot;https://youtu.be/DZQAk0iUcO8&quot;&gt;Presto&lt;/a&gt;  [Y3
 
 &lt;p&gt;[1804]  &lt;a href=&quot;https://youtu.be/0BFeNQKbalY&quot;&gt;Piano Sonata № 21 in C major, Op. 53&lt;/a&gt;:
 I. &lt;a href=&quot;https://youtu.be/0BFeNQKbalY&quot;&gt;Allegro con brio&lt;/a&gt;  [Y1] &lt;br /&gt;
-‹fp› Ronald Brautigam  (Stockholm: Paul McNulty aft. Conrad Graf ‹1819›, Österåkers kyrka, 2007)&lt;/p&gt;
+‹fp› Ronald Brautigam  (Stockholm: Paul McNulty ⇦ Conrad Graf ‹1819›, Österåkers kyrka, 2007)&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;[1810]  &lt;a href=&quot;https://youtu.be/ozNFUflBsCA&quot;&gt;Bagatelle № 25 in A minor, WoO 59&lt;/a&gt;  [N2] &lt;br /&gt;
-‹fp› Ronald Brautigam  (Stockholm: Paul McNulty aft. Anton Walter ‹&lt;u&gt;1805&lt;/u&gt;›, Österåkers kyrka, 2010)&lt;/p&gt;
+‹fp› Ronald Brautigam  (Stockholm: Paul McNulty ⇦ Anton Walter ‹&lt;u&gt;1805&lt;/u&gt;›, Österåkers kyrka, 2010)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -2156,7 +2156,7 @@ VIII. &lt;a href=&quot;https://youtu.be/js7vOU8lfYM?t=1020&quot;&gt;Rumble (Molt
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;popular&quot;&gt;G.  Traditional · Popular&lt;/h3&gt;
+&lt;h3 id=&quot;popular&quot;&gt;G.  Traditional &amp;amp; Popular&lt;/h3&gt;
 
 &lt;h4 id=&quot;folk&quot;&gt;g1. Folk&lt;/h4&gt;
 
@@ -2413,17 +2413,19 @@ Monteverdi · Schein · Lully · Buxtehude · Purcell · Grossi · Vivaldi · Ha
 Haydn · J.C. Bach · Mozart · Beethoven · Hummel · Schubert&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#romantic&quot;&gt;D.  ROMANTIC&lt;/a&gt; &lt;br /&gt;
-Berlioz · J. Stauss (Vater) · Mendelssohn · Schumann · Wagner · Verdi · Offenbach · Franck · E. Strauss · Brahms · Чайковский · Fauré · R. Strauss · Sibelius&lt;/p&gt;
+Berlioz · J. Stauss (V) · Mendelssohn · Schumann · Wagner · Verdi · Offenbach · Franck · E. Strauss · Saint-Saëns · Brahms · Чайковский · Fauré · Janáček · Ysaÿe · R. Strauss · Nielsen · Sibelius&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#modern&quot;&gt;E.  MODERN&lt;/a&gt; &lt;br /&gt;
-Debussy · Satie · Vaughan Williams · Ives · Ravel · Стравинский · Varèse · Прокофьев · Milhaud · Gerhard · Gershwin · Poulenc · Copland · Walton · Tippett · Шостакович · Messiaen · Barber · Britten&lt;/p&gt;
+Debussy · Satie · Vaughan Williams · Schönberg · Ives · Ravel · Bartók · Стравинский · Varèse · Прокофьев · Milhaud · Gerhard · Gershwin · Poulenc · Copland · Walton · Хачатурян · Tippett · Шостакович · Messiaen · Barber · Britten&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#traditional&quot;&gt;F.  TRADITIONAL &amp;amp; POPULAR&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;renaissance&quot;&gt;A.  Late Medieval &amp;amp; Renaissance&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;&quot;&gt;#last&lt;/a&gt; 
-&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;a href=&quot;#baroque&quot;&gt;#next&lt;/a&gt; 
 &lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -2632,8 +2634,8 @@ Debussy · Satie · Vaughan Williams · Ives · Ravel · Стравинский 
 
 &lt;h3 id=&quot;baroque&quot;&gt;B.  Baroque&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;#last&lt;/a&gt; 
-&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;p&gt;&lt;a href=&quot;#renaissance&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#classical&quot;&gt;#next&lt;/a&gt; 
 &lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -2735,8 +2737,8 @@ XIII. &lt;a href=&quot;https://youtu.be/U_1cEHqdJEg&quot;&gt;Magnificat: “Depo
 
 &lt;h3 id=&quot;classical&quot;&gt;C.  Classical&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;#last&lt;/a&gt; 
-&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;p&gt;&lt;a href=&quot;#baroque&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#romantic&quot;&gt;#next&lt;/a&gt; 
 &lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -2876,7 +2878,7 @@ IV. &lt;a href=&quot;https://youtu.be/VugS2OIiAtk&quot;&gt;Finale&lt;/a&gt;  [A
 
 &lt;h3 id=&quot;romantic&quot;&gt;D.  Romantic&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;#last&lt;/a&gt; 
+&lt;p&gt;&lt;a href=&quot;#classical&quot;&gt;#previous&lt;/a&gt; 
 &lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
 &lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
 
@@ -2979,6 +2981,12 @@ IV. &lt;a href=&quot;https://youtu.be/VugS2OIiAtk&quot;&gt;Finale&lt;/a&gt;  [A
 &lt;hr /&gt;
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;strong&gt;SAINT-SAËNS&lt;/strong&gt;, CAMILLE &lt;br /&gt;
+(French, 1835–1921)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;strong&gt;ЧАЙКОВСКИЙ&lt;/strong&gt;, ПЁТР ИЛЬИЧ &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.85em&quot;&gt;
 	&lt;strong&gt;TCHAIKOVSKY&lt;/strong&gt;, PYOTR ILYICH &lt;/span&gt; &lt;br /&gt;
@@ -3001,6 +3009,18 @@ III. &lt;a href=&quot;https://youtu.be/KnQPgjzU8Fg&quot;&gt;Sicilienne (Allegro 
 &lt;hr /&gt;
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;strong&gt;JANÁČEK&lt;/strong&gt;, LEOŠ &lt;br /&gt;
+(Czech, 1854–1928)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;YSAŸE&lt;/strong&gt;, EUGÈNE &lt;br /&gt;
+(Belgian, 1858–1931)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;strong&gt;STRAUSS&lt;/strong&gt;, RICHARD &lt;br /&gt; 
 (German, 1864–1949)&lt;/p&gt;
 
@@ -3011,6 +3031,12 @@ III. &lt;a href=&quot;https://youtu.be/KnQPgjzU8Fg&quot;&gt;Sicilienne (Allegro 
 
 &lt;p&gt;[1913]  &lt;a href=&quot;https://youtu.be/ivM1MR9pHuU&quot;&gt;&lt;em&gt;Festliches Präludium&lt;/em&gt;, Op. 61; TrV 229&lt;/a&gt;  [C12] &lt;br /&gt;
 🇩🇪 Berliner Philharmoniker; ‹org› Wolfgang Meyer; Karl Böhm  (Berlin: Jesus-Christus-Kirche Dahlem, 1963)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;NIELSEN&lt;/strong&gt;, CARL &lt;br /&gt;
+(Danish, 1865–1931)&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -3032,8 +3058,8 @@ III. &lt;a href=&quot;https://youtu.be/KnQPgjzU8Fg&quot;&gt;Sicilienne (Allegro 
 
 &lt;h3 id=&quot;modern&quot;&gt;E.  Modern&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;#last&lt;/a&gt; 
-&lt;a href=&quot;#modern&quot;&gt;#next&lt;/a&gt; 
+&lt;p&gt;&lt;a href=&quot;#reomantic&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#traditional&quot;&gt;#next&lt;/a&gt; 
 &lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -3082,6 +3108,12 @@ I. &lt;a href=&quot;https://youtu.be/Mv6YBg7PLag&quot;&gt;Prelude (Andante maest
 &lt;hr /&gt;
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;strong&gt;SCHÖNBERG&lt;/strong&gt;, ARNOLD &lt;br /&gt;
+(Austrian–American, 1874–1951)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;strong&gt;IVES&lt;/strong&gt;, CHARLES &lt;br /&gt;
 (American, 1874–1954)&lt;/p&gt;
 
@@ -3101,6 +3133,12 @@ I. &lt;a href=&quot;https://youtu.be/Mv6YBg7PLag&quot;&gt;Prelude (Andante maest
 
 &lt;p&gt;[1905]  &lt;a href=&quot;https://youtu.be/LEwR2Si4oUQ&quot;&gt;&lt;em&gt;Introduction et allegro pour harpe, flûte, clarinette et quatuor à cordes&lt;/em&gt;, M. 46&lt;/a&gt;  [S3] &lt;br /&gt;
 🇫🇷 Orchestre de l’Opéra national de Paris; ‹hp› Markus Klinko  (Paris: Église évangélique Saint-Marcel, 1983)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BARTÓK&lt;/strong&gt;, BÉLA &lt;br /&gt; 
+(Hungarian, 1881–1945)&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -3212,6 +3250,15 @@ I. &lt;a href=&quot;https://youtu.be/zLG1q_ELnM8&quot;&gt;Allegro assai&lt;/a&gt
 &lt;hr /&gt;
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;strong&gt;ХАЧАТУРЯН&lt;/strong&gt;, АРАМ ИЛЬИЧ  &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.85em&quot;&gt;
+	&lt;strong&gt;KHACHATURIAN&lt;/strong&gt;, ARAM ILYICH &lt;br /&gt;
+&lt;/span&gt;
+(Soviet–Armenian, 1903–1978)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;strong&gt;TIPPETT&lt;/strong&gt;, MICHAEL &lt;br /&gt;
 (English, 1905–1998)&lt;/p&gt;
 
@@ -3285,8 +3332,8 @@ V. &lt;a href=&quot;https://youtu.be/J7jjkesDsJU&quot;&gt;“Et j’entendis la 
 
 &lt;h3 id=&quot;popular&quot;&gt;F.  Traditional &amp;amp; Popular&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;#previous&lt;/a&gt; 
-&lt;a href=&quot;#modern&quot;&gt;#first&lt;/a&gt; 
+&lt;p&gt;&lt;a href=&quot;#modern&quot;&gt;#previous&lt;/a&gt; 
+&lt;a href=&quot;#renaissance&quot;&gt;#first&lt;/a&gt; 
 &lt;a href=&quot;#contents&quot;&gt;#contents&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
