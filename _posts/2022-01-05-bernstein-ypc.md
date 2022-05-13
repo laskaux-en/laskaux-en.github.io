@@ -93,38 +93,38 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 ---
 
 [<u>1730</u>]&nbsp; [Toccata & Fugue in D minor, BWV 565: Toccata](https://youtu.be/cl9b8UgXYQw)&nbsp; [O7] <br>
-‹org› Ton Koopman ⟨Rudolph Garrels 1732⟩&nbsp; (Maassluis: Groote Kerk, 1983) <br>
+‹org› Ton Koopman « Rudolph Garrels 1732 »&nbsp; (Maassluis: Groote Kerk, 1983) <br>
 
 ---
 
 [1707]&nbsp; [Fugue in G minor, BWV 578](https://youtu.be/_DzO49kC9HA?t=6)&nbsp; [Y45] <br>
-‹org› Ton Koopman ⟨Rudolph Garrels 1732⟩&nbsp; (Maassluis: Groote Kerk, 1994)
+‹org› Ton Koopman « Rudolph Garrels 1732 »&nbsp; (Maassluis: Groote Kerk, 1994)
 
 ---
 
 [1723]&nbsp; [Invention № 13 in A minor, BWV 784](https://youtu.be/tsF7Yisq6xY)&nbsp; [Y29] <br>
-‹hpd› Blandine Verlet ⟨Joannes Ruckers 1624⟩&nbsp; (Colmar: Musée Unterlinden, 1982)
+‹hpd› Blandine Verlet « Joannes Ruckers 1624 »&nbsp; (Colmar: Musée Unterlinden, 1982)
 
 ---
 
 [1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [N1] <br> 
-‹hpd› Céline Frisch ⟨Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann⟩&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
+‹hpd› Céline Frisch « Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann »&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
 
 ---
 
 [<u>1720</u>]&nbsp; [Chromatic Fantasia & Fugue in D minor, BWV 903: Fantasia](https://youtu.be/x9T9ZsHfg-s)&nbsp; [O7] <br>
-‹hpd› Christophe Rousset&nbsp; (Castres: Henri Hemsch ‹1751›, Chapelle de Saint-Hippolyte, 1990)
+‹hpd› Christophe Rousset « Henri Hemsch 1751 »&nbsp; (Castres: Chapelle de Saint-Hippolyte, 1990)
 
 ---
 
 [<u>1714</u>]&nbsp; [Fantasia & Fugue in A minor, BWV 944: Fugue](https://youtu.be/3Rmu3fWIu-w)&nbsp; [O7] <br>
-‹hpd› Pierre Hantaï: Bruce Kennedy ‹1994› ⇦ Michael Mietke ‹1702›&nbsp; (Haarlem: Grote Vermaning, 1994)
+‹hpd› Pierre Hantaï « Bruce Kennedy 1994 ⇦ Michael Mietke 1702 »&nbsp; (Haarlem: Grote Vermaning, 1994)
 
 ---
 
 [1735]&nbsp; [_Italienisches Konzert_, BWV 971](https://youtu.be/TCRObKw_e0w): 
 II. [Andante](https://youtu.be/vGJ7nvV7WJE)&nbsp; [Y21] <br>
-‹hpd› Christophe Rousset&nbsp; (Castres: Henri Hemsch ‹1751›, Chapelle de Saint-Hippolyte, 1990)
+‹hpd› Christophe Rousset « Henri Hemsch 1751 »&nbsp; (Castres: Chapelle de Saint-Hippolyte, 1990)
 
 ---
 
@@ -295,7 +295,7 @@ IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 [1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/iCCvA-GRRxk?t=9): 
 I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9) |
 II. [Andante](https://youtu.be/02Q6T_AG8u4)&nbsp; [Y28, F2] <br>
-‹fp› Алексе́й Люби́мов [Alexei Lubimov]&nbsp; (Semur-en-Auxois: Christopher Clarke ‹1986› ⇦ Anton Walter ‹<u>1795</u>›, Théâtre du Rempart, 1990)
+‹fp› Алексе́й Люби́мов [Alexei Lubimov] « Christopher Clarke 1986 ⇦ Anton Walter <u>1795</u> »&nbsp; (Semur-en-Auxois: Théâtre du Rempart, 1990)
 
 ---
 
@@ -400,12 +400,12 @@ V. [Presto](https://youtu.be/DZQAk0iUcO8)&nbsp; [Y3] <br>
 
 [1804]&nbsp; [Piano Sonata № 21 in C major, Op. 53](https://youtu.be/0BFeNQKbalY):
 I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
-‹fp› Ronald Brautigam&nbsp; (Stockholm: Paul McNulty ⇦ Conrad Graf ‹1819›, Österåkers kyrka, 2007)
+‹fp› Ronald Brautigam « Paul McNulty ⇦ Conrad Graf 1819 »&nbsp; (Stockholm: Österåkers kyrka, 2007)
 
 ---
 
 [1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/ozNFUflBsCA)&nbsp; [N2] <br>
-‹fp› Ronald Brautigam&nbsp; (Stockholm: Paul McNulty ⇦ Anton Walter ‹<u>1805</u>›, Österåkers kyrka, 2010)
+‹fp› Ronald Brautigam « Paul McNulty ⇦ Anton Walter <u>1805</u> »&nbsp; (Stockholm: Österåkers kyrka, 2010)
 
 ---
 
