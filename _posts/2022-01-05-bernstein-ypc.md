@@ -42,8 +42,8 @@ Hymn & March ·
 Ragtime & Jazz · 
 Pop & Rock
 
+<br>
 
-<br/>
 
 ### A.&nbsp; Germanic · British {#germanic}
 
@@ -222,7 +222,13 @@ IV. [Finale (Presto)](https://youtu.be/AajT-kp6ZGM)&nbsp; [Y21] <br>
 
 ---
 
-[1782]&nbsp; [Symphony № 39 in E-flat major, K. 543](https://youtu.be/gHb0XTYsKU0): 
+[1786]&nbsp; [Symphony № 38 in D major, K. 504](https://youtu.be/womke2Y-TU4): 
+II. [Andante](https://youtu.be/yeK40PEnu8Q)&nbsp; [F2] <br>
+🇩🇪 Freiburger Barockorchester; René Jacobs&nbsp; (London: Congress Innsbruck, Saal Tirol, 1988)
+
+---
+
+[1788]&nbsp; [Symphony № 39 in E-flat major, K. 543](https://youtu.be/gHb0XTYsKU0): 
 III. [Menuetto (Allegretto–Trio)](https://youtu.be/cjfK_osAi1k)&nbsp; [Y15] <br>
 🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1988)
 
@@ -232,7 +238,7 @@ III. [Menuetto (Allegretto–Trio)](https://youtu.be/cjfK_osAi1k)&nbsp; [Y15] <b
 I. [Molto allegro](https://youtu.be/vygOD6srdyE) |
 II. [Andante](https://youtu.be/aizxSmcgsgo) |
 III. [Menuetto (Allegretto–Trio)](https://youtu.be/fGVjH3eVEno) |
-IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, O6, F5, N1, N2] <br>
+IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, O6, F2, F5, N1, N2] <br>
 🇬🇧 Scottish Chamber Orchestra; Charles Mackerras&nbsp; (Glasgow: City Halls, 2007)
 
 ---
@@ -240,7 +246,7 @@ IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, O6, F5, N
 [1788]&nbsp; [Symphony № 41 in C major, K. 551](https://youtu.be/k-X5898HzDo): 
 I. [Allegro vivace](https://youtu.be/Xv1-RctSxVQ) | 
 III. [Menuetto (Allegretto–Trio)](https://youtu.be/E5q6Pu5UYhc) | 
-IV. [Molto allegro](https://youtu.be/XhhD5Dg6JHw)&nbsp; [Y4, Y28, Y40] <br>
+IV. [Molto allegro](https://youtu.be/XhhD5Dg6JHw)&nbsp; [Y4, Y28, Y40, F2] <br>
 🇦🇹 Concentus Musicus Wien; Nikolaus Harnoncourt&nbsp; (Wien: Große Musikvereinssaal, 2013)
 
 ---
@@ -251,14 +257,22 @@ II. [Andante](https://youtu.be/HuIziJY8IfI)&nbsp; [Y7] <br>
 
 ---
 
+[1784]&nbsp; [Piano Concerto № 17 in G major, K. 453](https://youtu.be/QxUT7Rc-syc?t=11): 
+I. [Allegro](https://youtu.be/QxUT7Rc-syc?t=11) | 
+II. [Andante](https://youtu.be/K7k-Ruw2dTU) |
+III. [Allegretto–Presto](https://youtu.be/0DCsfXZQ-Wc)&nbsp; [F2] <br>
+🇩🇪 Concerto Köln; ‹fp› Andreas Staier; Andreas Staier&nbsp;(1995)
+
+---
+
 [1785]&nbsp; [Piano Concerto № 21 in C major, K. 467](https://youtu.be/irpuPEHEKuM): 
 I. [Allegro maestoso](https://youtu.be/p4vmqQCR4So) | 
-II. [Andante](https://youtu.be/iZlogu4xUtQ)&nbsp; [Y5] <br>
+II. [Andante](https://youtu.be/iZlogu4xUtQ)&nbsp; [Y5, F2] <br>
 🇬🇧 English Baroque Soloists; ‹fp› Malcolm Bilson; John Eliot Gardiner&nbsp; (London: St John’s, Smith Square, 1986)
 
 ---
 
-[1786]&nbsp; [Piano Concerto № 23 in A major, K. 488](): 
+[1786]&nbsp; [Piano Concerto № 23 in A major, K. 488](https://youtu.be/iKwI2qG_zgo): 
 I. [Allegro](https://youtu.be/iKwI2qG_zgo) | 
 II. [Adagio](https://youtu.be/rb173eofmqs) |
 III. [Allegro assai](https://youtu.be/zoI4bRHbYbk)&nbsp; [Y22] <br>
@@ -279,7 +293,8 @@ IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 ---
 
 [1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/iCCvA-GRRxk?t=9): 
-I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9)&nbsp; [Y28, F2] <br>
+I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9) |
+II. [Andante](https://youtu.be/02Q6T_AG8u4)&nbsp; [Y28, F2] <br>
 ‹fp› Алексе́й Люби́мов [Alexei Lubimov]&nbsp; (Semur-en-Auxois: Christopher Clarke ‹1986› aft. Anton Walter ‹<u>1795</u>›, Théâtre du Rempart, 1990)
 
 ---
@@ -291,6 +306,13 @@ I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9)&nbsp; [Y28, F2] <br>
 
 [1786]&nbsp; [_Le nozze di Figaro_, K. 492: Overture](https://youtu.be/LsZ_KjrKBXA)&nbsp; [Y5, Y43] <br>
 🇩🇪 Concerto Köln; René Jacobs&nbsp; (Köln: Orchesterprobenzentrum Stolberger Straße, 2003)
+
+---
+
+[1787]&nbsp; [_Don Giovanni_, K. 527:](https://youtu.be/f9qkvL6Dc5c?t=9)
+["Don Ottavio, son morta!"](https://youtu.be/b7Xwd0RuLBc) from Act I |
+["Don Giovanni, a cenar teco"](https://youtu.be/aVjuZ6Bb2vQ) from Act II&nbsp; [F2] <br>
+🇩🇪 Freiburger Barockorchester & RIAS Kammerchor; ‹bbar› Lorenzo Regazzo, ‹bar› Johannes Weisser; ‹sop› Olga Pasichnyk; René Jacobs&nbsp; (Berlin: Teldex Studio, 2006)
 
 ---
 ---
@@ -387,16 +409,16 @@ I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
 
 ---
 
-[1814]&nbsp; [_Fidelio_, Op. 72:](https://youtu.be/LmqTSrrTQck)
-[<u>Overture</u>](https://youtu.be/QVmAsLkEYMw) |
-["Jetzt, Schätzchen, jetzt sind wir allein"](https://youtu.be/ejF_Vpx_87I) & 
-["Hat man nicht auch Gold beineben"](https://youtu.be/V9GpHvB0x0Y) from Act I |
-["Gott! Welch Dunkel hier!"](https://youtu.be/2tl5cExEoJg),
-["Nur hurtig fort, nur frisch gegraben"](https://youtu.be/slJIaFf3xCg),
-["Euch werde Lohn in bessern Welten"](https://youtu.be/5EHYBA5uZwE), &
-["<u>Er sterbe!</u>"](https://youtu.be/snFCG8ud80E) from Act II&nbsp; [Y48] <br>
-🇬🇧 Philharmonia Orchestra; ‹ten› Jon Vickers & Gerhard Unger, ‹mez› Christa Ludwig, ‹sop› Ingeborg Hallstein, ‹bass› Gottlob Frick & Walter Berry; Otto Klemperer&nbsp; (London: Kingsway Hall, 1962) | 
-🇦🇹 <u>Wiener Philharmoniker; ‹sop› Birgit Nilsson, ‹ten› James McCracken, ‹bar› Tom Krause, ‹bass› Kurt Böhme; Lorin Maazel&nbsp; (Wien: Sofiensäle, 1964)</u>
+[1814]&nbsp; [_Fidelio_, Op. 72:](https://youtu.be/mGJmA1VPNVw)
+[Overture](https://youtu.be/gv1qtW4CXDY) |
+["Jetzt, Schätzchen, jetzt sind wir allein"](https://youtu.be/0lejZj9epPk) & 
+["Hat man nicht auch Gold beineben"](https://youtu.be/ScOQdBefwjs) from Act I |
+[Introduktion](https://youtu.be/178_D4D0nR4),
+["Gott! Welch Dunkel hier!"](https://youtu.be/rcpUA2xMvSk),
+["Nur hurtig fort, nur frisch gegraben"](https://youtu.be/Xsk7cZ9XTAQ),
+["Euch werde Lohn in bessern Welten"](https://youtu.be/fkE4whVgPmk), &
+["Er sterbe!"](https://youtu.be/yaYRDLgfbOg) from Act II&nbsp; [Y48] <br>
+🇩🇪 Bayerisches Staatsorchester; ‹ten› Ernst Haefliger & Friedrich Lenz, ‹sop› Leonie Rysanek & Irmgard Seefried, ‹bar› Dietrich Fischer‐Dieskau, ‹bass› Gottlob Frick; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (München: Münchner Residenz, Herkulessaal, 1957)
 
 ---
 ---
@@ -559,7 +581,7 @@ I. [Maestoso]()&nbsp; [L3]
 
 [1888]&nbsp; [Symphony № 1 in D major](https://youtu.be/W4f3dNyONl0):
 III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&nbsp; [Y6, Y8] <br>
-🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelik&nbsp; (München: Herkulessaal, Münchner Residenz, 1979)
+🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelik&nbsp; (München: Münchner Residenz, Herkulessaal, 1979)
 
 ---
 
@@ -691,7 +713,7 @@ IV. [Finale con epilogo fugato (Allegro molto)](https://youtu.be/pXkyun7gAJQ)&nb
 
 [1923]&nbsp; [_Suite für Klavier_, Op. 25](https://youtu.be/GBWzWLo5G8M?t=8):
 I. [Präludium](https://youtu.be/GBWzWLo5G8M?t=8)&nbsp; [L4] <br>
-‹pf› Maurizio Pollini&nbsp; (München: Plenarsaal, Bayerische Akademie der Wissenschaften, 1974)
+‹pf› Maurizio Pollini&nbsp; (München: Bayerische Akademie der Wissenschaften, Plenarsaal, 1974)
 
 ---
 ---
@@ -721,7 +743,7 @@ I. [Präludium](https://youtu.be/GBWzWLo5G8M?t=8)&nbsp; [L4] <br>
 
 [1922]&nbsp; [_Kleine Kammermusik_, Op. 24, № 2](https://youtu.be/8xj_8bTCrQk?t=11):
 V. [Sehr lebhaft](https://youtu.be/aKYDWRzxgpg)&nbsp; [Y3] <br>
-🇳🇱 Koninklijk Concertgebouworkest; Riccardo Chailly&nbsp; (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1990)
+🇳🇱 Koninklijk Concertgebouworkest; Riccardo Chailly&nbsp; (Amsterdam: Koninklijk Concertgebouw, Kleine Zaal, 1990)
 
 ---
 
@@ -737,7 +759,7 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 (English, 1902–1983) 
 
 [1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4)&nbsp; [Y20] <br>
-🇩🇪 Berliner Philharmoniker; ‹nar› Barbara Hannigan; Simon Rattle&nbsp; (Berlin: Kammermusiksaal, Berliner Philharmonie, 2012)
+🇩🇪 Berliner Philharmoniker; ‹nar› Barbara Hannigan; Simon Rattle&nbsp; (Berlin: Berliner Philharmonie, Kammermusiksaal, 2012)
 
 ---
 ---
@@ -854,7 +876,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 ---
 
 [1829]&nbsp; [_Guillaume Tell_: Overture](https://youtu.be/IkUlPLNzoBs)&nbsp; [Y1, Y25, N3] <br>
-🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano&nbsp; (Roma: Sala Santa Cecilia, Auditorium Parco della Musica, 2010)
+🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano&nbsp; (Roma: Auditorium Parco della Musica, Sala Santa Cecilia, 2010)
 
 ---
 ---
@@ -862,13 +884,13 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 **BERLIOZ**, HECTOR <br> 
 (French, 1803–1869) 
 
-[1830]&nbsp; [_Symphonie fantastique_, Op. 14; H. 48](https://youtu.be/gJU9JQ3YgS0?t=6): 
-I. ["Rêveries–Passions"](https://youtu.be/I-zhOOJmBgE) |
-II. ["Un bal"](https://youtu.be/lT5Vy0SMsy4) |
-III. ["Scène aux champs"](https://youtu.be/vi957AHMOmQ) |
-IV. ["Marche au supplice"](https://youtu.be/hD1X7zzgpnE) |
-V. ["Songe d'une nuit du Sabbat"](https://youtu.be/qYybbvfr6OE)&nbsp; [Y46] <br>
-🇬🇧 London Symphony Orchestra; Colin Davis&nbsp; (London: Walthamstow Assembly Hall, 1963)
+[1830]&nbsp; [_Symphonie fantastique_, Op. 14; H. 48](https://youtu.be/eDWqBbG8Ivw): 
+I. ["Rêveries–Passions"](https://youtu.be/ZU7DO-8C8yA) |
+II. ["Un bal"](https://youtu.be/fANvRw56rRo) |
+III. ["Scène aux champs"](https://youtu.be/-hW5_oJ3ZNg) |
+IV. ["Marche au supplice"](https://youtu.be/JVWqpOkk7RE) |
+V. ["Songe d'une nuit du Sabbat"](https://youtu.be/Gfw9MzP1j2s)&nbsp; [Y46] <br>
+🇫🇷 Les Siècles; François-Xavier Roth&nbsp; (Alfortville: Maison de l’Orchestre national d’Île-de-France, 2019)
 
 ---
 
@@ -1186,7 +1208,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 ---
 
 [1833]&nbsp; [Nocturne № 5 in F-sharp major, Op. 15, № 2](https://youtu.be/efLxMjeSb_Y)&nbsp; [Y1] <br>
-‹pf› Claudio Arrau&nbsp; (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)
+‹pf› Claudio Arrau&nbsp; (Amsterdam: Koninklijk Concertgebouw, Kleine Zaal, 1978)
 
 ---
 
@@ -1196,7 +1218,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 ---
 
 [1835]&nbsp; [Ballade № 1 in G minor, Op. 23](https://youtu.be/64UEt-bZWyM)&nbsp; [N3] <br>
-‹pf› Murray Perahia&nbsp; (La Chaux-de-Fonds, Neuchâtel: Salle de Musique, Musica Théâtre, 1994)
+‹pf› Murray Perahia&nbsp; (La Chaux-de-Fonds, Neuchâtel: Musica Théâtre, Salle de Musique, 1994)
 
 ---
 
@@ -1351,7 +1373,7 @@ IV. [Scena e canto gitano](https://youtu.be/LtGzxooAxeI) | V. [Fandango asturian
 
 [1888]&nbsp; [Шехеразада [_Scheherazade_], Op. 35](https://youtu.be/oFcyqZhhrb8): 
 I. ["Море и Синдбадов корабль [The Sea and Sinbad's Ship]"](https://youtu.be/oFcyqZhhrb8) |
-III. ["Царевич и царевна [The Young Prince and the Young Princes]"](https://youtu.be/oFcyqZhhrb8?t=1325)&nbsp; [Y5, Y36] <br>
+III. ["Царевич и царевна [The Young Prince and the Young Princess]"](https://youtu.be/oFcyqZhhrb8?t=1325)&nbsp; [Y5, Y36] <br>
 🇬🇧 Royal Philharmonic Orchestra; Thomas Beecham&nbsp; (London: Kingsway Hall, 1957)
 
 ---
@@ -1700,7 +1722,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 (American, 1898–1937)
 
 [1924]&nbsp; [_Rhapsody in Blue_](https://youtu.be/UcmIZpodNX0)&nbsp; [Y2, Y3, Y4, L2] <br>
-🇬🇧 London Symphony Orchestra, ‹pf› André Previn, ‹cl› Gervase de Peyer; André Previn&nbsp; (London: Abbey Road Studio 1, 1971)
+🇬🇧 London Symphony Orchestra; ‹pf› André Previn, ‹cl› Gervase de Peyer; André Previn&nbsp; (London: Abbey Road Studio 1, 1971)
 
 ---
 
