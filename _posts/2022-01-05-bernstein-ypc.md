@@ -108,7 +108,7 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 ---
 
 [1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [N1] <br> 
-‹hpd› Céline Frisch « Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann »&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
+‹hpd› Céline Frisch « Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann <u>1735</u> »&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
 
 ---
 
@@ -261,7 +261,7 @@ II. [Andante](https://youtu.be/HuIziJY8IfI)&nbsp; [Y7] <br>
 I. [Allegro](https://youtu.be/QxUT7Rc-syc?t=11) | 
 II. [Andante](https://youtu.be/K7k-Ruw2dTU) |
 III. [Allegretto–Presto](https://youtu.be/0DCsfXZQ-Wc)&nbsp; [F2] <br>
-🇩🇪 Concerto Köln; ‹fp› Andreas Staier; Andreas Staier&nbsp;(1995)
+🇩🇪 Concerto Köln; ‹fp› Andreas Staier&nbsp;(1995)
 
 ---
 
@@ -844,7 +844,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 (French, 1683–1764)
 
 [1727]&nbsp; [Suite in G major, RCT 6](https://youtu.be/kxTuTtdpEtQ): V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp;◁ _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
-‹hpd› Pieter-Jan Belder&nbsp; (Deventer: Bom Klavecimbel ‹2008›, Penninckhuis, 2008) 
+‹hpd› Pieter-Jan Belder « Cornelis Bom 2008 ⇦ Blanchet »&nbsp; (Deventer: Penninckhuis, 2008) 
 
 > [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_](https://youtu.be/WQfCIE3gVmY): VI.1. ["La poule"](https://youtu.be/gdBSXAKGGDM) <br>
 > 🇫🇷 Les Talens Lyriques; Christophe Rousset&nbsp;(2003) 
@@ -944,7 +944,7 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
 (French, 1835–1921)
 
 [1888]&nbsp; [Cello Concerto № 1 in A minor, Op. 33](https://youtu.be/fvcdunC_0kw)&nbsp; [Y21] <br>
-🇫🇷 Orchestre national de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Studio 103, Maison de la Radio, 1980)
+🇫🇷 Orchestre national de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Maison de la Radio, Studio 103, 1980)
 
 ---
 ---
@@ -1695,7 +1695,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 (American, 1896–1985)
 
 [1926]&nbsp; [Chorale Prelude № 3 (Ben ritmato)](https://youtu.be/O4MPIWLClKk?t=578)&nbsp; [Y2] <br>
-‹org› Valentina Woshner Fillinger&nbsp; (Pittsburgh: Skinner Organ ‹1933›, Carnegie Music Hall, 1965)
+‹org› Valentina Woshner Fillinger « Æolian-Skinner 1933 »&nbsp; (Pittsburgh: Carnegie Music Hall, 1965)
 
 ---
 ---
@@ -1782,7 +1782,7 @@ IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6, L4] <br>
 ---
 
 [1936]&nbsp; [_El Salón México_](https://youtu.be/GSQVZXPcnUo)&nbsp; [F5] <br>
-🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: EMI Studios, 1972)
+🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: EMI Studios, Abbey Road, 1972)
 
 ---
 
@@ -1800,7 +1800,7 @@ IV. [Burlesque](https://youtu.be/zQN0nBc95B0)&nbsp; [Y2, Y6, L4] <br>
 ‹pf› William Chapman Nyaho & Susanna Garcia&nbsp;(1998)
 
 > [1946]&nbsp; [_Danzón cubano_](https://youtu.be/9M136usGJuI) (for Orchestra)&nbsp; [Y23] <br>
-> 🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: EMI Studios, 1970)
+> 🇬🇧 New Philharmonia Orchestra; Aaron Copland&nbsp; (London: EMI Studios, Abbey Road, 1970)
 
 ---
 

@@ -181,10 +181,6 @@ https://youtu.be/ussTujr9wO4)
 &nbsp;♬&nbsp; Zanobi Strozzi, _The Abduction of Helen_&nbsp; [5]
 
 
-[ISAAC]&nbsp; [_Proprium missae in Dominica laetare_: Introitus. Laetare Jerusalem](https://www.amazon.co.uk/dp/B01GUMNPYY/ref=dm_ws_tlw_trk1)
-&nbsp;♬&nbsp; Raphael's frescoes in the Stanze di Raffaello of the Palazzo Apostolico, Vaticano: _The School of Anthens_ | _The Expulsion of Heliodorus from the Temple_ | _The Disputation of the Holy Sacrament_ | _The Parnassus_ | _The Mass at Bolsena_&nbsp; [5]
-
-
 [ISAAC, 1487]&nbsp; [_A la battaglia_](https://www.youtube.com/watch?v=0dGdd7JRH5I)
 &nbsp;♬&nbsp; Andrea Mantegna, _Triumphs of Caesar: The Vase Bearers_&nbsp; [5]
 
