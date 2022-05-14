@@ -3,9 +3,9 @@ layout: post
 
 title: The Music Lessons
 
-subtitle: 
+subtitle: By Lenny the Lecturer
 
-excerpt: ♬&nbsp;  <br>
+excerpt: ♬&nbsp; From Leonard Bernstein's <em>Young People's Concerts</em> (1958–1972), <em>Omnibus</em> (1954–1961), <em>Lincoln Presents</em> (1958–1959), <em>Ford Presents</em> (1959–1962), and <em>The Unanswered Question</em> (1973) <br>
 
 tags: music television
 ---
@@ -107,7 +107,7 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 
 ---
 
-[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [N1] <br> 
+[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [U1] <br> 
 ‹hpd› Céline Frisch « Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann <u>1735</u> »&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
 
 ---
@@ -129,7 +129,7 @@ II. [Andante](https://youtu.be/vGJ7nvV7WJE)&nbsp; [Y21] <br>
 ---
 
 [1720]&nbsp; [Violin Sonata № 1 in G minor, BWV 1001](https://youtu.be/ekgfPKasoys): 
-I. [Adagio](https://youtu.be/N7UtcsozxWI)&nbsp; [Y3, N3] <br>
+I. [Adagio](https://youtu.be/N7UtcsozxWI)&nbsp; [Y3, U3] <br>
 ‹vn› Arthur Grumiaux&nbsp; (Amsterdam: Bachzaal, 1960)
 
 ---
@@ -182,7 +182,7 @@ I. [Allegro](https://youtu.be/mUmdlQjCuZg)&nbsp; [F4] <br>
 ---
 
 [1747]&nbsp; [_Musikalisches Opfer_, BWV 1079:](https://youtu.be/rN2p3NgqWos)
-[Thema Regium](https://youtu.be/qNRaCZdeKRg)&nbsp; [N2] <br>
+[Thema Regium](https://youtu.be/qNRaCZdeKRg)&nbsp; [U2] <br>
 🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 1999–2000)
 
 ---
@@ -238,7 +238,7 @@ III. [Menuetto (Allegretto–Trio)](https://youtu.be/cjfK_osAi1k)&nbsp; [Y15] <b
 I. [Molto allegro](https://youtu.be/vygOD6srdyE) |
 II. [Andante](https://youtu.be/aizxSmcgsgo) |
 III. [Menuetto (Allegretto–Trio)](https://youtu.be/fGVjH3eVEno) |
-IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, O6, F2, F5, N1, N2] <br>
+IV. [Finale (Allegro assai)](https://youtu.be/427iO8rsr00)&nbsp; [Y21, O6, F2, F5, U1, U2] <br>
 🇬🇧 Scottish Chamber Orchestra; Charles Mackerras&nbsp; (Glasgow: City Halls, 2007)
 
 ---
@@ -321,7 +321,7 @@ II. [Andante](https://youtu.be/02Q6T_AG8u4)&nbsp; [Y28, F2] <br>
 (German, 1770–1827) 
 
 [1802]&nbsp; [Symphony № 2 in D major, Op. 36](https://youtu.be/ucSBO6ymke0):
-II. [Larghetto](https://youtu.be/r0sXW0O21EM)&nbsp; [L3, N3] <br>
+II. [Larghetto](https://youtu.be/r0sXW0O21EM)&nbsp; [L3, U3] <br>
 🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen&nbsp; (Utrecht: Muziekcentrum Vredenburg, 1988)
 
 ---
@@ -339,7 +339,7 @@ IV. [Finale (Allegro molto)](https://youtu.be/WknGBqMb0hI)&nbsp; [Y2, Y4, Y41, O
 I. [Allegro con brio](https://youtu.be/BBVo8edT4ZQ) | 
 II. [Andante con moto](https://youtu.be/7Ib7n-TJ08I) |
 III. [Scherzo (Allegro)](https://youtu.be/aw0vVtYukMs) |
-IV. [Allegro](https://youtu.be/piMZmAkel8s)&nbsp; [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, L4, N3] <br>
+IV. [Allegro](https://youtu.be/piMZmAkel8s)&nbsp; [Y4, Y5, Y10, Y16, Y21, Y33, Y36, Y41, O1, L4, U3] <br>
 🇫🇷 Les Siècles; François-Xavier Roth&nbsp; (Paris: Philharmonie de Paris, 2020)
 
 ---
@@ -349,7 +349,7 @@ I. ["Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande" (Allegro ma n
 II. ["Scene am Bach" (Andante molto moto)](https://youtu.be/grM0wXn-los) |
 III. ["Lustiges Zusammensein der Landleute" (Allegro)](https://youtu.be/RGnXW-9g5dY) |
 IV. ["Gewitter, Sturm" (Allegro)](https://youtu.be/9S_cY9xXhls) |
-V. ["Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm" (Allegretto)](https://youtu.be/QRyWa4C_1MI)&nbsp; [Y1, N3] <br>
+V. ["Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm" (Allegretto)](https://youtu.be/QRyWa4C_1MI)&nbsp; [Y1, U3] <br>
 🇳🇱 Orkest van de Achttiende Eeuw; Frans Brüggen&nbsp; (Rotterdam: De Doelen, 2011)
 
 ---
@@ -404,7 +404,7 @@ I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
 
 ---
 
-[1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/ozNFUflBsCA)&nbsp; [N2] <br>
+[1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/ozNFUflBsCA)&nbsp; [U2] <br>
 ‹fp› Ronald Brautigam « Paul McNulty ⇦ Anton Walter <u>1805</u> »&nbsp; (Stockholm: Österåkers kyrka, 2010)
 
 ---
@@ -498,13 +498,13 @@ IV. [Saltarello (Presto)](https://youtu.be/P2H8Hq7oGxs)&nbsp; [F5] <br>
 
 ---
 
-[1870]&nbsp; [_Die Walküre_, WWV 86B:](https://youtu.be/w8v6rlasLyw) ["Siegmund! Sieh auf mich!"](https://youtu.be/msbSVpekifs) from Act II | ["Hojotoho! Heiaha!"](https://youtu.be/-mgYaxs3hZk) from Act III&nbsp; [O5, F5, N2] <br>
-🇩🇪 Berliner Philharmoniker; ‹sop› Liselotte Rebmann, Daniza Mastilovic, & Carlotta Ordassy; ‹mez› Barbro Erickson & Helga Jenckel; ‹alt› Ingrid Steger, Lilo Brockhaus, & Cvetka Ahlin; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1966)
+[1870]&nbsp; [_Die Walküre_, WWV 86B:](https://youtu.be/w8v6rlasLyw) ["Siegmund! Sieh auf mich!"](https://youtu.be/msbSVpekifs) from Act II | ["Hojotoho! Heiaha!"](https://youtu.be/-mgYaxs3hZk) from Act III&nbsp; [O5, F5, U2] <br>
+🇩🇪 Berliner Philharmoniker; ‹sop› Liselotte Rebmann, Daniza Mastilovic, & Carlotta Ordassy; ‹mez› Barbro Erickson & Helga Jenckel; ‹alt› Ingrid Steger, Lilo Brockhaus, & Cvetka Ahlin; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1966)
 
 ---
 
 [1871]&nbsp; [_Siegfried_, WWV 86C:](https://youtu.be/utwbitVEHkc) ["Siegfrieds Hornruf"](https://youtu.be/BFLXp3_gKxE) from Act II&nbsp; [Y3] <br>
-🇩🇪 Berliner Philharmoniker; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1968–1969)
+🇩🇪 Berliner Philharmoniker; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1968–1969)
 
 ---
 ---
@@ -555,7 +555,7 @@ IV. [Allegro con spirito](https://youtu.be/V8bExUCQZ98)&nbsp; [Y4]<br>
 I. [Allegro non troppo](https://youtu.be/onwEcAR3DV0?t=10) |
 II. [Andante moderato](https://youtu.be/hD9Fu4clOEA) |
 III. [Allegro giocoso](https://youtu.be/MTzh5h2YITs) |
-IV. [Allegro energico e passionato](https://youtu.be/s71pegGaWKU)&nbsp; [Y6, Y21, Y32, Y36, N3] <br>
+IV. [Allegro energico e passionato](https://youtu.be/s71pegGaWKU)&nbsp; [Y6, Y21, Y32, Y36, U3] <br>
 🇩🇪 Berliner Philharmoniker; Claudio Abbado&nbsp; (Berlin: Berliner Philharmonie, 1990)
 
 ---
@@ -603,7 +603,7 @@ IV. [Sehr behaglich](https://youtu.be/_audevEXDLY?t=2987)&nbsp; [Y8] <br>
 
 [1902]&nbsp; [Symphony № 5 in C-sharp minor](https://youtu.be/i88KT5iEh-U):
 II. [Stürmisch bewegt, mit größter Vehemenz](https://youtu.be/omjHtmB5gaw) |
-IV. [Adagietto](https://youtu.be/HurRCZbJ2F0)&nbsp; [N3, N4] <br> 
+IV. [Adagietto](https://youtu.be/HurRCZbJ2F0)&nbsp; [U3, U4] <br> 
 🇬🇧 New Philharmonia Orchestra; John Barbirolli&nbsp; (London: Watford Town Hall, 1969)
 
 ---
@@ -875,7 +875,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 
 ---
 
-[1829]&nbsp; [_Guillaume Tell_: Overture](https://youtu.be/IkUlPLNzoBs)&nbsp; [Y1, Y25, N3] <br>
+[1829]&nbsp; [_Guillaume Tell_: Overture](https://youtu.be/IkUlPLNzoBs)&nbsp; [Y1, Y25, U3] <br>
 🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano&nbsp; (Roma: Auditorium Parco della Musica, Sala Santa Cecilia, 2010)
 
 ---
@@ -895,7 +895,7 @@ V. ["Songe d'une nuit du Sabbat"](https://youtu.be/Gfw9MzP1j2s)&nbsp; [Y46] <br>
 ---
 
 [1839]&nbsp; [_Roméo et Juliette_, Op. 17; H. 79](): 
-II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E) | ["Tristesse"](https://youtu.be/DuwJvyc64D8) | ["Bruits lointains de concert et bal"](https://youtu.be/JfhB1O2RNxg) | ["Grande fête chez Capulet"](https://youtu.be/pgNPjvWvUxw)&nbsp; [N4] <br>
+II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E) | ["Tristesse"](https://youtu.be/DuwJvyc64D8) | ["Bruits lointains de concert et bal"](https://youtu.be/JfhB1O2RNxg) | ["Grande fête chez Capulet"](https://youtu.be/pgNPjvWvUxw)&nbsp; [U4] <br>
 🇺🇸 Boston Symphony Orchestra; Charles Munch&nbsp; (Boston: Symphony Hall, 1961)
 
 ---
@@ -925,7 +925,7 @@ II. ["Roméo seul"](https://youtu.be/FYW5XmMz9-E) | ["Tristesse"](https://youtu.
 
 [1888]&nbsp; [Symphony in D minor, FWV 48; CFF 130](https://youtu.be/nfbOVwzyh20): 
 II. [Allegretto](https://youtu.be/gAlXDx8Ss9I) |
-III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
+III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, U3] <br>
 🇺🇸 Chicago Symphony Orchestra; Pierre Monteux&nbsp; (Chicago: Orchestra Hall, 1961)
 
 ---
@@ -968,7 +968,7 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
 **CHABRIER**, EMMANUEL <br> 
 (French, 1841–1894) 
 
-[1883]&nbsp; [_España_](https://youtu.be/udQDJJ3hNHY)&nbsp; [N3] <br>
+[1883]&nbsp; [_España_](https://youtu.be/udQDJJ3hNHY)&nbsp; [U3] <br>
 🇨🇦 Orchestre symphonique de Montréal; Charles Dutoit&nbsp; (Montréal: Église de Saint-Eustache, 1987)
 
 ---
@@ -988,7 +988,7 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, N3] <br>
 (French, 1862–1918) 
 
 [1894]&nbsp; [_Prélude à l'Après-midi d'un faune_, L. 86; CD 87](https://youtu.be/tjEdr3MuXTE)&nbsp; [Y3, Y12, O6] <br>
-🇩🇪 Berliner Philharmoniker; ‹fl› Karlheinz Zöller; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1964)
+🇩🇪 Berliner Philharmoniker; ‹fl› Karlheinz Zöller; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1964)
 
 ---
 
@@ -1055,13 +1055,13 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 **RAVEL**, MAURICE <br> 
 (French, 1875–1937) 
 
-[1908]&nbsp; [_Rapsodie espagnole_, M. 54](https://youtu.be/H7LiVXOwMFM): I. [Prélude à la nuit"](https://youtu.be/H7LiVXOwMFM) | IV. ["Feria"](https://youtu.be/vrA8MYYlB-M)&nbsp; [Y2, N1, N5] <br>
+[1908]&nbsp; [_Rapsodie espagnole_, M. 54](https://youtu.be/H7LiVXOwMFM): I. [Prélude à la nuit"](https://youtu.be/H7LiVXOwMFM) | IV. ["Feria"](https://youtu.be/vrA8MYYlB-M)&nbsp; [Y2, U1, U5] <br>
 🇫🇷 Orchestre de Paris; Jean Martinon&nbsp; (Paris: Salle Wagram, 1974)
 
 ---
 
 [1912]&nbsp; [_Daphnis et Chloé_, M. 57:](https://youtu.be/YHrstmOPKBQ) ["Lever du jour"](https://youtu.be/wdX5mrp8uE0) & ["Danse générale"](https://youtu.be/unQk8sR0E5Q) from Partie III&nbsp; [Y16, L3] <br>
-🇩🇪 Berliner Philharmoniker & Rundfunkchor Berlin (Gerd Müller-Lorenz); Pierre Boulez&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1994)
+🇩🇪 Berliner Philharmoniker & Rundfunkchor Berlin (Gerd Müller-Lorenz); Pierre Boulez&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1994)
 
 
 > [1911]&nbsp; [Suite № 1 ◁ _Daphnis et Chloé_, M. 57a](https://youtu.be/5Fzu4FqdC5w) <br>
@@ -1078,7 +1078,7 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <
 ---
 
 [1928]&nbsp; [_Boléro_, M. 81](https://youtu.be/uwHLnz1kflU)&nbsp; [Y3, F5] <br>
-🇩🇪 Berliner Philharmoniker; Pierre Boulez&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1993)
+🇩🇪 Berliner Philharmoniker; Pierre Boulez&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1993)
 
 ---
 
@@ -1212,12 +1212,12 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 
 ---
 
-[1833]&nbsp; [Nocturne № 8 in D-flat major, Op. 27, № 2](https://youtu.be/L3q-WfZBDvc)&nbsp; [N2] <br>
+[1833]&nbsp; [Nocturne № 8 in D-flat major, Op. 27, № 2](https://youtu.be/L3q-WfZBDvc)&nbsp; [U2] <br>
 ‹pf› Maria João Pires&nbsp; (München: Musikhochschule, 1995)
 
 ---
 
-[1835]&nbsp; [Ballade № 1 in G minor, Op. 23](https://youtu.be/64UEt-bZWyM)&nbsp; [N3] <br>
+[1835]&nbsp; [Ballade № 1 in G minor, Op. 23](https://youtu.be/64UEt-bZWyM)&nbsp; [U3] <br>
 ‹pf› Murray Perahia&nbsp; (La Chaux-de-Fonds, Neuchâtel: Musica Théâtre, Salle de Musique, 1994)
 
 ---
@@ -1241,7 +1241,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 (Czech, 1824–1884) 
 
 [1875]&nbsp; [_Má vlast_, JB 1:112](https://youtube.com/playlist?list=PLhSTl2wzRss2KaxuxqRcojkzJWOXF2JT1): II. ["Vltava"](https://youtu.be/jUqqM4I0riI)&nbsp; [Y29, L3] <br>
-🇩🇪 Berliner Philharmoniker; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1960)
+🇩🇪 Berliner Philharmoniker; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1960)
 
 ---
 ---
@@ -1288,7 +1288,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 (Russian, 1840–1893)
 
 [1872]&nbsp; [Symphony № 2 in C minor, Op. 17; TH 25](https://youtu.be/1XV63dP4t54): 
-IV. [Finale (Moderato assai–Allegro vivo)](https://youtu.be/1XV63dP4t54?t=1444)&nbsp; [N3] <br>
+IV. [Finale (Moderato assai–Allegro vivo)](https://youtu.be/1XV63dP4t54?t=1444)&nbsp; [U3] <br>
 🇳🇴 Oslo Filharmoniske Orkester; Mariss Jansons&nbsp; (Oslo: Oslo Konserthus, 1985)
 
 ---
@@ -1355,7 +1355,7 @@ II. [Largo](https://youtu.be/1weI5FXQ_v0?t=532)&nbsp; [Y2] <br>
 
 [1895]&nbsp; [Cello Concerto in B minor, Op. 104; B. 191](https://youtu.be/BPu3gFAMJK0):
 I. [Allegro](https://youtu.be/BPu3gFAMJK0)&nbsp; [Y9] <br>
-🇩🇪 Berliner Philharmoniker; ‹vc› Pierre Fournier; Széll György [George Szell]&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1961)
+🇩🇪 Berliner Philharmoniker; ‹vc› Pierre Fournier; Széll György [George Szell]&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1961)
 
 ---
 ---
@@ -1399,7 +1399,7 @@ III. ["Царевич и царевна [The Young Prince and the Young Princess
 ---
 
 [1923]&nbsp; [Symphony № 6 in D minor, Op. 104](https://youtu.be/z8jlX5R_lxc): I. [Allegro molto moderato](https://youtu.be/z8jlX5R_lxc)&nbsp; [Y36] <br>
-🇩🇪 Berliner Philharmoniker; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche Dahlem, 1967)
+🇩🇪 Berliner Philharmoniker; Herbert von Karajan&nbsp; (Berlin: Jesus-Christus-Kirche, Dahlem, 1967)
 
 ---
 ---
@@ -1459,7 +1459,7 @@ I. [Moderato](https://youtu.be/ygfLNLs2IBU)&nbsp; [O7, F1] <br>
 I. ["La foire du mardi gras"](https://youtu.be/eFP_sN4OWmY) |
 II. ["Chez Petrouchka"](https://youtu.be/eTDR4bQuLwU) |
 III. ["Chez le Maure"](https://youtu.be/W-xY7L3TzqA) |
-IV. ["La foire du mardi gras (la nuit)"](https://youtu.be/bJMCstu7c_w)&nbsp; [Y18, O6, N3] <br>
+IV. ["La foire du mardi gras (la nuit)"](https://youtu.be/bJMCstu7c_w)&nbsp; [Y18, O6, U3] <br>
 🇨🇭 Orchestre de la Suisse Romande; Ernest Ansermet&nbsp; (Genève: Victoria Hall, 1957)
 
 ---
@@ -1495,7 +1495,7 @@ IV. ["La foire du mardi gras (la nuit)"](https://youtu.be/bJMCstu7c_w)&nbsp; [Y1
 
 [1923]&nbsp; [_Octuor pour instruments à vent_, K041](https://youtu.be/gy1l0Ul8frA): 
 II. [Tema con variazioni (Andantino)](https://youtu.be/9lAtg90rb7A) |
-III. [Finale (Tempo giusto)](https://youtu.be/7aBVQ-PTnCw)&nbsp; [L4, N1] <br>
+III. [Finale (Tempo giusto)](https://youtu.be/7aBVQ-PTnCw)&nbsp; [L4, U1] <br>
 🇬🇧 London Sinfonietta; Riccardo Chailly&nbsp; (London: Kingsway Hall, 1980)
 
 ---
@@ -1561,7 +1561,7 @@ I. ["Рождение Киже [Birth of Kijé]"](https://youtu.be/DNDFP9L0XdE)&
 (Russian, 1906–1975)
 
 [1937]&nbsp; [Symphony № 5 in D minor, Op. 47](https://youtu.be/Avt-KOQy1mo):
-II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [L4, N3] <br>
+II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [L4, U3] <br>
 🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Большой зал, Ленинградской филармонии, 1984)
 
 ---
@@ -1641,7 +1641,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 
 ---
 
-[1908]&nbsp; [_The Unanswered Question_](https://youtu.be/y3QZrJg7O34)&nbsp; [Y38, N5] <br>
+[1908]&nbsp; [_The Unanswered Question_](https://youtu.be/y3QZrJg7O34)&nbsp; [Y38, U5] <br>
 🇺🇸 Orpheus Chamber Orchestra&nbsp; (Purchase, New York: The Performing Arts Center, 1993)
 
 ---
@@ -1811,7 +1811,7 @@ II. [Molto moderato–Allegro assai](https://youtu.be/AFKNIWwSuiI)&nbsp; [Y27] <
 
 ---
 
-[1930]&nbsp; [Piano Variations](https://youtu.be/VADuEOOBSr0)&nbsp; [N1] <br>
+[1930]&nbsp; [Piano Variations](https://youtu.be/VADuEOOBSr0)&nbsp; [U1] <br>
 ‹pf› William Masselos&nbsp; (1967)
 
 ---
@@ -2205,7 +2205,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 [#contents](#contents)&nbsp;
 
 [18C]&nbsp; ["God Save the King/Queen"](https://youtu.be/J8FL_eOHSNU) <br> 
-🎙️ Gloucester Cathedral Choir; ‹org› Ian Ball; David Briggs&nbsp;(2000)
+⛪ Gloucester Cathedral Choir; ‹org› Ian Ball; David Briggs&nbsp;(2000)
 
 > [1831]&nbsp; ["America (My Country, ’Tis of Thee)"](https://youtu.be/pgIEZwZWZhw)&nbsp; [O6] <br> 
 > 📃 Samuel Francis Smith <br>
@@ -2223,9 +2223,9 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 🎙️ Joni James&nbsp;(1959)
 
 
-> [1836]&nbsp; ["Fair Harvard"](https://youtu.be/aFkH4QofWm0)&nbsp; [N1] <br> 
+> [1836]&nbsp; ["Fair Harvard"](https://youtu.be/aFkH4QofWm0)&nbsp; [U1] <br> 
 > 📃 Samuel Gilman <br>
-> 🎙️ Harvard Glee Club&nbsp;(2013)
+> 🎓 Harvard Glee Club&nbsp;(2013)
 
 ---
 
