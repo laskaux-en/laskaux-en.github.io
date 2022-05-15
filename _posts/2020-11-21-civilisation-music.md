@@ -337,7 +337,7 @@ https://www.youtube.com/watch?v=REO9LEZNWuk)
 &nbsp;♬&nbsp; Giambattista Tiepolo, _Christ Carrying the Cross_&nbsp; [9]
 
 
-[HANDEL, 1739]&nbsp; [Concerto Grosso in G major, Op. 3, No. 3, HWV 314: I. Largo, e staccato – allegro](
+[HANDEL, 1734]&nbsp; [Concerto Grosso in G major, Op. 3, No. 3, HWV 314: I. Largo, e staccato – allegro](
 https://www.youtube.com/watch?v=m_bZ1FcoswY)
 &nbsp;♬&nbsp; Schloss Nymphenburg&nbsp; [9]
 

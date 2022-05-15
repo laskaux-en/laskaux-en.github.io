@@ -326,12 +326,12 @@ II. [Larghetto](https://youtu.be/r0sXW0O21EM)&nbsp; [L3, U3] <br>
 
 ---
 
-[1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/JGp1-nmuzXM):
-I. [Allegro con brio](https://youtu.be/JGp1-nmuzXM) | 
-II. [Marcia funebre (Adagio assai)](https://youtu.be/hIYY-4WJnSQ) | 
-III. [Scherzo (Allegro vivace)](https://youtu.be/8xSH5IiDxcg) |
-IV. [Finale (Allegro molto)](https://youtu.be/WknGBqMb0hI)&nbsp; [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] <br>
-🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 1994)
+[1804]&nbsp; [Symphony № 3 in E-flat major, Op. 55](https://youtu.be/G6_aG4TQyIM):
+I. [Allegro con brio](https://youtu.be/G6_aG4TQyIM) | 
+II. [Marcia funebre (Adagio assai)](https://youtu.be/G6_aG4TQyIM?t=1113) |
+III. [Scherzo (Allegro vivace)](https://youtu.be/G6_aG4TQyIM?t=1963) |
+IV. [Finale (Allegro molto)](https://youtu.be/G6_aG4TQyIM?t=2321)&nbsp; [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] <br>
+🇩🇪 Collegium Aureum; Franzjosef Maier&nbsp; (Kirchheim in Schwaben: Schloss Kirchheim, Zedernsaal, 1976) 
 
 ---
 
