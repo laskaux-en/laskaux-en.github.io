@@ -377,8 +377,8 @@ III. [Rondo (Vivace)](https://youtu.be/NAcXCX8NDMA)&nbsp; [Y41] <br>
 
 ---
 
-[1806]&nbsp; [_Leonoren-Ouvertüre_ № 3, Op. 72b](https://youtu.be/6mtHJ_hnVfY?t=10)&nbsp; [Y12, Y41] <br>
-🇬🇧 Chamber Orchestra of Europe; Nikolaus Harnoncourt&nbsp; (Graz: Stefaniensaal, 1993)
+[1806]&nbsp; [_Leonoren-Ouvertüre_ № 3, Op. 72b](https://youtu.be/AOSgQUTPQlk)&nbsp; [C12] <br>
+🇩🇪 Capella Aquileia; Marcus Bosch&nbsp; (Heidenheim: Festspielhaus Congress Centrum, 2020)
 
 ---
 
