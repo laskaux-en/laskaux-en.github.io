@@ -1006,29 +1006,30 @@ III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k)&nbsp; [Y16]
 
 ---
 
-[1908]&nbsp; [_Images pour orchestre_, L. 122; CD 118](https://youtu.be/29EwKA0Wd6U): № 2. [_Ibéria_](https://youtu.be/zUKoT6Jyip4): 
+[1908]&nbsp; [_Ibéria_](https://youtu.be/zUKoT6Jyip4): 
 II. ["Les parfums de la nuit"](https://youtu.be/sRt-QsZdvLY) | 
-III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)&nbsp; [Y33] <br>
+III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)
+◁ _Images pour orchestre_, L. 122; CD 118: № 2&nbsp; [Y33] <br>
 🇺🇸 Chicago Symphony Orchestra; Fritz Reiner&nbsp; (Chicago: Orchestra Hall, 1957)
 
 ---
 
-[1907]&nbsp; [_Images_, Série II, L. 111; CD 120](https://youtu.be/nHolOfFs0ZU): № 3. ["Poissons d'or"](https://youtu.be/Suhn-E8Ltiw)&nbsp; [Y16] <br>
+[1907]&nbsp; [_Images_, Série II, L. 111; CD 120](https://youtu.be/nHolOfFs0ZU): III. ["Poissons d'or"](https://youtu.be/Suhn-E8Ltiw)&nbsp; [Y16] <br>
 ‹pf› Ivan Moravec&nbsp; (New York: RCA Studio A, 1982)
 
 ---
 
-[1908]&nbsp; [_Children's Corner_, L. 113; CD 119](https://youtu.be/IA-UEzd608g): № 6. ["Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE)&nbsp; [Y16] <br>
+[1908]&nbsp; [_Children's Corner_, L. 113; CD 119](https://youtu.be/IA-UEzd608g): VI. ["Golliwog's Cake-Walk"](https://youtu.be/Fds4GSy5CsE)&nbsp; [Y16] <br>
 ‹pf› Jean-Yves Thibaudet&nbsp; (Dunwich, Suffolk: Potton Hall, 1998)
 
 ---
 
-[1910]&nbsp; [_Préludes_, Livre I, L. 117; CD 125](https://youtu.be/P2xhiiqp71A): № 2. ["Voiles"](https://youtu.be/9B5laNPnM4k) | № 10. ["La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)&nbsp; [Y16, Y36] <br>
+[1910]&nbsp; [_Préludes_, Livre I, L. 117; CD 125](https://youtu.be/P2xhiiqp71A): II. ["Voiles"](https://youtu.be/9B5laNPnM4k) | X. ["La cathédrale engloutie"](https://youtu.be/Z7CbKMkDaiI)&nbsp; [Y16, Y36] <br>
 ‹pf› Arturo Benedetti Michelangeli&nbsp; (Hamburg: Musikhalle, 1978)
 
 ---
 
-[1912]&nbsp; [_Préludes_, Livre II, L. 123; CD 131](https://youtu.be/MWkxPtFS10I): № 3. ["La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
+[1912]&nbsp; [_Préludes_, Livre II, L. 123; CD 131](https://youtu.be/MWkxPtFS10I): III. ["La puerta del vino"](https://youtu.be/EAN54kYpuuM)&nbsp; [Y16] <br>
 ‹pf› Walter Gieseking&nbsp; (London: Abbey Road Studio 3, 1954)
 
 ---
@@ -1197,22 +1198,26 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 **CHOPIN**, FRYDERYK [FRÉDÉRIC] <br> 
 (Polish–French, 1810–1849)
 
-[1832]&nbsp; [Mazurka № 5 in B-flat major, Op. 7, № 1](https://youtu.be/nyYEdNDYYew)&nbsp; [Y2, Y29] <br>
+[1832]&nbsp; [Mazurka № 5 in B-flat major](https://youtu.be/nyYEdNDYYew)
+◁ 5 Mazurkas, Op. 7: № 1&nbsp; [Y2, Y29] <br>
 ‹pf› Arthur Rubinstein&nbsp; (New York: Webster Hall, 1965)
 
 ---
 
-[1836]&nbsp; [Mazurka № 15 in C major, Op. 24, № 2](https://youtu.be/mmnkyqdZJfU)&nbsp; [Y36] <br>
+[1836]&nbsp; [Mazurka № 15 in C major](https://youtu.be/mmnkyqdZJfU)
+◁ 4 Mazurkas, Op. 24: № 2&nbsp; [Y36] <br>
 ‹pf› Владимир Ашкенази [Vladimir Ashkenazy]&nbsp; (London: Kingsway Hall, 1983)
 
 ---
 
-[1833]&nbsp; [Nocturne № 5 in F-sharp major, Op. 15, № 2](https://youtu.be/efLxMjeSb_Y)&nbsp; [Y1] <br>
+[1833]&nbsp; [Nocturne № 5 in F-sharp major](https://youtu.be/efLxMjeSb_Y)
+◁ 3 Nocturnes, Op. 15: № 2&nbsp; [Y1] <br>
 ‹pf› Claudio Arrau&nbsp; (Amsterdam: Koninklijk Concertgebouw, Kleine Zaal, 1978)
 
 ---
 
-[1833]&nbsp; [Nocturne № 8 in D-flat major, Op. 27, № 2](https://youtu.be/L3q-WfZBDvc)&nbsp; [U2] <br>
+[1833]&nbsp; [Nocturne № 8 in D-flat major](https://youtu.be/L3q-WfZBDvc)
+◁ 2 Nocturnes, Op. 27: № 2&nbsp; [U2] <br>
 ‹pf› Maria João Pires&nbsp; (München: Musikhochschule, 1995)
 
 ---
