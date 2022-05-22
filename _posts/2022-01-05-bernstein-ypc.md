@@ -631,8 +631,8 @@ VII. ["Rheinlegendchen"](https://youtu.be/CRC-ub2oUtg)&nbsp; [Y8, Y40] <br>
 
 ---
 
-[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28; TrV 171](https://youtu.be/RgoglFCSquk)&nbsp; [Y49, L4] <br>
-🇩🇪 Staatskapelle Dresden; Rudolf Kempe&nbsp; (Dresden: Lukaskirche, 1970)
+[1895]&nbsp; [_Till Eulenspiegels lustige Streiche_, Op. 28; TrV 171](https://youtu.be/oQgP-V6GHHY)&nbsp; [C12] <br>
+🇩🇪 Gürzenich-Orchester Köln; François-Xavier Roth&nbsp; (Köln: Orchesterprobenzentrum Stolberger Straße, 2019)
 
 ---
 
@@ -1084,7 +1084,7 @@ III. ["Le matin d'un jour de fête"](https://youtu.be/asY4MlCAdeE)
 ---
 
 [1905]&nbsp; [_Introduction et allegro pour harpe, flûte, clarinette et quatuor à cordes_, M. 46](https://youtu.be/LEwR2Si4oUQ)&nbsp; [Y3, Y25] <br>
-🇫🇷 Orchestre de l'Opéra national de Paris; ‹hp› Markus Klinko&nbsp; (Paris: Église évangélique Saint-Marcel, 1983)
+🇫🇷 Orchestre de l'Opéra de Paris: ‹vn› Frédéric Laroque, ‹vn› Gérard Torgomian, ‹va› Pierre Lénert, ‹vc› Cyril Lacrouts, ‹fl› enoît Fromanger, ‹cl› Maurice Gabai; ‹hp› Markus Klinko&nbsp; (Paris: Église évangélique Saint-Marcel, 1983)
 
 ---
 ---
