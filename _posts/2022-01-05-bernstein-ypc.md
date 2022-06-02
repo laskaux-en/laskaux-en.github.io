@@ -992,13 +992,13 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, U3] <br>
 
 ---
 
-[1894]&nbsp; [_Nocturnes_, L. 91; CD 98](https://youtu.be/WE8_pvtaXNQ): 
+[1894]&nbsp; [_Nocturnes_, L. 91; CD 98](https://youtu.be/WE8_pvtaXNQ?t=14): 
 II. ["Fêtes"](https://youtu.be/w7Lj6tv9lwg)&nbsp; [Y36] <br>
 🇳🇱 Koninklijk Concertgebouworkest; Bernard Haitink&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1979)
 
 ---
 
-[1905]&nbsp; [_La mer_, L. 109; CD 111](https://youtu.be/9M7wlVokbac):
+[1905]&nbsp; [_La mer_, L. 109; CD 111](https://youtu.be/9M7wlVokbac?t=14):
 I. ["De l'aube à midi sur la mer"](https://youtu.be/BrPzMbtuFfk) |
 II. ["Jeux de vagues"](https://youtu.be/POQXW177ARQ) |
 III. ["Dialogue du vent et de la mer"](https://youtu.be/PwZnPzqKN4k)&nbsp; [Y16]<br>
