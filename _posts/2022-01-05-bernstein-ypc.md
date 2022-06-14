@@ -5,7 +5,7 @@ title: The Music Lessons
 
 subtitle: By Lenny the Lecturer
 
-excerpt: ♬&nbsp; From Leonard Bernstein's <em>Young People's Concerts</em> (1958–1972), <em>Omnibus</em> (1954–1961), <em>Lincoln Presents</em> (1958–1959), <em>Ford Presents</em> (1959–1962), and <em>The Unanswered Question</em> (1973) <br>
+excerpt: ♬&nbsp; From Leonard Bernstein’s <em>Young People's Concerts</em> (1958–1972), <em>Omnibus</em> (1954–1961), <em>Lincoln Presents</em> (1958–1959), <em>Ford Presents</em> (1959–1962), and <em>The Unanswered Question</em> (1973) <br>
 
 tags: music television
 ---
@@ -19,7 +19,7 @@ tags: music television
 ### Contents {#contents}
 
 [A.&nbsp; GERMANIC **·** BRITISH](#germanic) <br>
-Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss (S) · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten
+Händel · Bach · Haydn · Mozart · Beethoven · Schubert · Mendelssohn · Schumann · Wagner · J. Strauss <span style="font-size:0.75em">[S]</span> · Brahms · Mahler · R. Strauss · Lehár · Vaughan Williams · Schönberg · Holst · Webern · Hindemith · Walton · Britten
 
 [B.&nbsp; ITALIAN **·** FRENCH **·** IBERIAN](#latin) <br>
 Wipo · Torre · Gabrieli · Vivaldi · Rameau · Rossini · Berlioz · Verdi · Franck · Ponchielli · Saint-Saëns · Bizet · Chabrier · Debussy · Dukas · Satie · Ravel · Falla · Respighi · Bloch · Ibert · Milhaud · Poulenc · Messiaen · Nono
@@ -183,7 +183,7 @@ I. [Allegro](https://youtu.be/mUmdlQjCuZg)&nbsp; [F4] <br>
 
 [1747]&nbsp; [_Musikalisches Opfer_, BWV 1079:](https://youtu.be/rN2p3NgqWos)
 [Thema Regium](https://youtu.be/qNRaCZdeKRg)&nbsp; [U2] <br>
-🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 1999–2000)
+🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Castell de Cardona—Església de Sant Vicenç, 1999–2000)
 
 ---
 ---
@@ -224,7 +224,7 @@ IV. [Finale (Presto)](https://youtu.be/AajT-kp6ZGM)&nbsp; [Y21] <br>
 
 [1786]&nbsp; [Symphony № 38 in D major, K. 504](https://youtu.be/womke2Y-TU4): 
 II. [Andante](https://youtu.be/yeK40PEnu8Q)&nbsp; [F2] <br>
-🇩🇪 Freiburger Barockorchester; René Jacobs&nbsp; (London: Congress Innsbruck, Saal Tirol, 1988)
+🇩🇪 Freiburger Barockorchester; René Jacobs&nbsp; (London: Congress Innsbruck—Saal Tirol, 1988)
 
 ---
 
@@ -253,7 +253,7 @@ IV. [Molto allegro](https://youtu.be/XhhD5Dg6JHw)&nbsp; [Y4, Y28, Y40, F2] <br>
 
 [1779]&nbsp; [Sinfonia Concertante in E-flat major, K. 364](https://youtu.be/VA9R9SPhtuc): 
 II. [Andante](https://youtu.be/HuIziJY8IfI)&nbsp; [Y7] <br>
-🇮🇹 Orchestra Mozart; ‹vn› Giuliano Carmignola, ‹va› Danusha Waśkiewicz; Claudio Abbado&nbsp; (Bologna: Salone Bolognini, Convento San Domenico, 2007)
+🇮🇹 Orchestra Mozart; ‹vn› Giuliano Carmignola, ‹va› Danusha Waśkiewicz; Claudio Abbado&nbsp; (Bologna: Convento San Domenico—Salone Bolognini, 2007)
 
 ---
 
@@ -288,7 +288,7 @@ VII. [Finale (Molto allegro)](https://youtu.be/CwDI7XwyJUM)&nbsp; [Y3] <br>
 
 [1787]&nbsp; [Divertimento "Ein musikalischer Spaß", K. 522](https://youtu.be/uzM4C-tKkOs): 
 IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
-🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 2005)
+🇪🇸 Le Concert des Nations; Jordi Savall&nbsp; (Barcelona: Castell de Cardona—Església de Sant Vicenç, 2005)
 
 ---
 
@@ -331,7 +331,7 @@ I. [Allegro con brio](https://youtu.be/G6_aG4TQyIM) |
 II. [Marcia funebre (Adagio assai)](https://youtu.be/G6_aG4TQyIM?t=1113) |
 III. [Scherzo (Allegro vivace)](https://youtu.be/G6_aG4TQyIM?t=1963) |
 IV. [Finale (Allegro molto)](https://youtu.be/G6_aG4TQyIM?t=2321)&nbsp; [Y2, Y4, Y41, O3, O6, O7, L4, F4, F5] <br>
-🇩🇪 Collegium Aureum; Franzjosef Maier&nbsp; (Kirchheim in Schwaben: Schloss Kirchheim, Zedernsaal, 1976) 
+🇩🇪 Collegium Aureum; Franzjosef Maier&nbsp; (Kirchheim in Schwaben: Schloss Kirchheim—Zedernsaal, 1976) 
 
 ---
 
@@ -418,7 +418,7 @@ I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
 ["Nur hurtig fort, nur frisch gegraben"](https://youtu.be/Xsk7cZ9XTAQ),
 ["Euch werde Lohn in bessern Welten"](https://youtu.be/fkE4whVgPmk), &
 ["Er sterbe!"](https://youtu.be/yaYRDLgfbOg) from Act II&nbsp; [Y48] <br>
-🇩🇪 Bayerisches Staatsorchester; ‹ten› Ernst Haefliger & Friedrich Lenz, ‹sop› Leonie Rysanek & Irmgard Seefried, ‹bar› Dietrich Fischer‐Dieskau, ‹bass› Gottlob Frick; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (München: Münchner Residenz, Herkulessaal, 1957)
+🇩🇪 Bayerisches Staatsorchester; ‹ten› Ernst Haefliger & Friedrich Lenz, ‹sop› Leonie Rysanek & Irmgard Seefried, ‹bar› Dietrich Fischer‐Dieskau, ‹bass› Gottlob Frick; Fricsay Ferenc [Ferenc Fricsay]&nbsp; (München: Münchner Residenz—Herkulessaal, 1957)
 
 ---
 ---
@@ -581,7 +581,7 @@ I. [Maestoso]()&nbsp; [L3]
 
 [1888]&nbsp; [Symphony № 1 in D major](https://youtu.be/W4f3dNyONl0):
 III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&nbsp; [Y6, Y8] <br>
-🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelik&nbsp; (München: Münchner Residenz, Herkulessaal, 1979)
+🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelik&nbsp; (München: Münchner Residenz—Herkulessaal, 1979)
 
 ---
 
@@ -713,7 +713,7 @@ IV. [Finale con epilogo fugato (Allegro molto)](https://youtu.be/pXkyun7gAJQ)&nb
 
 [1923]&nbsp; [_Suite für Klavier_, Op. 25](https://youtu.be/GBWzWLo5G8M?t=8):
 I. [Präludium](https://youtu.be/GBWzWLo5G8M?t=8)&nbsp; [L4] <br>
-‹pf› Maurizio Pollini&nbsp; (München: Bayerische Akademie der Wissenschaften, Plenarsaal, 1974)
+‹pf› Maurizio Pollini&nbsp; (München: Bayerische Akademie der Wissenschaften—Plenarsaal, 1974)
 
 ---
 ---
@@ -743,7 +743,7 @@ I. [Präludium](https://youtu.be/GBWzWLo5G8M?t=8)&nbsp; [L4] <br>
 
 [1922]&nbsp; [_Kleine Kammermusik_, Op. 24, № 2](https://youtu.be/8xj_8bTCrQk?t=11):
 V. [Sehr lebhaft](https://youtu.be/aKYDWRzxgpg)&nbsp; [Y3] <br>
-🇳🇱 Koninklijk Concertgebouworkest; Riccardo Chailly&nbsp; (Amsterdam: Koninklijk Concertgebouw, Kleine Zaal, 1990)
+🇳🇱 Koninklijk Concertgebouworkest; Riccardo Chailly&nbsp; (Amsterdam: Koninklijk Concertgebouw—Kleine Zaal, 1990)
 
 ---
 
@@ -759,7 +759,7 @@ Ib. [Sehr breit, aber stets fliessend](https://youtu.be/j6vxqnnEwiE?t=306)&nbsp;
 (English, 1902–1983) 
 
 [1922]&nbsp; [_Façade_: "I Do Like to Be Beside the Seaside" (Tango-Pasodoblé)](https://youtu.be/79ahguBURn4)&nbsp; [Y20] <br>
-🇩🇪 Berliner Philharmoniker; ‹nar› Barbara Hannigan; Simon Rattle&nbsp; (Berlin: Berliner Philharmonie, Kammermusiksaal, 2012)
+🇩🇪 Berliner Philharmoniker; ‹nar› Barbara Hannigan; Simon Rattle&nbsp; (Berlin: Berliner Philharmonie—Kammermusiksaal, 2012)
 
 ---
 ---
@@ -806,7 +806,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 (Spanish, 1460–1504) 
 
 [1505–1520]&nbsp; [La Spagna. Danza alta in D minor](https://youtu.be/Xj_7wDVDFBw)&nbsp;◁ _Cancionero de Palacio_, № 321&nbsp; [Y10] <br>
-🇨🇭 Hespèrion XXI; Jordi Savall&nbsp; (Barcelona: Església de Sant Vicenç, Castell de Cardona, 2004)
+🇨🇭 Hespèrion XXI; Jordi Savall&nbsp; (Barcelona: Castell de Cardona—Església de Sant Vicenç, 2004)
 
 ---
 ---
@@ -876,7 +876,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 ---
 
 [1829]&nbsp; [_Guillaume Tell_: Overture](https://youtu.be/IkUlPLNzoBs)&nbsp; [Y1, Y25, U3] <br>
-🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano&nbsp; (Roma: Auditorium Parco della Musica, Sala Santa Cecilia, 2010)
+🇮🇹 Orchestra dell'Accademia Nazionale di Santa Cecilia; Antonio Pappano&nbsp; (Roma: Auditorium Parco della Musica—Sala Santa Cecilia, 2010)
 
 ---
 ---
@@ -944,7 +944,7 @@ III. [Allegro non troppo](https://youtu.be/YYXKq4kKFro)&nbsp; [Y21, F5, U3] <br>
 (French, 1835–1921)
 
 [1888]&nbsp; [Cello Concerto № 1 in A minor, Op. 33](https://youtu.be/fvcdunC_0kw)&nbsp; [Y21] <br>
-🇫🇷 Orchestre national de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Maison de la Radio, Studio 103, 1980)
+🇫🇷 Orchestre national de France; ‹vc› Yo-Yo Ma; Lorin Maazel&nbsp; (Paris: Maison de la Radio—Studio 103, 1980)
 
 ---
 ---
@@ -1169,7 +1169,7 @@ VI. ["Qui sedes ad dexteram Patris"](https://youtu.be/_BlW8sGDUTE)&nbsp; [F10] <
 I. [Antienne de la conversation intérieure](https://youtu.be/Us6fWBUZpVE) |
 II. [Séquence du verbe, cantique divin](https://youtu.be/OUQTzbcnjeE) |
 III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F10] <br>
-🇩🇰 Danmarks Underholdningsorkester, Danmarks Radio Vokalensemblet & Koncertkoret; ‹pf› Marianna Shirinyan, ‹ondes Martenot› Thomas Bloch; Marcus Creed&nbsp; (Copenhagen: DR Studio 2, 2014)
+🇩🇰 Danmarks Underholdningsorkester, Danmarks Radio Vokalensemblet & Koncertkoret; ‹pf› Marianna Shirinyan, ‹ondes Martenot› Thomas Bloch; Marcus Creed&nbsp; (København: DR Studio 2, 2014)
 
 ---
 ---
@@ -1212,7 +1212,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 
 [1833]&nbsp; [Nocturne № 5 in F-sharp major](https://youtu.be/efLxMjeSb_Y)
 ◁ 3 Nocturnes, Op. 15: № 2&nbsp; [Y1] <br>
-‹pf› Claudio Arrau&nbsp; (Amsterdam: Koninklijk Concertgebouw, Kleine Zaal, 1978)
+‹pf› Claudio Arrau&nbsp; (Amsterdam: Koninklijk Concertgebouw—Kleine Zaal, 1978)
 
 ---
 
@@ -1223,7 +1223,7 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 ---
 
 [1835]&nbsp; [Ballade № 1 in G minor, Op. 23](https://youtu.be/64UEt-bZWyM)&nbsp; [U3] <br>
-‹pf› Murray Perahia&nbsp; (La Chaux-de-Fonds, Neuchâtel: Musica Théâtre, Salle de Musique, 1994)
+‹pf› Murray Perahia&nbsp; (La Chaux-de-Fonds, Neuchâtel: Musica Théâtre—Salle de Musique, 1994)
 
 ---
 
@@ -1324,7 +1324,7 @@ II. [Allegro con grazia](https://youtu.be/ZmvI4iVYkVk)&nbsp; [Y21, O3, O6, F5] <
 ---
 
 [1880]&nbsp; [Торжественная увертюра «1812 год» [_1812 Overture_], Op. 49; TH 49](https://youtu.be/gXyS-ednXzY)&nbsp; [Y20] <br>
-🇷🇺 Санкт-Петербургской филармонии, Оркестр штаба Ленинградского военного округа, Санкт-Петербургский камерный хор; Владимир Ашкенази [Vladimir Ashkenazy]&nbsp; (Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1996)
+🇷🇺 Санкт-Петербургской филармонии, Оркестр штаба Ленинградского военного округа, Санкт-Петербургский камерный хор; Владимир Ашкенази [Vladimir Ashkenazy]&nbsp; (Санкт-Петербург: Санкт-Петербургская филармония—Большой зал, 1996)
 
 ---
 
@@ -1567,13 +1567,13 @@ I. ["Рождение Киже [Birth of Kijé]"](https://youtu.be/DNDFP9L0XdE)&
 
 [1937]&nbsp; [Symphony № 5 in D minor, Op. 47](https://youtu.be/Avt-KOQy1mo):
 II. [Allegretto](https://youtu.be/Avt-KOQy1mo?t=907)&nbsp; [L4, U3] <br>
-🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Большой зал, Ленинградской филармонии, 1984)
+🇷🇺 Ленинградской филармонии; Евгений Мравинский [Yevgeny Mravinsky]&nbsp; (Ленинград: Ленинградской филармонии—Большой зал, 1984)
 
 ---
 
 [1941]&nbsp; [Symphony № 7 in C major, Op. 60](https://youtu.be/HyyRDvOmoCA):
 I. [Allegretto](https://youtu.be/HyyRDvOmoCA)&nbsp; [Y34, F1] <br>
-🇷🇺 Санкт-Петербургской филармонии; Юрий Темирканов [Yuri Temirkanov]  (Санкт-Петербург: Большой зал, Санкт-Петербургская филармония, 1995)
+🇷🇺 Санкт-Петербургской филармонии; Юрий Темирканов [Yuri Temirkanov]  (Санкт-Петербург: Санкт-Петербургская филармония—Большой зал, 1995)
 
 ---
 
@@ -1682,7 +1682,7 @@ III. ["The Fourth of July"](https://youtu.be/ujh8hr1n27o)&nbsp; [Y29, Y38] <br>
 (American, 1895–1973) 
 
 [1934]&nbsp; [_Five Miniatures for Orchestra_](https://youtu.be/EWXyPNJH6HA): V. ["Mosquito Dance"](https://youtu.be/EWXyPNJH6HA)&nbsp; [Y6] <br>
-🇺🇸 Boston Pops Orchestra; Arthur Fiedler&nbsp; (1963)
+🇺🇸 Boston Pops Orchestra; Arthur Fiedler&nbsp;(1963)
 
 ---
 ---
@@ -1755,7 +1755,7 @@ III. [Vivace](https://youtu.be/XXzRZsZjgKQ)&nbsp; [Y2, Y24] <br>
 🇳🇱 Ebony Band Amsterdam; Werner Herbers&nbsp; (Tilburg: Schouwburg Concertzaal, 2003)
 
 > [1938]&nbsp; [_Sensemayá_, R. 67](https://youtu.be/zCBDqPyXsdo) (for Orchestra)&nbsp; [Y23] <br>
-> 🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2008)
+> 🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Centro Nacional de Acción Social por la Música—Sala Simón Bolivar, 2008)
 
 ---
 ---
@@ -1867,7 +1867,7 @@ Music Center, 1968)
 (American, 1913–1996)
 
 [1945]&nbsp; [_American Concertette_, or _Interplay_:](https://youtu.be/01rufh4FDkE) I. [With drive and vigor](https://youtu.be/01rufh4FDkE)&nbsp; [Y2] <br>
-🇩🇪 Rundfunkorchester Hannover; ‹pf› Julius Bassler; Richard Müller-Lampertz (?)
+🇩🇪 Rundfunkorchester Hannover; ‹pf› Julius Bassler; Richard Müller-Lampertz
 
 ---
 ---
@@ -1895,7 +1895,7 @@ Music Center, 1968)
 ---
 
 [1957]&nbsp; [_West Side Story_: Mambo](https://youtu.be/NYvEvP2cmdk) from Act I&nbsp; [Y23, O8] <br>
-🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Sala Simón Bolivar, Centro Nacional de Acción Social por la Música, 2007) 
+🇻🇪 Orquesta Juvenil Simón Bolivar de Venezuela; Gustavo Dudamel&nbsp; (Caracas: Centro Nacional de Acción Social por la Música—Sala Simón Bolivar, 2007) 
 
 > [1960]&nbsp; [Symphonic Dances ◁ _West Side Story_](https://youtu.be/js7vOU8lfYM): 
 III. [Scherzo](https://youtu.be/js7vOU8lfYM?t=479) |
@@ -2097,7 +2097,7 @@ VIII. [Rumble (Molto allegro)](https://youtu.be/js7vOU8lfYM?t=1020)&nbsp; [Y23, 
 [1956]&nbsp; [_My Fair Lady_: "I Could Have Danced All Night"](https://youtu.be/zpgnolyNGjQ?t=1529)&nbsp; [O5] <br>
 🎼 Frederick Loewe <br>
 📃 Alan Jay Lerner <br>
-🎙️ Kiri Te Kanawa; London Symphony Orchestra; John Mauceri&nbsp; (London: Royal Albert Hall, 1987)
+🎙️ Kiri Te Kanawa&nbsp;(1987)
 
 
 
