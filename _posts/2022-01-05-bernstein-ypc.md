@@ -545,7 +545,7 @@ IV. [Adagio–Più andante–Allegro non troppo, ma con brio–Più allegro](htt
 
 ---
 
-[1877]&nbsp; [Symphony № 2 in D major, Op. 73:](https://youtu.be/Zi5vLfekHm4) 
+[1877]&nbsp; [Symphony № 2 in D major, Op. 73](https://youtu.be/Zi5vLfekHm4): 
 IV. [Allegro con spirito](https://youtu.be/V8bExUCQZ98)&nbsp; [Y4]<br>
 🇩🇪 Gewandhausorchester; Riccardo Chailly&nbsp; (Leipzig: Gewandhaus, 2012)
 
