@@ -220,7 +220,7 @@ II. [Allegretto](https://youtu.be/blrB2gSn9iI?t=118)&nbsp; [387] <br>
 
 ---
 
-[MILHAUD, 1919]&nbsp; [_Suite symphonique_ № 2,  Op. 57](https://youtu.be/jrWlZZ8YpHg):
+[MILHAUD, 1919]&nbsp; [_Suite symphonique № 2_,  Op. 57](https://youtu.be/jrWlZZ8YpHg):
 I. [Overture (Modéré)](https://youtu.be/jrWlZZ8YpHg?t=160)&nbsp; [389] <br>
 🇺🇸 San Francisco Symphony; Pierre Monteux&nbsp; (San Francisco: War Memorial Opera House, 1945)
 
