@@ -14,6 +14,16 @@ tags: music
 
 #### A1.&nbsp; String (general)
 
+<div style="background-color:white; text-align:center; vertical-align: middle; padding:5px 0;">
+</div>
+
+<div style="background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;">
+<b>Legato</b> without and with slurs; bow changes
+</div>
+
+<div style="background-color:white; text-align:center; vertical-align: middle; padding:10px 0;">
+</div>
+
 [Franck, 1888]&nbsp; [Symphony in D minor, FWV 48; CFF 130](https://youtu.be/_8_8oeU39u8): 
 I. [Lento–Allegro non troppo](https://youtu.be/_8_8oeU39u8?t=422)&nbsp; [1] <br>
 🇫🇷 Orchestre des Champs-Élysées; Philippe Herreweghe&nbsp; (Metz: Arsenal, 2001) <br>
@@ -33,8 +43,15 @@ II. [Andante con moto](https://youtu.be/0VWlxbHmkbU)&nbsp; [2] <br>
 
 [Beethoven, 1806]&nbsp; [Symphony № 4 in B-flat major, Op. 60](https://youtu.be/fISnFVEHuNE): II. [Allegro ma non troppo](https://youtu.be/Ypy7o0twLoo)&nbsp; [4] <br>
 🇨🇭 Tonhalle-Orchester Zürich; David Zinman&nbsp; (Zürich: Tonhalle, 1998)
+<br><br>
 
----
+
+<div style="background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;">
+<b>Détaché</b> (nonlegato)—à la pointe & au talon
+</div>
+
+<div style="background-color:white; text-align:center; vertical-align: middle; padding:10px 0;">
+</div>
 
 [Schubert, 1822]&nbsp; [Symphony № 8 in B minor, D. 759](https://youtu.be/ORieaXQ69pU): II. [Andante con moto](https://youtu.be/5I84fMjvwNY?t=474)&nbsp; [5] <br>
 🇬🇧 Orchestra of the Age of Enlightenment; Charles Mackerras&nbsp; (London: Abbey Road Studio 1, 1990)
@@ -54,14 +71,30 @@ II. [Andante con moto](https://youtu.be/0VWlxbHmkbU)&nbsp; [2] <br>
 [Stravinsky, 1913]&nbsp; [_Le Sacre du printemps_, K015:](https://youtu.be/4PUlxNXXIV0) 
 ["Augures printaniers (danse des adolescentes)"](https://youtu.be/4PUlxNXXIV0?t=213) from Tableau I&nbsp; [8] <br>
 🇺🇸 The Cleveland Orchestra; Pierre Boulez&nbsp; (Cleveland: Masonic Auditorium, 1991)
+<br><br>
 
----
+
+
+<div style="background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;">
+<b>Louré</b>: combination of legato & nonlegato
+</div>
+
+<div style="background-color:white; text-align:center; vertical-align: middle; padding:10px 0;">
+</div>
 
 [Sibelius, 1902]&nbsp; [Symphony № 2 in D major, Op. 43](https://youtu.be/raIy56s-O7w):
 I. [Allegretto–Poco allegro–Tranquillo, ma poco a poco ravvivando il tempo al allegro](https://youtu.be/9wN8YxH0L40)&nbsp; [9] <br>
 🇳🇱 Koninklijk Concertgebouworkest; Széll György [George Szell]&nbsp; (Amsterdam: Koninklijk Concertgebouw, 1964)
+<br><br>
 
----
+
+
+<div style="background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;">
+<b>Staccato</b>—spicatto (saltando), jeté (saltato),  martellato, & slurred staccato
+</div>
+
+<div style="background-color:white; text-align:center; vertical-align: middle; padding:10px 0;">
+</div>
 
 [Beethoven, 1800]&nbsp; [Symphony № 1 in C major, Op. 21](https://youtu.be/yGoWGRd7SVo):
 II. [Andante cantabile con moto](https://youtu.be/a4GMp8F0X18?t=187)&nbsp; [10] <br>
@@ -103,6 +136,15 @@ I. [Bedächtig, nicht eilen](https://youtu.be/QFgH1xBOoDU?t=59)&nbsp; [14] <br>
 [Berlioz, 1830]&nbsp; [_Symphonie fantastique_, Op. 14; H. 48](https://youtu.be/eDWqBbG8Ivw): 
 IV. ["Marche au supplice"](https://youtu.be/JVWqpOkk7RE?t=340)&nbsp; [16] <br>
 🇫🇷 Les Siècles; François-Xavier Roth&nbsp; (Alfortville: Maison de l’Orchestre national d’Île-de-France, 2019)
+
+---
+
+[Weber, 1947]&nbsp; [_Euryanthe_, Op. 81; J. 291:](https://youtu.be/JP-pDSDVkUo) 
+[Overture](https://youtu.be/JP-pDSDVkUo?t=295)&nbsp; [17] <br>
+🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelík&nbsp; (München: Herkulessaal, Münchner Residenz, 1964)
+<br><br>
+
+
 
 <br>
 
@@ -229,6 +271,18 @@ I. [Overture (Modéré)](https://youtu.be/jrWlZZ8YpHg?t=160)&nbsp; [389] <br>
 
 
 #### B4.&nbsp; Part writing
+
+[Franck, 1888]&nbsp; [Symphony in D minor, FWV 48; CFF 130](https://youtu.be/_8_8oeU39u8): 
+II. [Allegretto](https://youtu.be/8uePs-175Hs?t=471)&nbsp; [390] <br>
+🇫🇷 Orchestre des Champs-Élysées; Philippe Herreweghe&nbsp; (Metz: Arsenal, 2001) <br>
+
+---
+
+[Mozart, 1774]&nbsp; [Symphony № 28 in C major, K. 200](https://youtu.be/RkXQ46VtNPA):
+III. [Menuetto (allegretto)](https://youtu.be/vuFfO4WS6Qg)&nbsp; [391] <br>
+🇬🇧 The English Concert; Trevor Pinnock&nbsp; (London: Henry Wood Hall, 1994)
+
+---
 
 <br>
 

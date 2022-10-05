@@ -5,15 +5,25 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 03 Oct 2022 07:27:02 -0400</pubDate>
+    <pubDate>Wed, 05 Oct 2022 01:44:20 -0400</pubDate>
     
       <item>
         <title>The Piston Music Primers&amp;colon;&amp;nbsp; III. Orchestration</title>
-        <link>/2022/09/27/orchestration.html</link>
-        <guid isPermaLink="true">/2022/09/27/orchestration.html</guid>
+        <link>/2022/09/27/piston-orchestration.html</link>
+        <guid isPermaLink="true">/2022/09/27/piston-orchestration.html</guid>
         <description>&lt;h2 id=&quot;a-instruments&quot;&gt;A.  Instruments&lt;/h2&gt;
 
 &lt;h4 id=&quot;a1-string-general&quot;&gt;A1.  String (general)&lt;/h4&gt;
+
+&lt;div style=&quot;background-color:white; text-align:center; vertical-align: middle; padding:5px 0;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;&quot;&gt;
+&lt;b&gt;Legato&lt;/b&gt; without and with slurs; bow changes
+&lt;/div&gt;
+
+&lt;div style=&quot;background-color:white; text-align:center; vertical-align: middle; padding:10px 0;&quot;&gt;
+&lt;/div&gt;
 
 &lt;p&gt;[Franck, 1888]  &lt;a href=&quot;https://youtu.be/_8_8oeU39u8&quot;&gt;Symphony in D minor, FWV 48; CFF 130&lt;/a&gt;: 
 I. &lt;a href=&quot;https://youtu.be/_8_8oeU39u8?t=422&quot;&gt;Lento–Allegro non troppo&lt;/a&gt;  [1] &lt;br /&gt;
@@ -33,9 +43,15 @@ II. &lt;a href=&quot;https://youtu.be/0VWlxbHmkbU&quot;&gt;Andante con moto&lt;/
 &lt;hr /&gt;
 
 &lt;p&gt;[Beethoven, 1806]  &lt;a href=&quot;https://youtu.be/fISnFVEHuNE&quot;&gt;Symphony № 4 in B-flat major, Op. 60&lt;/a&gt;: II. &lt;a href=&quot;https://youtu.be/Ypy7o0twLoo&quot;&gt;Allegro ma non troppo&lt;/a&gt;  [4] &lt;br /&gt;
-🇨🇭 Tonhalle-Orchester Zürich; David Zinman  (Zürich: Tonhalle, 1998)&lt;/p&gt;
+🇨🇭 Tonhalle-Orchester Zürich; David Zinman  (Zürich: Tonhalle, 1998)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;div style=&quot;background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;&quot;&gt;
+&lt;b&gt;Détaché&lt;/b&gt; (nonlegato)—à la pointe &amp;amp; au talon
+&lt;/div&gt;
+
+&lt;div style=&quot;background-color:white; text-align:center; vertical-align: middle; padding:10px 0;&quot;&gt;
+&lt;/div&gt;
 
 &lt;p&gt;[Schubert, 1822]  &lt;a href=&quot;https://youtu.be/ORieaXQ69pU&quot;&gt;Symphony № 8 in B minor, D. 759&lt;/a&gt;: II. &lt;a href=&quot;https://youtu.be/5I84fMjvwNY?t=474&quot;&gt;Andante con moto&lt;/a&gt;  [5] &lt;br /&gt;
 🇬🇧 Orchestra of the Age of Enlightenment; Charles Mackerras  (London: Abbey Road Studio 1, 1990)&lt;/p&gt;
@@ -54,15 +70,27 @@ II. &lt;a href=&quot;https://youtu.be/0VWlxbHmkbU&quot;&gt;Andante con moto&lt;/
 
 &lt;p&gt;[Stravinsky, 1913]  &lt;a href=&quot;https://youtu.be/4PUlxNXXIV0&quot;&gt;&lt;em&gt;Le Sacre du printemps&lt;/em&gt;, K015:&lt;/a&gt; 
 &lt;a href=&quot;https://youtu.be/4PUlxNXXIV0?t=213&quot;&gt;“Augures printaniers (danse des adolescentes)”&lt;/a&gt; from Tableau I  [8] &lt;br /&gt;
-🇺🇸 The Cleveland Orchestra; Pierre Boulez  (Cleveland: Masonic Auditorium, 1991)&lt;/p&gt;
+🇺🇸 The Cleveland Orchestra; Pierre Boulez  (Cleveland: Masonic Auditorium, 1991)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;div style=&quot;background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;&quot;&gt;
+&lt;b&gt;Louré&lt;/b&gt;: combination of legato &amp;amp; nonlegato
+&lt;/div&gt;
+
+&lt;div style=&quot;background-color:white; text-align:center; vertical-align: middle; padding:10px 0;&quot;&gt;
+&lt;/div&gt;
 
 &lt;p&gt;[Sibelius, 1902]  &lt;a href=&quot;https://youtu.be/raIy56s-O7w&quot;&gt;Symphony № 2 in D major, Op. 43&lt;/a&gt;:
 I. &lt;a href=&quot;https://youtu.be/9wN8YxH0L40&quot;&gt;Allegretto–Poco allegro–Tranquillo, ma poco a poco ravvivando il tempo al allegro&lt;/a&gt;  [9] &lt;br /&gt;
-🇳🇱 Koninklijk Concertgebouworkest; Széll György [George Szell]  (Amsterdam: Koninklijk Concertgebouw, 1964)&lt;/p&gt;
+🇳🇱 Koninklijk Concertgebouworkest; Széll György [George Szell]  (Amsterdam: Koninklijk Concertgebouw, 1964)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;div style=&quot;background-color:#E8E8E8; text-align:left; vertical-align: center; padding:10px 15px;&quot;&gt;
+&lt;b&gt;Staccato&lt;/b&gt;—spicatto (saltando), jeté (saltato),  martellato, &amp;amp; slurred staccato
+&lt;/div&gt;
+
+&lt;div style=&quot;background-color:white; text-align:center; vertical-align: middle; padding:10px 0;&quot;&gt;
+&lt;/div&gt;
 
 &lt;p&gt;[Beethoven, 1800]  &lt;a href=&quot;https://youtu.be/yGoWGRd7SVo&quot;&gt;Symphony № 1 in C major, Op. 21&lt;/a&gt;:
 II. &lt;a href=&quot;https://youtu.be/a4GMp8F0X18?t=187&quot;&gt;Andante cantabile con moto&lt;/a&gt;  [10] &lt;br /&gt;
@@ -104,6 +132,13 @@ I. &lt;a href=&quot;https://youtu.be/QFgH1xBOoDU?t=59&quot;&gt;Bedächtig, nicht
 &lt;p&gt;[Berlioz, 1830]  &lt;a href=&quot;https://youtu.be/eDWqBbG8Ivw&quot;&gt;&lt;em&gt;Symphonie fantastique&lt;/em&gt;, Op. 14; H. 48&lt;/a&gt;: 
 IV. &lt;a href=&quot;https://youtu.be/JVWqpOkk7RE?t=340&quot;&gt;“Marche au supplice”&lt;/a&gt;  [16] &lt;br /&gt;
 🇫🇷 Les Siècles; François-Xavier Roth  (Alfortville: Maison de l’Orchestre national d’Île-de-France, 2019)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Weber, 1947]  &lt;a href=&quot;https://youtu.be/JP-pDSDVkUo&quot;&gt;&lt;em&gt;Euryanthe&lt;/em&gt;, Op. 81; J. 291:&lt;/a&gt; 
+&lt;a href=&quot;https://youtu.be/JP-pDSDVkUo?t=295&quot;&gt;Overture&lt;/a&gt;  [17] &lt;br /&gt;
+🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelík  (München: Herkulessaal, Münchner Residenz, 1964)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -225,6 +260,18 @@ I. &lt;a href=&quot;https://youtu.be/jrWlZZ8YpHg?t=160&quot;&gt;Overture (Modér
 
 &lt;h4 id=&quot;b4-part-writing&quot;&gt;B4.  Part writing&lt;/h4&gt;
 
+&lt;p&gt;[Franck, 1888]  &lt;a href=&quot;https://youtu.be/_8_8oeU39u8&quot;&gt;Symphony in D minor, FWV 48; CFF 130&lt;/a&gt;: 
+II. &lt;a href=&quot;https://youtu.be/8uePs-175Hs?t=471&quot;&gt;Allegretto&lt;/a&gt;  [390] &lt;br /&gt;
+🇫🇷 Orchestre des Champs-Élysées; Philippe Herreweghe  (Metz: Arsenal, 2001) &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Mozart, 1774]  &lt;a href=&quot;https://youtu.be/RkXQ46VtNPA&quot;&gt;Symphony № 28 in C major, K. 200&lt;/a&gt;:
+III. &lt;a href=&quot;https://youtu.be/vuFfO4WS6Qg&quot;&gt;Menuetto (allegretto)&lt;/a&gt;  [391] &lt;br /&gt;
+🇬🇧 The English Concert; Trevor Pinnock  (London: Henry Wood Hall, 1994)&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;b5-contrapuntal-texture&quot;&gt;B5.  Contrapuntal texture&lt;/h4&gt;
@@ -244,6 +291,73 @@ I. &lt;a href=&quot;https://youtu.be/jrWlZZ8YpHg?t=160&quot;&gt;Overture (Modér
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Sep 2022 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>The Piston Music Primers&amp;colon;&amp;nbsp; II. Counterpoint</title>
+        <link>/2022/09/26/piston-counterpoint.html</link>
+        <guid isPermaLink="true">/2022/09/26/piston-counterpoint.html</guid>
+        <description>&lt;h4 id=&quot;a-melodic-curve&quot;&gt;A.  Melodic Curve&lt;/h4&gt;
+
+&lt;p&gt;[Beethoven, 1799]  &lt;a href=&quot;https://youtu.be/mkkKYa8EwQg&quot;&gt;String Quartet № 1 in F major, Op. 18, № 1&lt;/a&gt;: 
+II. &lt;a href=&quot;https://youtu.be/1iTVLyUh-QY&quot;&gt;Adagio affettuoso ed appassionato&lt;/a&gt;  [1] &lt;br /&gt;
+🇮🇹 Quartetto Italiano: ‹vn› Paolo Borciani, ‹vn› Elisa Pegreffi, ‹va› Piero Farulli, ‹vc› Franco Rossi  (La Tour-de-Peilz, Vaud: Salle des Remparts, 1972)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Bach, J.S., 1722]  &lt;a href=&quot;https://youtu.be/il95KYc1f_8&quot;&gt;Prelude &amp;amp; Fugue № 13 in F-sharp minor, BWV 858:&lt;/a&gt; 
+&lt;a href=&quot;https://youtu.be/fSgi1uuyDXA?t=20&quot;&gt;Fugue&lt;/a&gt; ◁ &lt;em&gt;Das wohltemperierte Klavier&lt;/em&gt;, Teil I  [2] 
+ &lt;br /&gt; 
+‹hpd› Céline Frisch « Anthony Sidey &amp;amp; Frédéric Bal 1995 &lt;span style=&quot;font-size:0.85em&quot;&gt;⇦&lt;/span&gt; Gottfried Silbermann &lt;u&gt;1735&lt;/u&gt; »  (Namur: Église Saint-Rémi de Franc-Waret, 2014) &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Bach, J.C., 1782]  &lt;a href=&quot;https://youtu.be/hPN1pgia9Ik&quot;&gt;Symphony № 4 in D major, W. C27&lt;/a&gt;:
+III. &lt;a href=&quot;https://youtu.be/9pFOtSE4hxE&quot;&gt;Rondo (Presto)&lt;/a&gt;
+◁ &lt;em&gt;Six Grand Overtures&lt;/em&gt;, Op. 18  [3] &lt;br /&gt;
+🇩🇪 Akademie für Alte Musik Berlin  (Berlin: Großer Sendesaal, Haus des Rundfunks, 1993)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Bach, J.S., 1731]  &lt;a href=&quot;https://youtu.be/sHe9mPFsPeQ&quot;&gt;Concerto for Two Violins in D minor, BWV 1043&lt;/a&gt;: 
+II. &lt;a href=&quot;https://youtu.be/fcu7DkbQumY&quot;&gt;Largo ma non tanto&lt;/a&gt;  [4] 
+ &lt;br /&gt; 
+🇩🇪 Freiburger Barockorchester; ‹vn› Gottfried Von Der Goltz &amp;amp; Petra Müllejans  (Freiburg: Paulussaal, 2012)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Mozart, 1787]  &lt;a href=&quot;https://youtu.be/XIHU4R2-Imw&quot;&gt;Rondo in A minor, K. 511&lt;/a&gt;  [5] 
+ &lt;br /&gt; 
+‹fp› András Schiff « Anton Walter &lt;u&gt;1780&lt;/u&gt; »  (Salzburg: Mozarts Geburtshaus, 1991) &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[Chopin, 1842]  &lt;a href=&quot;https://youtu.be/Nk4OhC9MUlQ?t=171&quot;&gt;Impromptu № 3 in G-flat major, Op. 51&lt;/a&gt;  [6] 
+ &lt;br /&gt; 
+‹pf› Murray Perahia  (New York: CBS 30th Street Studio, 1975) &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Sep 2022 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>The Piston Music Primers&amp;colon;&amp;nbsp; I. Harmony</title>
+        <link>/2022/09/25/piston-harmony.html</link>
+        <guid isPermaLink="true">/2022/09/25/piston-harmony.html</guid>
+        <description>&lt;h4 id=&quot;a-melodic-curve&quot;&gt;A.  Melodic Curve&lt;/h4&gt;
+
+&lt;p&gt;[Franck, 1888]  &lt;a href=&quot;https://youtu.be/_8_8oeU39u8&quot;&gt;Symphony in D minor, FWV 48; CFF 130&lt;/a&gt;: 
+I. &lt;a href=&quot;https://youtu.be/_8_8oeU39u8?t=422&quot;&gt;Lento–Allegro non troppo&lt;/a&gt;  [1] &lt;br /&gt;
+🇫🇷 Orchestre des Champs-Élysées; Philippe Herreweghe  (Metz: Arsenal, 2001) &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Sep 2022 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -9463,424 +9577,6 @@ duc de la Rochefoucauld-Liancourt, and
 &lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Apr 2020 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Reverberating the Artistry</title>
-        <link>/2020/03/25/power-of-art.html</link>
-        <guid isPermaLink="true">/2020/03/25/power-of-art.html</guid>
-        <description>&lt;p&gt;In the BERNINI and DAVID episodes of this figure-centered art history series, artworks, reenactments, and storytelling are painted with musical pieces from the Baroque and the Classical periods. This note is aimed at reviewing the pas de deux of music and visual art through these accessible examples.&lt;/p&gt;
-
-&lt;p&gt;The following catalogue-ordered list is arranged in the format of&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Composer&lt;/strong&gt; &lt;br /&gt;
-        Musical piece (audio link) &lt;br /&gt;
-        [&lt;strong&gt;Artist&lt;/strong&gt;, &lt;em&gt;artwork&lt;/em&gt;]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;&lt;br /&gt;&lt;/dt&gt;
-  &lt;dt&gt;01  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mPhWDKT2gSk&quot;&gt;Madrigals, Book 8, “Hor che’l ciel e la terra e’l vento tace,” SV 147&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Gian Lorenzo Bernini&lt;/strong&gt;, &lt;em&gt;Ecstasy of Saint Teresa&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;02  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1Z1tpAsA2M8&quot;&gt;Madrigals, Book 8, “Altri canti di marte,” SV 155&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Cardinal Scipione Borghese&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;03  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N3XVvUxcIY0&quot;&gt;Madrigals, Book 8, “Lamento della ninfa,” SV 163: “Amor”&lt;/a&gt; 
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;David&lt;/em&gt; | &lt;em&gt;The Rape of Proserpina&lt;/em&gt; | &lt;em&gt;Apollo and Daphne&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;04  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XIsliS7oz8s&quot;&gt;&lt;em&gt;Vespro della Beata Vergine&lt;/em&gt; (&lt;em&gt;Vespers for the Blessed Virgin&lt;/em&gt;), SV 206: “Pulchra es”&lt;/a&gt; 
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Costanza Bonarelli&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;05  Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ODZ1laysiFI&quot;&gt;&lt;em&gt;L’incoronazione di Poppea&lt;/em&gt; (&lt;em&gt;The Coronation of Poppaea&lt;/em&gt;), SV 308: Act III, “A Dio, Roma!”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Ecstasy of Saint Teresa&lt;/em&gt; | &lt;em&gt;Bust of Costanza Bonarelli&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;06  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OJQ04_y6e6c&quot;&gt;Sonata in E-flat major “Al santo sepolcro,” RV 130: Largo molto&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Ecstasy of Saint Teresa&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;07  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Bxp74hB-4Zw&quot;&gt;Nisi Dominus, RV 608: “Cum dederit” (Andante)&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Jacques-Louis David&lt;/strong&gt;, &lt;em&gt;Le Serment des Horaces&lt;/em&gt; (&lt;em&gt;Oath of the Horatii&lt;/em&gt;) |
-&lt;em&gt;Le Serment du Jeu de paume&lt;/em&gt; (&lt;em&gt;The Tennis Court Oath&lt;/em&gt;) | 
-&lt;em&gt;Les licteurs rapportent à Brutus les corps de ses fils&lt;/em&gt; (&lt;em&gt;The Lictors Bring to Brutus the Bodies of His Sons&lt;/em&gt;) |
-&lt;em&gt;La Mort de Marat&lt;/em&gt; (&lt;em&gt;The Death of Marat&lt;/em&gt;)
-]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;08  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wqAx99Cigig&quot;&gt;Salve Regina, RV 616: “Et Jesum” (Andante molto)&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;François Boucher&lt;/strong&gt;, &lt;em&gt;Le Jugement de Pâris&lt;/em&gt; (&lt;em&gt;The Judgment of Paris&lt;/em&gt;)]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;09  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Dzg91IyhIt8&quot;&gt;Stabat Mater, RV 621: “Cujus animam gementem”&lt;/a&gt;
-&lt;br /&gt;
-[Bernini’s demolished bell towers for the St. Peter’s Basilica]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;10  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=j5lkTEKQiXM&quot;&gt;Stabat Mater, RV 621: “Eja mater, fons amoris”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Francesco Borromini&lt;/strong&gt;, San Carlo alle Quattro Fontane | &lt;strong&gt;Bernini&lt;/strong&gt;, Sant’Andrea al Quirinale]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;11  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zIxXMIie9XI&quot;&gt;&lt;em&gt;Filiae Maestae Jerusalem&lt;/em&gt;, RV 638: “Sileant zephyri”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Blessed Ludovica Albertoni&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;12  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zTXdQuWiWAw&quot;&gt;Cantata “Cessate, omai cessate,” RV 684: “A voi dunque ricorro”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Martyrdom of Saint Lawrence&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;13  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=66OJIcGSkKs&quot;&gt;Cantata “Cessate, omai cessate,” RV 684: “Nell’orrido albergo”&lt;/a&gt;
-&lt;br /&gt;
-[End titles of BERNINI]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;14  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2QYuh9D1JEo&quot;&gt;&lt;em&gt;L’Olimpiade&lt;/em&gt;, RV 725: Sinfonia&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Pope Gregory XV&lt;/em&gt; | &lt;em&gt;Statue of Pope Urban VIII&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;15  Antonio Vivaldi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VHUiG1TpBGU&quot;&gt;&lt;em&gt;L’Olimpiade&lt;/em&gt;, RV 725: Act II, “Gemo in un punto e fremo”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bacchanal: A Faun Teased by Children&lt;/em&gt; | &lt;em&gt;The Goat Amalthea with the Infant Jupiter and a Faun&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;16  George Frideric Handel&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RmeFTM80NDk&quot;&gt;&lt;em&gt;Rodelinda, regina de’ Longobardi&lt;/em&gt;, HWV 19: Act I, “Ombre, piante, urne funeste!”&lt;/a&gt;
-&lt;br /&gt;
-[Château de Versailles | &lt;strong&gt;David&lt;/strong&gt;, &lt;em&gt;Portrait d’Antoine-Laurent Lavoisier et de sa femme&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;17  George Frideric Handel&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=20Wy7kK_wGc&quot;&gt;&lt;em&gt;Acis and Galatea&lt;/em&gt;, HWV 49: Act II, “I rage, I melt, I burn!”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Costanza Bonarelli&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;18  Michael Haydn&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EUKFK2ezoCQ&amp;amp;t=21s&quot;&gt;Missa pro defuncto Archiepiscopo Sigismondo (Requiem in C minor), MH 155&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Élisabeth Vigée Le Brun&lt;/strong&gt;, &lt;em&gt;Portrait de Marie-Antoinette à la rose&lt;/em&gt; | &lt;strong&gt;David&lt;/strong&gt;, &lt;em&gt;Marie-Antoinette conduite à l’échafaud&lt;/em&gt; (&lt;em&gt;Marie Antoinette Led to Her Execution&lt;/em&gt;) | &lt;em&gt;Autoportrait&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;19  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=czpbVZI5-Pk&quot;&gt;Great Mass in C minor, K. 427/417a: Laudamus te (Allegro aperto)&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Pierre Beaumarchais&lt;/strong&gt;, &lt;em&gt;La Folle Journée, ou le Mariage de Figaro&lt;/em&gt; (&lt;em&gt;The Marriage of Figaro&lt;/em&gt;)]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;20  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eX9V768gCso&quot;&gt;&lt;em&gt;Maurerische Trauermusik&lt;/em&gt; (&lt;em&gt;Masonic Funeral Music&lt;/em&gt;) in C minor, K. 477/479a&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;David&lt;/strong&gt;, &lt;em&gt;La Mort de Marat&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;21  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nGTBCWnwzgI&quot;&gt;&lt;em&gt;Le nozze di Figaro&lt;/em&gt; (&lt;em&gt;The Marriage of Figaro&lt;/em&gt;), K. 492: Act I, “Non so più cosa son, cos faccio”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Jean-Honoré Fragonard&lt;/strong&gt;, &lt;em&gt;Les Hasards heureux de l’escarpolette&lt;/em&gt; (&lt;em&gt;The Swing&lt;/em&gt;)]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;22  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BLtqZewjwgA&quot;&gt;&lt;em&gt;Le nozze di Figaro&lt;/em&gt;, K. 492: Act III, “Sull’aria… che soave zeffiretto”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Jean-Jacques Hauer&lt;/strong&gt;, &lt;em&gt;Portrait de Charlotte Corday&lt;/em&gt;]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;23  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FcA5_k2mq7c&quot;&gt;Aria for Soprano, “Alma grande e nobil core,” K. 578&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Jean-Baptiste Greuze&lt;/strong&gt;, &lt;em&gt;Une fille avec un canari mort&lt;/em&gt; (&lt;em&gt;A Girl with a Dead Canary&lt;/em&gt;)]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;24  Wolfgang Amadeus Mozart&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fX5zsrC6hYk&quot;&gt;&lt;em&gt;Die Zauberflöte&lt;/em&gt; (&lt;em&gt;The Magic Flute&lt;/em&gt;), K. 620: Act I, “O zittre nicht, mein lieber Sohn”&lt;/a&gt;
-&lt;br /&gt;
-[&lt;strong&gt;Auguste Couder&lt;/strong&gt;, &lt;em&gt;Ouverture des États généraux à Versailles, 5 mai 1789&lt;/em&gt; | end titles of DAVID]&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;25  &lt;strong&gt;Ludwig van Beethoven&lt;/strong&gt;&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Q3X5ZpLNILI&quot;&gt;Piano Sonata No. 14 in C♯ minor &lt;em&gt;“Quasi una fantasia”&lt;/em&gt;, Op. 27, No. 2 “Moonlight”&lt;/a&gt;
-&lt;br /&gt;
-[Opening titles] &lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;The motif of &lt;strong&gt;Claude Joseph Rouget de Lisle&lt;/strong&gt;’s &lt;em&gt;La Marseillaise&lt;/em&gt;, or &lt;em&gt;Chant de guerre pour l’armée du Rhin&lt;/em&gt; accompanies David’s Empire-style paintings during the Napoleonic era.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Music credits to the other six episodes: &lt;strong&gt;Peter Salem&lt;/strong&gt; (CARAVAGGIO), &lt;strong&gt;David Gale&lt;/strong&gt; and &lt;strong&gt;Andy Bush&lt;/strong&gt; (REMBRANDT), &lt;strong&gt;Niraj Chag&lt;/strong&gt; (TURNER and PICASSO), &lt;strong&gt;David Julyan&lt;/strong&gt; (VAN GOGH), and &lt;strong&gt;Daniel Giorgetti&lt;/strong&gt; (ROTHKO)
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Mar 2020 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Into the Knick&amp;colon;&amp;nbsp; I. The Playbill</title>
-        <link>/2019/11/14/knick-playbill.html</link>
-        <guid isPermaLink="true">/2019/11/14/knick-playbill.html</guid>
-        <description>&lt;p&gt;Often as climaxes in the plot, three dozen surgical scenes with remarkable reality are featured in the 20 episodes of &lt;em&gt;The Knick&lt;/em&gt;. Together they form the intellectual and technical skeleton of the storyline, and provide indispensable sources of dramatic tension.&lt;/p&gt;
-
-&lt;p&gt;Below is a list of the major operations with brief descriptions. Enclosed in the brackets are the participating surgeons, the first of whom leads the procedure. 
-Chickering, by default, refers to Dr. Bertram “Bertie” Chickering, Jr.; 
-Harriet is the Catholic religious name of Rose Agnes Dolan.
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;strong&gt;01  CESAREAN SECTION&lt;/strong&gt;  [01] &lt;br /&gt;
-  In her third pregnacy, Mrs. Warren presents with a case of &lt;em&gt;placenta previa&lt;/em&gt;. A caesarean delivery is attempted, but saves neither Warren nor the fetus, which is the twelfth failure of the same procedure in succession. &lt;br /&gt;
-  (Christiansen, Thackery, Gallinger, and Chickering)
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;02  INTESTINE RESECTION&lt;/strong&gt;  [01] &lt;br /&gt;
-  After an abdominal surgery for his pelvis fracture, Mr. Gentile is infected with &lt;em&gt;septicemia&lt;/em&gt; from his lacerated bowel and develops a case of &lt;em&gt;bronchitis&lt;/em&gt;, which prohibits the usage of ether for general anesthesia. Thackery demonstrates &lt;em&gt;spinal anesthesia&lt;/em&gt; and removes the damaged section of the patient’s bowel with the help of an intestinal clamp he recently improved. &lt;br /&gt;
-  (Thackery, Gallinger, Chickering, and Edwards)
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;03  UNDEDUCIBLE&lt;/strong&gt;  [02]  &lt;br /&gt;
-  An accident occurs during an operation when Chickering is testing the new electric cauterizer. The patient is set afire; Nurse Monk is electrocuted.&lt;br /&gt;
-  (Thackery, Gallinger, and Chickering)
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;04  AORTIC ANEURYSMORRHAPHY&lt;/strong&gt;  [02] &lt;br /&gt;
-  Mr. Olynyk is suffering from an &lt;em&gt;aortic aneurism&lt;/em&gt;. A resect-and-reconstruct procedure based on &lt;em&gt;Hunterian ligation&lt;/em&gt; is attempted, but fails. &lt;br /&gt;
-  (Thackery, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;05  INGUINAL HERNIA REPAIR&lt;/strong&gt;  [03] &lt;br /&gt;
-  In his underground operating room, Edwards invents a three-layer hernia procedure and performs it on Mr. Cockrell. The repair is successful, but the patient dies later as he ignores the postoperative instruction of refraining from strenuous activity. &lt;br /&gt;
-  (Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;06  REATTACHMENT RHINOPLASTY&lt;/strong&gt;  [03] &lt;br /&gt;
-  Thackery performs the rhinoplasty procedure for Mrs. Alford (Abigail Healey), infected with &lt;em&gt;syphilis&lt;/em&gt;, using her biceps muscle pedicle flap. &lt;br /&gt;
-  (Thackery)&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;07  INTESTINAL PERFORATION CLOSURE&lt;/strong&gt;  [03] &lt;br /&gt;
-  Cora Hemming develops a case of intestine perforation as a complication of her &lt;em&gt;typhoid fever&lt;/em&gt;. During the operation, two sections of her bowel are successfully stitched together to a fold in her peritoneum. &lt;br /&gt;
-  (Thackery and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;08  FILI-GALVANOPUNCTURE OF ANEURYSMS&lt;/strong&gt;  [04] &lt;br /&gt;
-  The doctors save Mr. Gatchell from his aortic aneurysm following a gavanic procedure that combines wire insertion and electrothrombosis. Edwards coauthors the original paper. &lt;br /&gt;
-  (Edwards, Gallinger, Thackery, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;09  UTERINE PERFORATION CLOSURE&lt;/strong&gt;  [04] &lt;br /&gt;
-  A Slovakian woman performs a surgical abortion on herself. The bleeding on her left uterine wall evetually leads to her death. &lt;br /&gt;
-  (Thackery, Harriet, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;10  TRAUMA SURGERY&lt;/strong&gt;  [05] &lt;br /&gt;
-  Thackery saves a leg of Bunky Collier’s brother-in-law from being amputated by removing a bullet lodged in the tunica. &lt;br /&gt;
-  (Thackery and Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;11  INGUINAL HERNIA REPAIR&lt;/strong&gt;  [05] &lt;br /&gt;
-  Edwards improves his inguinal hernia procedure by using silver wires as the medical suture for Mr. Mendieta. &lt;br /&gt;
-  (Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;12  CESAREAN SECTION&lt;/strong&gt;  [05] &lt;br /&gt;
-  During her labor, Mrs. Lefkowitz is diagnosed with an extreme case of &lt;em&gt;placenta previa&lt;/em&gt;. A C-section is performed in 72 seconds, but fails again. &lt;br /&gt;
-  (Thackery and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;13  BLOODLETTING&lt;/strong&gt;   [06] &lt;br /&gt;
-  Almost in a state of desperation, Gallinger performs &lt;em&gt;venesection&lt;/em&gt; (or &lt;em&gt;phlebotomy&lt;/em&gt;) on his own daughter Lillian to save her from &lt;em&gt;meningitis&lt;/em&gt;. This despairing effort results in failure.&lt;br /&gt;
-  (Gallinger and Harriet) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;14  CESAREAN SECTION&lt;/strong&gt;  [06]  &lt;br /&gt;
-  By inventing the method of &lt;em&gt;intrauterine balloon tamponade&lt;/em&gt;, which significantly reduces the danger of &lt;em&gt;postpartum hemorrhage&lt;/em&gt;, Thackery and Chickering safely deliver the baby of a six-time multigravida. &lt;br /&gt;
-  (Thackery and Chickering)  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;15  APPENDECTOMY&lt;/strong&gt;  [07] &lt;br /&gt;
-  Thackery demonstrates the method of finding the appendix of an &lt;em&gt;appendicitis&lt;/em&gt; patient, and Christiansen proves its surgical removal. Dr. William Halsted attends the operation. &lt;br /&gt;
-  (Christiansen and Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;16  TRACHEOTOMY&lt;/strong&gt;  [07] &lt;br /&gt;
-  Thackery saves Ping Wu from choking by performing an emergency &lt;em&gt;tracheotomy&lt;/em&gt;. &lt;br /&gt;
-  (Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;17  TRAUMA SURGERY&lt;/strong&gt;  [07]  &lt;br /&gt;
-  The doctors attempt to save Officer Phineas Sears, who gets multiple stab wounds at his lung, liver, and kidney. Sears dies after the first operation due to &lt;em&gt;internal hemorrhage&lt;/em&gt;. &lt;br /&gt;
-  (Thackery, Edwards, Chickering, and Gallinger) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;18  TRAUMA SURGERIES&lt;/strong&gt;  [07]  &lt;br /&gt;
-  The staffs of the Knickerborker Hospital and the Minetta Negro Infirmary treat a large number of injurers from the street riot.&lt;br /&gt;
-  (Thackery, Edwards, Gallinger, Chickering, Harriet, and Williams) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;19  CERVICOFACIAL ACTINOMYCOSIS SURGERY&lt;/strong&gt;  [08]  &lt;br /&gt;
-  While removing the abscess from the patient’s mental foramen, Thackery cannot finish the procedure due to his cocaine withdrawl. Edwards takes over the scalpel. &lt;br /&gt;
-  (Thackery, Edwards, and Gallinger) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;20  BRAIN TUMOR SURGERY&lt;/strong&gt;  [10]  &lt;br /&gt;
-  Before dealing with the tumor, Thackery relieves the patient’s intracranial pressure through &lt;em&gt;cranial trephination&lt;/em&gt;. The hole is left open after the operation. &lt;br /&gt;
-  (Thackery, Edwards, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;21  SPLENECTOMY&lt;/strong&gt;  [10]  &lt;br /&gt;
-  Zinberg operates on a &lt;em&gt;splenic anemia&lt;/em&gt; patient by surgically removing his spleen. &lt;br /&gt;
-  (Zinberg) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;22  BLOOD TRANSFUSION&lt;/strong&gt;  [10] &lt;br /&gt;
-  Thackery transfuses his own blood to the young Sonya Smyslov suffering from &lt;em&gt;anemia&lt;/em&gt; caused by &lt;em&gt;chlorosis&lt;/em&gt;. The girl is killed as a result of Thackery’s erroneous understanding of human blood types.&lt;br /&gt; 
-  (Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;23  CESAREAN SECTION&lt;/strong&gt;  [11] &lt;br /&gt;
-  Elkins assisted in a placenta previa surgery while Thackery is being “treated” at the Cromartie Hospital and Gallinger has not returned from his suspension. The procedure has become a routine at the Knick. &lt;br /&gt;
-  (Edwards and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;24  RHINOPLASTY&lt;/strong&gt;  [11] &lt;br /&gt;
-  Thackery performs a cosmetic surgery on a female Cromartie patient using her “golden” earring as an insert. &lt;br /&gt;
-  (Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;25  CHOLECYSTECTOMY&lt;/strong&gt;  [11] &lt;br /&gt;
-  During the operation, Edwards supervises Chickering to separate and ligate the two &lt;em&gt;cystic arteries&lt;/em&gt; within the patient’s &lt;em&gt;cystohepatic triangle&lt;/em&gt;, or &lt;em&gt;Calot’s triangle&lt;/em&gt;. &lt;br /&gt;
-  (Chickering and Edwards)  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;26  TUBERCULAR OSTEOMYELITIS SURGERY&lt;/strong&gt;  [11] &lt;br /&gt;
-  Chickering leads the procedure and dissects the abscess down to the bone to release the pus. Meanwhile, Mays shows incompetence of the surgical technique.&lt;br /&gt;
-  (Chickering and Mays) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;27  RETINAL DETACHMENT REPAIR&lt;/strong&gt;  [12] &lt;br /&gt;
-  The previous fight left Edwards’ retina almost separated from the rear wall of his left eye. An incision on the sclera is intended to release the subretinal fluid and thus have the retina in contact with the &lt;em&gt;choroid&lt;/em&gt;. The operation, however, is terminated at its beginning due to Thackery’s drug withdral and hallucinations.&lt;br /&gt;
-  (Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;28  HEPATIC CANCER SURGERY&lt;/strong&gt;   [13] &lt;br /&gt;
-  The doctors attempt to remove a tumor on the inferior surface of the patient’s liver. Edwards instructs Gallinger to bisect the healthy liver tissue leading to the tumor and tie off all blood vessles contained within.&lt;br /&gt;
-  (Gallinger and Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;29  TRACHEOTOMY&lt;/strong&gt;  [14] &lt;br /&gt;
-  While cauterizing the incision, Mays ignites the flammable ether and is killed by the fire. &lt;br /&gt;
-  (Mays) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;30  PYROTHERAPY OF NEUROSYPHILIS&lt;/strong&gt;  [14] &lt;br /&gt;
-  (Not a surgery)  Thackery elevates Abigail’s body temperature to 106 degrees Fahrenheit through the injection of malaria parasites. A higher therapeutic fever induced in a hypertherm cabinet effectively kills the &lt;em&gt;syphilis spirochetes&lt;/em&gt; (&lt;em&gt;Treponema pallidum&lt;/em&gt;). Her malaria is subsequently cured by &lt;em&gt;quinine&lt;/em&gt;.&lt;br /&gt;
-  (Thackery and Edwards) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;31  TOPECTOMY&lt;/strong&gt;  [15] &lt;br /&gt;
-  Experimenting on Mr. Sidney Carton, who loses the top of his cranium but retains an intact brain, Thackery elicits the motional and emotional responses of the patient by stimulating selected points of his brain with electric currents. Furthermore, using a rheoscope, Thackery identifies a brain spot excited after injecting the patient with a dose of morphine. In a subsequent operation, Thackery surgically removes the “morphine region,” but leaves Carton in a vegetative state.&lt;br /&gt;
-  (Thackery) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;32  TRAUMA SURGERIES&lt;/strong&gt;  [15] &lt;br /&gt;
-  The staff of the Knick treat 124 injurers from the construction accident of the New York City subway system, in which six people die and 150 wounded.&lt;br /&gt;
-  (Thackery, Edwards, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;33  ESOPHAGEAL CANCER SURGERY&lt;/strong&gt;  [16] &lt;br /&gt;
-  Several experimental methods are employed to treat the esophageal tumor of Anne Chickering, Bertie’s mother. After trying &lt;em&gt;Röntgenotherapy&lt;/em&gt;, Bertie and Edwards attempt an ionic surgery by passing electric currents through mercury-coated zinc needles inserted into the tumor. After confirming its inefficacy, Bertie decides on the highly risky &lt;em&gt;laryngectomy&lt;/em&gt;, which fails not unexpectedly due to the complex attachment of the tumor with the laryngeal, tracheal, and esophageal tissues.&lt;br /&gt;
-  (Chickering, Edwards, and Zinberg) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;34  SEPARATION OF OMPHALOPAGUS TWINS&lt;/strong&gt;  [17] &lt;br /&gt;
-  Through X-ray examination, Thackery concludes that the only vital organ that Zoya and Nika—a pair of Minsk-borned twins conjoined by a band of cartilage and soft tissue in their midsection—share is their liver. After devising a procedure to bisect the liver with little hemorrhaging, the surgical team, including four doctors and six nurses, separate the twins after a three-and-a-half-hour battle. The entire operation is filmed by a motion picture camera.&lt;br /&gt;
-  (Thackery, Edwards, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;35  UMBILICAL HERNIA REPAIR&lt;/strong&gt;  [17] &lt;br /&gt;
-  Mr. Garrison Carr is paralyzed on the operating table after Edwards injects his muscles attached to the aponeurotic membrane with a &lt;em&gt;curare&lt;/em&gt; solution secretly distilled by Gallinger, who then saves Carr in the emergency by a tracheotomy. &lt;br /&gt;
-  (Edwards and Gallinger) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;36  SEPTOPLASTY&lt;/strong&gt;  [18] &lt;br /&gt;
-  Thackery plans to place a celluloid insert into Abigail’s nasal cavities to support her reconstructed nose. Abruptly, Abigail dies of an anesthetic reaction before the operation starts. &lt;br /&gt;
-  (Thackery and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;37  INTESTINE RESECTION&lt;/strong&gt;  [20] &lt;br /&gt;
-  Traumatized by Abigail’s sudden death of general anesthesia, Thackery insists on demonstrating a self-surgery and resecting his own necrotic intestine sections to promote spinal anesthesia. While continuing the procedure despite the unancipatedly complicated necrosis, Thackery accidentally cuts his abdominal aorta and loses his life in his own operating room.&lt;br /&gt;
-  (Thackery, Gallinger, and Chickering) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
       </item>
     
   </channel>
