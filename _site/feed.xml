@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 09 Oct 2025 01:07:51 -0700</pubDate>
+    <pubDate>Thu, 09 Oct 2025 01:40:15 -0700</pubDate>
     
       <item>
         <title>From Artificial Atoms to Quantum Information Machines</title>
@@ -21,7 +21,7 @@ The Nobel Prize in Physics this year, announced by the Royal Swedish Academy of 
 
 &lt;p&gt;Quantum mechanics was originally formulated to explain and predict the perplexing behaviors of atoms, molecules and subatomic particles. It has since paved the way for a wide range of practical applications, including precision measurement, laser technology, medical imaging, and probably the most far-reaching of all—semiconductor electronic devices and computer chips.&lt;/p&gt;
 
-&lt;p&gt;Yet, numerous aspects of the quantum world have long remained mysterious to scientists and engineers. From an experimental point of view, the tiny scale of microscopic particles posts outstanding challenges for studying the subtle laws of quantum mechanics in laboratory settings.&lt;/p&gt;
+&lt;p&gt;Yet, numerous aspects of the quantum world have long remained mysterious to scientists and engineers. From an experimental point of view, the tiny scale of microscopic particles posts outstanding challenges for examining the subtle laws of quantum mechanics in laboratory settings.&lt;/p&gt;
 
 &lt;h3 id=&quot;-the-promises-of-quantum-machines&quot;&gt;&lt;br /&gt; The promises of quantum machines&lt;/h3&gt;
 
@@ -33,22 +33,22 @@ The Nobel Prize in Physics this year, announced by the Royal Swedish Academy of 
 
 &lt;h3 id=&quot;-quantum-mechanics-in-an-electrical-circuit&quot;&gt;&lt;br /&gt; Quantum mechanics in an electrical circuit&lt;/h3&gt;
 
-&lt;p&gt;In 1985, the three Nobel laureates—then working in the same research group at the University of California, Berkeley—reported an affirmative answer to the question above. They were studying electrical circuits made of &lt;em&gt;superconductors&lt;/em&gt;—a special state of matter famous for conducting electrical currents without resistance, due to underlying quantum mechanical interactions of electrons at low temperatures. For the first time, the trio observed distinct quantum behaviors of a &lt;em&gt;macroscopic&lt;/em&gt; physical variable.&lt;/p&gt;
+&lt;p&gt;In 1985, the three Nobel laureates—then working in the same research group at the University of California, Berkeley—reported an affirmative answer to the question above. They were studying electrical circuits made of &lt;em&gt;superconductors&lt;/em&gt;—a special state of matter famous for conducting electrical currents with no resistance, due to underlying quantum mechanical interactions of electrons at low temperatures. For the first time, the trio observed distinct quantum behaviors of a &lt;em&gt;macroscopic&lt;/em&gt; physical variable.&lt;/p&gt;
 
 &lt;p&gt;In a superconductor, two electrons bond together to form a &lt;em&gt;Cooper pair&lt;/em&gt;. These electron pairs condense into a macroscopic state, which can be described by a collective phase variable shared by all its microscopic constituents. In this state, trillions of (or even more) electrons effectively behave like a single entity, resembling those mass collection of atoms forming everyday objects like pendulums or billiard balls.&lt;/p&gt;
 
 &lt;p&gt;To observe the quantum mechanical motion of this macroscopic phase variable, the three scientists fabricated a device called the &lt;em&gt;Josephson junction&lt;/em&gt;, which consists of two pieces of superconductors separated by an insulator layer thinner than 1/10,000 of a human hair. They discovered that, at sufficiently low temperatures (below −273.1 °C), the phase variable difference across the Josephson junction shows a unique quantum mechanical phenomenon known as the &lt;em&gt;quantum tunneling&lt;/em&gt;, where an object may escape a barrier without the need to climb over its summit.&lt;/p&gt;
 
-&lt;p&gt;Furthermore, the team exposed the Josephson junction to &lt;em&gt;microwave&lt;/em&gt; electromagnetic radiation whose frequency is close to that of Wi-Fi signals. They measured energy levels of the circuit at discrete, or &lt;em&gt;quantized&lt;/em&gt; values, which are usually present only in microscopic atoms and molecules. The device used in these experiments can thus be referred to as an &lt;em&gt;artificial atom&lt;/em&gt;—namely, an electrical circuit with atom-like properties, which is at once macroscopic in size, adjustable in design, and quantum mechanical in nature.&lt;/p&gt;
+&lt;p&gt;Furthermore, the team exposed the Josephson junction to &lt;em&gt;microwave&lt;/em&gt; electromagnetic radiation, whose frequency is close to that of Wi-Fi signals. They measured energy levels of the circuit at discrete, or &lt;em&gt;quantized&lt;/em&gt; values, which are usually present only in microscopic atoms and molecules. The device used in these experiments can thus be referred to as an &lt;em&gt;artificial atom&lt;/em&gt;—namely, an electrical circuit with atom-like properties, which is at once macroscopic in size, adjustable in design, and quantum mechanical in nature.&lt;/p&gt;
 
 &lt;h3 id=&quot;-implications-and-outlooks&quot;&gt;&lt;br /&gt; Implications and outlooks&lt;/h3&gt;
 
-&lt;p&gt;The groundbreaking works by Clarke, Devoret, and Martinis have had many profound impacts. On the fundamental level, they suggested that distinct quantum phenomena—once thought to exist only at the microscopic level—can actually manifest on much larger physical scales. In the meantime, the invention of superconducting artificial atoms has opened brand new avenues toward building useful quantum machines with advanced engineering techniques.&lt;/p&gt;
+&lt;p&gt;The groundbreaking works by Clarke, Devoret, and Martinis have had many profound impacts. On the fundamental level, their observations suggested that distinct quantum phenomena—once thought to exist only at the microscopic level—can actually manifest on much larger physical scales. In the meantime, the invention of superconducting artificial atoms has opened brand new avenues toward building useful quantum machines with advanced engineering techniques.&lt;/p&gt;
 
-&lt;p&gt;Based on these discoveries, in the following decades, researchers—including the three Nobel Prize recipients and their research groups—have made significant achievements in constructing prototype &lt;em&gt;quantum computers&lt;/em&gt; using superconducting quantum circuits. The elementary device unit that makes up these information processors is the &lt;em&gt;superconducting quantum bit&lt;/em&gt;, or &lt;em&gt;qubit&lt;/em&gt; for short. Each superconducting qubit is an artificial atom containing one or more Josephson junctions. Its quantum state can be precisely prepared, manipulated, and measured by experimenters. The perfection and integration of superconducting qubits are among the state-of-the-art challenges in quantum information technology.&lt;/p&gt;
+&lt;p&gt;Based on these discoveries, in the following decades, researchers—including the three prize recipients and their research groups—have made significant achievements in constructing prototype &lt;em&gt;quantum computers&lt;/em&gt; using superconducting quantum circuits. The elementary device unit that makes up these information processors is the &lt;em&gt;superconducting quantum bit&lt;/em&gt;, or &lt;em&gt;qubit&lt;/em&gt; for short. Each superconducting qubit is an artificial atom containing one or more Josephson junctions. Its quantum state can be precisely prepared, manipulated, and measured by the experimenter. The perfection and integration of superconducting qubits are now among the state-of-the-art challenges in quantum information technology.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-As a relatively infrequent occurrence, the 2025 Nobel Prize in Physics recognizes original investigations in the intersection of &lt;em&gt;basic&lt;/em&gt; and &lt;em&gt;applied&lt;/em&gt; sciences. The prize recipients tested profound quantum mechanical hypotheses through clear and rigorous experimentation. From those artificial atoms have emerged the audacious efforts and rapid progress in building practical quantum information machines. The combination of pure intellectual inquiries and engineering advancement has been shaping this interdisciplinary field since its creation.&lt;/p&gt;
+As a relatively infrequent occurrence, the 2025 Nobel Prize in Physics recognizes original investigations in the intersection of &lt;em&gt;basic&lt;/em&gt; and &lt;em&gt;applied&lt;/em&gt; sciences. The prize recipients tested profound quantum mechanical hypotheses through clear and rigorous experimentation. From those artificial atoms have emerged the audacious efforts and rapid progress in building practical quantum information machines. The combination of pure intellectual inquiries and engineering advancement has been shaping this interdisciplinary research field since its creation.&lt;/p&gt;
 
 &lt;p&gt;This Nobel Prize is therefore a tribute to the three inventors of superconducting quantum circuits, whose inquisitive minds, broad visions, and adventurous attitudes represent the true scientific spirit and will continue to inspire future generations.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -3625,269 +3625,6 @@ V. &lt;a href=&quot;https://youtu.be/J7jjkesDsJU&quot;&gt;“Et j’entendis la 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 May 2021 00:00:00 -0700</pubDate>
-      </item>
-    
-      <item>
-        <title>A Musical Ascension</title>
-        <link>/2021/05/03/ascension.html</link>
-        <guid isPermaLink="true">/2021/05/03/ascension.html</guid>
-        <description>&lt;p&gt;What tunes are to accompany a grand-narrative survery of the scientific civilization of mankind? 
-The music advisor (uncredited, probably Charles Chilton—to my best guess) of Jacob Bronowski’s &lt;em&gt;The Ascent of Man&lt;/em&gt; decided on a considerably modern compilation. 
-In the list below, 35 out of 68 pieces were composed in the 20th century, and 20 out of 38 composers/bands (including The Moody Blues and Pink Floyd) were born after 1850.&lt;/p&gt;
-
-&lt;p&gt;Classic BBC documentary series very often bring unexpected gifts—in this case, a little joyful taste of musical modernism.  &lt;a href=&quot;#chrono&quot;&gt;#chronology&lt;/a&gt; 
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;[ANON., from Kyriale]&lt;br /&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=UCBtI0zRjOU&quot;&gt;Missa IX (Cum jubilo), “Kyrie”&lt;/a&gt;  [6] 
-&lt;br /&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=hoSuSHnOw50&quot;&gt;Missa IX (Cum jubilo), “Sanctus”&lt;/a&gt;  [13]
-&lt;br /&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=cNjXNRZXO-A&quot;&gt;Credo III&lt;/a&gt;  [6]
-&lt;br /&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=XEtt5XGYkV8&quot;&gt;Credo IV&lt;/a&gt;  [13]&lt;/p&gt;
-
-&lt;p&gt;[ANON., c. 1500] 
-&lt;a href=&quot;https://www.youtube.com/watch?v=hEOgK1n1ubE&quot;&gt;Pavana “La cornetta”&lt;/a&gt;  [6]&lt;/p&gt;
-
-&lt;p&gt;[MONTEVERDI, 1607]  &lt;a href=&quot;https://www.youtube.com/watch?v=mjpFi9bn1do&quot;&gt;&lt;em&gt;L’Orfeo&lt;/em&gt;, SV 318: Toccata&lt;/a&gt;  [6]&lt;/p&gt;
-
-&lt;p&gt;[SIMPSON, 1617]  &lt;a href=&quot;https://www.youtube.com/watch?v=mUai5Hc31lg&quot;&gt;Intrada in C major&lt;/a&gt;  [5]&lt;/p&gt;
-
-&lt;p&gt;[ALLEGRI, c. 1630s]  &lt;a href=&quot;https://www.youtube.com/watch?v=rs5bc_P1kKo&quot;&gt;&lt;em&gt;Miserere mei, Deus&lt;/em&gt;&lt;/a&gt;  [6]&lt;/p&gt;
-
-&lt;p&gt;[GROSSI, 1682]  &lt;a href=&quot;https://www.youtube.com/watch?v=3QCnZFRoZGE&quot;&gt;Sonata in D major, Op. 3, No. 11: I. Vivace&lt;/a&gt;  [6]&lt;/p&gt;
-
-&lt;p&gt;[PURCELL, c. 1694]  &lt;a href=&quot;https://www.youtube.com/watch?v=g_cnn5ungc0&quot;&gt;Sonata in D major, Z. 850: III. Allegro&lt;/a&gt;  [7]&lt;/p&gt;
-
-&lt;p&gt;[HANDEL, 1720]  &lt;a href=&quot;https://www.youtube.com/watch?v=2b1MW9XwoxM&quot;&gt;&lt;em&gt;Radamisto&lt;/em&gt;, HWV 12: Ouverture&lt;/a&gt;  [7]&lt;/p&gt;
-
-&lt;p&gt;[VIVALDI, 1720]  &lt;a href=&quot;https://www.youtube.com/watch?v=Jum7daP9GMQ&quot;&gt;Concerto No. 4 in F minor, Op. 8, RV 297 (&lt;em&gt;L’inverno&lt;/em&gt;) from &lt;em&gt;Le quattro stagioni&lt;/em&gt;: I. Allegro non molto&lt;/a&gt;  [7]&lt;/p&gt;
-
-&lt;p&gt;[MOZART, 1778]  &lt;a href=&quot;https://www.youtube.com/watch?v=HEBq-XBoERg&quot;&gt;Violin Sonata No. 17 in C major, K. 296: III. Allegro&lt;/a&gt;  [7]&lt;/p&gt;
-
-&lt;p&gt;[MOZART, 1783]  &lt;a href=&quot;https://www.youtube.com/watch?v=VpY9kb2lCZ4&quot;&gt;Symphony No. 36 in C major, K. 425 (&lt;em&gt;Linz&lt;/em&gt;): I. Adagio – Allegro spiritoso&lt;/a&gt;  [8]&lt;/p&gt;
-
-&lt;p&gt;[MOZART, 1786]  &lt;a href=&quot;https://www.youtube.com/watch?v=Ki7gGR4Y54c&quot;&gt;&lt;em&gt;Le nozze di Figaro&lt;/em&gt;, K. 492: Atto I, “Se vuol ballare”&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.youtube.com/watch?v=h0sIrUGbuCc&quot;&gt;Atto III, “Ecco la marcia”&lt;/a&gt;  [8]&lt;/p&gt;
-
-&lt;p&gt;[HAYDN, 1794]  &lt;a href=&quot;https://www.youtube.com/watch?v=D_ILAiCeqto&quot;&gt;Symphony No. 101 in D major, Hob. I/101 (&lt;em&gt;Die Uhr&lt;/em&gt;): II. Andate&lt;/a&gt;  [7]&lt;/p&gt;
-
-&lt;p&gt;[BEETHOVEN, 1804]  &lt;a href=&quot;https://www.youtube.com/watch?v=6DvRFpJha2k&quot;&gt;Symphony No. 3 in E-flat major, Op. 55 (&lt;em&gt;Eroica&lt;/em&gt;): I. Allegro con brio&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://youtu.be/6DvRFpJha2k?t=1003&quot;&gt;II. Marcia funebre. Adagio assai&lt;/a&gt;  [8]&lt;/p&gt;
-
-&lt;p&gt;[BEETHOVEN, 1808]  &lt;a href=&quot;https://www.youtube.com/watch?v=RAVAOPQGw4U&quot;&gt;Symphony No. 6 in F major, Op. 68 (&lt;em&gt;Pastorale&lt;/em&gt;): V. Allegretto&lt;/a&gt;  [2]&lt;/p&gt;
-
-&lt;p&gt;[BEETHOVEN, 1810]  &lt;a href=&quot;https://www.youtube.com/watch?v=sDRNKUOYltY&quot;&gt;&lt;em&gt;Egmont&lt;/em&gt;, Op. 84: Ouvertüre&lt;/a&gt;  [8]&lt;/p&gt;
-
-&lt;p&gt;[BEETHOVEN, 1824]  &lt;a href=&quot;https://youtu.be/ns0DK_7w3oo?t=3956&quot;&gt;Symphony No. 9 in D minor, Op. 125 (&lt;em&gt;Choral&lt;/em&gt;): IV. Finale&lt;/a&gt;  [3]&lt;/p&gt;
-
-&lt;p&gt;[STRAUSS I, 1830]  &lt;a href=&quot;https://www.youtube.com/watch?v=6HYS4vmGtug&quot;&gt;&lt;em&gt;Tivoli-Rutsch-Walzer&lt;/em&gt;, Op. 39&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[HUMMEL, 1831]  &lt;a href=&quot;https://www.youtube.com/watch?v=tYuf7lwyqlA&quot;&gt;&lt;em&gt;La Galante&lt;/em&gt;, Rondeau for Piano, Op. 120: II. Rondo&lt;/a&gt;  [9]&lt;/p&gt;
-
-&lt;p&gt;[MENDELSSOHN, 1834]  &lt;a href=&quot;https://www.youtube.com/watch?v=0JTO9I6LtEw&quot;&gt;“Auf Flügeln des Gesanges”, Op. 34, No. 2&lt;/a&gt;  [9]&lt;/p&gt;
-
-&lt;p&gt;[SCHUMANN, 1838]  &lt;a href=&quot;https://www.youtube.com/watch?v=qUTD7lp39h8&quot;&gt;&lt;em&gt;Kinderszenen&lt;/em&gt;, Op. 15: VII. &lt;em&gt;Träumerei&lt;/em&gt;&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[OFFENBACH, 1858]  &lt;a href=&quot;https://www.youtube.com/watch?v=Hkid9Ax-kjM&quot;&gt;&lt;em&gt;Orphée aux enfers&lt;/em&gt;: Acte II, “Ce bal est original”&lt;/a&gt;  [8]&lt;/p&gt;
-
-&lt;p&gt;[WAGNER, 1869]  &lt;a href=&quot;https://www.youtube.com/watch?v=7m9bgdZ1DQc&quot;&gt;&lt;em&gt;Das Rheingold&lt;/em&gt;: Vorspiel&lt;/a&gt;  [9]&lt;/p&gt;
-
-&lt;p&gt;[VERDI, 1874]  &lt;a href=&quot;https://www.youtube.com/watch?v=6Mff3-1aM_Y&quot;&gt;&lt;em&gt;Messa da Requiem&lt;/em&gt;: II. Dies irae&lt;/a&gt;  [3]&lt;/p&gt;
-
-&lt;p&gt;[SAINT-SAËNS, 1886]  &lt;a href=&quot;https://www.youtube.com/watch?v=F6oOvA58Aps&quot;&gt;&lt;em&gt;Le Carnaval des animaux&lt;/em&gt;: VII. &lt;em&gt;Aquarium&lt;/em&gt;&lt;/a&gt;  [9]&lt;/p&gt;
-
-&lt;p&gt;[NIELSEN, 1902]  &lt;a href=&quot;https://www.youtube.com/watch?v=OI-AB0Jebcs&quot;&gt;Symphony No. 2, Op. 16, FS 29 (&lt;em&gt;De fire Temperamenter&lt;/em&gt;): VI. Allegro sanguineo&lt;/a&gt;  [10]&lt;/p&gt;
-
-&lt;p&gt;[NIELSEN, 1914]  &lt;a href=&quot;https://www.youtube.com/watch?v=ivrg_GS8W5A&quot;&gt;&lt;em&gt;Serenata in vano&lt;/em&gt;, FS 68&lt;/a&gt;  [10]&lt;/p&gt;
-
-&lt;p&gt;[NIELSEN, 1925]  &lt;a href=&quot;https://www.youtube.com/watch?v=TBqFYQkedrg&quot;&gt;Symphony No. 6, FS 116 (&lt;em&gt;Sinfonia semplice&lt;/em&gt;): VI. Tema con variazioni&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[SCHOENBERG, 1910]  &lt;a href=&quot;https://www.youtube.com/watch?v=tLymQDETaQ4&quot;&gt;&lt;em&gt;Gurre-Lieder&lt;/em&gt;: Teil I, Orchestervorspiel&lt;/a&gt;  [2]&lt;/p&gt;
-
-&lt;p&gt;[SATIE, 1913]  &lt;a href=&quot;https://www.youtube.com/watch?v=cD1yvGGr500&quot;&gt;&lt;em&gt;Embryons desséchés&lt;/em&gt;: II. &lt;em&gt;Embryon desséché d’edriophthalma&lt;/em&gt;&lt;/a&gt;  [9]&lt;/p&gt;
-
-&lt;p&gt;[PROKOFIEV, 1921]  &lt;a href=&quot;https://www.youtube.com/watch?v=3M9Nf1Oh3bk&quot;&gt;&lt;em&gt;L’Amour des trois oranges&lt;/em&gt;: Acte I, Inferno scene&lt;/a&gt;  [9]&lt;/p&gt;
-
-&lt;p&gt;[PROKOFIEV, 1935]  &lt;a href=&quot;https://www.youtube.com/watch?v=ZrWEY9SuDmw&quot;&gt;Ромео и Джульетта, Op. 64: Приказ герцога&lt;/a&gt;  [2]&lt;/p&gt;
-
-&lt;p&gt;[SIBELIUS, 1923]  &lt;a href=&quot;https://www.youtube.com/watch?v=WtH451feNes&quot;&gt;Symphony No. 6 in D minor, Op. 104: I. Allegro molto moderato&lt;/a&gt;  [10]&lt;/p&gt;
-
-&lt;p&gt;[SIBELIUS, 1924]  &lt;a href=&quot;https://www.youtube.com/watch?v=9-xhOgBHpUE&quot;&gt;Symphony No. 7 in C major, Op. 105&lt;/a&gt;  [10]&lt;/p&gt;
-
-&lt;p&gt;[BARTÓK, 1924]  &lt;a href=&quot;https://www.youtube.com/watch?v=08gJdMGtFTY&quot;&gt;&lt;em&gt;A csodálatos mandarin&lt;/em&gt;, Op. 19, Sz. 73, BB 82: Allegro&lt;/a&gt;  [2]&lt;/p&gt;
-
-&lt;p&gt;[BARTÓK, 1936]  &lt;a href=&quot;https://www.youtube.com/watch?v=p6QDuWgjtZc&quot;&gt;Music for Strings, Percussion and Celesta, Sz. 106, BB 114: II. Allegro&lt;/a&gt;  [4]&lt;/p&gt;
-
-&lt;p&gt;[BARTÓK, 1943]  &lt;a href=&quot;https://www.youtube.com/watch?v=5IxgqeNnIVk&quot;&gt;Concerto for Orchestra, Sz. 116, BB 123: III. Elegia&lt;/a&gt;  [4]&lt;/p&gt;
-
-&lt;p&gt;[JANÁČEK, 1926]  &lt;a href=&quot;https://www.youtube.com/watch?v=1aQscaXUm0A&quot;&gt;&lt;em&gt;Sinfonietta&lt;/em&gt;: I. Allegretto&lt;/a&gt;  [6]&lt;/p&gt;
-
-&lt;p&gt;[JANÁČEK, 1926]  &lt;a href=&quot;https://youtu.be/_5HFMh4xENM&quot;&gt;&lt;em&gt;Mša glagolskaja&lt;/em&gt;: VII. Varhany sólo (Postludium)&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[GERSHWIN, 1926]  &lt;a href=&quot;https://www.youtube.com/watch?v=BMom1VCQWDA&quot;&gt;&lt;em&gt;Three Preludes&lt;/em&gt;: II. Andante com moto&lt;/a&gt;  [3]&lt;/p&gt;
-
-&lt;p&gt;[MESSIAEN, 1933]  &lt;a href=&quot;https://www.youtube.com/watch?v=pd0ayF6cBrs&quot;&gt;&lt;em&gt;L’Ascension&lt;/em&gt;: III. “Transports de joie d’une âme devant la gloire du Christ qui est la sienne”&lt;/a&gt;  [1,10]&lt;/p&gt;
-
-&lt;p&gt;[MESSIAEN, 1964]  &lt;a href=&quot;https://www.youtube.com/watch?v=RU95nk5l7XE&quot;&gt;&lt;em&gt;Et exspecto resurrectionem mortuorum&lt;/em&gt;: I. “Des profondeurs de l’abîme, je crie vers toi, Seigneur: Seigneur, écoute ma voix!”&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.youtube.com/watch?v=x3QDo-yrOWQ&quot;&gt;II. “Le Christ, ressuscité des morts, ne meurt plus; la mort n’a plus sur lui d’empire”&lt;/a&gt;  [3]&lt;/p&gt;
-
-&lt;p&gt;[VARÈSE, 1936]  &lt;a href=&quot;https://www.youtube.com/watch?v=J5-nkJz0guk&quot;&gt;&lt;em&gt;Densité 21,5&lt;/em&gt;&lt;/a&gt;  [2]&lt;/p&gt;
-
-&lt;p&gt;[BARBER, 1936]  &lt;a href=&quot;https://www.youtube.com/watch?v=tVNhFMZP4NM&quot;&gt;Adagio for Strings, Op. 11&lt;/a&gt;  [1]&lt;/p&gt;
-
-&lt;p&gt;[SHOSTAKOVICH, 1937]  &lt;a href=&quot;https://www.youtube.com/watch?v=vu8YuFHrPSY&quot;&gt;Symphony No. 5 in D minor, Op. 47: III. Largo&lt;/a&gt;  [2]&lt;/p&gt;
-
-&lt;p&gt;[POULENC, 1938]  &lt;a href=&quot;https://www.youtube.com/watch?v=XTRR0XCElpI&quot;&gt;Concerto for Organ, Strings, and Timpani in G minor, FP 93: I. Andante&lt;/a&gt;  [1]&lt;/p&gt;
-
-&lt;p&gt;[KHACHATURIAN, 1944]  &lt;a href=&quot;https://www.youtube.com/watch?v=Wxbxl1V7sT8&quot;&gt;Symphony No. 2 in E minor (&lt;em&gt;The Bell&lt;/em&gt;): I. Andante maestoso&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=Kwtecwehjvw&quot;&gt;III. Andante sostenuto&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://www.youtube.com/watch?v=xaXdkDOP7po&quot;&gt;IV. Andante mosso&lt;/a&gt;  [10]&lt;/p&gt;
-
-&lt;p&gt;[VAUGHAN WILLIAMS, 1955]  &lt;a href=&quot;https://www.youtube.com/watch?v=AULkJKdc6xM&quot;&gt;Symphony No. 8 in D minor: I. Fantasia&lt;/a&gt;  [7]&lt;/p&gt;
-
-&lt;p&gt;[TIPPETT, 1955]  &lt;a href=&quot;https://www.youtube.com/watch?v=gyaqBM3rNjg&quot;&gt;Ritual Dances from &lt;em&gt;The Midsummer Marriage&lt;/em&gt;: II. &lt;em&gt;The Water in Winter&lt;/em&gt;&lt;/a&gt;  [1]&lt;/p&gt;
-
-&lt;p&gt;[BRITTEN, 1956]  &lt;a href=&quot;https://youtu.be/0so4O92hIk4?t=3613&quot;&gt;&lt;em&gt;The Prince of the Pagodas&lt;/em&gt;, Op. 57: Act II, Scene 2, &lt;em&gt;The Pagodas&lt;/em&gt;&lt;/a&gt;  [4]&lt;/p&gt;
-
-&lt;p&gt;[BRITTEN, 1962]  &lt;a href=&quot;https://www.youtube.com/watch?v=bUsyxsMLre4&quot;&gt;&lt;em&gt;War Requiem&lt;/em&gt;, Op. 66: IV. Sanctus&lt;/a&gt;  [3]&lt;/p&gt;
-
-&lt;p&gt;[GERHARD, 1960]  &lt;a href=&quot;https://www.youtube.com/watch?v=1SXd4QxJoDY&quot;&gt;Symphony No. 3 (&lt;em&gt;Collages&lt;/em&gt;): II. Lento&lt;/a&gt;  [3]&lt;/p&gt;
-
-&lt;p&gt;[PINK FLOYD, 1968]  &lt;a href=&quot;https://www.youtube.com/watch?v=6oWOConfUV8&quot;&gt;“A Saucerful of Secrets”&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[PINK FLOYD, 1968]  &lt;a href=&quot;https://www.youtube.com/watch?v=kb-SgwOJjcM&quot;&gt;“Careful with That Axe, Eugene”&lt;/a&gt;  [1]&lt;/p&gt;
-
-&lt;p&gt;[PINK FLOYD, 1969]  &lt;a href=&quot;https://www.youtube.com/watch?v=uFrZ5Uo8FPw&quot;&gt;“Sysyphus”&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[PINK FLOYD, 1971]  &lt;a href=&quot;https://www.youtube.com/watch?v=53N99Nim6WE&quot;&gt;“Echoes”&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;[THE MOODY BLUES, 1969]  &lt;a href=&quot;https://www.youtube.com/watch?v=ZAFS85TKOYM&quot;&gt;“The Voyage”&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lxu_SXuLf_A&quot;&gt;“Campana sobre campana”&lt;/a&gt;  [12]&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1c7411t7rv?from=search&amp;amp;seid=11743440994447426089&quot;&gt;醉翁操&lt;/a&gt; / &lt;a href=&quot;https://www.amazon.co.uk/dp/B005D1ZRUE/ref=dm_ws_tlw_trk1&quot;&gt;“Tzuey Ueng Charn”&lt;/a&gt; (“The Strumming of an Elderly Gentleman in a State of Refined Intoxication”)  [4]&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.jingju.com/audio_detail.php?id=8803&quot;&gt;草桥关：奉王命把草桥来镇&lt;/a&gt; / &lt;a href=&quot;https://www.amazon.co.uk/dp/B005D1ZXFI/ref=dm_ws_tlw_trk11&quot;&gt;Excerpt from &lt;em&gt;Tsao Chyau Guan&lt;/em&gt;&lt;/a&gt; (&lt;em&gt;Thatched Bridge Pass&lt;/em&gt;)  [4]&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;chrono&quot;&gt;Chronology of Composers&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;CLAUDIO MONTEVERDI &lt;br /&gt;
-  (Italian, 1567–1643)&lt;/p&gt;
-
-  &lt;p&gt;THOMAS SIMPSON &lt;br /&gt;
-  (English, 1582–1628)&lt;/p&gt;
-
-  &lt;p&gt;GREGORIO ALLEGRI &lt;br /&gt;
-  (Italian, c. 1582–1652)&lt;/p&gt;
-
-  &lt;p&gt;HENRY PURCELL &lt;br /&gt;
-  (English, 1659–1695)&lt;/p&gt;
-
-  &lt;p&gt;ANDREA GROSSI &lt;br /&gt;
-  (Italian, c. 1660–1696)&lt;/p&gt;
-
-  &lt;p&gt;ANTONIO VIVALDI &lt;br /&gt;
-  (Italian, 1678–1741)&lt;/p&gt;
-
-  &lt;p&gt;GEORGE FRIDERIC HANDEL &lt;br /&gt;
- [Georg Friedrich Händel] &lt;br /&gt;
-  (German–English, 1685–1759)&lt;/p&gt;
-
-  &lt;p&gt;FRANZ JOSEPH HAYDN &lt;br /&gt;
-  (Austrian, 1732–1809)&lt;/p&gt;
-
-  &lt;p&gt;WOLFGANG AMADEUS MOZART &lt;br /&gt;
-  (Austrian, 1756–1791)&lt;/p&gt;
-
-  &lt;p&gt;LUDWIG VAN BEETHOVEN &lt;br /&gt;
-  (German–Austrian, 1770–1827)&lt;/p&gt;
-
-  &lt;p&gt;JOHANN NEPOMUK HUMMEL &lt;br /&gt;
-  (Austrian, 1778–1837)&lt;/p&gt;
-
-  &lt;p&gt;JOHANN STRAUSS (Vater) &lt;br /&gt;
-  (Austrian, 1804–1849)&lt;/p&gt;
-
-  &lt;p&gt;FELIX MENDELSSOHN-BARTHOLDY &lt;br /&gt;
-  (German, 1809–1847)&lt;/p&gt;
-
-  &lt;p&gt;ROBERT SCHUMANN &lt;br /&gt;
-  (German, 1810–1856)&lt;/p&gt;
-
-  &lt;p&gt;RICHARD WAGNER &lt;br /&gt;
-  (German, 1813–1883)&lt;/p&gt;
-
-  &lt;p&gt;GIUSEPPE VERDI &lt;br /&gt;
-  (Italian, 1813–1901)&lt;/p&gt;
-
-  &lt;p&gt;JACQUES OFFENBACH &lt;br /&gt;
-  (German–French, 1819–1880)&lt;/p&gt;
-
-  &lt;p&gt;CAMILLE SAINT-SAËNS &lt;br /&gt;
-  (French, 1835–1921)&lt;/p&gt;
-
-  &lt;p&gt;LEOŠ JANÁČEK &lt;br /&gt;
-  (Czech, 1854–1928)&lt;/p&gt;
-
-  &lt;p&gt;CARL NIELSEN &lt;br /&gt;
-  (Danish, 1865–1931)&lt;/p&gt;
-
-  &lt;p&gt;JEAN SIBELIUS &lt;br /&gt;
-  (Finnish, 1865–1957)&lt;/p&gt;
-
-  &lt;p&gt;ERIK SATIE &lt;br /&gt;
-  (French, 1866–1925)&lt;/p&gt;
-
-  &lt;p&gt;RALPH VAUGHAN WILLIAMS &lt;br /&gt;
-  (English, 1872–1958)&lt;/p&gt;
-
-  &lt;p&gt;ARNOLD SCHOENBERG [Schönberg] &lt;br /&gt;
-  (Austrian–American, 1874–1951)&lt;/p&gt;
-
-  &lt;p&gt;BÉLA BARTÓK [Bartók Béla] &lt;br /&gt;
-  (Hungarian, 1881–1945)&lt;/p&gt;
-
-  &lt;p&gt;EDGARD VARÈSE &lt;br /&gt;
-  (French–American, 1883–1965)&lt;/p&gt;
-
-  &lt;p&gt;SERGEI PROKOFIEV &lt;br /&gt;
- [Сергей Сергеевич Прокофьев] &lt;br /&gt;
-  (Russian, 1891–1953)&lt;/p&gt;
-
-  &lt;p&gt;ROBERTO GERHARD &lt;br /&gt;
-  (Spanish/Catalan, 1896–1970)&lt;/p&gt;
-
-  &lt;p&gt;GEORGE GERSHWIN &lt;br /&gt;
-  (American, 1898–1937)&lt;/p&gt;
-
-  &lt;p&gt;FRANCIS POULENC &lt;br /&gt;
-  (French, 1899–1963)&lt;/p&gt;
-
-  &lt;p&gt;ARAM KHACHATURIAN &lt;br /&gt;
- [Արամ Խաչատրյան/Арам Хачатурян] &lt;br /&gt;
-  (Armenian/Soviet, 1903–1978)&lt;/p&gt;
-
-  &lt;p&gt;MICHAEL TIPPETT &lt;br /&gt;
-  (English, 1905–1998)&lt;/p&gt;
-
-  &lt;p&gt;DMITRI SHOSTAKOVICH &lt;br /&gt;
- [Дми́трий Шостако́вич] &lt;br /&gt;
-  (Russian/Soviet, 1906–1975)&lt;/p&gt;
-
-  &lt;p&gt;OLIVIER MESSIAEN &lt;br /&gt;
-  (French, 1908–1992)&lt;/p&gt;
-
-  &lt;p&gt;SAMUEL BARBER &lt;br /&gt;
-  (American, 1910–1981)&lt;/p&gt;
-
-  &lt;p&gt;BENJAMIN BRITTEN &lt;br /&gt;
-  (English, 1913–1976)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 May 2021 00:00:00 -0700</pubDate>
       </item>
     
       <item>
