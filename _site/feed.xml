@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 09 Oct 2025 01:40:15 -0700</pubDate>
+    <pubDate>Thu, 09 Oct 2025 01:57:03 -0700</pubDate>
     
       <item>
         <title>From Artificial Atoms to Quantum Information Machines</title>
@@ -25,11 +25,11 @@ The Nobel Prize in Physics this year, announced by the Royal Swedish Academy of 
 
 &lt;h3 id=&quot;-the-promises-of-quantum-machines&quot;&gt;&lt;br /&gt; The promises of quantum machines&lt;/h3&gt;
 
-&lt;p&gt;Since the closing decades of the past century, researchers around the world have sought to precisely isolate, control and measure individual physical objects that display quantum behaviors under very specific experimental conditions. These endeavors have given rise to the emerging field of &lt;em&gt;quantum engineering&lt;/em&gt;, which aims at utilizing the peculiarities of quantum physics for groundbreaking technological innovations.&lt;/p&gt;
+&lt;p&gt;Since the closing decades of the past century, researchers around the world have sought to isolate, control, and measure individual physical objects that display quantum behaviors under very specific experimental conditions. These endeavors have given rise to the emerging field of &lt;em&gt;quantum engineering&lt;/em&gt;, which aims at utilizing the peculiarities of quantum physics for groundbreaking technological innovations.&lt;/p&gt;
 
-&lt;p&gt;A remarkable promise is known as &lt;em&gt;quantum information processing&lt;/em&gt;, whose goal is to design and implement machines that can encode, process, transmit and detect information in ‘strange’ quantum manners: for instance, an object can be in a superposition of different states at the same time; distant objects can manifest &lt;em&gt;quantum entanglement&lt;/em&gt;—remote correlations that escape all possible classical interpretation. Compared to their conventional electronics predecessors, quantum information machines could exhibit advantages in specific tasks of computation, simulation, cryptography, and sensing.&lt;/p&gt;
+&lt;p&gt;A remarkable promise is known as &lt;em&gt;quantum information processing&lt;/em&gt;, whose goal is to design and implement machines that can encode, process, transmit, and detect information in ‘strange’ quantum manners: for instance, a physical object can be in a superposition of different states at the same time; distant objects can manifest &lt;em&gt;quantum entanglement&lt;/em&gt;—remote correlations that escape all possible classical interpretation. Compared to their conventional electronics predecessors, quantum information machines could exhibit advantages in specific tasks of computation, simulation, cryptography, and sensing.&lt;/p&gt;
 
-&lt;p&gt;The realization of such quantum machines would require our access to reliable physical components that can be assembled and controlled on the human scale, nevertheless fully obeying quantum mechanics. Counterintuitive as it might sound, can we break the implicit boundaries of the natural world and bring microscopic physical laws into the macroscopic reality?&lt;/p&gt;
+&lt;p&gt;The realization of such quantum machines would require experimenters’ access to reliable physical components that can be assembled and controlled on the human scale, nevertheless fully obeying quantum mechanics. Counterintuitive as it might sound, can we break the implicit boundaries of the natural world and bring microscopic physical laws into the macroscopic reality?&lt;/p&gt;
 
 &lt;h3 id=&quot;-quantum-mechanics-in-an-electrical-circuit&quot;&gt;&lt;br /&gt; Quantum mechanics in an electrical circuit&lt;/h3&gt;
 
@@ -37,7 +37,7 @@ The Nobel Prize in Physics this year, announced by the Royal Swedish Academy of 
 
 &lt;p&gt;In a superconductor, two electrons bond together to form a &lt;em&gt;Cooper pair&lt;/em&gt;. These electron pairs condense into a macroscopic state, which can be described by a collective phase variable shared by all its microscopic constituents. In this state, trillions of (or even more) electrons effectively behave like a single entity, resembling those mass collection of atoms forming everyday objects like pendulums or billiard balls.&lt;/p&gt;
 
-&lt;p&gt;To observe the quantum mechanical motion of this macroscopic phase variable, the three scientists fabricated a device called the &lt;em&gt;Josephson junction&lt;/em&gt;, which consists of two pieces of superconductors separated by an insulator layer thinner than 1/10,000 of a human hair. They discovered that, at sufficiently low temperatures (below −273.1 °C), the phase variable difference across the Josephson junction shows a unique quantum mechanical phenomenon known as the &lt;em&gt;quantum tunneling&lt;/em&gt;, where an object may escape a barrier without the need to climb over its summit.&lt;/p&gt;
+&lt;p&gt;To observe the quantum mechanical motion of this macroscopic phase variable, the three scientists fabricated a device called the &lt;em&gt;Josephson junction&lt;/em&gt;, which consists of two superconductors separated by an insulator layer thinner than 1/10,000 of a human hair. They discovered that, at sufficiently low temperatures (below −273.1 °C), the phase variable difference across the Josephson junction shows a unique quantum mechanical phenomenon known as the &lt;em&gt;quantum tunneling&lt;/em&gt;, where an object may escape a barrier without the need to climb over its summit.&lt;/p&gt;
 
 &lt;p&gt;Furthermore, the team exposed the Josephson junction to &lt;em&gt;microwave&lt;/em&gt; electromagnetic radiation, whose frequency is close to that of Wi-Fi signals. They measured energy levels of the circuit at discrete, or &lt;em&gt;quantized&lt;/em&gt; values, which are usually present only in microscopic atoms and molecules. The device used in these experiments can thus be referred to as an &lt;em&gt;artificial atom&lt;/em&gt;—namely, an electrical circuit with atom-like properties, which is at once macroscopic in size, adjustable in design, and quantum mechanical in nature.&lt;/p&gt;
 
