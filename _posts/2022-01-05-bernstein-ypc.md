@@ -107,8 +107,9 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 
 ---
 
-[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849: Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [U1] <br> 
-‹hpd› Céline Frisch « Anthony Sidey & Frédéric Bal 1995 ⇦ Gottfried Silbermann <u>1735</u> »&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
+[1722]&nbsp; [Prelude & Fugue № 4 in C-sharp minor, BWV 849](https://youtu.be/9aQ4N2BNYMY):
+II. [Fugue](https://youtu.be/0DUiC7t7xFM)&nbsp;◁ _Das wohltemperierte Klavier_, Teil I&nbsp; [U1] <br> 
+‹hpd› Céline Frisch « Anthony Sidey & Frédéric Bal 1995 <span style="font-size:0.85em">⇦</span> Gottfried Silbermann <u>1735</u> »&nbsp; (Namur: Église Saint-Rémi de Franc-Waret, 2014) <br>
 
 ---
 
@@ -118,7 +119,7 @@ VII. ["Fecit potentiam"](https://youtu.be/uzUx0ufHQGQ)&nbsp; [O7, F3] <br>
 ---
 
 [<u>1714</u>]&nbsp; [Fantasia & Fugue in A minor, BWV 944: Fugue](https://youtu.be/3Rmu3fWIu-w)&nbsp; [O7] <br>
-‹hpd› Pierre Hantaï « Bruce Kennedy 1994 ⇦ Michael Mietke 1702 »&nbsp; (Haarlem: Grote Vermaning, 1994)
+‹hpd› Pierre Hantaï « Bruce Kennedy 1994 <span style="font-size:0.85em">⇦</span> Michael Mietke 1702 »&nbsp; (Haarlem: Grote Vermaning, 1994)
 
 ---
 
@@ -261,7 +262,7 @@ II. [Andante](https://youtu.be/HuIziJY8IfI)&nbsp; [Y7] <br>
 I. [Allegro](https://youtu.be/QxUT7Rc-syc?t=11) | 
 II. [Andante](https://youtu.be/K7k-Ruw2dTU) |
 III. [Allegretto–Presto](https://youtu.be/0DCsfXZQ-Wc)&nbsp; [F2] <br>
-🇩🇪 Concerto Köln; ‹fp› Andreas Staier&nbsp;(1995)
+🇩🇪 Concerto Köln; ‹fp› Andreas Staier&nbsp; (Köln: Deutschlandradio, 1995)
 
 ---
 
@@ -295,7 +296,7 @@ IV. [Presto](https://youtu.be/NQOAAcMpceM)&nbsp; [Y6, L4] <br>
 [1788]&nbsp; [Piano Sonata № 16 in C major, K. 545](https://youtu.be/iCCvA-GRRxk?t=9): 
 I. [Allegro](https://youtu.be/iCCvA-GRRxk?t=9) |
 II. [Andante](https://youtu.be/02Q6T_AG8u4)&nbsp; [Y28, F2] <br>
-‹fp› Алексе́й Люби́мов [Alexei Lubimov] « Christopher Clarke 1986 ⇦ Anton Walter <u>1795</u> »&nbsp; (Semur-en-Auxois: Théâtre du Rempart, 1990)
+‹fp› Алексе́й Люби́мов [Alexei Lubimov] « Christopher Clarke 1986 <span style="font-size:0.85em">⇦</span> Anton Walter <u>1795</u> »&nbsp; (Semur-en-Auxois: Théâtre du Rempart, 1990)
 
 ---
 
@@ -400,12 +401,12 @@ V. [Presto](https://youtu.be/DZQAk0iUcO8)&nbsp; [Y3] <br>
 
 [1804]&nbsp; [Piano Sonata № 21 in C major, Op. 53](https://youtu.be/0BFeNQKbalY):
 I. [Allegro con brio](https://youtu.be/0BFeNQKbalY)&nbsp; [Y1] <br>
-‹fp› Ronald Brautigam « Paul McNulty ⇦ Conrad Graf 1819 »&nbsp; (Stockholm: Österåkers kyrka, 2007)
+‹fp› Ronald Brautigam « Paul McNulty 2007 <span style="font-size:0.85em">⇦</span> Conrad Graf <u>1819</u> »&nbsp; (Stockholm: Österåkers kyrka, 2007)
 
 ---
 
 [1810]&nbsp; [Bagatelle № 25 in A minor, WoO 59](https://youtu.be/ozNFUflBsCA)&nbsp; [U2] <br>
-‹fp› Ronald Brautigam « Paul McNulty ⇦ Anton Walter <u>1805</u> »&nbsp; (Stockholm: Österåkers kyrka, 2010)
+‹fp› Ronald Brautigam 2008 « Paul McNulty <span style="font-size:0.85em">⇦</span> Anton Walter <u>1805</u> »&nbsp; (Stockholm: Österåkers kyrka, 2010)
 
 ---
 
@@ -581,7 +582,7 @@ I. [Maestoso]()&nbsp; [L3]
 
 [1888]&nbsp; [Symphony № 1 in D major](https://youtu.be/W4f3dNyONl0):
 III. [Feierlich und gemessen, ohne zu schleppen](https://youtu.be/tUC3x8_ofDM)&nbsp; [Y6, Y8] <br>
-🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelik&nbsp; (München: Herkulessaal, Münchner Residenz, 1979)
+🇩🇪 Symphonieorchester des Bayerischen Rundfunks; Rafael Kubelík&nbsp; (München: Herkulessaal, Münchner Residenz, 1979)
 
 ---
 
@@ -847,7 +848,7 @@ II. ["The Birth of Nicolas"](https://youtu.be/VXW2tLweH8g)&nbsp; [F10] <br>
 (French, 1683–1764)
 
 [1727]&nbsp; [Suite in G major, RCT 6](https://youtu.be/kxTuTtdpEtQ): V. ["La poule"](https://youtu.be/5KtuJ1OkJW8)&nbsp;◁ _Nouvelles suites de pièces de clavecin_&nbsp; [Y6] <br>
-‹hpd› Pieter-Jan Belder « Cornelis Bom 2008 ⇦ Blanchet »&nbsp; (Deventer: Penninckhuis, 2008) 
+‹hpd› Pieter-Jan Belder « Cornelis Bom 2008 <span style="font-size:0.85em">⇦</span> Blanchet »&nbsp; (Deventer: Penninckhuis, 2008) 
 
 > [n.d.]&nbsp; [_Six Concerts transcrits en sextuor_](https://youtu.be/WQfCIE3gVmY): VI.1. ["La poule"](https://youtu.be/gdBSXAKGGDM) <br>
 > 🇫🇷 Les Talens Lyriques; Christophe Rousset&nbsp;(2003) 
@@ -1201,26 +1202,22 @@ III. [Psalmodie de l'Ubiquité par amour](https://youtu.be/YN9pd4GTif8)&nbsp; [F
 **CHOPIN**, FRYDERYK [FRÉDÉRIC] <br> 
 (Polish–French, 1810–1849)
 
-[1832]&nbsp; [Mazurka № 5 in B-flat major](https://youtu.be/nyYEdNDYYew)
-◁ 5 Mazurkas, Op. 7: № 1&nbsp; [Y2, Y29] <br>
+[1832]&nbsp; [Mazurka № 5 in B-flat major, Op. 7 № 1](https://youtu.be/nyYEdNDYYew)&nbsp; [Y2, Y29] <br>
 ‹pf› Arthur Rubinstein&nbsp; (New York: Webster Hall, 1965)
 
 ---
 
-[1836]&nbsp; [Mazurka № 15 in C major](https://youtu.be/mmnkyqdZJfU)
-◁ 4 Mazurkas, Op. 24: № 2&nbsp; [Y36] <br>
+[1836]&nbsp; [Mazurka № 15 in C major, Op. 24 № 2](https://youtu.be/mmnkyqdZJfU)&nbsp; [Y36] <br>
 ‹pf› Владимир Ашкенази [Vladimir Ashkenazy]&nbsp; (London: Kingsway Hall, 1983)
 
 ---
 
-[1833]&nbsp; [Nocturne № 5 in F-sharp major](https://youtu.be/efLxMjeSb_Y)
-◁ 3 Nocturnes, Op. 15: № 2&nbsp; [Y1] <br>
+[1833]&nbsp; [Nocturne № 5 in F-sharp major, Op. 15 № 2](https://youtu.be/efLxMjeSb_Y)&nbsp; [Y1] <br>
 ‹pf› Claudio Arrau&nbsp; (Amsterdam: Kleine Zaal, Koninklijk Concertgebouw, 1978)
 
 ---
 
-[1833]&nbsp; [Nocturne № 8 in D-flat major](https://youtu.be/L3q-WfZBDvc)
-◁ 2 Nocturnes, Op. 27: № 2&nbsp; [U2] <br>
+[1833]&nbsp; [Nocturne № 8 in D-flat major, Op. 27 № 2](https://youtu.be/L3q-WfZBDvc)&nbsp; [U2] <br>
 ‹pf› Maria João Pires&nbsp; (München: Musikhochschule, 1995)
 
 ---
