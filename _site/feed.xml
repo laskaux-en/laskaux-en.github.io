@@ -5,14 +5,14 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 09 Oct 2025 12:20:55 -0700</pubDate>
+    <pubDate>Mon, 20 Oct 2025 00:22:36 -0700</pubDate>
     
       <item>
         <title>From Artificial Atoms to Quantum Information Machines</title>
         <link>/2025/10/08/nobel-phys-2025.html</link>
         <guid isPermaLink="true">/2025/10/08/nobel-phys-2025.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/nobel-phys-2025.jpeg&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align:center; font-size:0.75em; margin-top:-1.2em; color: #9B9B9B&quot;&gt;Illustration: Niklas Elmehed © Nobel Prize Outreach&lt;/p&gt;
+        <description>&lt;center&gt;&lt;img src=&quot;/assets/img/nobel/nobel-phys-2025.jpeg&quot; width=&quot;750&quot; /&gt;&lt;/center&gt;
+&lt;p style=&quot;text-align:center; font-size:0.75em; margin-top:0.25em; color: #9B9B9B&quot;&gt;Illustration: Niklas Elmehed © Nobel Prize Outreach&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 The Nobel Prize in Physics this year, announced by the Royal Swedish Academy of Sciences on Tuesday, October 7, 2025, honors three quantum physicists—John Clarke, Michel H. Devoret, and John M. Martinis—for their study of quantum mechanics in a macroscopic electrical circuit.&lt;/p&gt;
@@ -39,13 +39,17 @@ The Nobel Prize in Physics this year, announced by the Royal Swedish Academy of 
 
 &lt;p&gt;To observe the quantum mechanical motion of this macroscopic phase variable, the three scientists fabricated a device called the &lt;em&gt;Josephson junction&lt;/em&gt;, which consists of two superconductors separated by an insulator layer thinner than 1/10,000 of a human hair. They discovered that, at sufficiently low temperatures (below −273.1 °C), the phase variable difference across the Josephson junction shows a unique quantum mechanical phenomenon known as the &lt;em&gt;quantum tunneling&lt;/em&gt;, where an object may escape a barrier without the need to climb over its summit.&lt;/p&gt;
 
+&lt;center&gt;&lt;img src=&quot;/assets/img/nobel/MQT.svg&quot; width=&quot;400&quot; /&gt;&lt;/center&gt;
+
+&lt;p style=&quot;font-size: 0.85em; color:gray; margin-bottom:2em; &quot;&gt;An equivalent model in classical mechanics for the current-biased Josephson junction employed in the original experiments by Clarke, Devoret, and Martinis.&lt;/p&gt;
+
 &lt;p&gt;Furthermore, the team exposed the Josephson junction to &lt;em&gt;microwave&lt;/em&gt; electromagnetic radiation, whose frequency is close to that of Wi-Fi signals. They measured energy levels of the circuit at discrete, or &lt;em&gt;quantized&lt;/em&gt; values, which are usually present only in microscopic atoms and molecules. The device used in these experiments can thus be referred to as an &lt;em&gt;artificial atom&lt;/em&gt;—namely, an electrical circuit with atom-like properties, which is at once macroscopic in size, adjustable in design, and quantum mechanical in nature.&lt;/p&gt;
 
 &lt;h3 id=&quot;-implications-and-outlooks&quot;&gt;&lt;br /&gt; Implications and outlooks&lt;/h3&gt;
 
 &lt;p&gt;The groundbreaking works by Clarke, Devoret, and Martinis have had many profound impacts. On the fundamental level, their observations suggested that distinct quantum phenomena—once thought to exist only at the microscopic level—can actually manifest on much larger physical scales. In the meantime, the invention of superconducting artificial atoms has opened brand new avenues toward building useful quantum machines with advanced engineering techniques.&lt;/p&gt;
 
-&lt;p&gt;Based on these discoveries, in the following decades, researchers—including the three prize recipients and their research groups—have made significant achievements in constructing prototype &lt;em&gt;quantum computers&lt;/em&gt; using superconducting quantum circuits. The elementary device unit that makes up these information processors is the &lt;em&gt;superconducting quantum bit&lt;/em&gt;, or &lt;em&gt;qubit&lt;/em&gt; for short. Each superconducting qubit is an artificial atom containing one or more Josephson junctions. Its quantum state can be precisely prepared, manipulated, and measured by the experimenter. The perfection and integration of superconducting qubits are now among the state-of-the-art challenges in quantum information technology.&lt;/p&gt;
+&lt;p&gt;Based on these discoveries, in the following decades, researchers—including the three prize recipients and their research groups—have made significant achievements in constructing prototype &lt;em&gt;quantum computers&lt;/em&gt; using superconducting quantum circuits. The elementary device unit that makes up these information processors is the &lt;em&gt;superconducting quantum bit&lt;/em&gt;, or &lt;em&gt;qubit&lt;/em&gt; for short. Each superconducting qubit is an artificial atom containing one or more Josephson junctions. Its quantum state can be precisely prepared, manipulated, and measured by the experimenter. The optimization, integration, and error correction of superconducting qubits are now among the state-of-the-art challenges in quantum information technology.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 As a relatively infrequent occurrence, the 2025 Nobel Prize in Physics recognizes original investigations in the intersection of &lt;em&gt;basic&lt;/em&gt; and &lt;em&gt;applied&lt;/em&gt; sciences. The prize recipients tested profound quantum mechanical hypotheses through clear and rigorous experimentation. From those artificial atoms have emerged the audacious efforts and rapid progress in building practical quantum information machines. The combination of pure intellectual inquiries and engineering advancement has been shaping this interdisciplinary research field since its creation.&lt;/p&gt;
